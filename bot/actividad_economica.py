@@ -13,10 +13,6 @@ SRI_URL = "https://srienlinea.sri.gob.ec/sri-en-linea/SriRucWeb/ConsultaRuc/Cons
 
 
 def consultar_sri_y_enriquecer(self, ruc: str, max_click_intentos: int = 3):
-    """
-    Consulta SRI sin cerrar el navegador entre intentos
-    Solo reintenta el click y la extracción de datos
-    """
     driver = None
     try:
         # Inicializar navegador SOLO UNA VEZ
