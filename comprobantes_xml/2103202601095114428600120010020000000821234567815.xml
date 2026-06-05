@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2103202601095114428600120010020000000821234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-03-21T15:23:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>VARGAS CORTEZ GEORGE FRANK</razonSocial><nombreComercial>VARGAS CORTEZ GEORGE FRANK</nombreComercial><ruc>0951144286001</ruc><claveAcceso>2103202601095114428600120010020000000821234567815</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000000082</secuencial><dirMatriz>CDLA LOS GERANIOS GUAYAQUIL</dirMatriz></infoTributaria><infoFactura><fechaEmision>21/03/2026</fechaEmision><dirEstablecimiento>GUAYAQUIL</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>ARMENDARIZ MARISCAL LUIS ANIBAL</razonSocialComprador><identificacionComprador>0906606249</identificacionComprador><direccionComprador>CDLA ISLA DEL RIO  51A2</direccionComprador><totalSinImpuestos>272.72</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>272.72</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>272.72</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>272.72</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>HMA01</codigoPrincipal><descripcion>HONORARIOS POR AYUDANTE DE CIRUGIA</descripcion><cantidad>1</cantidad><precioUnitario>272.72</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>272.72</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>272.72</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email Cliente">laarmend@gmail.com</campoAdicional><campoAdicional nombre="Telef. Cliente">0988193279</campoAdicional><campoAdicional nombre="Detalle Adicional">Cirujano: Dra. Soraya Cruz Loor  Procedimiento: Epidurolisis intracanal mas Radiofrecuencia del ganglio de la raiz dorsal lumbar L3, L4 y L5 bilateral Clinica Kennedy Samborondon Fecha 21/03/2026</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-820338e7-530c-4f07-becc-9d876e6bdeb4">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="xmldsig-820338e7-530c-4f07-becc-9d876e6bdeb4-ref0" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3909gr+LpuZj2XYXEw7SUESErM8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-820338e7-530c-4f07-becc-9d876e6bdeb4-signedprops">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qlEn4vdjClki0EgCh3zfwUL10wY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-820338e7-530c-4f07-becc-9d876e6bdeb4-sigvalue">
+WCy7UhmhY8TYoVjUGKvhBEuDf8SJtCXu7/eAd8P/gEPnFc7T8Hqesc00CjjS2DexBfLbcTmA6prH&#13;
+tRUgdkSs/z0n1z8pEPebtYd2BpQgPQjNZ3eYcifgPqJQgjGuDm+WINjiFxjAlmIkhoTbC/o1FhcK&#13;
+5g6BLDGeY2uZD1+w93tR4JYtcmdJWAPod+/tDK8yabjeafwfRRIi+OD+m3jFFclbbDis/g0ZT/rV&#13;
+HUV+9QUaY0etgfavwYSD8X/sf3eSZEK6phIYe7xYxg9gW29ixk2fJ5MmDMPIIww9LSwtLE9bt66b&#13;
+PYhkj6ze0FS+OwMn6AXbLxchm+PqXU9ajrEkSg==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKdjCCCF6gAwIBAgIIHqTGnLl/mBgwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w&#13;
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ&#13;
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP&#13;
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwODI4MTM0OTM5WhcNMjYwODI4MTM0OTM5WjCB&#13;
+pTEjMCEGA1UEAwwaR0VPUkdFIEZSQU5LIFZBUkdBUyBDT1JURVoxIDAeBgNVBAUTFzA5NTExNDQy&#13;
+ODYtMjgwODI1MDg1OTMwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G&#13;
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw&#13;
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKCEL04wQemo+CKxZp8dAK8TMXVos6tgvfGjHTv9&#13;
+1Nc+xM1rf77d3a+PWvlms1Him9laknpnACE+bV2ZSICQNKZoIx9yha6aRTSgEi6E44IO9keWNvZd&#13;
+JZt9f7YMGj/0YpQZCdbF8Rgjwn4LF5WvoGX7/96gmepn+KXSIisJ84nQeou85UP+CgRIn5D3nouv&#13;
+pyepxBNV6lAZ9cplmR8J86dPVf86LcoZTeMHJ/sxTfk+wfxlayAubY6ITdPX4aBui3hSgzuPTybt&#13;
+fMnf5RbcvS6c3HprZlR2dXPZPKvb2xvvPxPJAAtmXiLfKSfV09ZwpHeA6gKcMyxloqm5MyyARgkC&#13;
+AwEAAaOCBbIwggWuMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd&#13;
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0&#13;
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCEGA1UdEQQaMBiBFmdmdmFyZ2Fz&#13;
+OTZAaG90bWFpbC5jb20wggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwIC&#13;
+MD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQA&#13;
+dQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3Vy&#13;
+aXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRp&#13;
+ZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjAdBgNV&#13;
+HSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiGNmh0dHA6&#13;
+Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKBn6SBnDCB&#13;
+mTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE&#13;
+QVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb&#13;
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0cDovL2Ny&#13;
+bDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHdoIHahoHX&#13;
+aHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGlj&#13;
+d2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJ&#13;
+RklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lP&#13;
+TiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFETB&#13;
+ZvVkg5cyzonRARMEK3Tojp40MCsGA1UdEAQkMCKADzIwMjUwODI4MTM0OTM5WoEPMjAyNjA4Mjgx&#13;
+MzQ5MzlaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjA5NTExNDQyODYwFgYKKwYBBAGC&#13;
+pnIDCQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMBgGCisGAQQBgqZyAwcECgwIU09MQVIg&#13;
+MTgwHAYKKwYBBAGCpnIDAgQODAxHRU9SR0UgRlJBTkswEAYKKwYBBAGCpnIDIAQCDAAwEQYKKwYB&#13;
+BAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURP&#13;
+UjAWBgorBgEEAYKmcgMDBAgMBlZBUkdBUzAaBgorBgEEAYKmcgMeBAwMCkVTVFVESUFOVEUwHQYK&#13;
+KwYBBAGCpnIDCwQPDA0wOTUxMTQ0Mjg2MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKm&#13;
+cgMEBAgMBkNPUlRFWjAaBgorBgEEAYKmcgMIBAwMCjA5OTIyNjI2ODkwDQYJKoZIhvcNAQELBQAD&#13;
+ggIBAG/+4KserjYcG9LPLrShyh8PwmFxau1aD/0/P6PesXiHAAcU9EzPJRKeMd/guYK2D/03XE6B&#13;
+blrPCbVqWK9ukUjME1NroD/lfThZMI3I3M44nYq6j4nWSCAGnNgiO9zCLJ16Vf2VK2gwa+IC3LlT&#13;
+mi9q56gVgy3OyTkkMWszkDQQxb2WdzeqF7XQyof48uZgBSWxdhAiran21G5tMEPox3ZmsaW/LLyQ&#13;
+Rhm/nGGSgGUgZ1fHVgJsd4kCPF5xSol/nNpZAYtXiAXiZi8XTARFwBiAF7AI/GNNtWdQoUnISro7&#13;
+p5V6hB10J32mmIIz9VQhjoc2qRjTpU1gT6riAsPTntXiHTTh4PxaFZGveowwCaqyeTgNGHNL3NzO&#13;
+PReF8+3eyvduiT0k+lNt09Wpq2TWDB3XzigBLIBXI3ku4Gp2AHU1pwqPOOhOXm6GQoAy4yGSvXkc&#13;
+3CPeEBl/AxNe3q5wtGm1MGg6CLm7jTKsxgQozkw561hhbzF+gFnijohZuVbannIQOYJ+IasfaNRY&#13;
+ospnl1c34Q9nOTdOq+JKCvsFGe5JGrN99QwNjjQ0CtAU/uZ9JxlWwssDjCiLXPXjJAFOE7+W5V5/&#13;
+NjeT3/TfBBPCEjURveqU4hAF5rzIGD2jQHbBdWp8iVbp8l/I4S+Dndmw5Ot6p3Yk5Za6mY97eb9x&#13;
+ooyx
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-820338e7-530c-4f07-becc-9d876e6bdeb4"><xades:SignedProperties Id="xmldsig-820338e7-530c-4f07-becc-9d876e6bdeb4-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-21T15:20:03.509-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>A5+LUFW34XIEfLP0qDEJExbs2J8=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>cn=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,ou=ENTIDAD DE CERTIFICACION DE INFORMACION,o=SECURITY DATA S.A. 2,c=EC</ds:X509IssuerName><ds:X509SerialNumber>2208108093747730456</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-820338e7-530c-4f07-becc-9d876e6bdeb4-ref0"><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

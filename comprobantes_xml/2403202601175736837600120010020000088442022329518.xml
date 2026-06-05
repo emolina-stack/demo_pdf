@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2403202601175736837600120010020000088442022329518</numeroAutorizacion>
+<fechaAutorizacion>2026-03-24T09:36:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MARIA DE LAS OLAS RAMIREZ VELA</razonSocial>
+    <nombreComercial>Maria de las Olas Ramirez Vela</nombreComercial>
+    <ruc>1757368376001</ruc>
+    <claveAcceso>2403202601175736837600120010020000088442022329518</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000008844</secuencial>
+    <dirMatriz>isla mocoli urbanización blue Bay</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/03/2026</fechaEmision>
+    <dirEstablecimiento>isla mocoli urbanización blue Bay</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Sophia Marie Miller</razonSocialComprador>
+    <identificacionComprador>0966425746</identificacionComprador>
+    <direccionComprador>Urb plaza Real villa O-13</direccionComprador>
+    <totalSinImpuestos>90.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>90.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>90.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>17</formaPago>
+        <total>90.00</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>000001</codigoPrincipal>
+      <descripcion>CONSULTA PEDIATRICA</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>90.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>90.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>90.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">Urb plaza Real villa O-13</campoAdicional>
+    <campoAdicional nombre="Teléfonos">0939088910</campoAdicional>
+    <campoAdicional nombre="NOMBRE PACIENTE">SOPHIA MILLER</campoAdicional>
+    <campoAdicional nombre="DIAGNOSTICO">RINITIS ALERGICA</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature16708">
+<ds:SignedInfo Id="Signature-SignedInfo179799">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID583122" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature16708-SignedProperties1008775">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>i8T48gzxuXNau11HHTqvaoHPey8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1332597">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>JIlZ54ORcMu6Kvm/s2eIjJKrwdQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-108861" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>byn11prWhaura2ylb23jNgG1yXg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue435550">
+fXGh1qsRJZmUTGa6rn5MBTySxP964e6SRFJsyXr7HhnqufasN0PIRuSDN+KTgQom/mzm44Omlsw3
+lLKNoNSfaJLaqA8gDKEwyGjm0e0zzsEPDmQA1RiTTfTfGWXnpE+lBPpdxlY4sQ60FGut4UplItv1
+2ACzwpHEZlYCCSbMgLOr+Ib6MgIGbM7Jbqdagn9Tiic4Ir4NBkApd5BVI+iO0GOB//ByLwXopTcM
+Tr4jUAtxwkxNvpnybobl3MbkTl5UD8iNriz0N2WObpgCvKZwpqbWpyhrxsV74AJJCgxb2l7VhT3p
+2iO9mK1o8HPsCPTI0bQLDgh3MSVHkyzqL04BxQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1332597">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJHDCCBwSgAwIBAgIIJ9EiQR1mrMUwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDEyMjIyMjcwMFoXDTI3MDEyMjIyMjcwMFowgaIxCzAJBgNVBAYTAkVDMRUwEwYDVQQEDAxS
+QU1JUkVaIFZFTEExGjAYBgNVBCoMEU1BUklBIERFIExBUyBPTEFTMRkwFwYDVQQFExBJRENFQy0x
+NzU3MzY4Mzc2MScwJQYDVQQDDB5NQVJJQSBERSBMQVMgT0xBUyBSQU1JUkVaIFZFTEExHDAaBgNV
+BGEME1RJTkVDLTE3NTczNjgzNzYwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCD
+Klm3CRklrJ2yuzkjGl0XMIcykhGqcEW3HXZGKU2zhfmzeFLbH5FDC/8tz4rXeCCWzHOdfsTTkAIH
++wcOybJlSRy4qZryPzdWg9rfyElbcSIIDIjQlBhHfUfaP0vHhYTdBKHzxsHOWAMCPGXYI7jDKeKa
+so0YMRyknmnaobXGyM5ORcqmtYN0QjmmwlSUYFVrf7jSiRkuR/VCoWRg0JqIwmVfAiqsWxOxNrUS
+J/Au5R9WfNmN8JcGUZpoh5RRVFZ46SMgiaWUcJxHgAT5n3ouLeTtAwYltilRm+pHLyRatNgfJwSD
+6sQRxKIKfAzo0CAwq2s0KrrzJD3a8Z1UFQ4tAgMBAAGjggQ8MIIEODAbBgsrBgEEAYLxNmYDAQQM
+DAoxNzU3MzY4Mzc2MB4GCysGAQQBgvE2ZgMLBA8MDTE3NTczNjgzNzYwMDEwgdcGCCsGAQUFBwEB
+BIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxv
+YWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8v
+b2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9v
+Y3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUL+Sz/Lko/jDy3jan
+TOqKlilNfDkwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCB
+mQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FE
+TyBERSBQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECg
+PqA8hjpodHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5h
+ZGEuY3JsMECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Ey
+c3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYB
+BQUHAwQwggFyBgNVHREEggFpMIIBZYEZZmlybWFzQGZhY3R1cmVyb21vdmlsLmNvbaAbBgsrBgEE
+AYLxNmYDAaAMDAoxNzU3MzY4Mzc2oCIGCysGAQQBgvE2ZgMCoBMMEU1BUklBIERFIExBUyBPTEFT
+oBgGCysGAQQBgvE2ZgMDoAkMB1JBTUlSRVqgFQYLKwYBBAGC8TZmAwSgBgwEVkVMQaAcBgsrBgEE
+AYLxNmYDB6ANDAtMQSBQVU5USUxMQaAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk4ODUyMzUzOKAd
+BgsrBgEEAYLxNmYDCaAODAxTQU1CT1JPTkTDk06gHgYLKwYBBAGC8TZmAwugDwwNMTc1NzM2ODM3
+NjAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVS
+QUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEA
+riwAXx93nQJ0NW1HQ+up3DIVT3Y0v0rI73y61nZ7Fkd0g8CgTzbw6JO8aWBFg00FvlkCCT8Cmp2K
+R/XoTFA4dXpitTk9TjnR7Vg+vp24tHx1sGPUXhBlfUdMlXG0l8b3kJQMGw7RR3J1Ngvm40I65gf9
+ysO5mbRMhzlozaU0ToZVEU3Ul9fugEaNJL5+FIT8N0tRVaKAj783YXS6Mt8W9cAXxAWHiEKJJCT4
+jQxHff17/KnwuT0gPU65gy8W7rrZzNS4Gv9T5E3nxafj8qeGxU70glcwHcchLcrZq5z7peSAuwli
+9193ii3nnCvYsJgTr2Zu6cSwc8Hmss9JZvXwHGXNfSPE14Q8aTOtIL4dsu5w+/wOWUFkr4sH7TBU
+v9vUHO5dCHaFvsdHAcaC3lm6jQdYfFdoFlg2bEmkR8zQkh40o2/6y6Fy5a98Xq/k5unkeEHoEhqv
+i5dZQzdHGl2j9Qeoqqb/VS37NG/vsHtKjy76z6yOAW2XweLteybqMNxfcM0xD6AdFI2QBLa/SCFB
+87oPirty6XQzuO0M9ZPBTiWRsIXYMct5es3TJVqBVqHoLYYWX6gdmLQ+b6vcy64YZ1x2Q0HUdm7z
+pGB4eKOqvLBotzpFoOtGjc9f+XfkVYkEgPVj0p0UijfAX2NquwQgX4GMfg01M8AwNyCsEnPKB4Y=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gypZtwkZJaydsrs5IxpdFzCHMpIRqnBFtx12RilNs4X5s3hS2x+RQwv/Lc+K13gglsxznX7E05AC
+B/sHDsmyZUkcuKma8j83VoPa38hJW3EiCAyI0JQYR31H2j9Lx4WE3QSh88bBzlgDAjxl2CO4wyni
+mrKNGDEcpJ5p2qG1xsjOTkXKprWDdEI5psJUlGBVa3+40okZLkf1QqFkYNCaiMJlXwIqrFsTsTa1
+EifwLuUfVnzZjfCXBlGaaIeUUVRWeOkjIImllHCcR4AE+Z96Li3k7QMGJbYpUZvqRy8kWrTYHycE
+g+rEEcSiCnwM6NAgMKtrNCq68yQ92vGdVBUOLQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature16708-Object536231"><etsi:QualifyingProperties Target="#Signature16708"><etsi:SignedProperties Id="Signature16708-SignedProperties1008775"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-24T09:36:01-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>slpnpJKBt1nHW3VkCqRJI7qbLLI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2869112100673203397</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-108861"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

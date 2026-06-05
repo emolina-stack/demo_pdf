@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1703202601120447164100120011000000001413733802818</numeroAutorizacion>
+<fechaAutorizacion>2026-03-17T10:03:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>OÑATE QUISPE ROCIO MARIBEL</razonSocial>
+        <ruc>1204471641001</ruc>
+        <claveAcceso>1703202601120447164100120011000000001413733802818</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000141</secuencial>
+        <dirMatriz>Calle: LEON FEBRES CORDERO Numero: MZ 11 SL 1 Interseccion: URB PERLA DE LA JOYA Manzana: J </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>17/03/2026</fechaEmision>
+        <dirEstablecimiento>Calle: LEON FEBRES CORDERO Numero: MZ 11 SL 1 Interseccion: URB PERLA DE LA JOYA Manzana: J </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>MENDOZA SAN MIGUEL JEANNINE ADELA</razonSocialComprador>
+        <identificacionComprador>0918613696</identificacionComprador>
+        <direccionComprador>Daule, la joya </direccionComprador>
+        <totalSinImpuestos>80.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>80.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>80.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>80.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>MO001</codigoPrincipal>
+            <descripcion>HONORARIOS MEDICOS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>80</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="Paciente Miguel Mora atención 17 de marzo 2026 CIE 10 S05.1 contusión del globo ocular y del tejido orbitario"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>80.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">0918613696</campoAdicional>
+        <campoAdicional nombre="Email">jeannine30@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-46af74e1-0af2-4823-a35d-6b5f24f61c60"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-46af74e1-0af2-4823-a35d-6b5f24f61c60-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ijA9lxo5DD6C5+GyfYJekQ4iRC7w6fE8J7U0dGWvkiU=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-46af74e1-0af2-4823-a35d-6b5f24f61c60-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>GGVh37apewSNerkUhD2FJxR8Oo3XEPqQv2uZJjUyfMI=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-46af74e1-0af2-4823-a35d-6b5f24f61c60-sigvalue">fjcSzYHJxPOUIqQByj3m+J1PfJ/V5MeYIXFG5krqJF1L4ZEdtDhq805WXMfvnq3PA1y/DCUh1v1LgDLIpRi7u2zt45Cgb254Bkc1C1T9x4qIuX7YFDG/GmyaXn9cf4rmZp4G/DATnu1ocNhm4rSWixnTh0ejdh9uGxBTGI01Cio0hlI1CzDZGA2ibsi5BWBgaaY0jCHm0RdTwnPvRrGJLnMJWHK3QLFBT8/tWlJOPmOtjP7lG16K37PwpiU+ofQ4BD0bhc2HdC4HXvE408g/C1vD8ZrVkfJOSgEoYsMS6x8zrze4ULPp4kYXxQHRrfkOy9Xr+sorS1NklIvy3CpLVw==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIMAjCCCeqgAwIBAgIEGb9X5TANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA3MTEwMjAxMjFaFw0yNzA3MTEwMjAxMjFaMIGlMSMwIQYDVQQDDBpST0NJTyBNQVJJQkVMIE9OQVRFIFFVSVNQRTEgMB4GA1UEBRMXMTIwNDQ3MTY0MS0xMDA3MjQyMTExMTAxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1ZDc2yd3Yv17aLe3vn4qDXpLwzbjIVLRpJdCZ2kQrs7l/FwBTli86N+pZn9ezE0H/DNYxr7CLamjyR0U63AeBbZYIvP6j7ce2r3OLbav72ng/Q5rbzfxByH7PpHuKudtrH/cbJK8lj1aKbTjpZK/cZrHJ8MUa5lnT40oxEDJNthe5ulHVzNIyoDaw/hf+3avF6JizdFm/yutStiAVRvWqgPpeYf98rQamgIYVKaXpdkUpuIk+0W0YNZ+Uj42aem9a4oLYOeMBDB28hIsALlrSrNog4gxDv9qTMPAVmjTStIKfHfeKub3RbKl3nXz9hOgP4INAtJnMnYpiC760foUwQIDAQABo4IHQjCCBz4wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwIQYDVR0RBBowGIEWbWFyeXNvZmkyMjAyQGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSPMgCsBLd57v1lPaCCyeXjDJ8ExjArBgNVHRAEJDAigA8yMDI0MDcxMTAyMDEyMVqBDzIwMjcwNzExMDIwMTIxWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxMjA0NDcxNjQxMCcGCisGAQQBgqZyAwkEGQwXREFVTEUgQ0FCRUNFUkEgQ0FOVE9OQUwwEQYKKwYBBAGCpnIDIgQDDAEuMEYGCisGAQQBgqZyAwcEOAw2TEVPTiBGRUJSRVMgQ09SREVSTyBNWiAxMSBTTCAxNCBZIFVSQiBQRVJMQSBERSBMQSBKT1lBMB0GCisGAQQBgqZyAwIEDwwNUk9DSU8gTUFSSUJFTDAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDYxNTI3NDARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwFT05BVEUwFgYKKwYBBAGCpnIDHgQIDAZNRURJQ08wHQYKKwYBBAGCpnIDCwQPDA0xMjA0NDcxNjQxMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBlFVSVNQRTAaBgorBgEEAYKmcgMIBAwMCjA5OTQwNjI0MDcwDQYJKoZIhvcNAQELBQADggIBAAXemeatMx7BO3oITsgDTq0Ju5R6BIvUhCKWa0zXQG6DICqTXX5DX7JLWu0jL1/mq3JbyZ0fQ4LrcQmRU13Pnpbn8RzrBUbF9+HMpBlDu5JYHtOiSvb7C3bxRZp6hRrvhCjs7tXSQJo6i53a4YQAHjciKtsWVQ57C6pwO200CDskgeDkykETQXHFx5aK1phl5vJ2RUkpT96nT27z0oXkl0k9AcCwJrgrjTI0+nu+3O0rhvSZqgdng2nyQWf9x3yQ9doTTPUm9JZyC3JaQveXvZ4eu5xgMQDvvo22FLsZYNdjP6Z+YKUPGTgZ1P5i9+N6/xpj45GXDkuUhv34rq1zoxecQ1/L60ew509l5S0bnIybDRN87pK0t7UJ89yV01RzYydenMa61TYJxxFoBn8IrHJ+VmxzjjW94yRLPWyiyw5VcEY9gZfhutU871WrvuHwYHdJyNCryTXlultUN158525zdaamFDOGAduzFCF1bGqXE9xtqJ7W8SdjOnDM2PmHz6j7ezD00GyrE0JfkMhFt9kcsKQY2sAaldP3a+NAirWA+lhoWYG7uM82IQVe3aS0spy9WQTl+/SUYwKYQ8IbS30qvIlznUkgqarONH9H79s1V0n7BQ4XHQjP8aXF6tI1K9Pq10GuqwpcT5iO4pxTCUP6WhnH+D+hy04RfIeoWUkn</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-46af74e1-0af2-4823-a35d-6b5f24f61c60"><xades:SignedProperties Id="xmldsig-46af74e1-0af2-4823-a35d-6b5f24f61c60-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-17T10:03:04.053-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>Q0CLo+aMe4hJ2UI9nl9021+dj1dnWB62+GI5/DM5Aic=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>431970277</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-46af74e1-0af2-4823-a35d-6b5f24f61c60-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

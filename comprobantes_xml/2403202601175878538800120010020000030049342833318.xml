@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2403202601175878538800120010020000030049342833318</numeroAutorizacion>
+<fechaAutorizacion>2026-03-24T15:32:21-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>DEL GIUDICE RODRIGUEZ ANAMARIA JUANA</razonSocial>
+	    <nombreComercial>DEL GIUDICE RODRIGUEZ ANAMARIA JUANA</nombreComercial>
+	    <ruc>1758785388001</ruc>
+	    <claveAcceso>2403202601175878538800120010020000030049342833318</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000003004</secuencial>
+	    <dirMatriz>Vía Samborondón, Hospital Clínica Kennedy - Torre Beta, Piso 5, Consultorio 509</dirMatriz>
+		
+		
+		
+			<contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>24/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>Vía Samborondón, Hospital Clínica Kennedy - Torre Beta, Piso 5, Consultorio 509</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Stefanie mackliff</razonSocialComprador>
+	    <identificacionComprador>0914768890</identificacionComprador>
+		<direccionComprador>Jardines de parque magno, samborondon</direccionComprador>
+	    
+	    <totalSinImpuestos>390.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>390.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>390.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>390.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>HM-003</codigoPrincipal>
+		<codigoAuxiliar>HM-003</codigoAuxiliar>
+      	<descripcion>Consulta</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>80.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>80.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>HM-017</codigoPrincipal>
+		<codigoAuxiliar>HM-017</codigoAuxiliar>
+      	<descripcion>Drenaje de Absceso Vulvar</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>310.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>310.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>310.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Dolor pelvico/ Absceso vulvar Código CIE10: (R10.2)/ (N76.4)</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature16161">
+<ds:SignedInfo Id="Signature-SignedInfo813359">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID901264" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature16161-SignedProperties539354">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nzkEMqgsM5R8nLhelE05Pvvud38=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate454391">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>uiUFFpVj+SocchiD8D3uWISMZS8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-684568" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>zmRGyo0lvBhSwONUYYjEGiuPZI0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue651797">
+mnYp4LtTPBUGiU7sFHn2zIZOYx2GackeUG0rg+iD78omvv15Vq0cLMM7KiCTe4KJJMR+XMfUcwKT
+1mzKtuel9dw8tLFxpYRKGD5VwJzoWS2PC3Zw6FcuedpvEAIv0YYkEvTXyuwJiaqY/mb4LvqseEp6
+KmtXzsfzWW2SdKNTDLA7G8w48lhxMUUacPTa2oJY02++iJTv06yVOig+NAeImFWkJjbpAiovQLkx
+ldQX7eepA93S1PuGocwvgxHZDc086Sbzs4avUdWby9SIJSpRsI6ff6xfRv/zBdR+ae1aKCM5jb10
+9w+8jb1oMNTTl4PhSscxOz1le9+lA/yAyvQ8Ag==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate454391">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKrjCCCJagAwIBAgIIJ+0q9Smfh3wwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMjA5MTYyMzE4WhcNMjcxMjA5MTYyMzE4WjCB
+rzEtMCsGA1UEAwwkQU5BTUFSSUEgSlVBTkEgREVMIEdJVURJQ0UgUk9EUklHVUVaMSAwHgYDVQQF
+ExcxNzU4Nzg1Mzg4LTA5MTIyNTExMzMwOTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FD
+SU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UE
+BhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDosr7F42bF6Ov53UD+qiNJkntH
+3Kn95cPRxs8Iw88uwVFmOvYXc1Bm62FeGcOTyhqhFejj9H3K9AW0lsKnrYpv+QObUhZdG9zjuFUg
+iyMIvP9QJ6Ct+148JgDIjaQJbTQcKoTNfrJt0B5vc/ZKoTkJBuoo4tNx/8m7KpzSoX7WACzFYAlR
+N4YadOPao9B+gs8S55IZi0ihhzLP/3OJBfnw8JCjk7Dq3I8RETpRjRaGZvifweCceZEYgzIpYEoZ
+/sZNJDr9Cg2iiGfJlUzKGzDXz9ItPM+NbTekDNIaYXzvrlPvVeiH5zxe7SNVJ++yBC9jEbJUlfyO
+YRIq6IDJcTdDAgMBAAGjggXgMIIF3DAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWA
+HWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5z
+ZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAnBgNVHREEIDAe
+gRxhbmFtYXJpYWRlbGdpdWRpY2VAZ21haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZy
+AgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIA
+cwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5o
+dHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1h
+dGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEg
+TmF0dXJhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCC
+AgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3Js
+ZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+PKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxl
+LmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0
+LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFV
+VE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFE
+IERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixD
+PUVDMB0GA1UdDgQWBBQ++NCq0G8oiQc5zYGw0qH0+jDArDArBgNVHRAEJDAigA8yMDI1MTIwOTE2
+MjMxOFqBDzIwMjcxMjA5MTYyMzE4WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxNzU4
+Nzg1Mzg4MC0GCisGAQQBgqZyAwkEHwwdU0FNQk9ST05ET04gQ0FCRUNFUkEgQ0FOVE9OQUwwEQYK
+KwYBBAGCpnIDIgQDDAEuMBAGCisGAQQBgqZyAwcEAgwAMB4GCisGAQQBgqZyAwIEEAwOQU5BTUFS
+SUEgSlVBTkEwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDEwNzkwMjYwEQYKKwYBBAGCpnIDIwQD
+DAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAbBgorBgEE
+AYKmcgMDBA0MC0RFTCBHSVVESUNFMBoGCisGAQQBgqZyAx4EDAwKR0lORUNPTE9HTzAdBgorBgEE
+AYKmcgMLBA8MDTE3NTg3ODUzODgwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBkGCisGAQQBgqZyAwQE
+CwwJUk9EUklHVUVaMBoGCisGAQQBgqZyAwgEDAwKMDk5MDIzNjU4NTANBgkqhkiG9w0BAQsFAAOC
+AgEAmbmewgegLmflKqa3QswAtTSCgnwrLZOwe8rkZpd2B10yH1sqTD8gyubYjoenfsd/SXdq6ytc
+P4HJ8GJrjPogxLw6UOQo80hOFekF7R0YzTSp32rBgXDhnO16lFCDbjjrgttKodrSOz1hgiw3s5s+
+hCByr0V25YecAie/5IMIkK5PcTgqXprGAqOsTOufH6XY5oh56W6pQKwzICqvJ9JvKy5kK6fMiWEl
+q3szscvh55aaweXwYvCLZtSnqgkwzeZlLBh7QoqFgY5yWCS3BUzT++1Jjchv79n+bgFc5YfwLhs6
+N3TcGoaz5MsUEvWhhzeviarigC0Se8vhPeRYM+5HT0JUCPwi3ENtLcvYdM/CbUCOPuLliyG8htYx
+60xV2mBvYt15R6bXexJwTmgTV9br1zg7dVSSrPf82pq78WTjmZCEsZPAsGHZnIH8hDmMjVzMPNuj
+BapFYr7oq99ErS9kkiQqK8yYm/SmkN1JODB1Td2a6ILC1lvHn96NRgI/wAiqIvdkPFys3rjzQpX0
+XhOZzmnNtVNOLGedty7kEQbx/gT8xHhM2vktRan/HEvud9oNO3Ri9O/tz1s3fsTl3zo0Cn7fFDG3
+InBNHanT7K9qC3stl3RiRKjnVGzXiUQ5AdiLN5/i+3761ti+03xH8kFIfSlqJ543xUMZicxe5Rhd
+d34=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+6LK+xeNmxejr+d1A/qojSZJ7R9yp/eXD0cbPCMPPLsFRZjr2F3NQZuthXhnDk8oaoRXo4/R9yvQF
+tJbCp62Kb/kDm1IWXRvc47hVIIsjCLz/UCegrftePCYAyI2kCW00HCqEzX6ybdAeb3P2SqE5CQbq
+KOLTcf/Juyqc0qF+1gAsxWAJUTeGGnTj2qPQfoLPEueSGYtIoYcyz/9ziQX58PCQo5Ow6tyPERE6
+UY0Whmb4n8HgnHmRGIMyKWBKGf7GTSQ6/QoNoohnyZVMyhsw18/SLTzPjW03pAzSGmF8765T71Xo
+h+c8Xu0jVSfvsgQvYxGyVJX8jmESKuiAyXE3Qw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature16161-Object76974"><etsi:QualifyingProperties Target="#Signature16161"><etsi:SignedProperties Id="Signature16161-SignedProperties539354"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-24T15:32:18-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>2XrYTuYe8HQaw6MKYfy3a/ika0k=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>2877002969413289852</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

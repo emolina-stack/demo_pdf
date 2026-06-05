@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2602202601130824397900120010210000158601234567812</numeroAutorizacion>
+<fechaAutorizacion>2026-02-26T10:28:33-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>PICO VERA MARIA NELA</razonSocial>
+<nombreComercial>FARMACIA DE LA BUENA ESPERANZA</nombreComercial>
+<ruc>1308243979001</ruc>
+<claveAcceso>2602202601130824397900120010210000158601234567812</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>021</ptoEmi>
+<secuencial>000015860</secuencial>
+<dirMatriz>ATARAZANA MZ. P6 V.28</dirMatriz>
+<contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>26/02/2026</fechaEmision>
+<dirEstablecimiento>ATARAZANA MZ. P6 V.28</dirEstablecimiento>
+<obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>MAYRA PATRICIA SANTACRUZ MARIDUEÑA</razonSocialComprador>
+<identificacionComprador>0913928891</identificacionComprador>
+<direccionComprador>LA JOYA</direccionComprador>
+<totalSinImpuestos>15.42</totalSinImpuestos>
+<totalDescuento>1.61</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>15.42</baseImponible>
+<valor>0.0</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>15.42</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>15.42</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>1001658</codigoPrincipal>
+<codigoAuxiliar>1001658</codigoAuxiliar>
+<descripcion>PRIDOT TABx50MGx30</descripcion>
+<cantidad>0.33</cantidad>
+<precioUnitario>26.00</precioUnitario>
+<descuento>0.69</descuento>
+<precioTotalSinImpuesto>7.98</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>7.98</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>1000202</codigoPrincipal>
+<codigoAuxiliar>1000202</codigoAuxiliar>
+<descripcion>AEROOM FORTE</descripcion>
+<cantidad>0.40</cantidad>
+<precioUnitario>13.40</precioUnitario>
+<descuento>0.32</descuento>
+<precioTotalSinImpuesto>5.04</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>5.04</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+<detalle>
+<codigoPrincipal>1002028</codigoPrincipal>
+<codigoAuxiliar>1002028</codigoAuxiliar>
+<descripcion>ACTIBUTIN TABx300MGx20</descripcion>
+<cantidad>0.20</cantidad>
+<precioUnitario>15.00</precioUnitario>
+<descuento>0.60</descuento>
+<precioTotalSinImpuesto>2.40</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>2.40</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Email">mpsantacruz@yahoo.es</campoAdicional> 
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature448542">
+<ds:SignedInfo Id="Signature-SignedInfo372350">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID805756" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature448542-SignedProperties166850">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>epcac1QJdmGE6quHz7yw7NVS+Sc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1600054">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>3uxITxXcZ7P5K/CQBgaVbyQEQc4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-628133" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>FdOQmbetlnQvdTotyon/m/mQIYE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue617625">
+TCPI4mPHYUMLduWgGg0tIzfvH7xQWJuNe4OdpAIFux0mNacWMDHMWTV50PK7QyP5miuqYK7m9fOK
+KeG4bklA0kokjQSASeYA43m9D0eaRPZ1LP1pqw5VibhNtY/cMdo/buuf/rjDOA5oGDoQwcxbGbk+
+ZBNT0cGI7cjXY03iOHysGn7tkO6i7eYxEudSj/0MAoux9dHeB1iysohJUIDxp8L1XjLv4HZ3vxfv
+O0flk3rCCiiDRxLXC6j2xEDjuX/CXy3RzstEm4liZRuQQUDjQaY8sxFxLci4qcAJWkfS4j46Kfx9
+RYTLy2vsTfSd9jbO+LONZQZti8P3k87nYRfQFQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1600054">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKfTCCCGWgAwIBAgIIfUzUJ/9GE9YwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTEzMTYzODEwWhcNMjcwOTEzMTYzODEwWjCB
+nzEdMBsGA1UEAwwUTUFSSUEgTkVMQSBQSUNPIFZFUkExIDAeBgNVBAUTFzEzMDgyNDM5NzktMTMw
+OTI1MTE0ODAwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAKapXXkwj248yN9jCXLZVuSzRXWHcQQYo6rRuuLngSiow7P/
+3DGMk07Vey7hkaY6fM+enl36klktp83tjknuc8vRH0XGv3GaZb5cWa0G4+IlOE1vWsq3FWgbs2eY
+j/uRiZVcG37apOqFyKk20V4G8ZaJEDVZHPbUYeuB4AN7Q1QcSYFkqCNSqvDe4Wg8uwP24p7jS/sR
+7fWVo89Ovn8xx2eoNJ8omTavbz2W8SoJ8rO99HfFmL8Mpwg8I6qjStyxgmpWkdkFZS/b3PPqeuzl
+4ZxKYrhVJ+bzFKBvovcBbGfYxOA0g10NFKPs/A1AUpWyZQEztX5Sdpt5YpPr8a3AHbMCAwEAAaOC
+Bb8wggW7MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYI
+KwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCUGA1UdEQQeMByBGm1hcmlhbmVsYXBpY284
+QGhvdG1haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+
+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUA
+cgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0
+eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZp
+Y2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0l
+BBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8v
+Y3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkx
+OTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYD
+VQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwy
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0
+dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dl
+Yi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBReoJDe
+J71slzOOXt+SnftHYFX4vTArBgNVHRAEJDAigA8yMDI1MDkxMzE2MzgxMFqBDzIwMjcwOTEzMTYz
+ODEwWjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAoxMzA4MjQzOTc5MBYGCisGAQQBgqZy
+AwkECAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAYBgorBgEEAYKmcgMHBAoMCFNPTEFSIDI4
+MBoGCisGAQQBgqZyAwIEDAwKTUFSSUEgTkVMQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTA0
+NDYyNDARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnID
+DAQJDAdFQ1VBRE9SMBQGCisGAQQBgqZyAwMEBgwEUElDTzAaBgorBgEEAYKmcgMeBAwMCkVTVFVE
+SUFOVEUwHQYKKwYBBAGCpnIDCwQPDA0xMzA4MjQzOTc5MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAU
+BgorBgEEAYKmcgMEBAYMBFZFUkEwGgYKKwYBBAGCpnIDCAQMDAowOTg4ODAyODM3MA0GCSqGSIb3
+DQEBCwUAA4ICAQA/lXLMuKf0pmmDwzifY2qojPCBSiWEV2XwOHQrEFCg2GNiv4huwEde0gPNpnMO
+0O3wl0mq56vQ0Gfj34KEQVFuyyL4MZ2zKjdFL4dspG0o245aHw562N3d3aQ4l0boIg7xC+BSFvYd
+utnLas8t5DfDuNHoZidGWKayBykLwinjWL8XS3CDnZ4n9ro1GAsoYhR8J9Pbh2iNDk2vBNDFZi3F
+SeAzpdoq6lNuQdQHFOnnc1n/GxxzgtBocTPT7awqbeJn1aQHjLiNX/+pHE+dp1kAtYYOWFniL63S
+kpYcvhGEjRnRtLxEgKysi5ggl3xvSbh1Z4U1GRrY8BS3Mf5hs6PKS7JQJ/tebu+EPPzveJxt96gK
+ZpgiJ72TIR+5aVtRVjnp7kfwAMoouM/Giuko//HtO+3y0cebA+rYJUO97r/3qE1UbQS0n08jf25f
+xpj6N7O+n6ubFMd16cRF4Ky4pIcmAG9slBUmpdfl4YkshydrmeAPuAwyk5fkOGgs5O3VgEj3OLzH
+hVvf2pPvqTxVEThcJ5N5XmwLv4BX5lLR9Y2sOeLvkB5hkK1d5OiBnzoCfVxoBU7Sy4sO9NDxqf9s
++Lb8pv5BzSpcOzDr5L3xwNjKSukejk0ACz98lQ2+XJXPZDDIDmLMSBXTJ8CUXU5ddMiy8itewAqr
+ha+dbup7OKRZkQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pqldeTCPbjzI32MJctlW5LNFdYdxBBijqtG64ueBKKjDs//cMYyTTtV7LuGRpjp8z56eXfqSWS2n
+ze2OSe5zy9EfRca/cZplvlxZrQbj4iU4TW9ayrcVaBuzZ5iP+5GJlVwbftqk6oXIqTbRXgbxlokQ
+NVkc9tRh64HgA3tDVBxJgWSoI1Kq8N7haDy7A/binuNL+xHt9ZWjz06+fzHHZ6g0nyiZNq9vPZbx
+Kgnys730d8WYvwynCDwjqqNK3LGCalaR2QVlL9vc8+p67OXhnEpiuFUn5vMUoG+i9wFsZ9jE4DSD
+XQ0Uo+z8DUBSlbJlATO1flJ2m3lik+vxrcAdsw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature448542-Object920598"><etsi:QualifyingProperties Target="#Signature448542"><etsi:SignedProperties Id="Signature448542-SignedProperties166850"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-26T10:28:32-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>+nvzTzTVVRBvXk/KjJCmIqwdb2A=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>9028824621222597590</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-628133"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

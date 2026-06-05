@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2403202601099254898300120030130000114975596093413</numeroAutorizacion>
+<fechaAutorizacion>2026-03-24T16:24:07-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.0.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>KIRIAN S.A.</razonSocial><nombreComercial>CENTRO PRIVADO DE PIEL DR ENRIQUE URAGA</nombreComercial><ruc>0992548983001</ruc><claveAcceso>2403202601099254898300120030130000114975596093413</claveAcceso><codDoc>01</codDoc><estab>003</estab><ptoEmi>013</ptoEmi><secuencial>000011497</secuencial><dirMatriz>CDLA. BOLIVARIANA CALLE BOMBONA MZ M VILLA 8</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>24/03/2026</fechaEmision><dirEstablecimiento>VIA PUNTILLA Kilómetro: 6.5 Conjunto: CC PLAZA LAGOS Edificio: TOWN CENTER II Número de oficina: 6-17 Número de piso: 2 Referencia: A TRES CUADRAS DE LA IGLESIA SAN JOSEMARIA ESCRIVA</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>CARLOS ALBERTO STOWHAS SIMBALL</razonSocialComprador><identificacionComprador>1709883050</identificacionComprador><totalSinImpuestos>70.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>70.00</baseImponible><tarifa>0</tarifa><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>70.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>70.00</total><plazo>0</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>1431-1</codigoPrincipal><codigoAuxiliar>C008S</codigoAuxiliar><descripcion>CONSULTA DIRECTA</descripcion><cantidad>1</cantidad><precioUnitario>70.0000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>70.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>70.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="DIRECCION">KM 1 VIA SAMBORONDON</campoAdicional><campoAdicional nombre="OBSERVACIONES">DX:L30 OTRAS DERMATITIS</campoAdicional><campoAdicional nombre="CIUDAD">GUAYAQUIL</campoAdicional><campoAdicional nombre="TELEFONO">0994627979</campoAdicional><campoAdicional nombre="CORREO">Cstowhas@gmail.com</campoAdicional><campoAdicional nombre="VENDEDOR">USUARIO EN CAPACITACION PL</campoAdicional><campoAdicional nombre="LEYENDA AGENTE">AGENTE DE RETENCION Resolucion Nro. NAC-DNCRASC20-00000001 del 14 de septiembre del 2020</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature383140">
+<ds:SignedInfo Id="Signature-SignedInfo280091">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID774733" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature383140-SignedProperties972634">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XopmMoO6MLLAbLsdM+CP2tdqa+k=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1694550">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>X//WIEibwCz749dDTRtMZP9oZsA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-929706" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>lrq3UtzasCnizHfaHTb5JzgbHzI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue245084">
+Iu+jCGlnyhAd0OMwR/e5r6rOUFCjjYc41n5uubcS3SNCeyhEpg1UmtLeHFJdLPGfSjo8SDJpxxvr
+GCCKq/clNR7071totGW7uS7g9JwY8esqHWTGjZFyhXWw20oNZSg1fULBI+4X0lTEPhj+mZBnUo+i
+qoXg45OLc1RV5ZA3Sgfnws3XDHghXTXtFBCUTi0JF2j1XL5GGr0se24mK62TdE23Nwls+/QTk/hn
+OAVmVeD9LjW5UdIqi12v8jxkwThSMAyHwjP8VGUKdW8XS7m98IDPjRMuS/RDmd+Rew+/BSzdkZpe
+gthHgSOM0esmvn+n8j1ylm3BCu3PET1KlbnSKw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1694550">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKzjCCCLagAwIBAgIIB4YdUD+QuVowDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwODEyMTkwMzIxWhcNMjcwODEyMTkwMzIxWjCB
+pDEiMCAGA1UEAwwZRUxJQU5BIExJU1NFVCBNT1JBIFlBR1VBTDEgMB4GA1UEBRMXMDkxNDA4OTQx
+Mi0xMjA4MjUxNDEzMTIxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjAN
+BgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwGHfkj46G/VjiDPtzy+gQJrk/GU+u0SiJWWshAL1
+X6mUhv64mj0JKNEYTqR964jp4jvWfD/h9fta7eh2eYHQd4kDBAxuEi9zcw1AdfYvHLJisPJv2kpH
+vTficfbPnw4zL1Y1kLO/nhfda0YUNQVknvsXQFRT3C2oyrOl9bFds0UxDp5DxYIyU8fTdDbrL32t
+u0+QCKdumaJL4i1Y36v2OpOIGcwctmBElWEJTCpIQj66t3SBsuK7asPEEJsluXxqhdIP4gJcLTNL
+32SVxCR2UoD5HYlBARZhtK7/1X6d0NJ47sOOz1dP39R8kNKNsdpTC94tBPjr2FYcadff7iIwkQID
+AQABo4IGCzCCBgcwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29
+jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwIAYDVR0RBBkwF4EVZWxteV8xNDg1
+QGhvdG1haWwuY29tMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwIC
+MEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAA
+RQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3
+dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9k
+ZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVz
+YS5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6g
+OqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5j
+cmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIg
+U0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9S
+TUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiG
+Nmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB
+4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2Vq
+YmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURB
+RCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0G
+A1UdDgQWBBTolr42ddeFMBIE1g5U3T1OVTQjCzArBgNVHRAEJDAigA8yMDI1MDgxMjE5MDMyMVqB
+DzIwMjcwODEyMTkwMzIxWjALBgNVHQ8EBAMCBeAwGQYKKwYBBAGCpnIDBQQLDAlDT05UQURPUkEw
+GgYKKwYBBAGCpnIDAQQMDAowOTE0MDg5NDEyMBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEGCisG
+AQQBgqZyAyIEAwwBLjA9BgorBgEEAYKmcgMHBC8MLUJPTUJPTkEgU0wgOCA5IFkgMyBZIExPUyBS
+SU9TIFkgQVYgTElCRVJUQURPUjAdBgorBgEEAYKmcgMCBA8MDUVMSUFOQSBMSVNTRVQwHwYKKwYB
+BAGCpnIDIAQRDA8wMDEwMDIwMDEwMzE0NTkwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGC
+pnIDDAQJDAdFQ1VBRE9SMBQGCisGAQQBgqZyAwMEBgwETU9SQTARBgorBgEEAYKmcgMeBAMMAS4w
+GgYKKwYBBAGCpnIDCgQMDApLSVJJQU4gUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MjU0ODk4MzAw
+MTARBgorBgEEAYKmcgMdBAMMAS4wFgYKKwYBBAGCpnIDBAQIDAZZQUdVQUwwGgYKKwYBBAGCpnID
+CAQMDAowOTkzMjM2MzAzMA0GCSqGSIb3DQEBCwUAA4ICAQDH54l7b4lx5A7J8hNyOQcN/K06t5Es
+Ep1u3HO+ZdFYRJ1S0gJJiUOJYMXq05XQ+sfEDNpg3p0ASVCxEJX2UkhiZrIwHhJ9wILSDaRSYGtj
+nu1fU0wHdxKgzXiv8gpWBV6rxqRXbDIXGwEwgxHbrK8MVOLyab5XZFp5fj28azv3THn3LrZt9c4z
+PY1GMpqS9jrIQKY3I2hX2zFVQWTWH8sBrugd2qh9oq8/CqB4+TChBSFxHAQMTnizICbxHXLtRl2u
+rwD+amom4Iv7IdMmjhDzwTkmD40fGgJoLpTs381MtWdhfOem05iMKeqHmHqAiwxto6Hwsd7KX7QG
+Qa0UV04MLtgwunMD9Rmz0PKebbPKL5uQuZP1asrX7PuBBGgojny+WmhyMJP4vuVKnSnLQiANhO4P
+R3lPpWBMM70HNFr7XSBs8HWwuQyh00hc9o0gNQQaddIcIEOdQuUMF2RYZmbxaCtDw9rTytj53bkv
+Xx5Ew8G56QFOx+jIV/46IUeZ9cBsvUdT+lHaCwo4ns8N/QmALhK2p/P/jJXIbnatJRW93PEMDXFW
+0gDqIdbxRWPEQvyrbO567HYb4IXsgO5BXlKkTjqy5VQWAPx8uYf0O8QHSHrWQKQMMHuThXkepz2q
+l1C/B1jA4sNrD0z9ompftdlIQy5bMXNJyCQ2afDaiidzBA==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+wGHfkj46G/VjiDPtzy+gQJrk/GU+u0SiJWWshAL1X6mUhv64mj0JKNEYTqR964jp4jvWfD/h9fta
+7eh2eYHQd4kDBAxuEi9zcw1AdfYvHLJisPJv2kpHvTficfbPnw4zL1Y1kLO/nhfda0YUNQVknvsX
+QFRT3C2oyrOl9bFds0UxDp5DxYIyU8fTdDbrL32tu0+QCKdumaJL4i1Y36v2OpOIGcwctmBElWEJ
+TCpIQj66t3SBsuK7asPEEJsluXxqhdIP4gJcLTNL32SVxCR2UoD5HYlBARZhtK7/1X6d0NJ47sOO
+z1dP39R8kNKNsdpTC94tBPjr2FYcadff7iIwkQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature383140-Object674175"><etsi:QualifyingProperties Target="#Signature383140"><etsi:SignedProperties Id="Signature383140-SignedProperties972634"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-24T16:23:12-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>4h3u6Myl9E6EK+QLWehrLpq/VC0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>542153035645761882</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-929706"><etsi:Description>Descripcion del documento</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

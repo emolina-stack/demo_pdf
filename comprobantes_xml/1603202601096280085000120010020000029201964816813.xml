@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1603202601096280085000120010020000029201964816813</numeroAutorizacion>
+<fechaAutorizacion>2026-03-16T21:26:50-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>PIERETTI MARIA LIA</razonSocial><nombreComercial>PIERETTI MARIA LIA</nombreComercial><ruc>0962800850001</ruc><claveAcceso>1603202601096280085000120010020000029201964816813</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000002920</secuencial><dirMatriz>Av. Juan Tanca Marengo S/N Y Calle Abel Romeo Castillo</dirMatriz></infoTributaria><infoFactura><fechaEmision>16/03/2026</fechaEmision><dirEstablecimiento>Av. Juan Tanca Marengo S/N Y Calle Abel Romeo Castillo</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>Armando flor</razonSocialComprador><identificacionComprador>1711852697</identificacionComprador><direccionComprador>Urbanización Tenis Club</direccionComprador><totalSinImpuestos>75.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>75.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>75.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>75.00</total></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>HO-01</codigoPrincipal><descripcion>CONSULTA DERMATOLOGICA</descripcion><cantidad>1.000000</cantidad><precioUnitario>75.000000</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>75.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>75.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="PACIENTE ARMANDO FLOR VERA">DIAGNOSTICO: VERRUGA PLANA CIE-10 B07.9 FECHA: 09/03/26</campoAdicional></infoAdicional><ds:Signature Id="Signature14887" xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#">
+<ds:SignedInfo Id="Signature-SignedInfo865499">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID71786" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature14887-SignedProperties337050">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>otEZwKj2wLfeRosI6KcLr1/DWvI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate129350">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>fv0Fo5qki/3ccekt2PBo01iFnJ4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-909489" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>I2Pwszfm5MBAyTnDn0Yvo8X1eds=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue681676">
+jSls1Lx5PWfvVDFoXg2Pk50Gxx4Q5HI3zB4MYyfuppMyGuom+Z1leGH418McUhDH54sWykLIPa8d
+eP/yj7vNVeY8/rwO/P3CvR5pd20Pb9FmivLHFwR6qefFwoi8Q5KVo1GjlOGnjMjHWFcmJZZfAVXv
+I9GxYZrmRs3YhOGF/FaWeUhhg97O0EGw6rNZOZHmlG0UeR8jm/UCJF1wN9ahmHIQNblbehRLvSQu
+IGjfRoaCDEavfyk8xJKh/DmEkNz8PHGyuY5DPuS6bJxS3F4mfOAMG3nEALZXKAFMf/DNeNNkEAF6
+j/EBzL8qa6yQQvYEf3PEa5LiFWKnuo5io1HFIg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate129350">
+<ds:X509Data>
+<ds:X509Certificate>
+MIII6jCCBtKgAwIBAgIIDmSTr4lfJ/cwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDkxMDE0MzQwMFoXDTI2MDkxMDE0MzQwMFowgYoxCzAJBgNVBAYTAkVDMREwDwYDVQQEDAhQ
+SUVSRVRUSTESMBAGA1UEKgwJTUFSSUEgTElBMRkwFwYDVQQFExBJRENFQy0wOTYyODAwODUwMRsw
+GQYDVQQDDBJNQVJJQSBMSUEgUElFUkVUVEkxHDAaBgNVBGEME1RJTkVDLTA5NjI4MDA4NTAwMDEw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCfBOYPN2NGYgMvM41qGzbLxqIxA7DtbcFp
+PAB0qRL84axfadnJlO940DXnPCQzAugpab+1bMh6xAdHR2I3F4esUfEwnJrdwmmvER2tezYiBCE+
+ehXPGYNFC+eQpCeATCiSMRw3c02LO888q7n0fJiJ8uc6ENe2k7zDNfD+ojSH1v24bBfkERrFZ/mk
+8cgdWlRt1FOrf6wFlnESzGg7XRlHRk/+ppaz4NJDLtFyC3Po/xRyPsmKhgi9aYnV1haKf1aD6zcC
++SvzHuQF8aLHxCoPBCJ+QNDzUcnY6fBHR/k9Iy76RIV/O6/4H24ep3Tm2b+tensYjkEQ/n1ulaoh
+OSSZAgMBAAGjggQiMIIEHjAbBgsrBgEEAYLxNmYDAQQMDAowOTYyODAwODUwMB4GCysGAQQBgvE2
+ZgMLBA8MDTA5NjI4MDA4NTAwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRw
+Oi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJv
+cmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1Ymxp
+Yy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGlj
+L3BraS9vY3NwLzAdBgNVHQ4EFgQUXsN1cTRUtla0tZakjSSQFK0qiTEwDAYDVR0TAQH/BAIwADAf
+BgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0gBIGRMIGOMIGLBgwrBgEEAYLx
+NmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kv
+ZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQRVJTT05BIE5BVFVSQUwgTyBG
+SVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8vY3JsMS51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8hjpodHRwOi8vY3Js
+Mi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMA4GA1UdDwEB
+/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggFYBgNVHREEggFPMIIBS4EZ
+dmVyb2xpbmRhdG9ycmVzQGdtYWlsLmNvbaAbBgsrBgEEAYLxNmYDAaAMDAowOTYyODAwODUwoBoG
+CysGAQQBgvE2ZgMCoAsMCU1BUklBIExJQaAZBgsrBgEEAYLxNmYDA6AKDAhQSUVSRVRUSaAjBgsr
+BgEEAYLxNmYDB6AUDBJOT1JURSBBTEJPUkFEQSA3TUGgHwYLKwYBBAGC8TZmAwigEAwOMDA1OTM5
+ODE2Nzg4MDGgGgYLKwYBBAGC8TZmAwmgCwwJR1VBWUFRVUlMoB4GCysGAQQBgvE2ZgMLoA8MDTA5
+NjI4MDA4NTAwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZmAzKgGgwYUEVSU09O
+QSBOQVRVUkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8wDQYJKoZIhvcNAQEL
+BQADggIBADTu+TDi9+ul0xQaQgMMinR6e6PurqL8gFxzZge65JgXhsn6UowMLGxF/8o+KmWKJtlS
+iN4BPhqTzht9yvJ58FxXk9Gk8ezS9lbfGUpXhrzlZIJthicLbsyxoWGdkR3qfqaLx+hHnQ+tXrgT
+K5FQXV9ZJ2q2xud+aZGwRqJTySJHiRV9sO3F1++4o8MDz0RpDo4xwpIgHLPE6NIF2gr5q9q6Kia1
++zjQfvQpqnNRDHkK4Ju0clZPmakg0g+R8VJsO83NPWkpYIsQDXX1S9aCQysrBLpsV+0yWM5HsmXC
+7YR404VBNLUraGOIvsf0jOfKNRlKyo2UskL0Cb20bsXvPCHSu3xVv1ZKyXg/851dMPyn3SZVGD1a
+1OtUSkMm0jlMpQuHAp9t9BrHnYiDoY29+IMQ6cWiQxyPxlb84Gg9dLungEnrvGoemPrB/0uZ+nQG
+WFAYXs/+/szUR4tCuAzK/zKzrVNx2upoVKlNcm1aFPBYeG/ep3ZPROToFeHhavYkM4abInpWH2F7
+dX6igSsmugPtEIbLYovWC1g3rzq5E9mQsLS8mCzOuBf5/RkJ5kNj4ipVMfmF0zvAxVCAA6GPXy26
+lrJhQt/dD41raeoBYxT+e3sakyoHPqHHj/Tqx/ykduKmd9bodpAE1S3haglRgYNjl5xD+bJ2fhfA
+vOMvHsqy
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+nwTmDzdjRmIDLzONahs2y8aiMQOw7W3BaTwAdKkS/OGsX2nZyZTveNA15zwkMwLoKWm/tWzIesQH
+R0diNxeHrFHxMJya3cJprxEdrXs2IgQhPnoVzxmDRQvnkKQngEwokjEcN3NNizvPPKu59HyYifLn
+OhDXtpO8wzXw/qI0h9b9uGwX5BEaxWf5pPHIHVpUbdRTq3+sBZZxEsxoO10ZR0ZP/qaWs+DSQy7R
+cgtz6P8Ucj7JioYIvWmJ1dYWin9Wg+s3Avkr8x7kBfGix8QqDwQifkDQ81HJ2OnwR0f5PSMu+kSF
+fzuv+B9uHqd05tm/rXp7GI5BEP59bpWqITkkmQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature14887-Object462801"><etsi:QualifyingProperties Target="#Signature14887"><etsi:SignedProperties Id="Signature14887-SignedProperties337050"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-17T02:26:49+00:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>WHxIUiaR2fboxeun6Ptizoi1yqA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>1037116196335331319</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-909489"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

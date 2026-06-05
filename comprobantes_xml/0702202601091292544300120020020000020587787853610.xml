@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0702202601091292544300120020020000020587787853610</numeroAutorizacion>
+<fechaAutorizacion>2026-02-07T11:11:19-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>ALBAN DE LA TORRE MARIA DE LOURDES</razonSocial>
+	    <nombreComercial>ALBAN DE LA TORRE MARIA DE LOURDES</nombreComercial>
+	    <ruc>0912925443001</ruc>
+	    <claveAcceso>0702202601091292544300120020020000020587787853610</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000002058</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / 4 TO PASAJE 1ANE 12 Y AV RODOLFO BAQUERIZO NAZUR</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>07/02/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / 4 TO PASAJE 1ANE 12 Y AV RODOLFO BAQUERIZO NAZUR</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>EDWIN CORREA</razonSocialComprador>
+	    <identificacionComprador>1206358697</identificacionComprador>
+		<direccionComprador>URBANIZACION VILLA CLUB</direccionComprador>
+	    
+	    <totalSinImpuestos>50.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>50.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>50.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>50.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>SS0001</codigoPrincipal>
+		<codigoAuxiliar>SS0001</codigoAuxiliar>
+      	<descripcion>Honorarios Médicos</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>50.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>50.00</precioTotalSinImpuesto>
+	  
+	  
+	  	<detallesAdicionales>
+			
+    			<detAdicional nombre="Detalle" valor="Consulta medica especialidad de Pediatría."/>
+    		
+      	</detallesAdicionales>
+      
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>50.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Consulta medica especialidad de Pediatría. Paciente Valentina Correa Mantilla.  DX.- Síndrome doloroso abdominal /dispepsias.</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature744610">
+<ds:SignedInfo Id="Signature-SignedInfo384153">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID165893" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature744610-SignedProperties637585">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>doUYDYZr9VjXBxLRZeWaJR3pdFw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate743195">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>A8/cCy9GYhFc3Dr2oDI6g0wfjnc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-27761" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>x0bFpERJyrwN2LIXhmTDKMGCg8s=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue120862">
+Jx2AzLb7gY6BgRnauL75dqBIj8DoCy4zfA+630Z2HZPRruwi6r1n9VEAyzKeEUxXnHhJduR0TCx1
+d+g1o9BhtWyzk8++DB1Jhv6DIG9SCKlT8KsoS7oYGM66MIQX6dvQiMWbDXu5sLpWivs4FM2LmZqp
+fmN1FFXwsdY78AnLVtO6SLJMDlj2QDjw97NHEAHSxGsH7ClU9A1LNS7tBXNIgqFUsjdaF2oI8RJA
+uCsH/jlyjZlS/fsnF72RzPwncZpaiuEZrYw1kcyQCtI1ON0VhV8X1n5TjSGxq/sQgIoZPhdgoZxD
+4Y4Jt5MhDSIZsu0mSxIG8nBfJ6mZjOC/tRAx8g==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate743195">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJLzCCBxegAwIBAgIIeXBb1bzLePUwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MDgxMjIyMDUwMFoXDTI2MDgxMjIyMDUwMFowgaoxCzAJBgNVBAYTAkVDMRowGAYDVQQEDBFB
+TEJBTiBERSBMQSBUT1JSRTEZMBcGA1UEKgwQTUFSSUEgREUgTE9VUkRFUzEZMBcGA1UEBRMQSURD
+RUMtMDkxMjkyNTQ0MzErMCkGA1UEAwwiTUFSSUEgREUgTE9VUkRFUyBBTEJBTiBERSBMQSBUT1JS
+RTEcMBoGA1UEYQwTVElORUMtMDkxMjkyNTQ0MzAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCC
+AQoCggEBAIhR//7uA1KfggWJbGWKua1YswS/6C5KThcAzAlm8se493o+/aokCgOUvPGASEeRQyWe
+8f5i4QGA+goW3OdNqM2NOjF4H2CG0AiE9u5mf4QyZhS1zgWQBrxIrsy0YWkySbBMP6uyzhvIh5Oh
+n/jrmOn8xYjyj4kfy1GHa5q58aMuqTjE5bKxu7CSFb8+QeRDb3UxnG1dPRvtMYZlBkM0VkEq0tuN
+5wzrsRkiQueRbl7SUeDQ6XcaKUSt623qU/ps1fmDlYUIRc+KrhTIQylqrkSclAzPRft8jXNMY8md
+MOeWK1WPcsk1DMhZIid/FAVQSpX6o0x1o11++l64bd3/OnkCAwEAAaOCBEcwggRDMBsGCysGAQQB
+gvE2ZgMBBAwMCjA5MTI5MjU0NDMwHgYLKwYBBAGC8TZmAwsEDwwNMDkxMjkyNTQ0MzAwMTCB1wYI
+KwYBBQUHAQEEgcowgccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1Ymxp
+Yy9kb3dubG9hZC90c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMS5jcnQwNgYIKwYBBQUHMAGG
+Kmh0dHA6Ly9vY3NwMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYq
+aHR0cDovL29jc3AyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBQX+vw+
+KOyvy2jNEy+X8wp5r0J8oDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDh
+EbJ0knP9MIGZBgNVHSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRw
+czovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNF
+UlRJRklDQURPIERFIFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8E
+gYcwgYQwQKA+oDyGOmh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJz
+dWJvcmRpbmFkYS5jcmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtp
+L2NybC9DQTJzdWJvcmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUF
+BwMCBggrBgEFBQcDBDCCAX0GA1UdEQSCAXQwggFwgR5ub3RpZmljYWNpb25lc2Zpcm1hc0BzaWln
+by5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMDkxMjkyNTQ0M6AhBgsrBgEEAYLxNmYDAqASDBBNQVJJ
+QSBERSBMT1VSREVToBYGCysGAQQBgvE2ZgMDoAcMBUFMQkFOoBwGCysGAQQBgvE2ZgMEoA0MC0RF
+IExBIFRPUlJFoCEGCysGAQQBgvE2ZgMHoBIMEEFMQk9SQURBIENBTExFIDSgHwYLKwYBBAGC8TZm
+AwigEAwOMDA1OTM5Njc4NTIwMDagGgYLKwYBBAGC8TZmAwmgCwwJR1VBWUFRVUlMoB4GCysGAQQB
+gvE2ZgMLoA8MDTA5MTI5MjU0NDMwMDGgEwYLKwYBBAGC8TZmAwygBAwCRUOgKQYLKwYBBAGC8TZm
+AzKgGgwYUEVSU09OQSBOQVRVUkFMIE8gRklTSUNBoBgGCysGAQQBgvE2ZgMzoAkMB0FSQ0hJVk8w
+DQYJKoZIhvcNAQELBQADggIBAKGYq7Ry+SP2so2Bms79Ml6VLzFmT0OmMzEFg+F9E1Nf8nCtB6L7
+0K6m45hDF+4wmARMJMyZpuXjph77SJlGy/WRpPXRhBCq5UwCBAlTYE/g0wfGgcN3+ZnF7hXMjOUn
+WvXXLcz/tTAXhQI74JuqCZKNx28zB63NnOwly36PgMWy+jxCJ1rssXMNxzqpNatHGi+6ezUpKp1G
+N6VL/jAsTbZbTGRDVnKsxB2rjHejvHnCGXq7QyUmXzF6I6sXGgu/oBd3aqDKqJdbZ9RP3N0pubSk
+SJAaELqlpjiAsFbFRC8furuVGe9lxh0eP4GG8YTKWjY71ang5PBI5Xq/r9ed1QYRPikAVuG2LWmA
+hhfrU107W43f8+A99fqgCUDFA4hJk/Z709Me7U+gz2UBuIQJzKCrge5DbOs+Qf/7JVTUS3HWEsPr
+9ob0KF8Rx3Ws7a/UbxplLaoJ248VtCfYlhZgVdFTZJkY2+F4AllESGv4+JMPgcveuN8F2srzaX1P
+M80PvMsC9tOMbmRNdD06pUwooyveAiY5YkJpli4fTZ6m/Vw4zGrXblLvXIWolGdEIw0lKEO6lyX9
+PyHqRLjAJZbhxF0gpzLwTi79AiZNg5KgbCnI55usvttZqPUmC2o6uhue+ui7iM3HuBRs+kikFmir
+fG12GpiqbCaxnInXAVHPswKE
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+iFH//u4DUp+CBYlsZYq5rVizBL/oLkpOFwDMCWbyx7j3ej79qiQKA5S88YBIR5FDJZ7x/mLhAYD6
+Chbc502ozY06MXgfYIbQCIT27mZ/hDJmFLXOBZAGvEiuzLRhaTJJsEw/q7LOG8iHk6Gf+OuY6fzF
+iPKPiR/LUYdrmrnxoy6pOMTlsrG7sJIVvz5B5ENvdTGcbV09G+0xhmUGQzRWQSrS243nDOuxGSJC
+55FuXtJR4NDpdxopRK3rbepT+mzV+YOVhQhFz4quFMhDKWquRJyUDM9F+3yNc0xjyZ0w55YrVY9y
+yTUMyFkiJ38UBVBKlfqjTHWjXX76Xrht3f86eQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature744610-Object408232"><etsi:QualifyingProperties Target="#Signature744610"><etsi:SignedProperties Id="Signature744610-SignedProperties637585"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-07T11:11:17-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>XCI7gF6qHG9xg5bpU9D+M5/JMY8=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>8750595049534486773</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

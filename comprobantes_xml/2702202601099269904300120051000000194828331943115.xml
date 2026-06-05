@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2702202601099269904300120051000000194828331943115</numeroAutorizacion>
+<fechaAutorizacion>2026-02-27T09:08:10-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>FARMARAPID CIA LTDA</razonSocial>
+<nombreComercial>FARMARAPID CIA LTDA</nombreComercial>
+<ruc>0992699043001</ruc>
+<claveAcceso>2702202601099269904300120051000000194828331943115</claveAcceso>
+<codDoc>01</codDoc>
+<estab>005</estab>
+<ptoEmi>100</ptoEmi>
+<secuencial>000019482</secuencial>
+<dirMatriz>AV. SAN JORGE # 500 Y CALLE DECIMA FRENTE A CLINICA KENNEDY</dirMatriz></infoTributaria>		
+<infoFactura>
+<fechaEmision>27/02/2026</fechaEmision>
+<dirEstablecimiento>AV. SAN JORGE # 500 Y CALLE DECIMA FRENTE A CLINICA KENNEDY</dirEstablecimiento><contribuyenteEspecial>NAC-DGERCGC25-00000011</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad>
+<tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+<guiaRemision>005-100-000019482</guiaRemision>		
+<razonSocialComprador>LUIS VALERO</razonSocialComprador>
+<identificacionComprador>0904903515001</identificacionComprador>
+<totalSinImpuestos>11.55</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>11.55</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>4</codigoPorcentaje>
+<baseImponible>0.00</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto></totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>11.55</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>01</formaPago>
+<total>11.55</total>
+<plazo>0</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>				
+</infoFactura>
+<detalles><detalle>
+<codigoPrincipal>69510</codigoPrincipal>
+<codigoAuxiliar>69510</codigoAuxiliar>
+<descripcion>PROCORALAN 5MG. X 28 *14</descripcion>
+<cantidad>14.00</cantidad>
+<precioUnitario>0.82500</precioUnitario>
+<descuento>0.00000</descuento>
+<precioTotalSinImpuesto>11.55</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0.00</tarifa>
+<baseImponible>11.55</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle></detalles><infoAdicional>
+<campoAdicional nombre="Direccion">SIN DIRECCION REGISTRADA</campoAdicional>			
+<campoAdicional nombre="Telefono">9999999999</campoAdicional>
+<campoAdicional nombre="Email">C0904903515@gmail.com.ec</campoAdicional>
+<campoAdicional nombre="Email 2">C</campoAdicional>
+<campoAdicional nombre="ControlInterno">19341</campoAdicional>
+<campoAdicional nombre="Agente de Retencion Resolucion # ">NAC-DNCRASC20-00000001</campoAdicional>
+</infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="Signature676917"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" /><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><ds:Reference Id="Reference-ID-545281" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>Vkmj44XHqKdWvUN5dSaCshpzRUI=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate932167"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>OKJCh4dbrvOtVIArnILaNDSwKw8=</ds:DigestValue></ds:Reference><ds:Reference Id="SignedPropertiesID235518" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature676917-SignedProperties764265"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>33Kk8yhtkN4nWV6x2w2zJABbFoQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue423719">JzNS7YWJ9erm0rJlDVX2Pz2WmtiRuyPaWLVUsq3CiBKN0ylUTJZ8YELzr+TzH0AoAv0VG5V3LwAjbafL5K6X7AGTGqF/1pFOAx8mPDR/byaloDCptB0vimKFleTDBrLnr7iLA/COV9RuMtM1eMKB8z1o9TEyue0JuTTF3GnSj+C6sk8gJb1q2kaO4TEleRstsAZQunPPLc7gi+V+CaoqNeRKCoD+rr+zZeFcB5yxLk7ZVBmU/oQq86HA4EyUkBSKX9SUcmdqHbCJTnMbEiI6sRhu5qdKREeL2284SurbVFtLsHAX4GzKoncbz860a2eic2xBX4hEEs0suVpff2TwRA==</ds:SignatureValue><ds:KeyInfo Id="Certificate932167"><ds:X509Data><ds:X509Certificate>MIIL/jCCCeagAwIBAgIEcDjsMjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDAxMTcyMTA1MDVaFw0yNzAxMTYyMTA1MDVaMIGpMScwJQYDVQQDDB5DQVJMT1MgQU5UT05JTyBKSU1FTkVaIEFHVUlSUkUxIDAeBgNVBAUTFzE3MTA4NDMzMTctMTcwMTI0MTYxNDU1MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJuGA7xhPHyKKBfgKeTj16R+ENpJlpAt43zWsovlYcAOQgvrA4xYqgAdtSKOk9KcP7yHuwSbv7HFmpWJbJ1N5U62C4pdC3+2lMPB6A3IOhHcv7hM3NfzTrF9BmJTCkjQEkY+bs5KAa1RZuxs9rGBV4BTbmLWLKyZEws/HUKPWx04IjY+wS2vv9pyati97leNbjpW8bULBKso17qF5OyKRbkW3QjhZYUvSdlqauyIs2NzoMdWT4pt78AzMXnNdn1f/X8ckrsKWIVZrr86uX/C+p19YPDdgW9D4ynLTz+BfhKcRn8MKduJ8QJXxMj5dAwiAVzmKgMunC1UOAQI7rSekn8CAwEAAaOCBzowggc2MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCMGA1UdEQQcMBqBGGZhcm1hcmFwaWQxMUBob3RtYWlsLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRBYRWJIqpNq/q0Ry5JV9k1tm41vDArBgNVHRAEJDAigA8yMDI0MDExNzIxMDUwNVqBDzIwMjcwMTE2MjEwNTA1WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDBQQMDApQUkVTSURFTlRFMBoGCisGAQQBgqZyAwEEDAwKMTcxMDg0MzMxNzAWBgorBgEEAYKmcgMJBAgMBlRBUlFVSTARBgorBgEEAYKmcgMiBAMMAS4wJAYKKwYBBAGCpnIDBwQWDBRTQU4gSk9SR0UgNTAwIFkgMTBNQTAeBgorBgEEAYKmcgMCBBAMDkNBUkxPUyBBTlRPTklPMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwNTE3MTM2MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0pJTUVORVowIwYKKwYBBAGCpnIDCgQVDBNGQVJNQVJBUElEIENJQSBMVERBMB0GCisGAQQBgqZyAwsEDwwNMDk5MjY5OTA0MzAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYBBAGCpnIDBAQJDAdBR1VJUlJFMBoGCisGAQQBgqZyAwgEDAwKMDk5NzE1MzExODANBgkqhkiG9w0BAQsFAAOCAgEAfXpuk5YkJHlkP8uBBB9sa3ry0mZN95/1KNNPG9u/CTOS5IeFT922HeTlt9I1g8rsh4d6r/M20TIrF+vOSwcbMt883mlgjbM8ukbgQOw8ofTz0dcCx81Vz2OHfbTZFGPC6fcPonq4RPBZbYnzDTuMrtQiYx/OIIFarEzWch8LEnEdKD+bgSrESKkr48CLTOSBDUU+Wc5VSlcEL9KnArPOLLTR8WvfwMhff4INHyVlaLieGf3BWo2pOyClajU7H+jQXpgs5kTfvbOgjfooW0kcOAk6w6D4EC7rJBSRmY9fWNUq3vodyhzg+Xpi5qxkdfmaECTe14LEKt3PU1PpZg8ECqjcu8/7sSILqOzSdTvtT0AzIYvPC64DedXK9Y9wudzlRkxNwB1pAN2lAnxvLjuHxyrppNF/WfAI1m5L6W1euvE07GCTSq3onHpk2aQ9bbRAWhwsjugGq+1GIUMdYNGrqVGFz537kjpG1Zs3uAcbQmI8gf5AfvGiLnEnT0MrccuHVy1mcFu4LsJfelIzaaWMD6NgMLMdL8hUoMmgeniTv8SGdsUTgtAREqauaD3YASO9eKkSnNU7iEBICYuBonH41vr6susX1qJXqiAXMjLzmBgrDhLan1qDjKKIwmvtKAJDE5qzYN+nr4eg/oNzavAJ6HaDsnspNc6IVFKu2e4R6rc=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>m4YDvGE8fIooF+Ap5OPXpH4Q2kmWkC3jfNayi+VhwA5CC+sDjFiqAB21Io6T0pw/vIe7BJu/scWalYlsnU3lTrYLil0Lf7aUw8HoDcg6Edy/uEzc1/NOsX0GYlMKSNASRj5uzkoBrVFm7Gz2sYFXgFNuYtYsrJkTCz8dQo9bHTgiNj7BLa+/2nJq2L3uV41uOlbxtQsEqyjXuoXk7IpFuRbdCOFlhS9J2Wpq7IizY3Ogx1ZPim3vwDMxec12fV/9fxySuwpYhVmuvzq5f8L6nX1g8N2Bb0PjKctPP4F+EpxGfwwp24nxAlfEyPl0DCIBXOYqAy6cLVQ4BAjutJ6Sfw==</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature676917-Object402362"><etsi:QualifyingProperties xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Target="#Signature676917"><etsi:SignedProperties Id="Signature676917-SignedProperties764265"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-27T09:08:10-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><ds:DigestValue>ex5FJWNfS/lF3OMA/iN7d01SA8E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA, OU=ENTIDAD DE CERTIFICACION DE INFORMACION, O=SECURITY DATA S.A. 2, C=EC</ds:X509IssuerName><ds:X509SerialNumber>1882778674</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-545281"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

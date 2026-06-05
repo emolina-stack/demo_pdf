@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0403202601099245440700120020050000348800003488013</numeroAutorizacion>
+<fechaAutorizacion>2026-03-04T15:38:29-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>INTERHOSPITAL SA</razonSocial>
+        <ruc>0992454407001</ruc>
+        <claveAcceso>0403202601099245440700120020050000348800003488013</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>002</estab>
+        <ptoEmi>005</ptoEmi>
+        <secuencial>000034880</secuencial>
+        <dirMatriz>AV. DEL BOMBERO VIA A LA COSTA KM 6.5</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>04/03/2026</fechaEmision>
+        <dirEstablecimiento>AV. DEL BOMBERO VIA A LA COSTA KM 6.5</dirEstablecimiento>
+        <contribuyenteEspecial>203E</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>GONZALEZ CABAL GUSTAVO ADOLFO RAMON</razonSocialComprador>
+        <identificacionComprador>1302529431</identificacionComprador>
+        <totalSinImpuestos>624</totalSinImpuestos>
+        <totalDescuento>0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>624</baseImponible>
+                <valor>0</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>624</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>624</total>
+                <plazo>30</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>PIM0367</codigoPrincipal>
+            <descripcion>ANGIOTC CORONARIOGRAFIA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>405</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>405</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>405</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>PIM0372</codigoPrincipal>
+            <descripcion>ECOCARDIOGRAMA TRANSTORACICO AMBULATORIO</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>99</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>99</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>99</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>U040420</codigoPrincipal>
+            <descripcion>SALES YODADAS NO IONICAS LIQUIDO PARENTERAL 350 100ML OPTIRAY BTL</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>120</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>120</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>120</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature718051">
+<ds:SignedInfo Id="Signature-SignedInfo23486">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID490608" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature718051-SignedProperties1010076">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NueXjn4sRzYVDvOTNA5ppR3G3GM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1118013">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>knhThZ0WrEcxUNmW/ulvtb0is2k=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-650436" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HD477JgRGV42TlzoMGfAE7FI0+0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1025884">
+Usgn0DHAxoSRa4bn6jnpdJ/P/fYEI2IRhRg1gNBmcvmbyJRF9dNabtZkrgu/h44XY3sx1nyPUqa3
+JoIoekwRFW99kRPfu/ch22v0LEO6yZCCFQ/9Xq0APqAUS9qGp7G3guILG4vier9nxSC4pO+5txc3
+sLdQCWmAqPESNFmRcBT+DgRzgqlJuaLK1AyVe71/mtW/0ULOkKyj9PuTPBxXtffJOt3jEdFvRpXr
+RR0WE9L+sHS/dFWzE4M1OBwtRZ+SRGG+7VHMEP3XAlr1bHoKxuJScHrXU/zd9tSP4Fc7cpI2dqCn
+ODxFkAsrwebcSeXCo2+Mh6VnWTJkvzfHVlwSSA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1118013">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMWTCCCkGgAwIBAgIMA0aXu+RvsdrTicw5MA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjQwODAyMTcwMTI1WhcNMjYwODAyMTcwMTI1WjCCAmIxGzAZBgNVBAoMEklOVEVSSE9T
+UElUQUwgUy5BLjEaMBgGCisGAQQBgqRCCgQMCjA5MjAyMTQ3NDkxKDAmBgNVBAsMH0NlcnRpZmlj
+YWRvIFBlcnNvbmEgSnVyaWRpY2EgRUMxFzAVBgNVBCoMDk1BUklBIFZFUk9OSUNBMRYwFAYDVQRh
+Ew0wOTkyNDU0NDA3MDAxMQswCQYDVQQGEwJFQzETMBEGA1UEBRMKMDkyMDIxNDc0OTEaMBgGA1UE
+BAwRQkFRVUVSSVpPIEdVRVZBUkExNDAyBgNVBAMMKzA5MjAyMTQ3NDkgTUFSSUEgVkVST05JQ0Eg
+QkFRVUVSSVpPIEdVRVZBUkExHTAbBgNVBAwMFEFkbWluaXN0cmFkb3Igw7puaWNvMS4wLAYJKoZI
+hvcNAQkBFh9tYmFxdWVyaXpvQGludGVyaG9zcGl0YWwuY29tLmVjMYHmMIHjBgNVBA0MgdtSZWcu
+IFB1Yi46TElCUk8gU1VKRVRPUyBNRVJDQU5USUxFUyBJbnNjcmlwY2nDs246IDIuNjk2LCBUb21v
+IDAsIExpYnJvIDAsIEZvbGlvIDAsIEhvamEgMCBDYXJnbzpBZG1pbmlzdHJhZG9yIMO6bmljbyBO
+b3RhcmlvOlJFR0lTVFJPIE1FUkNBTlRJTCBERUwgQ0FOVE9OIEdVQVlBUVVJTCBOw7ptLiBQcm90
+b2NvbG86Ni40NTggRmVjaGEgZGUgT3RvcmdhbWllbnRvOjIwMjMtMDItMjIxDzANBgNVBAgMBkdV
+QVlBUzEPMA0GA1UEBwwGVEFSUVVJMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3/WU
+4EWInxbvJiwNj9EoQ6iHP4Gn8p35Ww2dl7Ch8+xSoFsvMe7q11Ui0e5iWw47eEOq02ZZc178AKe5
+UIWEPlucSZxfL+gdy+kuzXTKyRZ+/SPYO84hlJZeL+wZtiS6owrR7R02LY9x8bCFgSeD4nB0J6a7
+LhCXa7n3wZPBouKbmIY86sSyFDNg8Ui3Y10udBBVT2irj9bxn03wkY2U1jXjCx+82itZIwm32mn6
++Yz/5V/0KFhY850GcMhZdQJeniVV9BarCY0JWNm7o9elyufrtd6FUKA4QF4mMbmj4WDbzxnPcMMB
+EyqTL0FtFM/Ay0/lVwfMfFNO1Vgkfpeq6wIDAQABo4IFszCCBa8wHwYDVR0jBBgwFoAUkq7Uy4K0
+mcbRexFsZerFTWgh+awwHQYDVR0OBBYEFK7yOMNK5f5NZVSCsnRg3Nx9PAsJMIIBCQYDVR0RBIIB
+ADCB/YEfbWJhcXVlcml6b0BpbnRlcmhvc3BpdGFsLmNvbS5lY6SB2TCB1jEeMBwGCisGAQQBgqRC
+CgEMDk1BUklBIFZFUk9OSUNBMRkwFwYKKwYBBAGCpEIKAgwJQkFRVUVSSVpPMRcwFQYKKwYBBAGC
+pEIKAwwHR1VFVkFSQTEaMBgGCisGAQQBgqRCCgQMCjA5MjAyMTQ3NDkxGTAXBgkrBgEEAYGPHAEM
+CkEtMDIwODIwMjQxNDAyBgNVBAMMKzA5MjAyMTQ3NDkgTUFSSUEgVkVST05JQ0EgQkFRVUVSSVpP
+IEdVRVZBUkExEzARBgNVBAUMCjA5MjAyMTQ3NDkwDgYDVR0PAQH/BAQDAgbAMB0GA1UdJQQWMBQG
+CCsGAQUFBwMCBggrBgEFBQcDBDBQBgNVHR8ESTBHMEWgQ6BBhj9odHRwOi8vY3JsLmFuZi5lcy9j
+cmwvQU5GSGlnaEFzc3VyYW5jZUVjdWFkb3JJbnRlcm1lZGlhdGVDQS5jcmwwggEDBgNVHSAEgfsw
+gfgwgd8GDCsGAQQBgqRCAgUBAzCBzjAoBggrBgEFBQcCARYcaHR0cDovL3d3dy5hbmYuZXMvZG9j
+dW1lbnRvczCBoQYIKwYBBQUHAgIwgZQMgZFDZXJ0aWZpY2FkbyBjb25mb3JtZSBhIGxhIGxlZ2lz
+bGFjacOzbiBkZSBmaXJtYSBlbGVjdHLDs25pY2EuIEFudGVzIGRlIGFjZXB0YXJsbyBjb21wcnVl
+YmUgaW50ZWdyaWRhZCwgbGltaXRhY2lvbmVzLCB2aWdlbmNpYSB5IHVzb3MgYXV0b3JpemFkb3Mu
+MAkGBwQAi+xAAQEwCQYHYIVUAQMFCDCBmwYIKwYBBQUHAQEEgY4wgYswJwYIKwYBBQUHMAGGG2h0
+dHA6Ly9vY3NwLmFuZi5lcy9zcGFpbi9BVjBgBggrBgEFBQcwAoZUaHR0cDovL3d3dy5hbmYuZXMv
+ZXMvY2VydGlmaWNhdGVzLWRvd25sb2FkL0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9ySW50ZXJtZWRp
+YXRlQ0EuY2VyMAwGA1UdEwEB/wQCMAAwKAYJKwYBBAGBjxwTBBsMGTYxNTM5ODIwMTU3Mi01MzIx
+OTg1NjE4MjQwHQYKKwYBBAGBjxwTAgQPDA0wOTkyNDU0NDA3MDAxMCkGCisGAQQBgqRCEwEEGwwZ
+NTMyMTk4NTYxODI0LTUyODcxMjc4NTIwNTAaBgorBgEEAYKkQgMBBAwMCjA5MjAyMTQ3NDkwIgYK
+KwYBBAGCpEIDCgQUDBJJTlRFUkhPU1BJVEFMIFMuQS4wHQYKKwYBBAGCpEIDCwQPDA0wOTkyNDU0
+NDA3MDAxMBIGCisGAQQBgqRCAwwEBAwCRUMwHgYKKwYBBAGCpEIDAgQQDA5NQVJJQSBWRVJPTklD
+QTAhBgorBgEEAYKkQgMDBBMMEUJBUVVFUklaTyBHVUVWQVJBMCQGCisGAQQBgqRCAwUEFgwUQWRt
+aW5pc3RyYWRvciDDum5pY28wFgYKKwYBBAGCpEIDCQQIDAZUQVJRVUkwFwYKKwYBBAGCpEIqAQQJ
+DAdVSU8tMDMwMBMGCisGAQQBgqRCLgEEBQwDNzMwMFAGCisGAQQBgqRCLwEEQgxAMjBmNDIwZDVk
+MjVlZDliYzkzNGY5MTc3OTFmYWE3ZjNhMzE4M2IzM2JkODc2Zjc4NDAyN2E2N2Q1NDcyYTU4NDBE
+BggrBgEFBQcBAwQ4MDYwCAYGBACORgEBMBMGBgQAjkYBBjAJBgcEAI5GAQYBMAkGBwQAi+xJAQEw
+CgYIKwYBBQUHCwIwDQYJKoZIhvcNAQELBQADggIBAK47nNr5EP2xcDz/irgKuLjiC+iUejn70bFR
+5Mb8f5hClfSTIbFduZn7aTXewVAdV1EFFFKC8ZYcIVJ5NteyloiHUfnFhpXG6XTeR+gONmg64z/X
+PR5vZ77JDVyRoh2Juo+O7LFdNwaoB7s/NVsc0XMHZQX2hN5kraGraqY65JU3qfoax4kYJ+ojWCMa
+ccM8bssdV4gpwqXgCEI5qqur0GBAWGH5CE1fNgBWrZF4DCs0w5BFEeUunY/ORZV/L4qQXUbfrRl7
+MthgbF1eahEFDd9i/MrZsPNImmV03bcTMXngvy7A/yjjlJfa43tZwfHXboTlVcTmW65clKUmmlmU
+QFCmDjaoalAG+YnwbgfNOxVPVPOAV0RkP9etwPLuo0IoK+TBb9hZlYnNQ+6PDd5hmjRrHVLkJj0v
+GIMMJiSrnZH46rNhf+z+DSt6M92C3masyRWM/jpsfzvzf5zPEooNEBx1KzsqCCWWHrFpwnrmDq3J
+j/niymkFpdi+LQPS0+OqVHiGOQmuN/cWSdyquy6IvgPdelcMAjZBwNCsCsqDwpYIGmpbz7sLPMxJ
+xTi2ipSCdAeR70s/8Yc71UJmSRnQy4uEfcyjbyxbY9dcj8QpZpEYKkkhMlcDnZ4zrlE3AFC+JMVL
+vZCogqXLtM2WXSpxIZV4MFbdFDcdX/9sBO/NYgzo
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3/WU4EWInxbvJiwNj9EoQ6iHP4Gn8p35Ww2dl7Ch8+xSoFsvMe7q11Ui0e5iWw47eEOq02ZZc178
+AKe5UIWEPlucSZxfL+gdy+kuzXTKyRZ+/SPYO84hlJZeL+wZtiS6owrR7R02LY9x8bCFgSeD4nB0
+J6a7LhCXa7n3wZPBouKbmIY86sSyFDNg8Ui3Y10udBBVT2irj9bxn03wkY2U1jXjCx+82itZIwm3
+2mn6+Yz/5V/0KFhY850GcMhZdQJeniVV9BarCY0JWNm7o9elyufrtd6FUKA4QF4mMbmj4WDbzxnP
+cMMBEyqTL0FtFM/Ay0/lVwfMfFNO1Vgkfpeq6w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature718051-Object139755"><etsi:QualifyingProperties Target="#Signature718051"><etsi:SignedProperties Id="Signature718051-SignedProperties1010076"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-04T15:38:21-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>LlZ9Lf/h01CvPRc9u5LRNZYmxWw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>1013796380177685064989658169</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-650436"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

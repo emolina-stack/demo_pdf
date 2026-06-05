@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0603202601091771013900120011000000000174507006913</numeroAutorizacion>
+<fechaAutorizacion>2026-03-06T20:26:22-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MORA DELGADO XAVIER ARTURO</razonSocial>
+        <ruc>0917710139001</ruc>
+        <claveAcceso>0603202601091771013900120011000000000174507006913</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000017</secuencial>
+        <dirMatriz>Ciudadela: ALBORADA ETAPA SEIS Numero: SOLAR 14 Manzana: 663 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>06/03/2026</fechaEmision>
+        <dirEstablecimiento>Ciudadela: ALBORADA ETAPA SEIS Numero: SOLAR 14 Manzana: 663 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>MENDOZA SAN MIGUEL JEANNINE ADELA</razonSocialComprador>
+        <identificacionComprador>0918613696</identificacionComprador>
+        <totalSinImpuestos>60.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>60.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>60.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>60.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>008</codigoPrincipal>
+            <descripcion>CONSULTA MÉDICA AL PACIENTE MIGUEL MORA EN LA FECHA 15 DE FEBRERO DE 2026</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>60</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>60.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Email">jeannine30@gmail.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-9ee9cd70-dec5-4da8-bdef-d90510ba8758"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-9ee9cd70-dec5-4da8-bdef-d90510ba8758-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>lYKJ9mzpfpjBbrXtzwyEjHV22LS7umdEcNT9iPW5Lck=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-9ee9cd70-dec5-4da8-bdef-d90510ba8758-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>NnAyO88djvAMz2ARKQe7/MaIVINDWxmjSOQqNGgO7i0=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-9ee9cd70-dec5-4da8-bdef-d90510ba8758-sigvalue">iPKAJuQ+5CfAGS1Jj0wxD1o+VGvMXzoAAlhs2LF+aVbskDEOrxDBW2s+dx9YOIYkfc2PjuJaSrwpp8EsGd1SUb5nDEDE8Rcu5K5Z3KPi/updficMXZanGsQeeaUZwU/GobQygTys2i1x0ugjdwgYHMPa3/fONZ1skWDUdGwIBIodwl4rKPsoVqfA7FyzLZJDCBLgBAKOt0zTGDwpKwETfN59xvHS/eK+BAF/F0n+7EML5FX2/ZpV8BAusVLsGSTTtFgQlPeLLNvqs/mAkzktjf5uFEVNGGwhmdXAstVCGaJv9J93BBsJNKCc3J4gI0bJZUvRTtUc6u81/06SCNy9Gw==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIHojCCBYqgAwIBAgIRAKYPe+KaTRvMoqDL5FIuAY8wDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UEAww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4xDzANBgNVBAcMBkFNQkFUTzAeFw0yNTA4MDIxNzIzMDBaFw0yNzA4MDIxODIzMDBaMIHbMS0wKwYDVQQFEyQ0ODNkZWJlZi02ODE2LTQ5MzQtYmVmZi03MTdjYWY0YTAxNjgxKTAnBgkqhkiG9w0BCQEWGmlnbmFjaW9iYXJ6b2xhNzVAZ21haWwuY29tMSMwIQYDVQQDExpYQVZJRVIgQVJUVVJPIE1PUkEgREVMR0FETzEwMC4GA1UECxMnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMRswGQYDVQQKExJGSVJNQVNFR1VSQSBTLkEuUy4xCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn5Q/PLoyuBx0dr8seY3FK0YpoDMu3PEQP7lAfjugy7IZU04y1MfDToarlvyfvcVcRIbnWqlPy/w77e77+J6Yv7LAzsart3BIkRuS74uvlPAtcaxaRsqyQacsUlgKmiTSH/xHZKZ1nZuTZ8uKCNmN2HzvUoQtdrt9Hj5uuS6io5yNHUSjV1n1QOtv0cxNNKbdNcVtfYkrp58Od8EN+7lqgQq7x1N2aKnA3fy6bN7KmFIcs2IvUgTAWbBDUEqKwwHDdrSskXSFynlpspbTaQrf5GX9MUkwz3iFym6axqy7qfz4DxFaTCGh5ZmyNhO2dSyFa8oXyph45o4jx4KF9WR3sQIDAQABo4ICdjCCAnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBQTRpNoCa7XJIczRWMmd9+sXl6KUTAdBgNVHQ4EFgQU3pE0qSkB6OXQ5KwGktL7PfHxm/owWgYDVR0fBFMwUTBPoE2gS4ZJaHR0cDovL2NybC5maXJtYXNlZ3VyYWVjLmNvbS9jcmwvY2NjZTVhNGYtNmI2OC00NmZjLWE2MjAtNGFiY2M0YzRhNjkwLmNybDA5BggrBgEFBQcBAQQtMCswKQYIKwYBBQUHMAGGHWh0dHA6Ly9vY3NwLmZpcm1hc2VndXJhZWMuY29tMBoGCisGAQQBg955AwEEDBYKMDkxNzcxMDEzOTAdBgorBgEEAYPeeQMCBA8WDVhBVklFUiBBUlRVUk8wFAYKKwYBBAGD3nkDAwQGFgRNT1JBMBcGCisGAQQBg955AwQECRYHREVMR0FETzAnBgorBgEEAYPeeQMHBBkWF0dVQVlBUyBHVUFZQVFVSUwgWElNRU5BMBwGCisGAQQBg955AwgEDhYMNTkzOTg2NzkxMzk0MBkGCisGAQQBg955AwkECxYJR1VBWUFRVUlMMBMGCisGAQQBg955AwwEBRYDRUNVMIGcBgNVHSAEgZQwgZEwUAYLKwYBBAGD3nkCAQEwQTA/BggrBgEFBQcCARYzaHR0cHM6Ly9maXJtYXNlZ3VyYWVjLmNvbS9wb2xpdGljYXNfcGVyc29uYV9uYXR1cmFsMD0GCysGAQQBg955AgIBMC4wLAYIKwYBBQUHAgIwIAweQ2VydGlmaWNhZG8gZGUgUGVyc29uYSBOYXR1cmFsMA4GA1UdDwEB/wQEAwIF4DANBgkqhkiG9w0BAQsFAAOCAgEAJrCP2Va65CtYK4BjPFX0WPCYGJt5cfM0+U3ARDp9cyg9dmcrWrUDVAogMUYjLOr/Uf75QlpLWpfNC1c1fqBA3Hs5blXAmGennKoIPL2GwsUSY0B+YMy6Gx1WISDJiAIZiSMORd2jMgq/68okvDzKoDJcGW0kG4mBxcUx3THjaOAdRVHSc3qW93IH1fRrMwUM08K6Q8QKLrnNS8ZtFRIhX6Lx2DRT4tVUkHZyvzAocu6bGMLt1F8BlKbT5coRff8qPK2oRSCf0kGX0byFARY9HioU8akZrfa3H1GZR+U+96rV9WS9Ur5c6SHUVa9+02xuHlkj9Hv0JVzRpE96bIE9hErP/1hN83QPo1yemPoauB+9blhra4hpHuqP1sxLrKBIWtrid44nxtUCTe8wZABIX17eDQgCZp3qX2Xk1EufA3tuN7xOiKczVakjroj6TLYnhKiJxxAlaStrs00nfEUZHu19IugjKs5K3DhhCsZh6AQsiC23Nv1eO0rm80cMV2jyNDcZdzPAUWoS9tkd1dznAkU/xk6wXd5mfMeykmyvtgMogmdllYFntIgn0MKISNyQwcgWrEdv4pAO7yJqbFyOHu/x8jyKjOKRAkwz8mVDiq8xm0hyC6ug23n0u7+scBEDD/+lyo6uJIr+2lkfylZPhK3XnWCOm6HOFhLD1i96nEU=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-9ee9cd70-dec5-4da8-bdef-d90510ba8758"><xades:SignedProperties Id="xmldsig-9ee9cd70-dec5-4da8-bdef-d90510ba8758-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-06T20:26:22.381-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>sQWdoKtTi5l8xrDPUaF0pwMfq2uQWhjK/XV6qQv4p78=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>220732244442873944775009257063464173967</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-9ee9cd70-dec5-4da8-bdef-d90510ba8758-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1902202601092051788500120010010000004559846951118</numeroAutorizacion>
+<fechaAutorizacion>2026-02-19T14:27:19-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>BUCHELI RUIZ MARIA CRISTINA</razonSocial>
+    <nombreComercial>BUCHELI RUIZ MARIA CRISTINA</nombreComercial>
+    <ruc>0920517885001</ruc>
+    <claveAcceso>1902202601092051788500120010010000004559846951118</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000455</secuencial>
+    <dirMatriz>#SOLAR 8  / TARQUI / GUAYAQUIL / GUAYAS</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>19/02/2026</fechaEmision>
+    <dirEstablecimiento>001</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Maria Judith Herrera Torres</razonSocialComprador>
+    <identificacionComprador>0925925026</identificacionComprador>
+    <direccionComprador>Urb. Laguna del sol</direccionComprador>
+    <totalSinImpuestos>70.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>70.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>70.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>70.00</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>1990</codigoPrincipal>
+      <codigoAuxiliar>1990</codigoAuxiliar>
+      <descripcion>terapia física en hombro derecho por lesión del ligamento glenohumeral, realizadas los días 11 y 16 de febrero del 2026</descripcion>
+      <cantidad>2.000000</cantidad>
+      <precioUnitario>35.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>70.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>70.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">Urb. Laguna del sol</campoAdicional>
+    <campoAdicional nombre="Email">maju_ht@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Teléfono">0939987492</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature252640">
+<ds:SignedInfo Id="Signature-SignedInfo435335">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID407964" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature252640-SignedProperties420843">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>+1lEtZAxRaY5pT73LuUUfa9PZi8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1140094">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>NQddJwgcBz6s4LM6w7LITuLpxQY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-749043" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>dmqeNa1tmUYDVGMf3Ck0sh4yclg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue289851">
+QbdaHd6M6//8/yMHTDO0qgdZfTakNAIbLcfhl8V45iMSC6dlh8rv7nrSBHyIPzEU3t4lAxRrfC41
+X5alXctKoMe60MjMK7cNBkVMPqU0z1oIGlIValG8x97XCNgN0cugPC8IRlf8d5kFPA6Ki3MkpNkR
+B4+FBbSt462m0ZnpKyOvyIy/P1j4Vh9ChyMNhRLHfQvImdEsiMSYLPwwUlij6gCTQRLQFCUpeDMM
+zaNICLAgvIqvxjCiP2DpKZvA9TQel0t/Qzx4Tk6Q6drq/tqbreFE55Pj4zjuu1lVB0lBftsYKrLh
+ruLmiaDvCJ2Vy+/0xIVTgmh+RuHnvZ0XPyPVPw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1140094">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJLjCCBxagAwIBAgIIR+fPcZU68JEwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MDkwNjAxMTMwMFoXDTI2MDkwNjAxMTMwMFowgZwxCzAJBgNVBAYTAkVDMRUwEwYDVQQEDAxC
+VUNIRUxJIFJVSVoxFzAVBgNVBCoMDk1BUklBIENSSVNUSU5BMRkwFwYDVQQFExBJRENFQy0wOTIw
+NTE3ODg1MSQwIgYDVQQDDBtNQVJJQSBDUklTVElOQSBCVUNIRUxJIFJVSVoxHDAaBgNVBGEME1RJ
+TkVDLTA5MjA1MTc4ODUwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQChlBJtBtlP
+RoclOIQrDHtJX3oq1fg8V/E6vbAEutynTnSZGIlhALk8LEZHFa/iwwEbkUxltOTRicCqHkvSr2X1
+qi+VAhGQD4f0Emzu3I0RIoAPJs7EqX298O8Ut7/kFBj9JkWrdg/TbrFxF392tSYHWQzQwVGRRGs1
+kbduIO8b2e7AthgP5tvStwBFOY9LylgE8icv7xFvdYUUqjPB/+dG7GbWF7L6ZNBe0I8P0/Rg135x
+XUSHORu+FC8MnuRSqf2anl70xo0ZX57z1qSm9Vm/LFN9S8YMVDSDYGYWZQDJa2Zu3oXVmKTOx/uD
+WBCECYVnAYoq6WUunIUZmshIRRwRAgMBAAGjggRUMIIEUDAbBgsrBgEEAYLxNmYDAQQMDAowOTIw
+NTE3ODg1MB4GCysGAQQBgvE2ZgMLBA8MDTA5MjA1MTc4ODUwMDEwgdcGCCsGAQUFBwEBBIHKMIHH
+MFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNw
+X2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEu
+dWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51
+YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUPo1I9AqSikPirnd2HCcS4LD9
+W38wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0g
+BIGRMIGOMIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQ
+RVJTT05BIE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpo
+dHRwOi8vY3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3Js
+MECgPqA8hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3Jk
+aW5hZGEuY3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQw
+ggGKBgNVHREEggGBMIIBfYEaY3Jpc3RpbmFidWNoZWxpckBnbWFpbC5jb22gGwYLKwYBBAGC8TZm
+AwGgDAwKMDkyMDUxNzg4NaAfBgsrBgEEAYLxNmYDAqAQDA5NQVJJQSBDUklTVElOQaAYBgsrBgEE
+AYLxNmYDA6AJDAdCVUNIRUxJoBUGCysGAQQBgvE2ZgMEoAYMBFJVSVqgOQYLKwYBBAGC8TZmAweg
+KgwoXCNTT0xBUiA4ICAvIFRBUlFVSSAvIEdVQVlBUVVJTCAvIEdVQVlBU6AfBgsrBgEEAYLxNmYD
+CKAQDA4wMDU5MzkzOTk4NzQ5MqAaBgsrBgEEAYLxNmYDCaALDAlHVUFZQVFVSUygHgYLKwYBBAGC
+8TZmAwugDwwNMDkyMDUxNzg4NTAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYD
+MqAaDBhQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzAN
+BgkqhkiG9w0BAQsFAAOCAgEAWqef4QNM0etCDGaImDd0UTlxXWi8hEDny+qy2neG0ZR1IacT2w9S
+DSh9GHWQiQHoFhPM/NCiaHDc10HVvk0ezJtWlawcih37hNgq7ap6o/H0XaFOk4eW18IXwiXQg61Y
+l4zbHmm0B2yIowfWINiqKy3dBBoK3CLV59jveyn3vBi/cAQyLCCIlDixnd5bF8wNOL7gIMoRQWIk
++DFjGuMVA3i4GTkp6YkSrSKQByE1k6RuwbjzvuKuq6phnI/LDHwYAhOddQ/vir7CNXhbB48KZf5y
+u+yKdXNkcT1JrqgdxvjHJTtBvgafm/nYcXwCBJXPgEaodOVKl89SWprWAy62q/z9aDy127Sf/pv3
+PM8UgdYRdFpMchlohBs5yG7ZkVinpJIM0o4KLs4ZDWJOz8T+PQqggx13coe/6Dwt/uFC81erTU81
+viYqG9O94lgA3vB/HSzYYaZcz1llS/UrFqh6573pUWEqGzIV/mWpirMIpCdaN9B0pyNKy+hPox22
+y9lXjJpUccrDLi2Xcgja9pfPb7kOJO5/muD6o+/SSYEO1ImytJYpb0ejbRGYAvjeLkXbeNJXIR++
+mg0TnFEYq5JpfrVj4pLQLFCGpq8Kx8nEvd9cZnMLzk08kpDKbkmcPE3FyTZssLv/UU++Y3VDGH6z
+Lw/ShlpRTdzjAPOEs7TQBVE=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+oZQSbQbZT0aHJTiEKwx7SV96KtX4PFfxOr2wBLrcp050mRiJYQC5PCxGRxWv4sMBG5FMZbTk0YnA
+qh5L0q9l9aovlQIRkA+H9BJs7tyNESKADybOxKl9vfDvFLe/5BQY/SZFq3YP026xcRd/drUmB1kM
+0MFRkURrNZG3biDvG9nuwLYYD+bb0rcARTmPS8pYBPInL+8Rb3WFFKozwf/nRuxm1hey+mTQXtCP
+D9P0YNd+cV1EhzkbvhQvDJ7kUqn9mp5e9MaNGV+e89akpvVZvyxTfUvGDFQ0g2BmFmUAyWtmbt6F
+1Zikzsf7g1gQhAmFZwGKKullLpyFGZrISEUcEQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature252640-Object759624"><etsi:QualifyingProperties Target="#Signature252640"><etsi:SignedProperties Id="Signature252640-SignedProperties420843"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-19T14:27:16-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>YdfkuIJLrkSsc/YnxcWOSXxvB1E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>5181337983054966929</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-749043"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

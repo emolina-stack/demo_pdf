@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1403202601099135311900120250060000396519754210410</numeroAutorizacion>
+<fechaAutorizacion>2026-03-14T09:12:38-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>International Laboratories Services Interlab S.A.</razonSocial><nombreComercial>INTERLAB S.A.</nombreComercial><ruc>0991353119001</ruc><claveAcceso>1403202601099135311900120250060000396519754210410</claveAcceso><codDoc>01</codDoc><estab>025</estab><ptoEmi>006</ptoEmi><secuencial>000039651</secuencial><dirMatriz>Calle Emma E. Ortiz Bermeo Mz. 14 Solar N° 2 y Av. Justino Cornejo (Frente al Parque Japonés)</dirMatriz></infoTributaria><infoFactura><fechaEmision>14/03/2026</fechaEmision><dirEstablecimiento>AV. BOMBERO FRENTE A LA GASOLINERA PRIMAX EDIFICIO C. HOSPITALARIO INTERHOSPITAL</dirEstablecimiento><contribuyenteEspecial>1305</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>LANDUCCI LEON VIVIAN PAOLA</razonSocialComprador><identificacionComprador>0912809662</identificacionComprador><direccionComprador>BELOHORIZONTE MZ 9 V 12</direccionComprador><totalSinImpuestos>37.1300</totalSinImpuestos><totalDescuento>6.5500</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>37.1300</baseImponible><valor>0.0000</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>37.1300</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>37.1300</total><plazo>0</plazo><unidadTiempo>Días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>ORDEN</codigoPrincipal><descripcion>TICKET PARA LA ORDEN Y FLEBOTOMISTA</descripcion><cantidad>1</cantidad><precioUnitario>0</precioUnitario><descuento>0.0000</descuento><precioTotalSinImpuesto>0.0000</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.0000</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>HEM</codigoPrincipal><descripcion>BIOMETRIA HEMATICA EN SANGRE TOTAL CON DIFERENCIAL</descripcion><cantidad>1</cantidad><precioUnitario>10.2</precioUnitario><descuento>1.5300</descuento><precioTotalSinImpuesto>8.6700</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>8.6700</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>AZO</codigoPrincipal><descripcion>UREA</descripcion><cantidad>1</cantidad><precioUnitario>3.4</precioUnitario><descuento>0.5100</descuento><precioTotalSinImpuesto>2.8900</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.8900</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CR</codigoPrincipal><descripcion>CREATININA</descripcion><cantidad>1</cantidad><precioUnitario>3.4</precioUnitario><descuento>0.5100</descuento><precioTotalSinImpuesto>2.8900</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.8900</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>AU</codigoPrincipal><descripcion>ACIDO URICO</descripcion><cantidad>1</cantidad><precioUnitario>3.4</precioUnitario><descuento>0.5100</descuento><precioTotalSinImpuesto>2.8900</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.8900</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>TGO</codigoPrincipal><descripcion>G O T ( A S T)</descripcion><cantidad>1</cantidad><precioUnitario>3.4</precioUnitario><descuento>0.5100</descuento><precioTotalSinImpuesto>2.8900</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.8900</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>TGP</codigoPrincipal><descripcion>G P T ( A L T )</descripcion><cantidad>1</cantidad><precioUnitario>3.4</precioUnitario><descuento>0.5100</descuento><precioTotalSinImpuesto>2.8900</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.8900</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>IGE</codigoPrincipal><descripcion>I G E</descripcion><cantidad>1</cantidad><precioUnitario>16.48</precioUnitario><descuento>2.4700</descuento><precioTotalSinImpuesto>14.0100</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>14.0100</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="ORDEN">60558759</campoAdicional><campoAdicional nombre="PACIENTE">SEBASTIAN ANDRES FERAUD LANDUCCI</campoAdicional><campoAdicional nombre="CAJERO">1820</campoAdicional><campoAdicional nombre="EMAIL">vivian_landucci@hotmail.com</campoAdicional><campoAdicional nombre="REFERENCIA">025006000039651</campoAdicional><campoAdicional nombre="DIRECCION">BELOHORIZONTE MZ 9 V 12</campoAdicional><campoAdicional nombre="CONVENIO">MAS ECUADOR CONTADO</campoAdicional><campoAdicional nombre="GRAN CONTRIBUYENTE">Oficio N°  NAC-AGCOGEC22-00000799-M</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature547417">
+<ds:SignedInfo Id="Signature-SignedInfo546271">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID612857" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature547417-SignedProperties230763">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6+H2zSwi8nivLQX3/XENqcNPUr0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1852402">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>jx+vmEiyfaH9mhf4ZiQ1VkaVmHc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-166534" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ofv5rRYLohdD4THVAmPdAVxB26U=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue53549">
+DNOX4WLPvcK3Ub0xOYTLr5zSEkh0f/koqbSzvdErSUezc920Q5UfQUO9bXah5V+gfts8GvEMkFCd
+e6lY3WBZa0GkGWxR1x7s0RA8Uopg9quIwPOKRHshXIRfcNpfMHTY+XKixR1Z9C+D1O0v1nTQs8mx
+zU9ykzOAAFdkJOmxvSJ7tkqwXcidPbT560NC7yKB5KJ6AlA1DyrzMpUsTvElBnylRnaVdP7Yp+oA
+i1s1QrMOyBscNDyM5b5DQrXMePEQ7I7rFk50yqm1Xe2dtcX+en0kxk6ZcSUGaQeoavybGAz6kA3N
+vltPnqldI8d154fnN9fkGRqnjq8qpTt7i7PHnQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1852402">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKFzCCB/+gAwIBAgIEZedxgzANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI1MTEyNzE4MTQyOVoXDTI3MTEyNzE4NDQy
+OFowgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE3MBEGA1UEBRMKMDAwMDE0MTkwODAiBgNVBAMTG0pFTk5ZIE1BQkVMIFlV
+R0NIQSBaQU1CUkFOTzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBALLkrA00I6Cn9WIk
+NE5pCwLudLd+dX9sgqJeZg/82+ajCfEBFCgLSS5xLFoL41DDwVilS378ny4G75Q2VyqSQ9eEYS46
+IpliNp2WfJocpTcKnltoht11ewnEHKhNk/kbeP9Dd7MLgPJlOrxI3R4Ub7o/FnbtUvSlvoXGOrKT
+NhlheGssrzBOLaE3tG2rYb7lk7xQrHZUYhEGrnZ2sMZsSiuGlWD7ntXLo3TU47xq0S4gfw8gPXGP
+cksDTQ4+qMT3Rju6bfApp51VMASpc9ol7996SWMf3GH173pnFIPDMzQAHhkL3ND/OlMwhoo0maM9
+MD0LxDDC41HOFRQFQPsvVpcCAwEAAaOCBUEwggU9MAsGA1UdDwQEAwIGwDBnBgNVHSAEYDBeMFwG
+CysGAQQBgqg7AgIBME0wSwYIKwYBBQUHAgEWP2h0dHA6Ly93d3cuZWNpLmJjZS5lYy9wb2xpdGlj
+YS1jZXJ0aWZpY2Fkby9wZXJzb25hLWp1cmlkaWNhLnBkZjCBkQYIKwYBBQUHAQEEgYQwgYEwPgYI
+KwYBBQUHMAGGMmh0dHA6Ly9vY3NwLmVjaS5iY2UuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9v
+Y3NwMD8GCCsGAQUFBzABhjNodHRwOi8vb2NzcDEuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3AwQQYKKwYBBAGCqDsDCgQzEzFJTlRFUk5BVElPTkFMIExBQk9SQVRPUklFUyBT
+RVJWSUNFUyBJTlRFUkxBQiBTLkEuMB0GCisGAQQBgqg7AwsEDxMNMDk5MTM1MzExOTAwMTAaBgor
+BgEEAYKoOwMBBAwTCjA5MTAzMjE3ODUwGwYKKwYBBAGCqDsDAgQNEwtKRU5OWSBNQUJFTDAWBgor
+BgEEAYKoOwMDBAgTBllVR0NIQTAYBgorBgEEAYKoOwMEBAoTCFpBTUJSQU5PMCEGCisGAQQBgqg7
+AwUEExMRQ09OVEFET1JBIEdFTkVSQUwwLwYKKwYBBAGCqDsDBwQhEx9DT09QLiBBTEFNRURBIE1a
+TkEuIEctMiBTT0xBUiA2MBkGCisGAQQBgqg7AwgECxMJMDQyNTk0MDEwMBkGCisGAQQBgqg7AwkE
+CxMJR1VBWUFRVUlMMBcGCisGAQQBgqg7AwwECRMHRUNVQURPUjAgBgorBgEEAYKoOwMzBBITEFNP
+RlRXQVJFLUFSQ0hJVk8wJgYDVR0RBB8wHYEbY29udGFiaWxpZGFkQGludGVybGFic2EuY29tMIIB
+4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5iY2UuZWMv
+Y249Q1JMMjMwMyxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1IsbD1RVUlU
+TyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lPTi1FQ0lC
+Q0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNhdGVSZXZv
+Y2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2VfZWNfY3Js
+ZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VOVFJBTCBE
+RUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRSQUwgREVM
+IEVDVUFET1IxEDAOBgNVBAMTB0NSTDIzMDMwKwYDVR0QBCQwIoAPMjAyNTExMjcxODE0MjlagQ8y
+MDI3MTEyNzE4NDQyOFowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYDVR0OBBYE
+FBaJIwa3HFWdanVZy/Hx5O9aMv/RMAkGA1UdEwQCMAAwGgYJKoZIhvZ9B0EABA0wCxsFVjEwLjAD
+AgQwMA0GCSqGSIb3DQEBCwUAA4ICAQAu17vybX4mEI+djenEnq9VtT9dQVPtXmsg/IWa8HqkM91V
+DUS3VJGcAEz7S+e20hwJReFdz1Zq4C/2NolcFRBqIOEANUHUGCliWsypEx5C4hhqPZEQhTazSKk2
+60Ad8BzIwOyLMdabbDm/NstOqjc2MHAHHIhA0OHn0oyOv1lx0DmHjMPXUcrWLiujaplb1r7yQDyu
+Yve+Ssklu79P2ZwuTIq5rcR375UqNx8X80H7fxjfzZExTeDh3yvph+9cuoYrb7Nb+o+brdCiD8/a
+w86/u1IrBHu7UpWaacSaArTKaHqnjv/RyWU7VSIcm/And/67BP34ZhZeg/5kSSccopigpQ7ikEx8
+AJz6llF2EETXScD+LfN1DtbojoIJpU4NrrSRlZA7ezhLo2YweI3IbglBItT12ZxNZkj1OrucNik0
+FiCyBHqwvZ0VLkENaCgpBGJnqAq7QOsmt1KgOuUNhi3AYYCB2xolci6X5hzCcp7xA7/+xccqTTL6
+HBcoGyTeyTNEDfDeI6S/D6sWIYdzhRDAwtcQdSV3BeZMDrNADYYBWAw449Vs7QD+zLw4xcd7SZoz
+hxEJ/GHnFWq7bcVsGZeqzvE1sVsB2SXJlzdvrRahN/ME9EtYt5Py8O8Sa1NDu+eZSka5dAJBaWjo
+GobzZuuv0RWVG1/t55efVr2l+1x/oQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+suSsDTQjoKf1YiQ0TmkLAu50t351f2yCol5mD/zb5qMJ8QEUKAtJLnEsWgvjUMPBWKVLfvyfLgbv
+lDZXKpJD14RhLjoimWI2nZZ8mhylNwqeW2iG3XV7CcQcqE2T+Rt4/0N3swuA8mU6vEjdHhRvuj8W
+du1S9KW+hcY6spM2GWF4ayyvME4toTe0bathvuWTvFCsdlRiEQaudnawxmxKK4aVYPue1cujdNTj
+vGrRLiB/DyA9cY9ySwNNDj6oxPdGO7pt8CmnnVUwBKlz2iXv33pJYx/cYfXvemcUg8MzNAAeGQvc
+0P86UzCGijSZoz0wPQvEMMLjUc4VFAVA+y9Wlw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature547417-Object833508"><etsi:QualifyingProperties Target="#Signature547417"><etsi:SignedProperties Id="Signature547417-SignedProperties230763"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-14T09:12:22-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>NWMvK95GCATNixJKkCr/ivcJKwE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709666691</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-166534"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1612202501010550582000120010010000003669846951116</numeroAutorizacion>
+<fechaAutorizacion>2025-12-16T13:12:53-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>ESTEVES ZAPATA LILLY KATHERINE</razonSocial>
+    <nombreComercial>ESTEVES ZAPATA LILLY KATHERINE</nombreComercial>
+    <ruc>0105505820001</ruc>
+    <claveAcceso>1612202501010550582000120010010000003669846951116</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000000366</secuencial>
+    <dirMatriz>AV. EDGAR CORDOVA #S/N Y SANTA CATALINA / MACHALA / MACHALA / EL ORO</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>16/12/2025</fechaEmision>
+    <dirEstablecimiento>AV. EDGAR CORDOVA Y SANTA CATALINA</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>ALVARADO VASQUEZ MARIA PIEDAD</razonSocialComprador>
+    <identificacionComprador>0702409814</identificacionComprador>
+    <direccionComprador>GUABO #1608 Y AVENIDA LAS PALMERAS, MACHALA</direccionComprador>
+    <totalSinImpuestos>60.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>60.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>60.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>60.00</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>001</codigoPrincipal>
+      <codigoAuxiliar>CONSULTA</codigoAuxiliar>
+      <descripcion>HONORARIOS POR CONSULTA MÉDICA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>60.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>60.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">GUABO #1608 Y AVENIDA LAS PALMERAS, MACHALA</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0994421579</campoAdicional>
+    <campoAdicional nombre="EMAIL">mapialvarado@hotmail.com</campoAdicional>
+    <campoAdicional nombre="CITA">15 DE DICIEMBRE DE 2025</campoAdicional>
+    <campoAdicional nombre="DIAGNOSTICO">M531 - SINDROME CERVICOBRAQUIAL</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature248007">
+<ds:SignedInfo Id="Signature-SignedInfo917543">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID143035" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature248007-SignedProperties728127">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>4jeDjf/206gORcRw4iEY+Txhobs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1219422">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ur1sT2eQz9ctNXQsaH6EW59oc10=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-770267" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HPXtaMzq7Pgk4ay+c2eDQ91JzFY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue216087">
+XMDg0Vj7bcVQwhE4x3koGbZO182aA5rWWESR+nR73s/6ZKipQzeGJN13EOYe1H3KRdIGHgiCLttm
+7GD1MhF/r4lyA178pkJRco9P5AJlVTa4+u7tNbGyHuMVik20ZmUpMPzNANHQMfqswbEwwWlsUa4F
+E5IUIkzISN+MVbzdsThZJu0rjta4DI6uIrT/13RTi21YwJP5mehkAOXqxRtfY98l77KDuhHOD7ko
+tYmqxtdMMkUrNriBvYA+V0l92fcBhFsdhe9z/4viN1kjIE/kq7urkmBl0FmdVCJQduvqnHRQfmXY
+7IWIglssRn3HgFW8JNg33n/JvIx5ia5nDNFXhw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1219422">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL/TCCCeWgAwIBAgIEOwYTCDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMjIwMjMxNTlaFw0yNjExMjIwMjMxNTlaMIGpMScw
+JQYDVQQDDB5MSUxMWSBLQVRIRVJJTkUgRVNURVZFUyBaQVBBVEExIDAeBgNVBAUTFzAxMDU1MDU4
+MjAtMjExMTI0MjE0MTU0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO7aEtUXgXlrww9U/jFJ1fNUDS3G6aeq08jM2yy8
+92UMvFdqRZXbdUMxvdgVivAGyvKb2acfuISsj7Er5JtV2/sbgTVgaaxALDa5KXEKr0duy1vom5LJ
+mRHT5rApOHphXZeh9DCL4ZUiSRWqyW94UsxZ4vZKE6jJ2Gj0/xlklLRIk8i7o2oDwlXF1BqiZzTj
+qe8lfURuM/jdunzBEIB5EW1JVNxzwIhrbKDzPqq1rtCmbakJWE6rLhpZ9tjXoCek/lvzJpfHkWkE
+Cyfo3zjpLc53ilTI70LtTEnyptuqu7iWfCPaHUmdyGipOgpj+BE/vMuyz2SD1u2q2Oe/EVR5xDsC
+AwEAAaOCBzkwggc1MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMCQGA1UdEQQdMBuBGWthdGh5X2VzdGV2ZXNAaG90bWFpbC5jb20w
+ggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkA
+ZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYB
+BAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+d3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGlj
+YXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjCCAqIGA1UdHwSCApkwggKVMIHl
+oEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRP
+UklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1F
+Qz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRh
+bC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9j
+ZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJD
+QS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFD
+SU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUulPZPGfA2ElGwlktyDCl
+GMWJkVowKwYDVR0QBCQwIoAPMjAyNDExMjIwMjMxNTlagQ8yMDI2MTEyMjAyMzE1OVowCwYDVR0P
+BAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMDEwNTUwNTgyMDAeBgorBgEEAYKmcgMJBBAMDkxBIFBS
+T1ZJREVOQ0lBMBEGCisGAQQBgqZyAyIEAwwBLjA/BgorBgEEAYKmcgMHBDEML0FWIEVER0FSIENP
+UkRPVkEgUCBTIE4gWSBTQU5UQSBDQVRBTElOQSBMQUJPVVJFMB8GCisGAQQBgqZyAwIEEQwPTElM
+TFkgS0FUSEVSSU5FMB8GCisGAQQBgqZyAyAEEQwPMDA2MDAxMDAwMDc5MzkwMBEGCisGAQQBgqZy
+AyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwFwYK
+KwYBBAGCpnIDAwQJDAdFU1RFVkVTMBYGCisGAQQBgqZyAx4ECAwGTUVESUNPMB0GCisGAQQBgqZy
+AwsEDwwNMDEwNTUwNTgyMDAwMTARBgorBgEEAYKmcgMdBAMMAS4wFgYKKwYBBAGCpnIDBAQIDAZa
+QVBBVEEwGgYKKwYBBAGCpnIDCAQMDAowOTk1NzA5MTkyMA0GCSqGSIb3DQEBCwUAA4ICAQDCM5Yp
+lLV6BFFZCevxpVWNHxvnRCwWwCSzNLV6RrvrwSAq/i0cz0N0c4tJIMAqffC5+kSAoJwilxleC1b4
+W8JcmitbdTfexeKjA2CMlZ3MBcszBHRT+fdyxtnOljJO6IJTnDn2FcAf1n8UIIEkKVU5K380N2CD
+ekqgFkPXqhDtJIP6fAT7x1+vJVvNdXoqYVLaJKsrAGYkhQSdFWfmxhy38D/Kq8PNHhMSTYpwigIB
+jYN1QxzIOHT+6bSa+Vi4l1aDAtp4OmXXwLtaj0rtmrHdkNRF1VV6mx5ybiDredoKk7tjFwsZVmdn
+iVwuX1Y7nL6wBc0fT4whz1r4TYX8aBhGxJAP5PPsxty9Wr7siEnbMeD1bc8iA2PHbCdJWY3cIeRA
+Yo7nAN0Cvli5P3MYkBykgwSE61H54e2Abc7TjdMGeUnPhxGj+naDGY8bToJfca6f3KXTE/wlqs7Z
+1H3YcUnvk8oe0YgjMmN2pSFIyo1d4GSgw39eBf1QeSwVR89HpTZPqO9d1n8WztmfNXjIBP4jXQu0
+Wr0sXPbB/2BEuOoGHA9trPsLkj+DnihYHgTnTWX1lIhbsaNhb29S7Q9tNpaGG2WRIcwEF/8d6Bxe
+611VorYiZmpJ9dOyzv/zGojRSRMD633Tly4s1g0Hz8m2TOSc65HwRZkWSaaT0PBWP3yYMQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+7toS1ReBeWvDD1T+MUnV81QNLcbpp6rTyMzbLLz3ZQy8V2pFldt1QzG92BWK8AbK8pvZpx+4hKyP
+sSvkm1Xb+xuBNWBprEAsNrkpcQqvR27LW+ibksmZEdPmsCk4emFdl6H0MIvhlSJJFarJb3hSzFni
+9koTqMnYaPT/GWSUtEiTyLujagPCVcXUGqJnNOOp7yV9RG4z+N26fMEQgHkRbUlU3HPAiGtsoPM+
+qrWu0KZtqQlYTqsuGln22NegJ6T+W/Mml8eRaQQLJ+jfOOktzneKVMjvQu1MSfKm26q7uJZ8I9od
+SZ3IaKk6CmP4ET+8y7LPZIPW7arY578RVHnEOw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature248007-Object71691"><etsi:QualifyingProperties Target="#Signature248007"><etsi:SignedProperties Id="Signature248007-SignedProperties728127"><etsi:SignedSignatureProperties><etsi:SigningTime>2025-12-16T13:12:50-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>uGxGgLiJGtPsfDLuNyoxePontYk=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>990253832</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-770267"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

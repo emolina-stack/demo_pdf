@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2103202601091198950700120010010000081089846951117</numeroAutorizacion>
+<fechaAutorizacion>2026-03-21T12:14:41-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MAYON RUIZ SHIRLEY DEL ROCIO</razonSocial>
+    <nombreComercial>MAYON RUIZ SHIRLEY DEL ROCIO</nombreComercial>
+    <ruc>0911989507001</ruc>
+    <claveAcceso>2103202601091198950700120010010000081089846951117</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>001</ptoEmi>
+    <secuencial>000008108</secuencial>
+    <dirMatriz>CDLA. KENNEDY NORTE, AV. JOSÉ CASTILLO, EDIF. MEDICAL PLAZA, PISO 1, CONSULTORIO 102</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>21/03/2026</fechaEmision>
+    <dirEstablecimiento>CDLA. KENNEDY NORTE, AV. JOSÉ CASTILLO, EDIFICIO MEDICAL PLAZA, PISO 1, CONSULTORIO 102</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>JEANNINE ADELA MENDOZA SAN MIGUEL</razonSocialComprador>
+    <identificacionComprador>0918613696</identificacionComprador>
+    <direccionComprador>URB. LA JOYA ETAPA PERLA MZ 2 VILLA 31</direccionComprador>
+    <totalSinImpuestos>60.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0.00</descuentoAdicional>
+        <baseImponible>60.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>60.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>60.00</total>
+        <unidadTiempo>dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>001</codigoPrincipal>
+      <descripcion>Consulta Pediátrica</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>60.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>60.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">URB. LA JOYA ETAPA PERLA MZ 2 VILLA 31</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0989838531</campoAdicional>
+    <campoAdicional nombre="EMAIL">jeannine30@gmail.com</campoAdicional>
+    <campoAdicional nombre="CIE 10: J01">Rinosinusitis Aguda</campoAdicional>
+    <campoAdicional nombre="CIE 10: J303">Otras rinitis alérgicas</campoAdicional>
+    <campoAdicional nombre="CIE 10: L282">Otros prurigos</campoAdicional>
+    <campoAdicional nombre="Paciente:">Miguel Alberto Mora Mendoza</campoAdicional>
+    <campoAdicional nombre="Especialista:">Dra. Shirley Mayon - Pediatra</campoAdicional>
+    <campoAdicional nombre="GENERAL">Contribuyente Régimen General</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature575620">
+<ds:SignedInfo Id="Signature-SignedInfo279330">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID980169" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature575620-SignedProperties307441">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>o+/RviswnfNYwdYB7wfyQwbMdWA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1588699">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>JU2mEytxQPgeYTw4o7PutNc/G0g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-8584" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>wsZEC5pHrQsb1kXWGgQJplJV3ok=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue205599">
+tFo40CAnxSx6P1TS/h+RBSLzEX+rFkU1Sx+TtvjYAnAwb5MNPUStn6xKP9ub2tmeW43hNWUEoRjn
+RLhBPS03YaVJNsDHjPVDROflxPa3srf5BmiOl0FsomS07y8Pu8/wQlLiyg7dzknS45dcHwSGCBsC
+wHkFbs0+YC8EuE1IzVl9sjKv9+1rlk3xgVLMZ1ZGJPItEU2ekjbDyxGxgVSgTl2+9AFln2Q6/9Fm
+JsTqJ1TCl6kZycibeLTph2WVV6AlmhuHbwAN3GGFGUDzilUspyNwH1BBvxhAyM2y5SUW9q9qKook
+7dygx/w8Z2jRM+8nk7XE0U7rrQECt/xJVkp60Q==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1588699">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJXTCCB0WgAwIBAgIIIaEBhH39nMAwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI2MDIwOTE3MTQwMFoXDTI3MDIwOTE3MTQwMFowgZ4xCzAJBgNVBAYTAkVDMRMwEQYDVQQEDApN
+QVlPTiBSVUlaMRowGAYDVQQqDBFTSElSTEVZIERFTCBST0NJTzEZMBcGA1UEBRMQSURDRUMtMDkx
+MTk4OTUwNzElMCMGA1UEAwwcU0hJUkxFWSBERUwgUk9DSU8gTUFZT04gUlVJWjEcMBoGA1UEYQwT
+VElORUMtMDkxMTk4OTUwNzAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN1/axyq
+bJShRiyprNu769O+VHKqJWELfPJkzjgTAenMjCCq0TY2iOjaITVO5bJxftDJxJPvw9qdkk6AT2e/
+DUvqKMYPhYD4ukwKVoszV4ywCv8h8sApXPsI4kCTLnHvBWyVIZ3HvjI+iASIdgagQ6UtAjwtRMik
+81vl7Tkr6e9l2FXGdquLGmW5F6NC7Gry1cv9PE82wm94cTE3ND1D33K31xI209P3t3It0lUYC5Mg
+sAVTWmqa6J+qO3bhrM+4l8KjYbdkW8IKNiL21Hfo/sk84w/gE/eLVJmAp91d4/1+I7trliWuhZq7
+V1bnQmIcam0cdNl7sC9IkHxemafqUj8CAwEAAaOCBIEwggR9MBsGCysGAQQBgvE2ZgMBBAwMCjA5
+MTE5ODk1MDcwHgYLKwYBBAGC8TZmAwsEDwwNMDkxMTk4OTUwNzAwMTCB1wYIKwYBBQUHAQEEgcow
+gccwVQYIKwYBBQUHMAKGSWh0dHA6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9kb3dubG9hZC90
+c3BfY2VydGlmaWNhdGVzL3N1Ym9yZGluYXRlMi5jcnQwNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3Nw
+MS51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzA2BggrBgEFBQcwAYYqaHR0cDovL29jc3Ay
+LnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL29jc3AvMB0GA1UdDgQWBBShyR8xHGO+cdAtI2lVdBzg
+NkUJ5zAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFH1X52BzzgdGqeKjaPDhEbJ0knP9MIGZBgNV
+HSAEgZEwgY4wgYsGDCsGAQQBgvE2ZgIBATB7MDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5h
+dGFjYS5jb20vcHVibGljL3BraS9kcGMtZWMvMEAGCCsGAQUFBwICMDQMMkNFUlRJRklDQURPIERF
+IFBFUlNPTkEgTkFUVVJBTCBPIEZJU0lDQSBFTiBBUkNISVZPMIGPBgNVHR8EgYcwgYQwQKA+oDyG
+Omh0dHA6Ly9jcmwxLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJvcmRpbmFkYS5j
+cmwwQKA+oDyGOmh0dHA6Ly9jcmwyLnVhbmF0YWNhLmNvbS9wdWJsaWMvcGtpL2NybC9DQTJzdWJv
+cmRpbmFkYS5jcmwwDgYDVR0PAQH/BAQDAgXgMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcD
+BDCCAbcGA1UdEQSCAa4wggGqgRtkcmEuc2hpcmxleS5tYXlvbkBnbWFpbC5jb22gGwYLKwYBBAGC
+8TZmAwGgDAwKMDkxMTk4OTUwN6AiBgsrBgEEAYLxNmYDAqATDBFTSElSTEVZIERFTCBST0NJT6AW
+BgsrBgEEAYLxNmYDA6AHDAVNQVlPTqAVBgsrBgEEAYLxNmYDBKAGDARSVUlaoGgGCysGAQQBgvE2
+ZgMHoFkMV0NETEEuIEtFTk5FRFkgTk9SVEVcLCBBVi4gSk9TIENBU1RJTExPXCwgRURJRi4gTUVE
+SUNBTCBQTEFaQVwsIFBJU08gMVwsIENPTlNVTFRPUklPIDEwMqAfBgsrBgEEAYLxNmYDCKAQDA4w
+MDU5Mzk4MTUyMTE0NaAWBgsrBgEEAYLxNmYDCaAHDAVEQVVMRaAeBgsrBgEEAYLxNmYDC6APDA0w
+OTExOTg5NTA3MDAxoBMGCysGAQQBgvE2ZgMMoAQMAkVDoCkGCysGAQQBgvE2ZgMyoBoMGFBFUlNP
+TkEgTkFUVVJBTCBPIEZJU0lDQaAYBgsrBgEEAYLxNmYDM6AJDAdBUkNISVZPMA0GCSqGSIb3DQEB
+CwUAA4ICAQABwOiVH+StQePSHToggf6CymOLb0BTCcVHdjgI4qjPtssyC5Go+ZF9FTlk4aP0IwuY
+FXwO8uJtyJPwolOY66dXtw3cuoG2nojA8b2Hx/wmtz6gyV3G6ri+KnL/eQHonx2Qgb4sMnfsp84p
+DLWkXfIssV0mDoFLLZhrMAdItCN8wwdNz9hRxp84hov1+jmDAGIoATlUhsmdydO39cWWYpMl+/JH
+2jgM0KLdmPjlRdI6sHV0XUwiCkkC2TVyCVTdvc6HZnqZPFBUJMdMXcyW8UThX/OCaEwGD4lgkq+1
+Gp9M8YpSQRot2VdKKnDwx/c2cBEq2xaE5TaWfWSwEGorhjWTBbrVvd5pIGZ2GE0kr3dhNDOAKI6y
++xpjaX3cn/4YG6LwhLRtGGQsv55cQt4Avt9r//kwe+pMTKA5qsaZkGsRzSGpHctE+m+Mh1xKgsLf
+wVJ+xo2hISgZZFcuV86VU1xgWJ2Cs+PtYzvfY/s+s6CiRZg5qyhdq+zGZh7ZqMx2+ucyqsl/qVnI
+osuIZ5HtTKRgdpnOQ+MOx/QxgVzIlNGQs35pWT+ncepePgAgAw/9wstyFk6ec5kDpUhwSVOFCDSV
+ToNpnqhSkzNZWT0kyeJHszN6JeYmtAWsjzailJMupB9Gz1zFvHSmmPuW2+tBoJ2JRJs6cnzp6Qos
+bFgH4xaOrQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+3X9rHKpslKFGLKms27vr075UcqolYQt88mTOOBMB6cyMIKrRNjaI6NohNU7lsnF+0MnEk+/D2p2S
+ToBPZ78NS+ooxg+FgPi6TApWizNXjLAK/yHywClc+wjiQJMuce8FbJUhnce+Mj6IBIh2BqBDpS0C
+PC1EyKTzW+XtOSvp72XYVcZ2q4saZbkXo0LsavLVy/08TzbCb3hxMTc0PUPfcrfXEjbT0/e3ci3S
+VRgLkyCwBVNaapron6o7duGsz7iXwqNht2Rbwgo2IvbUd+j+yTzjD+AT94tUmYCn3V3j/X4ju2uW
+Ja6FmrtXVudCYhxqbRx02XuwL0iQfF6Zp+pSPw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature575620-Object787946"><etsi:QualifyingProperties Target="#Signature575620"><etsi:SignedProperties Id="Signature575620-SignedProperties307441"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-21T12:14:37-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>uaoH14TOvpXs49GLDsqMRJiO/xI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2423219743063121088</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-8584"><etsi:Description>DOCUMENTO EMITIDO CON ECUAFACT. LA FACTURACION ELECTRONICA DEL ECUADOR. Visitenos en http://www.ecuanexus.com </etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

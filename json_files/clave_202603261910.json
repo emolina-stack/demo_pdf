@@ -1,0 +1,16 @@
+{
+    "archivo": "202603261910.pdf",
+    "total_paginas": 3,
+    "facturas_encontradas": 1,
+    "facturas": [
+        {
+            "pagina": 2,
+            "autorizacion_json": "2701202601179071031900120950050001185795658032318",
+            "identificacion_comprador_json": null,
+            "razon_social": "MANUEL SUAREZ TAMAYO",
+            "fecha": null,
+            "ruc": "1790710319001",
+            "valor_total": "46.80"
+        }
+    ]
+}

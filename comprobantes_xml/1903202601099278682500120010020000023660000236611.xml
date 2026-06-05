@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1903202601099278682500120010020000023660000236611</numeroAutorizacion>
+<fechaAutorizacion>2026-03-19T19:59:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>BLANKINSA SA</razonSocial>
+      <nombreComercial>BLANKINSA SA</nombreComercial>
+      <ruc>0992786825001</ruc>
+      <claveAcceso>1903202601099278682500120010020000023660000236611</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>001</estab>
+      <ptoEmi>002</ptoEmi>
+      <secuencial>000002366</secuencial>
+      <dirMatriz>Clinica Kennedy Seccion Alfa Consultorio 10 AV SAN JORGE 805</dirMatriz>
+      <contribuyenteRimpe>CONTRIBUYENTE RÉGIMEN RIMPE</contribuyenteRimpe>
+   </infoTributaria>
+   <infoFactura>
+       <fechaEmision>19/03/2026</fechaEmision>
+       <dirEstablecimiento>Clinica Kennedy Seccion Alfa Consultorio 10 AV SAN JORG</dirEstablecimiento>
+       <obligadoContabilidad>NO</obligadoContabilidad>
+       <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+       <razonSocialComprador>FERNÁNDEZ VINTIMILLA  OLGA EULALIA</razonSocialComprador>
+       <identificacionComprador>0100764364</identificacionComprador>
+       <direccionComprador>RIO PLATA KM 4 VIA SAMBORONDOM GUAYAQUIL,</direccionComprador>
+       <totalSinImpuestos>130.00</totalSinImpuestos>
+       <totalDescuento>0.00</totalDescuento>
+       <totalConImpuestos>
+           <totalImpuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <baseImponible>130.00</baseImponible>
+               <valor>0.00</valor>
+           </totalImpuesto>
+       </totalConImpuestos>
+       <propina>0.00</propina>
+       <importeTotal>130.00</importeTotal>
+       <moneda>DOLAR</moneda>
+       <pagos>
+         <pago>
+            <formaPago>20</formaPago>
+            <total>130.00</total>
+            <plazo>0</plazo>
+            <unidadTiempo>DIAS</unidadTiempo>
+         </pago>
+       </pagos>
+   </infoFactura>
+   <detalles>
+       <detalle>
+          <codigoPrincipal>HONMED01</codigoPrincipal>
+          <descripcion>HONORARIOS MEDICOS</descripcion>
+            <unidadMedida>UND</unidadMedida>
+          <cantidad>1.000000</cantidad>
+          <precioUnitario>130.000000</precioUnitario>
+          <descuento>0.00</descuento>
+          <precioTotalSinImpuesto>130.00</precioTotalSinImpuesto>
+          <detallesAdicionales>
+             <detAdicional nombre="Nota" valor="Dx: -I10: HIPERTENSION ESENCIAL (PRIMARIA)   -R739: HIPERGLICEMIA, NO ESPECIFICADA   -E780: HIPERCOLESTEROLEMIA PURA   -N184: INSUFICIENCIA RENAL CRONICA, Estadío 4- A2   -Z720: PROBLEMAS RELACIONADOS CON EL USO DE TABACO   -Z723: PROBLEMAS RELACIONADOS CON LA FALTA DE EJERCICIO   -I671: ANEURISMA C"/>
+             <detAdicional nombre="Nota2" valor="EREBRAL, SIN RUPTURA (colocación de stent)   -I714: ANEURISMA DE LA AORTA ABDOMINAL, SIN MENCION DE RUPTURA (con trombo mural)   -I739: ENFERMEDAD VASCULAR PERIFERICA, NO ESPECIFICADA   -K760: DEGENERACION GRASA DEL HIGADO  -I517: CARDIOMEGALIA (Hipertrofia ventricular izquierda)   -I672: ATEROSCLER"/>
+             <detAdicional nombre="Nota3" valor="OSIS CEREBRAL   -I639: INFARTO CEREBRAL, NO ESPECIFICADO -F067: TRASTORNO COGNOSCITIVO LEVE"/>
+          </detallesAdicionales>
+          <impuestos>
+             <impuesto>
+                 <codigo>2</codigo>
+                 <codigoPorcentaje>0</codigoPorcentaje>
+                 <tarifa>0.00</tarifa>
+                 <baseImponible>130.00</baseImponible>
+                 <valor>0.00</valor>
+             </impuesto>
+          </impuestos>
+       </detalle>
+  </detalles>
+  <infoAdicional>
+      <campoAdicional nombre="Direccion del Cliente">RIO PLATA KM 4 VIA SAMBORONDOM GUAYAQUIL,</campoAdicional>
+      <campoAdicional nombre="Tipo Contribuyente">CONTRIBUYENTE REGIMEN RIMPE</campoAdicional>
+      <campoAdicional nombre="Correo Electronico">nunezdelarcocindy@gmail.com,suca-fernandez@hotmail.com</campoAdicional>
+      <campoAdicional nombre="Usuario">ANA</campoAdicional>
+   </infoAdicional>
+ <ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature295317">
+<ds:SignedInfo Id="Signature-SignedInfo995545">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID852653" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature295317-SignedProperties161507">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>++P/CwOpqpg6WWdXobdr7B5kc64=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1319414">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>OJknJNx4lbUBA+OcZz051vrwCv4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-5755" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>sc1soafnoC6fEBcDbiECnh+ihN0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue773351">
+lsAB/yrmaeggLlgfv19XXG1BfiO3Yd29/XZMxQK6PKxmu9NRETebubzQ17jQ/m/snbmQaZ1TPkqM
+Qp1wvza1Rr+oPjZ0qUHM0HwwUKs2k0wVybGHWgs6FLKq55gseFR0+/UtAf94S7a+Zhlm0O680FOu
+tg3VGZj5cyQm7LgyMUlEG0uWhfZ69BRudtyOcpS1L/92c+7jfLi8Ax/DxxjBund2Du63lOmwLTkV
+Oez1KFpG+8mlY9ks3IpU8OeVqHtFjsXA8RiD1E+7CVVn+L5UxKy5uwVmy+YZ6Bp1n+yOOq+QYD0F
+xrqWoNEuNK7bEDHzN0IQcrprySYAiJ0nTqr9cg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1319414">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMFDCCCfygAwIBAgIEY1U4NDANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMjIxNDQyMDNaFw0yNzExMjIxNDQyMDNaMIGtMSsw
+KQYDVQQDDCJXRU5EWSBLQVRIRVJJTkUgU0FOQ0hFWiBCQVJSRVpVRVRBMSAwHgYDVQQFExcwOTEx
+OTcwNjIyLTIyMTEyNDA5NTE1NjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDzLpCXwOpaoCukR2WQ2WYaurYaGSXc/FbD
+gocBMI1OWXCYtzNde2DrXULdD3W6SUpnZIqi90det8l1etJ32ORDwNiSCiw4gdKw7WhIvOf3EEx4
+o2nAM7XZEvZESSl1MzyWxUCvlxAbMIbEq1j9be5aE+OmpDXpb/o1vxwWe2UHsg/DVoo8M3WsBTsr
+nMMH1nqjsu+JJtOfjbIO7VvtyvOuzT3s7ywWPBNr5tc1Fu6+6HxE5jpMG1GTciK+qcM8Jib69coR
+W8VNIg2XH1/SDS7N9yhaJyXmf8QwdQtfWS+3Gj9ayX60NGP38P3oC4GSM5aR8cwO5ZLQu0hwN0tg
+H9ynAgMBAAGjggdMMIIHSDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/
+ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHB
+oIG+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURB
+RCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENF
+UlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2Rl
+bHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTAlBgNVHREEHjAcgRpyYWxlbmNhc3RyaUBhbGlhZG9zLmNv
+bS5lYzCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBl
+AHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwA
+ZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1
+cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0
+aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRm
+MIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFU
+QSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0
+eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJ
+VFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNV
+UklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB
+3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1Ud
+DgQWBBSlwmMiUn+cdKQh9L42qM1CpixqTzArBgNVHRAEJDAigA8yMDI0MTEyMjE0NDIwM1qBDzIw
+MjcxMTIyMTQ0MjAzWjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVS
+QUwwGgYKKwYBBAGCpnIDAQQMDAowOTExOTcwNjIyMBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEG
+CisGAQQBgqZyAyIEAwwBLjAxBgorBgEEAYKmcgMHBCMMIUFWIFNBTiBKT1JHRSAxMCBZIExPQ0FM
+IENPTUVSQ0lBTDAfBgorBgEEAYKmcgMCBBEMD1dFTkRZIEtBVEhFUklORTAfBgorBgEEAYKmcgMg
+BBEMDzAwMTAwMjAwMDY2NTE5ODATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkM
+B0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdTQU5DSEVaMB0GCisGAQQBgqZyAwoEDwwNQkxBTktJ
+TlNBIFMgQTAdBgorBgEEAYKmcgMLBA8MDTA5OTI3ODY4MjUwMDEwEQYKKwYBBAGCpnIDHQQDDAEu
+MBoGCisGAQQBgqZyAwQEDAwKQkFSUkVaVUVUQTAaBgorBgEEAYKmcgMIBAwMCjA5ODk4MjU3Mjgw
+DQYJKoZIhvcNAQELBQADggIBADCNZ++9RpbWBjwFsF6zL5eSKjA5RcX4RoBaOHNMrFLDyFozBejw
+sZLPiAua4qqnN8Jjeytqb2GbA5wh4Uq2DZxOa+lQTCyqkZzev/GU4XnyTr+4i9w1X3O5ASiY6eg2
+MKtoWlB/abx8V6x5N3vXmHjBiFHjlYXA+QbZXK/uOKP/PGgB+7x8m4aovfnlA0vU0TPTtSRSH3jV
+MInZw27RhkYSxvkXb/nv3/JzlBD2uFQOOekQcTmVYRmkNNND79tvubofx9EF+UyCesn1rC916UBm
+lLseNO+pp15ZTHWphDf4iYU5MWa+Zae+FZXzXwwsR2fmho8w5xLhV0vN0ufygfSf5/eS2cpS1nG/
+Y8xn977MXOAYjwHGmUyBJ3jNyIxXJwoGP5yDD4gqvmsnxA2zuZSuU1F82VaBR3SamZ6B8ja/ips6
+DgMvNAUTFzphNryPvFaj6hQ8sHU1qGj0+XiH5DK8Or4CXhHb2J7zBzzRpw8dNTTvauL1+JnTXzK7
+b1Jd6FUsPYGSlFcBKgZUSlgrOYiLJqi3DNPiwGhbNMWPBC4ZLKEYw/UMILsI6L+19zcJm8hOt8nR
+gFGjWRM95OsdwF6yr8d2UvoXFKklhS8pySm7F5H3wQolEsg4d36ZDjgMrVUEFr0M5k/r0OZg0Jav
+saVcfHIKMvYZ5OF7vLic0Mq7
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+8y6Ql8DqWqArpEdlkNlmGrq2Ghkl3PxWw4KHATCNTllwmLczXXtg611C3Q91uklKZ2SKovdHXrfJ
+dXrSd9jkQ8DYkgosOIHSsO1oSLzn9xBMeKNpwDO12RL2REkpdTM8lsVAr5cQGzCGxKtY/W3uWhPj
+pqQ16W/6Nb8cFntlB7IPw1aKPDN1rAU7K5zDB9Z6o7LviSbTn42yDu1b7crzrs097O8sFjwTa+bX
+NRbuvuh8ROY6TBtRk3IivqnDPCYm+vXKEVvFTSINlx9f0g0uzfcoWicl5n/EMHULX1kvtxo/Wsl+
+tDRj9/D96AuBkjOWkfHMDuWS0LtIcDdLYB/cpw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature295317-Object513561"><etsi:QualifyingProperties Target="#Signature295317"><etsi:SignedProperties Id="Signature295317-SignedProperties161507"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-19T19:59:17-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>6R8/j4p1ljlGq54hEyWsUTNjv+g=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1666529332</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-5755"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

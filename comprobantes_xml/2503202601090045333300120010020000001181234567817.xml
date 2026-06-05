@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2503202601090045333300120010020000001181234567817</numeroAutorizacion>
+<fechaAutorizacion>2026-03-25T21:08:09-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CHAVEZ LOMBEIDA NELSON EDUARDO</razonSocial><ruc>0900453333001</ruc><claveAcceso>2503202601090045333300120010020000001181234567817</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>002</ptoEmi><secuencial>000000118</secuencial><dirMatriz>SOLAR 32</dirMatriz></infoTributaria><infoFactura><fechaEmision>25/03/2026</fechaEmision><dirEstablecimiento>SOLAR 32</dirEstablecimiento><obligadoContabilidad>NO</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>JIMENEZ BOWEN MARIA AUXILIADORA</razonSocialComprador><identificacionComprador>1301442446</identificacionComprador><direccionComprador>Urbanizacion La Puntilla calle primera oeste y avenida primera</direccionComprador><totalSinImpuestos>960.00</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>960.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>960.00</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>20</formaPago><total>960.00</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>001</codigoPrincipal><codigoAuxiliar>001</codigoAuxiliar><descripcion>Honorarios medicos por Servicios de Anestesia</descripcion><cantidad>1</cantidad><precioUnitario>960.00</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>960.00</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>960.00</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Email Cliente">mofilito@hotmail.com</campoAdicional><campoAdicional nombre="Telef. Cliente">0997822585</campoAdicional><campoAdicional nombre="Detalle Adicional">Honorarios medicos por anestesia, paciente Maria Auxiliadora JImenez</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-110af88e-b83e-4eba-9748-9fa2b550177c">
+<ds:SignedInfo>
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="xmldsig-110af88e-b83e-4eba-9748-9fa2b550177c-ref0" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>WxZKId7cTVj5qtLbBy2c1sZZpBA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-110af88e-b83e-4eba-9748-9fa2b550177c-signedprops">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>mMwfO5JCQ4Ah404rjIgfUB6qEys=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="xmldsig-110af88e-b83e-4eba-9748-9fa2b550177c-sigvalue">
+Qxm+854A39GxX7nrJWRg7dRNYrTZZ3OV9g74dm5qEaSfyBkVQFrDVwB6Drci5/WJB00OUhzp+HjK&#13;
+bXxG1FeM/Zzq9uQ6lUtPrKW551ozENXbyd0sNvVNPUfAs5Ph1GEW7RGpQS5cpoWNNHdAFaqqqltP&#13;
+bl/IqDI/kMMF+EI9GAq3L7V4bnsPi0CAQnEp1KxSMD2oam8jxNJNX5S5JPGtQddSX8tCBr11X6Ot&#13;
+jhjBvaWci+joa+7pPHmBgblFnukiG/sEKR9vmlaLDK8FuuJtnJlit7U8rgyCuVzz9F6Kr/DoQ3NX&#13;
+YbtVo6llcnolgGpJPMhzmB4kzmfXQxbGSzchyA==
+</ds:SignatureValue>
+<ds:KeyInfo>
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKejCCCGKgAwIBAgIIK/mq6A+x+TMwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w&#13;
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ&#13;
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP&#13;
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMDIyMTg1OTI5WhcNMjcxMDIyMTg1OTI5WjCB&#13;
+qTEnMCUGA1UEAwweTkVMU09OIEVEVUFSRE8gQ0hBVkVaIExPTUJFSURBMSAwHgYDVQQFExcwOTAw&#13;
+NDUzMzMzLTIyMTAyNTE0MDkyMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF&#13;
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw&#13;
+ggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPN8xQQNmuZEz6fEeLSa9TDonmNdqKW3vo&#13;
+KHDDPrQc9FAjIQdAr+hNPRK3x8yliJ5uUYHlWZwxprh0RISEWmV/vnjsLc4vnRCrV5ItpkyL+OS9&#13;
+IGly8kgnMFBX04Di1PnIQe0K/eRGkrjSCETCWgOI7I66kFLCNk1GWA9jLiqV5bOEw2QwvZ5ncUJL&#13;
+CTHeiXP44IhIqTiE/bIeagSx6J/4XQSRsFHOoz/m+bYqOWDyNpUHzdXmazf8E3TZVY//l+jGBb+R&#13;
++vtT5zJ+bY1SdSNLgCMxjWRqsUWtr7HzB8ZBaK9V8RCXVe3fDb1HWjpZa01XP5A6+QJjHEaC6wzO&#13;
+PfIDAgMBAAGjggWyMIIFrjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/&#13;
+ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0&#13;
+eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAhBgNVHREEGjAYgRZuZWxz&#13;
+b24xMjQ5QGhvdG1haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEF&#13;
+BQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4A&#13;
+YQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5z&#13;
+ZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9D&#13;
+ZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYw&#13;
+HQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZo&#13;
+dHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+k&#13;
+gZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJ&#13;
+VFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9O&#13;
+MR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6&#13;
+Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB&#13;
+2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1&#13;
+YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBD&#13;
+RVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklD&#13;
+QUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQW&#13;
+BBQ6ARRPRTNfjeQvEb8w42Fcw5qZ+jArBgNVHRAEJDAigA8yMDI1MTAyMjE4NTkyOVqBDzIwMjcx&#13;
+MDIyMTg1OTI5WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTAwNDUzMzMzMBYGCisG&#13;
+AQQBgqZyAwkECAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAYBgorBgEEAYKmcgMHBAoMCFNP&#13;
+TEFSIDMyMB4GCisGAQQBgqZyAwIEEAwOTkVMU09OIEVEVUFSRE8wEAYKKwYBBAGCpnIDIAQCDAAw&#13;
+EQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwH&#13;
+RUNVQURPUjAWBgorBgEEAYKmcgMDBAgMBkNIQVZFWjAWBgorBgEEAYKmcgMeBAgMBk1FRElDTzAd&#13;
+BgorBgEEAYKmcgMLBA8MDTA5MDA0NTMzMzMwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBgGCisGAQQB&#13;
+gqZyAwQECgwITE9NQkVJREEwGgYKKwYBBAGCpnIDCAQMDAowOTk3ODI5NDcwMA0GCSqGSIb3DQEB&#13;
+CwUAA4ICAQCM4Qs3TusfOvt7rSp+1WHUAx9hjoAExAlrUgkqL1UEgWf2MBMjbHvEHmqYperLJoNG&#13;
+NBU92XgNP+njPjB55ZNFZKhsqv31+nWviwTmJ0sa3W+KauSYjy0Iy3u1yzLJJ9KeAcmbiRG+nq1A&#13;
+yQaz8P3e6DpyERswZUj1sDKUx3ty6zgpr6wZSOwosmas/ZSwYDqARyzOum+aBWl+fS4+EVc2KOmC&#13;
+qiEuxIKwRD+trnzJLCXNka3r170DeXvGAdU13aKxpAe0cjIU5+wHHoaN6Ab8xTKlyVTpr6SY7cmn&#13;
+Dz+NYg5/7J6AKiS7ajUttBpwCe21uzL8lGulYVee02eHYXx/tz1WLczPPWRfNKOGC0IurzdiXv1k&#13;
+/k+mnig0xNqargzhEybgDAIEaRFfu7nr6UAdbq6/QUBz/HQCdMuz+cD0d8Ts8/kXaMsRCkTkXkmg&#13;
+gF5jLp9pnESyQDTOks8EQUycM4TVkWWJSumOUxMswIgZq8uoEsW4HBqXEXxT2pVCWI+Lgi00eFSp&#13;
+HbIpYcOr2A41R08XavQxwF+L90h8ko4VXvVX2LlMeObir2ojTMk8vZHfngdkXfItWQH+3eqaE/Cs&#13;
+PGbgqooT2ixWWdWo/a9I0Xgo+YPoiCBQH6G8HWAjOOYTHEt5O00vtUwb7zeJ6J/sxR1g4I5cinmM&#13;
+JSbfXGsKSQ==
+</ds:X509Certificate>
+</ds:X509Data>
+</ds:KeyInfo>
+<ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-110af88e-b83e-4eba-9748-9fa2b550177c"><xades:SignedProperties Id="xmldsig-110af88e-b83e-4eba-9748-9fa2b550177c-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-25T21:06:02.215-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>8IP5SPA0PFPK1JbGGIgicf+EyKc=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>cn=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,ou=ENTIDAD DE CERTIFICACION DE INFORMACION,o=SECURITY DATA S.A. 2,c=EC</ds:X509IssuerName><ds:X509SerialNumber>3168751726504311091</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-110af88e-b83e-4eba-9748-9fa2b550177c-ref0"><xades:MimeType>text/xml</xades:MimeType></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object>
+</ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0403202601095492091400120010010000000452644910313</numeroAutorizacion>
+<fechaAutorizacion>2026-03-04T11:33:05-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>LINDAO ZAMBRANO KIMBERLY PAOLA</razonSocial>
+        <ruc>0954920914001</ruc>
+        <claveAcceso>0403202601095492091400120010010000000452644910313</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000045</secuencial>
+        <dirMatriz>Calle: 40AVA Numero: 1414 Interseccion: FCO. SEGURA - SEDALANA </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>04/03/2026</fechaEmision>
+        <dirEstablecimiento>Calle: 40AVA Numero: 1414 Interseccion: FCO. SEGURA - SEDALANA </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>SOTO DECKER MARIA CECILIA</razonSocialComprador>
+        <identificacionComprador>0911329977</identificacionComprador>
+        <direccionComprador>Urb. Bosques de la Costa mz 12 v6</direccionComprador>
+        <totalSinImpuestos>500.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>500.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>500.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>500.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>027</codigoPrincipal>
+            <codigoAuxiliar>027</codigoAuxiliar>
+            <descripcion>TERAPIA PSICOLOGICA A DOMICILIO MES DE FEBRERO 2026</descripcion>
+            <cantidad>10.00</cantidad>
+            <precioUnitario>50.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>500.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="2,3,6,9,11,13,18,20,23 y 25."/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>500.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">042992195</campoAdicional>
+        <campoAdicional nombre="Email">titisoto@hotmail.com</campoAdicional>
+        <campoAdicional nombre="DIAS DE TERAPIA">Febrero 2,3,6,9,11,13,18,20,23 y 25.</campoAdicional>
+        <campoAdicional nombre="PACIENTE">ÁLVARO CISNERO SOTO</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-f86d161d-b667-4aac-ab97-5074f79ae132"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-f86d161d-b667-4aac-ab97-5074f79ae132-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ZWY2C52RnGMOeFkkIF5k0yWKohg/t0k9NX4dlvN8wAM=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-f86d161d-b667-4aac-ab97-5074f79ae132-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>HLOB6JlYcqKtOoi7j97wnPXutKzCB9K8I2hKGjQnLSM=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-f86d161d-b667-4aac-ab97-5074f79ae132-sigvalue">FJ0xlaS2JtR+fKHTkC2iTgJzsJiHcuESmja/sPns2J0oMNbezYRaB+U+E25puRxDOdCqBKSFxXHHkZnjRto8bOvoAmJ1OocysF+mG8teiaxDf9rL7MbbdaCez0V9+FfA942JN/cW3h083VE+pPGoQQ4RXWupYUpSkPVO60PHdfvqTti52dIUS+6kIxfCiEg/dOkih3lLBVeO9stsdaS2AgwYmqKkdQv8hZ0WDmvnYkS3QUHkSdagGCXSNKis/B99Mzzt9hhY2DCeNDMBpBdfe/019MkE2vhYb2c5g5+gEexcQq1wlg0zLj2Lr8nsURAIy3aabP3CKW2sIWxRPq/Cdg==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIKszCCCJugAwIBAgIIZA6KLTyaMRMwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjYwMjI0MTU1MTU2WhcNMzEwMjI0MTU1MTU2WjCBqTEnMCUGA1UEAwweS0lNQkVSTFkgUEFPTEEgTElOREFPIFpBTUJSQU5PMSAwHgYDVQQFExcwOTU0OTIwOTE0LTI0MDIyNjExMDE0NTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDb6SdNyv9p9u98MGVjHqdKnNaK/cDwTJ2CzxZpJ+354ZXWnVW9L59Qeb/6Vqa5GCrTItYnJQln1wzUjdEpDskMCx1R5PDT3x5s04PP7GBWu5ESmSzy1cdGy5+6klAI2vikPaa5CcA44jEsmCakCZq2vLngW8qPUj5QsU7mGqtLp+42CtZWmxo2BZLm87mBCY+5GeLeXzMg7+HxL28xDREB7oYOm+W331+v4UjfJcRIHLg0H7ZwcEcz7o6noPMOgXP0NGtVJLO+PLqOeAsjAjA5/UwKDI6aB1xEzwu3raogYppC1OX7WYpwpEc2qeUlPmhbFS6OAtWOlM4XT6r27l+LAgMBAAGjggXrMIIF5zAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAnBgNVHREEIDAegRxwc2kua2ltYmVybHlsaW5kYW9AZ21haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRtOdqi1xTk6FI+IF6CQ2U7kTFlFjArBgNVHRAEJDAigA8yMDI2MDIyNDE1NTE1NlqBDzIwMzEwMjI0MTU1MTU2WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTU0OTIwOTE0MB4GCisGAQQBgqZyAwkEEAwORkVCUkVTIENPUkRFUk8wEQYKKwYBBAGCpnIDIgQDDAEuMDAGCisGAQQBgqZyAwcEIgwgNDBBVkEgMTQxNCBZIEZDTyBTRUdVUkEgU0VEQUxBTkEwHgYKKwYBBAGCpnIDAgQQDA5LSU1CRVJMWSBQQU9MQTAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMTEwNjU0OTARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGTElOREFPMBoGCisGAQQBgqZyAx4EDAwKRVNUVURJQU5URTAdBgorBgEEAYKmcgMLBA8MDTA5NTQ5MjA5MTQwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBgGCisGAQQBgqZyAwQECgwIWkFNQlJBTk8wGgYKKwYBBAGCpnIDCAQMDAowOTg0MzYyMzQwMA0GCSqGSIb3DQEBCwUAA4ICAQBrvA57vQ2OuWhsrMT9GF75jRs2mxgR4UCZyLbVCRwzTUbEVlfnj++N8w6Sq6Q06Cx4yOkrcNJNljUJ/jO2hucF+zzzJ3NvIPT7lgssJN+vUdwDUzXvaYkVZg3zagjpKFrrjge3cTN0kLufmswzFZdwuOeKmfWhxm4V/HCXHa2N4CDei2Jojs3/IUa4oss+V3NT6twbu60oItDxswyspF4MSf92dqxQQt66oqsAnke7fH0re+D+AtHm0dAa9AeRiM+FGstuJ2lglbcWvgB+1Qt4Us37+QfJPW5lQpDtcxxKfUak3MHc0zEmxGK6w4EyzxR46FuNhm8MejutCKD/MRuRSJUAynG6wZg8GgnJEbnFziPxbzi7JDOZEmAIkbGKJiOq/+XqaXklbGgtV/acUiuA6oyLhi3mm7+Rgg9TDlVsDORcSrgdPaOhrgRks9NNjikU6qq7amMaIr56eXvAGdZwf84jtJKkDGqbNJ03t3oPnBUE+9egq7CXzmKnDMCYqqt+3Z3Nfd83GjBNleuIvtftMY2ou+C13luquIQ9UcC3K77WKfn/h2tc4z5Nc8/KAPZJF3UYYHPAwF9u1dX9+7BztS+e/d/AfVX5P63kzZHO6SADi6Gwj1knLpsD0aQEWzQPLOnUK5Q0CHCCLIqBbn+fbNcbxG4oBelJP8TqdP8AXQ==</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-f86d161d-b667-4aac-ab97-5074f79ae132"><xades:SignedProperties Id="xmldsig-f86d161d-b667-4aac-ab97-5074f79ae132-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-04T11:33:04.786-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>/4BRL9O0XkVyhkgvbN/KQSzk4R1ZAiTf46uDHS7ee0g=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>7209851980361642259</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-f86d161d-b667-4aac-ab97-5074f79ae132-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

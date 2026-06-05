@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0402202601099257040700120061010000318052017338410</numeroAutorizacion>
+<fechaAutorizacion>2026-02-04T07:57:52-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>LABORATORIO CLINICO ALCIVAR S.A. ALCLINIC</razonSocial><nombreComercial>ALCLINIC</nombreComercial><ruc>0992570407001</ruc><claveAcceso>0402202601099257040700120061010000318052017338410</claveAcceso><codDoc>01</codDoc><estab>006</estab><ptoEmi>101</ptoEmi><secuencial>000031805</secuencial><dirMatriz>CANAR 603 ENTRE CORONEL Y CHIMBORAZO</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>04/02/2026</fechaEmision><dirEstablecimiento>CDLA. ENTRE RIOS PRIMERA S/N Y AV. RIO GUAYAS</dirEstablecimiento><contribuyenteEspecial>494</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>WONG SALAS MARIA JOSE</razonSocialComprador><identificacionComprador>0917276032</identificacionComprador><totalSinImpuestos>76.41</totalSinImpuestos><totalDescuento>0.00</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>76.41</baseImponible><valor>0.00</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>0.00</baseImponible><valor>0.00</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>76.41</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>76.41</total><plazo>0</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>1</codigoPrincipal><descripcion>EXAMENES DE LABORATORIO</descripcion><cantidad>1.00</cantidad><precioUnitario>76.41</precioUnitario><descuento>0.00</descuento><precioTotalSinImpuesto>76.41</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0.00</tarifa><baseImponible>76.41</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="correo">majosewonds@gmail.com;confirmacionfe@hospitalalcivar.com</campoAdicional><campoAdicional nombre="PACIENTE">WONG SALAS MARIA JOSE</campoAdicional><campoAdicional nombre="TIPO DE INGRESO (ORIGEN)">AMBULATORIO</campoAdicional><campoAdicional nombre="TIEMPO DE ENTREGA">1 DIA</campoAdicional><campoAdicional nombre="USUARIO">MONTIEL URRUTIA ERICK MAXIMILIANO</campoAdicional><campoAdicional nombre="FORMA DE PAGO">TARJETA DE CREDITO</campoAdicional><campoAdicional nombre="DIRECCION">AV RIO ESMERALDA KM 1.5 VIA SAMBORONDON</campoAdicional><campoAdicional nombre="TELEFONO">0995858415</campoAdicional><campoAdicional nombre="TURNO">1</campoAdicional><campoAdicional nombre="PBX">3711980</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature177838">
+<ds:SignedInfo Id="Signature-SignedInfo876704">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID767440" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature177838-SignedProperties793829">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>2ReS2uObda0MmwpCG9md2snQks0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1904224">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>f1EaRlSI+hWnWFcXhliOyGy8V0M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-627528" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kp2RQ1+Fy7zxyZT8eOWP8i98kYs=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue782958">
+lLqTgkahjsFgROfIYhFh6iH0NMq7VVeiV4m52+v1GnapX8uC3qq93ws5BtUA4yIgSK5CSzLrxrx1
+2UolMSHuMoYzkfJ2BRRxru/v3MXZ8IJefYQ/bYWQ9DousXzbdpioQGVC8swJx3GgY1RkH2NYYvIs
+EBKixiw//VnxJzTgPMllQZXfOJRHF03ZdQ3vrIUFxh4Y6JsRplLnTcC6gRPJhrYh1o5BzeP/uE6K
+gPyzLOxxMlfBohohe54k8ue53WCBxOiacq7vYz4lGffHLUrn6U+/0g8FEg3pDQ6QJmvR8HSIfwkt
+2lc1IOHJGbU3RC4fjJTv2fdN9Km7K4D6NSslzA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1904224">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILBTCCCO2gAwIBAgIIXNn9wtwY15UwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTI5MTk0MTU3WhcNMzAwOTI5MTk0MTU3WjCB
+qjEoMCYGA1UEAwwfUkFVTCBGUkFOQ0lTQ08gQUxDSVZBUiBHT05aQUxFWjEgMB4GA1UEBRMXMDkx
+NDMxNzI4NC0yOTA5MjUxNDUxNDcxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVD
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+s18eRlBJNb7p7wJ24DjvcIronzFfaLM
+zoNCHMg82A6dGANAqsTScuF6moOuJ9JMdAcmWEOOIzdkfE8kJ6UFbIvFSnY7Z1BZK+kA6LiA+MUD
+XhQyWWmsPR4p8d8e6wqrnj2FsSZEYAwJsyyBVeCa49AnSTRGEViP3ZGJRbBlQ2axzI7DLbmOiW33
+yzbu+dT1XV04r0hI/cU0NLtQvl44kFQa1TQE/e1YxcnRODR2d6rUj2XJn91by+AoWvG1klLQ86jm
+DSSgvJPw8BtPkELIsxZBX6mUNOIrWa6pyREvMXxrKNfOiY2tnjDGjimwIrUv9EY+YXGwSRnpmfo+
+UbfTBQIDAQABo4IGPDCCBjgwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktV
+v42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwJwYDVR0RBCAwHoEccmFs
+Y2l2YXJAaG9zcGl0YWxhbGNpdmFyLmNvbTCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkw
+VDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBl
+AHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUH
+AgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRz
+L05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJl
+cHJlc2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8G
+A1UdHwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJj
+YTJjcmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJ
+BgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNy
+bDIvY3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJp
+dHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlz
+c3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEs
+T1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFU
+QSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUjnmWQCSyYx3OPr4Uf7zN2Q+0uXEwKwYDVR0QBCQwIoAP
+MjAyNTA5MjkxOTQxNTdagQ8yMDMwMDkyOTE5NDE1N1owCwYDVR0PBAQDAgXgMB8GCisGAQQBgqZy
+AwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZyAwEEDAwKMDkxNDMxNzI4NDBABgorBgEE
+AYKmcgMJBDIMMEdVQVlBUVVJTCBDQUJFQ0VSQSBDQU5UT05BTCBZIENBUElUQUwgUFJPVklOQ0lB
+TDARBgorBgEEAYKmcgMiBAMMAS4wIwYKKwYBBAGCpnIDBwQVDBNBWlVBWSA2MDEgWSBDT1JPTkVM
+MB4GCisGAQQBgqZyAwIEEAwOUkFVTCBGUkFOQ0lTQ08wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIw
+MDEwNDk0MjgwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBcG
+CisGAQQBgqZyAwMECQwHQUxDSVZBUjA4BgorBgEEAYKmcgMKBCoMKExBQk9SQVRPUklPIENMSU5J
+Q08gQUxDSVZBUiBTIEEgQUxDTElOSUMwHQYKKwYBBAGCpnIDCwQPDA0wOTkyNTcwNDA3MDAxMBEG
+CisGAQQBgqZyAx0EAwwBLjAYBgorBgEEAYKmcgMEBAoMCEdPTlpBTEVaMBoGCisGAQQBgqZyAwgE
+DAwKMDk5MTY3NzM3NDANBgkqhkiG9w0BAQsFAAOCAgEAQPejVLc+GZhghbaou6fdYHEVAdQLDFDy
+6rWcfxkceaD88LbFVXkslRmYOWdLv/Jdos0I5tr/aB7toKFEy6HAWFm9P0F6IORvOgQVB74nnwkz
+68Na58xNV3nzcqzX6nspjEado6bA8m32KdqEAwm/QN8H9zIHUaLb94/KtmVfrkO9qPinyLgPpD9m
+BaOSUpTlUbl3XvcBgUSoc3yBo5UOGssQhkWGNrDdvgVcmjOo6R7KGKfiSW+Uumutp+334tvWSKO6
+lfbTrmovWEB8U8ICTUoGuk27bABbuo9s9xvylZJ/x7pKlbcM3YD20gny+vyqC6PyU0a64zZoa8t5
+fnNvEvQk4Uf/Vk4kYZmbmdVrwyHsRb8lBklNQgrGiDA/AZttSw/DPYv7guaC4f/f+xLYSxnOdLsm
+odFSBosWUE5kbajTLelxeYl5hxtkb6fp5DF6u60kJaotSijGsIjtc5zYuSgb2j0uklySXDI/L2qR
+cpDM6pX6KvP50z2WUpUl+3ztee+kOvDJP3lvA+ldIVcK5yMBD6v46Em7pzYwT2kkJacpSZNWQUjr
+cq/cSy09HARlDrVMTmL7IfaN/I2NtCAbrKjr7tyHoqexzuv0XTvQJKRq+MRU26mf7N8rV7FmUqAP
+UmXpXlFpue9k6lUD5JXNYEXGjBfwc8uQegYABCRTijQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
++s18eRlBJNb7p7wJ24DjvcIronzFfaLMzoNCHMg82A6dGANAqsTScuF6moOuJ9JMdAcmWEOOIzdk
+fE8kJ6UFbIvFSnY7Z1BZK+kA6LiA+MUDXhQyWWmsPR4p8d8e6wqrnj2FsSZEYAwJsyyBVeCa49An
+STRGEViP3ZGJRbBlQ2axzI7DLbmOiW33yzbu+dT1XV04r0hI/cU0NLtQvl44kFQa1TQE/e1YxcnR
+ODR2d6rUj2XJn91by+AoWvG1klLQ86jmDSSgvJPw8BtPkELIsxZBX6mUNOIrWa6pyREvMXxrKNfO
+iY2tnjDGjimwIrUv9EY+YXGwSRnpmfo+UbfTBQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature177838-Object707310"><etsi:QualifyingProperties Target="#Signature177838"><etsi:SignedProperties Id="Signature177838-SignedProperties793829"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-04T07:57:45-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>PsUvUXuSeuvqi4JEUQ2vCaCHx4E=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>6690657734793680789</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-627528"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

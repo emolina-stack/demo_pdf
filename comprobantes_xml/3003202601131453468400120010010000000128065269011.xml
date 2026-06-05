@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3003202601131453468400120010010000000128065269011</numeroAutorizacion>
+<fechaAutorizacion>2026-03-30T11:28:45-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>DE LA CRUZ PEREZ HEIDY GEORGINA</razonSocial>
+        <ruc>1314534684001</ruc>
+        <claveAcceso>3003202601131453468400120010010000000128065269011</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>001</ptoEmi>
+        <secuencial>000000012</secuencial>
+        <dirMatriz>Calle: 323 Interseccion: AV. 217 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>30/03/2026</fechaEmision>
+        <dirEstablecimiento>Calle: 323 Interseccion: AV. 217 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>CASTILLO ROCA FABIO ISAIAS</razonSocialComprador>
+        <identificacionComprador>1352628158</identificacionComprador>
+        <direccionComprador>1009 Av 13 entre calles 10 y 11 (Centro)</direccionComprador>
+        <totalSinImpuestos>660.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>660.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>660.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>660.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>TO002</codigoPrincipal>
+            <descripcion>TERAPIA OCUPACIONAL T2</descripcion>
+            <cantidad>22.00</cantidad>
+            <precioUnitario>30.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>660.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>660.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">0980241374</campoAdicional>
+        <campoAdicional nombre="Email">lgrm2503@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Detalle ">Terapias ocupaciones al niño Fabio Castillo
+Diagnóstico autismo
+Días: 2,3,4,5,6,9,10,11,12,13,16,17,18,19,20,23,24,25,26,27,30,31 marzo/2026 </campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-41e75599-738d-4736-9433-1cbe1db188b7"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-41e75599-738d-4736-9433-1cbe1db188b7-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>V/Wby1taEmtQFXHLoRTkDTf/QJY9mFIR0MJfWMCALh0=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-41e75599-738d-4736-9433-1cbe1db188b7-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ydTF2jAIRZFxBNvIcjn7Pw/AXeMunFTn55oxghHUdDY=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-41e75599-738d-4736-9433-1cbe1db188b7-sigvalue">Eyi7om7TU+xliDlBoCZeHscz3deqhICfGJYNYDIaBqiIflXcviMzu/Vrmj4orJAwLwoWzAj0zhSm5CjUX+Bu6XX0ue6sMMtwtbhs+5iXSRZx3Rp82cBxtkzxDhl5HZM2J7fuf6Pn9/xd8ihlxGtGnu4Y72DThoWwqEglBxe2uvqsWVW1gP3Sc5PgZcsMp3GuyfKYhWDko2dIxuEsyk10edK5qwVQQRV7G1vGtCe5/3N7iJDzdT2IxJUC0/7FyLYWAhHnvyPVZkx4v0uXdm2GKAasbzDkL97IrgFhl9q1YloVX4RINxDrlESsGiFqH0mvfznnJBkQZfMAcSQedwafLA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-41e75599-738d-4736-9433-1cbe1db188b7"><xades:SignedProperties Id="xmldsig-41e75599-738d-4736-9433-1cbe1db188b7-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-30T11:28:45.436-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>FyqHFXXcOIov/LQtnwZsckNRELRRjPphDXk36bxN/yo=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,O=Lazzate Cia. Ltda.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3254905057</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-41e75599-738d-4736-9433-1cbe1db188b7-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

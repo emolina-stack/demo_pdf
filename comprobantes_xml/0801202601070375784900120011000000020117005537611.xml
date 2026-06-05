@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0801202601070375784900120011000000020117005537611</numeroAutorizacion>
+<fechaAutorizacion>2026-01-08T11:19:32-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>FERNANDEZ VALDIVIEZO HOLGER ALEJANDRO</razonSocial>
+        <nombreComercial>DR. HOLGER FERNANDEZ V. ENDOCRINOLOGO</nombreComercial>
+        <ruc>0703757849001</ruc>
+        <claveAcceso>0801202601070375784900120011000000020117005537611</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000002011</secuencial>
+        <dirMatriz>Barrio: URB LA CAROLINA Calle: AV EDGAR CORDOVA Numero: SN Interseccion: MARCEL LANIADO </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>08/01/2026</fechaEmision>
+        <dirEstablecimiento>Barrio: URB LA CAROLINA Calle: AV EDGAR CORDOVA Numero: SN Interseccion: MARCEL LANIADO </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>ALVARADO VASQUEZ MARIA PIEDAD</razonSocialComprador>
+        <identificacionComprador>0702409814</identificacionComprador>
+        <direccionComprador>Machala </direccionComprador>
+        <totalSinImpuestos>60.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>60.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>60.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>60.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>001</codigoPrincipal>
+            <descripcion>CONSULTA MEDICA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>60</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>60.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">072968380</campoAdicional>
+        <campoAdicional nombre="Email">mapialvarado@hotmail.com</campoAdicional>
+        <campoAdicional nombre="PACIENTE MARIA PIEDAD ALVARADO VASQUEZ">RESISTENCIA A LA INSULINA</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-7b3dcb05-551f-43bc-9250-b86cc8adfa79"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-7b3dcb05-551f-43bc-9250-b86cc8adfa79-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>MTBsjeze+Lm8cI8jF9vFF0hA35TgPTigahfNiGGlu6Q=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-7b3dcb05-551f-43bc-9250-b86cc8adfa79-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>6mokCLHEIT+BNNqXZSyaV7Lw0LV7VUZ+kY/adPBI1J8=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-7b3dcb05-551f-43bc-9250-b86cc8adfa79-sigvalue">sGPbLL0SEHM0DMDvlZQXcgiyFYAAGMYB7b9dWi5T1PfPV/keIDqbnhPnswzHyXjmsF2aMziKllyhPLO8xpELpD9pXpzM4a52s4UrvpXsX6IADsEwUYwIoLd4ryf4r5mx+S+20SVGyf95ZPa95QoqrUtqZnvqg940LMl43V5uqBYQHPjmuyQ+00MT+ALw0JY2b8Qk0YDfT27PjbqCmM8C5U9Qwgk9Cg2JhNiHyBH5V33onxUgX2/ztl77zUA9v2EyCbNUoYpYZDvfEutvJVIDmGNnse3jObvdlnjqK+/sD02ncvB6HZFmQ5L3YWZxm1qJ75S6hhKoTMdg7RdLWxACXA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIKwTCCCKmgAwIBAgIIXYfms2y6tGIwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwOTAxMjExMjU4WhcNMjgwODMxMjExMjU4WjCBsDEuMCwGA1UEAwwlSE9MR0VSIEFMRUpBTkRSTyBGRVJOQU5ERVogVkFMRElWSUVaTzEgMB4GA1UEBRMXMDcwMzc1Nzg0OS0wMTA5MjUxNjIyNDkxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0Yqzp5XkQvfwkc8kxbRSPqMWJP8qGsXpXYDx3YQ0VZ9+1rPfmC74npn2NyY26BWmUHePbo0o7aRsC13goVSBiYV3BxWEbc4bv+H+Yv20GcgCZ5+w+mDq0wnPtwf+D+LZTp/kYU1xAZsvyZM+cb9mXTGnvYb/yf7rBul57JG8fehl1IeiJJqPmfZM4j8xZuVxqdWQnOgTOx6pyMeY1AgRzuTPMAXj3HcVaWqxu49pZS8n9yz3AYhPNjw3SdWrQZLP9ITFGGrCe7juXtrVt5HdR2CHtVIQsjvs9mv/L3PC3xJqCX1f/CtaOulh3Qv1pCUy0cTZrwxeHuYeYB1LIysnowIDAQABo4IF8jCCBe4wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3AwJwYDVR0RBCAwHoEcZHIuZmVybmFuZGV6aG9sZ2VyQGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggrBgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUC+Hs8TXAW0KORbjFeH+KJIxA6ocwKwYDVR0QBCQwIoAPMjAyNTA5MDEyMTEyNThagQ8yMDI4MDgzMTIxMTI1OFowCwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMDcwMzc1Nzg0OTAeBgorBgEEAYKmcgMJBBAMDkxBIFBST1ZJREVOQ0lBMBEGCisGAQQBgqZyAyIEAwwBLjA0BgorBgEEAYKmcgMHBCYMJEFWIEVER0FSIENPUkRPVkEgU04gWSBNQVJDRUwgTEFOSUFETzAgBgorBgEEAYKmcgMCBBIMEEhPTEdFUiBBTEVKQU5EUk8wHwYKKwYBBAGCpnIDIAQRDA8wMDYwMDEwMDA5ODUxNTYwEQYKKwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAZBgorBgEEAYKmcgMDBAsMCUZFUk5BTkRFWjAWBgorBgEEAYKmcgMeBAgMBk1FRElDTzAdBgorBgEEAYKmcgMLBA8MDTA3MDM3NTc4NDkwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBoGCisGAQQBgqZyAwQEDAwKVkFMRElWSUVaTzAaBgorBgEEAYKmcgMIBAwMCjA5OTg2MTk3NzYwDQYJKoZIhvcNAQELBQADggIBALiFHyIoaMNhg7lh7Wd75/VWAtzg5saoPFyMt5RLWGMcH6mfsuXD4XO0fjCs1FqMR4lmZ5F0V6HCaYTNUK7LhiTE7oMP8rbCWwnpyT1Il0lCOIt4rqZjWKiu/6CkA7uQecwpHO0BgoaGsMKWMa9gDMDcnOqxnZ+0Sk8yBiJgARRo/RG01xUFbi/9C7QvSzE4cR2gVvibw9VZf/r+mF6uJfy6x0KHFYj3hixnmoNEWoXIGc9AbPj7CCwXa5tYw6ZJZBZhw/iA+CkCx8eQykgl5D/ma1+RdET8Nd+YtvlvCB5gLRbUOl1xg5mrXZSevz6PSNSfBVt/Qf7+gioeyuo8Clus6C4eMw5S5cPcSWeSVOui7O35cy00UJmSKCEC43quPh9yfuq116VuSruCWdauAhW2wYaCegaCfzQti0xHNth6hLDw5LQU+rAUYKDs2NZKGuO8eny4w8sApXCOk3luyQI29c/2ieCRQgNddiSSD6cAwkPoTPtrzC0cPhEcK6PVwOhx8m3KKzPyrAiluBMc6uiq86gc2zd+LI/B/8COBn3an9QMOsT6+3ilIJeYqXisdhpAxNQ2oOr6efpoA3DeV3U1Fw00otv/TrMCxnsyS+luhhTLmhkOImOQpDG5UjKRj7Vuhjc+ZMNJ5rf/7OyZ3K0fKQeOi13L1tUE0qbujrbC</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-7b3dcb05-551f-43bc-9250-b86cc8adfa79"><xades:SignedProperties Id="xmldsig-7b3dcb05-551f-43bc-9250-b86cc8adfa79-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-01-08T11:19:32.280-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>X21HeIZYUPGr/t/8ACD2QO3JHWz213yLGK2eVEhT2Fg=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>6739609025680946274</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-7b3dcb05-551f-43bc-9250-b86cc8adfa79-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

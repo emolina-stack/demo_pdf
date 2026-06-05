@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1202202601099273946000120010060000067211029801913</numeroAutorizacion>
+<fechaAutorizacion>2026-02-12T11:59:10-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>CENTRO OFTALMICO VARAS SAMANIEGO S.A. COVS</razonSocial>
+	    <nombreComercial>CENTRO OFTALMICO VARAS SAMANIEGO S.A. COVS</nombreComercial>
+	    <ruc>0992739460001</ruc>
+	    <claveAcceso>1202202601099273946000120010060000067211029801913</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>006</ptoEmi>
+	    <secuencial>000006721</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / ABEL ROMEO CASTILLO S/N Y J. T. MARENGO</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>12/02/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / ABEL ROMEO CASTILLO S/N Y J. T. MARENGO</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>SANTIAGO BUSTILLOS ESCOBAR</razonSocialComprador>
+	    <identificacionComprador>0501692305</identificacionComprador>
+		<direccionComprador>LOS CEIBOS</direccionComprador>
+	    
+	    <totalSinImpuestos>410.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>410.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>410.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>410.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>01R</codigoPrincipal>
+		<codigoAuxiliar>01R</codigoAuxiliar>
+      	<descripcion>CONSULTA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>120.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>120.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>120.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>05R</codigoPrincipal>
+		<codigoAuxiliar>05R</codigoAuxiliar>
+      	<descripcion>TOMOGRAFIA CORNEAL OCT</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>60.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>60.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>06R</codigoPrincipal>
+		<codigoAuxiliar>06R</codigoAuxiliar>
+      	<descripcion>BIOMETRIA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>40.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>40.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>07R</codigoPrincipal>
+		<codigoAuxiliar>07R</codigoAuxiliar>
+      	<descripcion>ENDOTELIO </descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>60.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>60.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>08R</codigoPrincipal>
+		<codigoAuxiliar>08R</codigoAuxiliar>
+      	<descripcion>OCT DE LA MACULA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>130.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>130.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>130.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">.</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature361491">
+<ds:SignedInfo Id="Signature-SignedInfo843941">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID910680" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature361491-SignedProperties2597">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3dJjv4ipJM35dIJSF37HdrpF1TY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate562432">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>YW6FdXwhVxsKoDbxdRlpUDkmf8Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-979613" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>csk4LFtKjc8lc07f+jvsku3xIas=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue506265">
+sKbGUQe3OhVWQuIUljYXmLsibsij75mRt0xemNFJXY9JZ8kthvA/dweiDFxPfJWuqk+J7WkoSjPH
++nHAy3lkwjDg/5VTfonq9lqDncIuNUhS7wAEx4a46FmH2MY97BBa+o0cu1CPDULfiN1jnmOWUs2b
++dY0zwzhngI5DQrQ4GNThiHLR8fZx/jJc1M19h/zGPYYYicMxNSmzerrU2nZt90ctPBvlC5CyCpT
+EXZYSmTgZg2mVKQjoL0KyDLDnNiP3X6qQr2NR5q+n9zcoILtollwDvqDMTdXUrHOJP1PhHoZNXT0
+/ISweKOFWtHCH9BYHeVg4H7Fay4r742Us60dDw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate562432">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIfjCCB2agAwIBAgIFAMIEWj8wDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI2
+MDIwNTE4MTQwNFoXDTI2MDgxMDE4MTQwNFowgZAxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEhMB8GA1UEAwwY
+Sk9TRSBNSUdVRUwgVkFSQVMgUFJJRVRPMSEwHwYJKoZIhvcNAQkBFhJmaXJtYXNAemV2ZW5zYS5j
+b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCyXkBQmfgJnuPtgK7HZeWvcVZVm87t
+Ngh1tTpYKlvl9aATLu/PoHPrZjnj6rTa62O+oXFnLo3rgdaZVj1ykeEks1RDJF0ZxSmZNMLMyhkS
+u9RQvTmz411f/Xn7sTYqHDTnRcxPRty5NdtDoZhloPY9Nk9Yevcp58tlS+jdM58xLH4N0f6fQriM
+rn8lJ0Y9eHhQOlWGgvRyHbbBZsDuSO/XQqnYaILieR00LThwo19ZoH+c0h+CKgZS+AkFj1VzVOsE
++ua2ja+XRYepdlCbtnc7NMvingzDKKsSw0ygwxcECEX19bO78YXHL6aHOv+ShFP7AX6eStS3PFGi
+G7rk1ZtNAgMBAAGjggUlMIIFITAaBgorBgEEAYPPdgMBBAwMCjA5MDg4ODMxMDEwGwYKKwYBBAGD
+z3YDAgQNDAtKT1NFIE1JR1VFTDAVBgorBgEEAYPPdgMDBAcMBVZBUkFTMBYGCisGAQQBg892AwQE
+CAwGUFJJRVRPMB8GCisGAQQBg892AwUEEQwPR0VSRU5URSBHRU5FUkFMMCIGCisGAQQBg892AwcE
+FAwSR1VBWUFTIC8gR1VBWUFRVUlMMBoGCisGAQQBg892AwgEDAwKMDkzOTIzMTU5NjAZBgorBgEE
+AYPPdgMJBAsMCUd1YXlhcXVpbDAXBgorBgEEAYPPdgMMBAkMB0VDVUFET1IwHQYKKwYBBAGDz3YD
+CwQPDA0wOTkyNzM5NDYwMDAxMDoGCisGAQQBg892AwoELAwqQ0VOVFJPIE9GVEFMTUlDTyBWQVJB
+UyBTQU1BTklFR08gUy5BLiBDT1ZTMAwGA1UdEwEB/wQCMAAwHQYDVR0OBBYEFApCoDIj5gdJ1KnW
+Wq0Jjuzt0+/jMB8GA1UdIwQYMBaAFO12SLAK8cmGhgxMRmTSBvjM1b0+MA4GA1UdDwEB/wQEAwIF
+4DA6BgNVHR8EMzAxMC+gLaArhilodHRwOi9lbmV4dDIueHl6L0xhenphdGVDQTIvZW1pc29yQ0Ey
+LmNybDCCAYQGA1UdIASCAXswggF3MHwGCisGAQQBg892AgIwbjBsBggrBgEFBQcCAjBgGl5FbCBw
+cmVzZW50ZSBjZXJ0aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBk
+ZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIH2BgkrBgEEAYPPdgIwgegwbAYIKwYB
+BQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNhZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFz
+IHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBMdGRhLjB4BggrBgEFBQcC
+AjBsGmpFbCBwcmVzZW50ZSBjZXJ0aWZpY2FkbyBzdWJvcmRpbmFkbyBlcyBlbWl0aWRvIGVuIGJh
+c2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQgZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMIIB
+ZQYDVR0RBIIBXDCCAVigGgYKKwYBBAGDz3YDAaAMDAowOTA4ODgzMTAxoBsGCisGAQQBg892AwKg
+DQwLSk9TRSBNSUdVRUygFQYKKwYBBAGDz3YDA6AHDAVWQVJBU6AWBgorBgEEAYPPdgMEoAgMBlBS
+SUVUT6AfBgorBgEEAYPPdgMFoBEMD0dFUkVOVEUgR0VORVJBTKAiBgorBgEEAYPPdgMHoBQMEkdV
+QVlBUyAvIEdVQVlBUVVJTKAaBgorBgEEAYPPdgMIoAwMCjA5MzkyMzE1OTagGQYKKwYBBAGDz3YD
+CaALDAlHdWF5YXF1aWygFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQBg892AwugDwwN
+MDk5MjczOTQ2MDAwMaA6BgorBgEEAYPPdgMKoCwMKkNFTlRSTyBPRlRBTE1JQ08gVkFSQVMgU0FN
+QU5JRUdPIFMuQS4gQ09WUzA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUHMAGGIGh0dHA6Ly9lbmV4
+dDIueHl6Ojg3NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQCedIlBf0YDkT+SzQqKxmm2
+OzL7TKo/ZEyTs/upr/Z2OO8Ap5E8CkIWzmVJJSR54wiOt0jIbDzjunkSa3xjUj+UoRz065kfERYy
+5IhS1WfeUjt0HsdGlbl3udu9+FzB6vNmQJBZEzn3tTWX4kRo9pil4WAa1J0phlJGm/4NjCvXwf/g
+Omn/t6QXUnEta82vKaXm7BRWVX6VWmqAJZpib+xC+e9HaUCoeiALpERtEFDzf0vZx1A8jZJPTtgA
+jrN2vbXWZLkg2uyAp9kN9SqlAIZOcV2qg3hPk2K8tDXm2/0ZdVMZRrmpVi/27JY0LTyG3eaownQM
+XHgHtuY1TG8PFN+O
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+sl5AUJn4CZ7j7YCux2Xlr3FWVZvO7TYIdbU6WCpb5fWgEy7vz6Bz62Y54+q02utjvqFxZy6N64HW
+mVY9cpHhJLNUQyRdGcUpmTTCzMoZErvUUL05s+NdX/15+7E2Khw050XMT0bcuTXbQ6GYZaD2PTZP
+WHr3KefLZUvo3TOfMSx+DdH+n0K4jK5/JSdGPXh4UDpVhoL0ch22wWbA7kjv10Kp2GiC4nkdNC04
+cKNfWaB/nNIfgioGUvgJBY9Vc1TrBPrmto2vl0WHqXZQm7Z3OzTL4p4MwyirEsNMoMMXBAhF9fWz
+u/GFxy+mhzr/koRT+wF+nkrUtzxRohu65NWbTQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature361491-Object413974"><etsi:QualifyingProperties Target="#Signature361491"><etsi:SignedProperties Id="Signature361491-SignedProperties2597"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-12T11:59:06-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>tiC3D3RCyxGlHT0egsaDepLPQAw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,C=EC,O=Lazzate Cia. Ltda.</ds:X509IssuerName><ds:X509SerialNumber>3255065151</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

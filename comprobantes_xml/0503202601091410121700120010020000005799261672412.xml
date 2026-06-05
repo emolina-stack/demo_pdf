@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0503202601091410121700120010020000005799261672412</numeroAutorizacion>
+<fechaAutorizacion>2026-03-05T17:09:00-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>CRESPO BIAGGI GIA MARIA</razonSocial>
+	    <nombreComercial>CRESPO BIAGGI GIA MARIA</nombreComercial>
+	    <ruc>0914101217001</ruc>
+	    <claveAcceso>0503202601091410121700120010020000005799261672412</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000000579</secuencial>
+	    <dirMatriz>LA PUNTILLA SATELITE / VIA SAMBORONDON KM 1.5 SN Y SN</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>05/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>LA PUNTILLA SATELITE / VIA SAMBORONDON KM 1.5 SN Y SN</dirEstablecimiento>
+		
+	    
+	    
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>SALAZAR PALACIOS SOFIA PAMELA</razonSocialComprador>
+	    <identificacionComprador>1712218559</identificacionComprador>
+		<direccionComprador>Urb Fontana</direccionComprador>
+	    
+	    <totalSinImpuestos>80.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>80.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>80.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>80.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>G01</codigoPrincipal>
+		<codigoAuxiliar>G01</codigoAuxiliar>
+      	<descripcion>Cita Nutricional</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>80.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>80.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Dx:  nutrición clínica   Sobrepeso</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature82177">
+<ds:SignedInfo Id="Signature-SignedInfo302198">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID27137" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature82177-SignedProperties958728">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>/fJUgat86MKuimPHpqvE9I49vcs=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate747315">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+gNJrNTnCCWIS5BPjt8vRUCLvBg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-309060" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>5FVtm5bmLwvAsIQU1Zh3laPXORw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue36792">
+KH7lakD7BOE0QJlzGm9VhwuNMj1Qtlf7IDKgV9liNKfkKplarCpPbah4LxaPM1aJU7tejK/df9eF
+PecGalLOV2haF6uhoO5ETLzQbxKkZvrNJP5j5wY1Fg1FlD1e/9BHo1SG3cY7fdeOvRKxem5nHlEY
+s0Fedf4tHw4ydLyFZGV87fVuJIKk39neY040uMO/vG/fVtn1hBkTH80q/3BAuVJDSP1hgdOKKeAw
+vh+SifuEJIEnQgv2wiz2XZnYPphMbaPBbx1jdGFFJWv7JENsWgvv8kN1ZyUv3KKGO5tLT1FUuX1H
+1jfClm9+RjLB2vGS6sOZTJtZEyG0DRiwYiRP2w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate747315">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJFjCCBv6gAwIBAgIIfCWkb7mFZFswDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI0MTAyMTIxNTIwMFoXDTI2MTAyMTIxNTIwMFowgZQxCzAJBgNVBAYTAkVDMRYwFAYDVQQEDA1D
+UkVTUE8gQklBR0dJMRIwEAYDVQQqDAlHSUEgTUFSSUExGTAXBgNVBAUTEElEQ0VDLTA5MTQxMDEy
+MTcxIDAeBgNVBAMMF0dJQSBNQVJJQSBDUkVTUE8gQklBR0dJMRwwGgYDVQRhDBNUSU5FQy0wOTE0
+MTAxMjE3MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApFLXwvHmdvP+WOyzNaQk
+03DXrQu7/YsMH2mPwrB6335oZxCqdT9d6th+wc85r2zVeMR9E01Hn1tdh1EBUzajWBkFGYFpvgRV
+9fV2HRpt+RpQx2ak+FYwPE0IslSnluSZmuCCTXoLGH31wR7ekZHn9Mtt1IZUHTJPbwQ5cm7ctYvr
+l+8RbzvRDBT5RzbLnVqQfoDEvPE8QFgR/Yv/Jvnom4VLEz8xOQuJvuDfe/tvsuIbLIpmvPCoTist
+2Cpeeep8GnofcyENZmeZ4DeBMr6dMxGrQrH+32qA7/21aa0mxyOlfiG2KZQRwqHfGyf7j4fhPCDm
+BrZhFwYYijgVIbLHzwIDAQABo4IERDCCBEAwGwYLKwYBBAGC8TZmAwEEDAwKMDkxNDEwMTIxNzAe
+BgsrBgEEAYLxNmYDCwQPDA0wOTE0MTAxMjE3MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEF
+BQcwAoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZp
+Y2F0ZXMvc3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNh
+LmNvbS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2Eu
+Y29tL3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFHY5rYK8rtd2ynlFwFQpNHe4GLggMAwGA1Ud
+EwEB/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkGA1UdIASBkTCBjjCB
+iwYMKwYBBAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8gREUgUEVSU09OQSBO
+QVRVUkFMIE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2Ny
+bDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6
+aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNy
+bDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBegYDVR0R
+BIIBcTCCAW2BF21hcmxvbnllcGV6QGhvdG1haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjA5MTQx
+MDEyMTegGgYLKwYBBAGC8TZmAwKgCwwJR0lBIE1BUklBoBcGCysGAQQBgvE2ZgMDoAgMBkNSRVNQ
+T6AXBgsrBgEEAYLxNmYDBKAIDAZCSUFHR0mgLQYLKwYBBAGC8TZmAwegHgwcT0ZGSUNFIENFTlRF
+UiAgVE9SUkUgQyBPRiAyM6AfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk5ODI5Nzc4N6AdBgsrBgEE
+AYLxNmYDCaAODAxTQU1CT1JPTkTDk06gHgYLKwYBBAGC8TZmAwugDwwNMDkxNDEwMTIxNzAwMaAT
+BgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVSQUwgTyBG
+SVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAofOsAxjD
+PuPwYKpl8SsgMlUK1DbswrEhFZFGrZnreOaJm5818zu/FID/r1awcBXjAgLnU1gnwnHEXYWQMYw3
+Oiq1hEiAB3fJVDVyeY84Eh/FvwnMzq9rP+FKZxI3eUHd9XXX73twITrrEsDv1HrOVd0QALGYa4FG
+RGG7QEYw9cUkBGAZ24wXfDIlA8EyTHlxxUFg3Yn+2ZJPFTkGd76h/+fEA+u6CdsOzDdp6FuweJzA
+xRPwc3q0TqCBpAHZ7DyoIMZuysVBAy4H+JZa14CtTbHcdY1PNAdYNRRBRpsOzuFGpGWcwj+kyK+9
+sDA8MqVKNvKCvtGLZ8MuBz6tRZ8pD+PbF7+lL+tnP3Gi0HgASL9BsAv5dl1tDnQMGS74evIXJNFq
+u26hDllP/qS0l076lM5m5yWjH3g6Ip5e/5SDXFqUs0TGiAAobqSH5xC0Smk4nf9fVbW/lAsF7EBU
+p42DNjPXCRik90XDAdQQwdGZHU9fHMh4PSqYkKfrPI0V1uMDUSioGHudUMbPqmZzrufXUL+ltD4y
+yuTU9ua1FBpGel6JJxAoYjgwUuxOS4DFsHU/ReqXP1McKQ7N0UiWAcPJozS5jF5L9qv89E4msi+x
++msUHHPmloNzTxvcujtGHNSUJWUZfov+kJwY56prU5FaaD4IfSa9dkiFUpBfar+K+bU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pFLXwvHmdvP+WOyzNaQk03DXrQu7/YsMH2mPwrB6335oZxCqdT9d6th+wc85r2zVeMR9E01Hn1td
+h1EBUzajWBkFGYFpvgRV9fV2HRpt+RpQx2ak+FYwPE0IslSnluSZmuCCTXoLGH31wR7ekZHn9Mtt
+1IZUHTJPbwQ5cm7ctYvrl+8RbzvRDBT5RzbLnVqQfoDEvPE8QFgR/Yv/Jvnom4VLEz8xOQuJvuDf
+e/tvsuIbLIpmvPCoTist2Cpeeep8GnofcyENZmeZ4DeBMr6dMxGrQrH+32qA7/21aa0mxyOlfiG2
+KZQRwqHfGyf7j4fhPCDmBrZhFwYYijgVIbLHzw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature82177-Object265237"><etsi:QualifyingProperties Target="#Signature82177"><etsi:SignedProperties Id="Signature82177-SignedProperties958728"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-05T17:08:57-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>bhm6UmbhpFGAE8tEHdUERzjPA9Q=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>8945737034602210395</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0302202601099135032200120010020000048414443511014</numeroAutorizacion>
+<fechaAutorizacion>2026-02-03T21:04:43-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>IDIAG CEIMM INSTIT. DEL DIAGNOSTICO CENTRO ECUATORIANO DE INVESTIGACIONES MAMARIAS Y MAMOGRAFICAS S.A</razonSocial>
+	    <nombreComercial>IDIAG CEIMM INSTIT. DEL DIAGNOSTICO CENTRO ECUATORIANO DE INVESTIGACIONES MAMARIAS Y MAMOGRAFIAS S.A</nombreComercial>
+	    <ruc>0991350322001</ruc>
+	    <claveAcceso>0302202601099135032200120010020000048414443511014</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000004841</secuencial>
+	    <dirMatriz>CDLA. KENNEDY CALLE NOVENA OESTE No. 109 Y AV SAN JORGE, PISO 1 - OFICINA 4 CONDOMINIO EVEPO - FRENTE A LA CLINICA KENNEDY</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>03/02/2026</fechaEmision>
+		
+			<dirEstablecimiento>CDLA. KENNEDY CALLE NOVENA OESTE No. 109 Y AV SAN JORGE, PISO 1 - OFICINA 4 CONDOMINIO EVEPO - FRENTE A LA CLINICA KENNEDY</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Wong Salas Maria Jose</razonSocialComprador>
+	    <identificacionComprador>0917276032</identificacionComprador>
+		<direccionComprador>Av. Rio Esmeralda Km.1.5 Vía Samborondón</direccionComprador>
+	    
+	    <totalSinImpuestos>174.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>174.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>174.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>174.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>ECO AB</codigoPrincipal>
+		<codigoAuxiliar>ECO AB</codigoAuxiliar>
+      	<descripcion>Ecografía Abdominal</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>58.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>58.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>58.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>ECO MA</codigoPrincipal>
+		<codigoAuxiliar>ECO MA</codigoAuxiliar>
+      	<descripcion>Ecografía Mamas</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>58.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>58.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>58.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>ECO VAG</codigoPrincipal>
+		<codigoAuxiliar>ECO VAG</codigoAuxiliar>
+      	<descripcion>Ecografía Vaginal</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>58.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>58.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>58.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Examen Medico</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature373822">
+<ds:SignedInfo Id="Signature-SignedInfo916844">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID129671" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature373822-SignedProperties266743">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>f2KzHx6ylVkKcD+UXVGHWslFDLA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate851652">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>hl4SdPSF9izXCDKqdfmdH/zcn10=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-236320" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PhMl3lSWrR8//CPaJ4e2AZuJr14=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue39675">
+QFEjf84SZYDYv9zwLdTKemiWrhSCuaZlMhWdkR1Fo7u/g4d2wg5ypaFc7IamfHMNQux+3YlXItND
+UPTz3mwRKEUK6X4YzQHs0D5ubn/swk/5dlgkIRWLociiJoV5aga8C0jEwC6riTVxuXD4YajBmHfY
+Ka2SdItVFHSO0IMTmLFLCmsjcpud8thIMx4pY5A98hhm6C4Bqh8F5UbMT9Q83BfmY/kPAw68RhrN
+QiTiZhGzJNi676jbPfpAKK1ihAAm/ErkzWquxtSI2+9Uc6yJcsZrWCCcAFsnRyyVpwyVmGHX6cOQ
+ex276gq8+I6SOscktA6yNutmD8ovtrUiUsJRKQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate851652">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIYTCCBkmgAwIBAgIRAJaqZwCqoOeJxYEjB/641L8wDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNTEwMjExMDU3NTdaFw0zMDEwMjExMTU3NTdaMIHfMS0wKwYD
+VQQFEyQyOGRmOGI2Mi03NWI1LTQ5ZTItODFiNC1lOWQ1MzczMmJlZDMxKzApBgkqhkiG9w0BCQEW
+HHBlZHJval9hbGVqYW5kcm9AaG90bWFpbC5jb20xJTAjBgNVBAMTHEVEVUFSRE8gQUxCRVJUTyBC
+QVJSRVJBIEJMVU0xMDAuBgNVBAsTJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTjEbMBkGA1UEChMSRklSTUFTRUdVUkEgUy5BLlMuMQswCQYDVQQGEwJFQzCCASIwDQYJKoZI
+hvcNAQEBBQADggEPADCCAQoCggEBAM9KxA/A/ywSdoydSR2m73oXOjXHoZa5zBSJ78+HPagl034B
+Ys6jfZ6WMDqXMERAQyOsO2l6ISYk08+zbQpmAKKZtm39prDDb2lmrnVkCdc8h2iTf05Kt7AoAPug
+s8ASGpvQqDsWtpq7fvTNevdxQMWvKi0DyNk6slCkhEQO1j1giAPEHl8QwtdWjKppOyI9n89iqcAg
+nSOfsIAjgD9W4AcG+9wyKSrsrjtXw5iFxZFyGtOb6SrY035OG0xRZdLL637X/+TN/MMTtonDgTB9
+BIFdbqsYo3VXUfSGLH0dhEKMo1zlofjUpk5G1W2qxeqI8AZtY9SwaZBwyEruGJerGwcCAwEAAaOC
+AzEwggMtMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUE0aTaAmu1ySHM0VjJnffrF5eilEwHQYDVR0O
+BBYEFEHFCgcwe7SCOAfSpei0JHGdOJY+MFoGA1UdHwRTMFEwT6BNoEuGSWh0dHA6Ly9jcmwuZmly
+bWFzZWd1cmFlYy5jb20vY3JsL2NjY2U1YTRmLTZiNjgtNDZmYy1hNjIwLTRhYmNjNGM0YTY5MC5j
+cmwwOQYIKwYBBQUHAQEELTArMCkGCCsGAQUFBzABhh1odHRwOi8vb2NzcC5maXJtYXNlZ3VyYWVj
+LmNvbTAaBgorBgEEAYPeeQMBBAwWCjA5MDYxMDU5MDMwHwYKKwYBBAGD3nkDAgQRFg9FRFVBUkRP
+IEFMQkVSVE8wFwYKKwYBBAGD3nkDAwQJFgdCQVJSRVJBMBQGCisGAQQBg955AwQEBhYEQkxVTTAf
+BgorBgEEAYPeeQMFBBEWD0dFUkVOVEUgR0VORVJBTDAgBgorBgEEAYPeeQMHBBIWEEdVQVlBUVVJ
+TCBYSU1FTkEwHAYKKwYBBAGD3nkDCAQOFgw1OTM5ODczMjQ1NzEwGQYKKwYBBAGD3nkDCQQLFglH
+VUFZQVFVSUwwdgYKKwYBBAGD3nkDCgRoFmZJRElBRyBDRUlNTSBJTlNUSVQuIERFTCBESUFHTk9T
+VElDTyBDRU5UUk8gRUNVQVRPUklBTk8gREUgSU5WRVNUSUdBQ0lPTkVTIE1BTUFSSUFTIFkgTUFN
+T0dSQUZJQ0FTIFMuQS4wHQYKKwYBBAGD3nkDCwQPFg0wOTkxMzUwMzIyMDAxMBMGCisGAQQBg955
+AwwEBRYDRUNVMIGkBgNVHSAEgZwwgZkwVAYLKwYBBAGD3nkCAQEwRTBDBggrBgEFBQcCARY3aHR0
+cHM6Ly9maXJtYXNlZ3VyYWVjLmNvbS9wb2xpdGljYXNfcmVwcmVzZW50YW50ZV9sZWdhbDBBBgsr
+BgEEAYPeeQICAjAyMDAGCCsGAQUFBwICMCQMIkNlcnRpZmljYWRvIGRlIFJlcHJlc2VudGFudGUg
+TGVnYWwwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQB7T7E05crsH3YJ8juZb+22
+jX6DOp3F+KEhzQmypvMcTKcBbZM+E2R1xsrkVnFXOFnojoRP8t7qJ8khGPKwBlaO1xJPsXscb9RK
+5MNFI5fcJiVyw1/OXmnMD/E1rGlaxu3WcSdlLbyCkie9wWqmd0Q+hk7tn3UpqyZRFFYncZRE+jlo
+XKb3We6J8gG4dx8UWNfnK57CI4MpXK0tQQ5HoDOFH7eJv6qlN5WM3U18fFFusHI7s4lP5hskCwoQ
+ThF8zfiDDDpWW5JbOjayLejz72mB2OWv9kMtpZ5dvzcNWBVJf8NtbpsID4aKtTP4mGfMUzOzI4Y0
+4Wua6r+Qta+EszTFxpLjf6eg4MmVLCICdlb6bNZ9DByaU6Mke7+sywW8vyAwbIK+HQQPb92ptmCx
+8VTKP2+2iTd0rvOEsoVh3uJKwPQ4Q+rfey94ZEz4KxARfGnsPcZUHvqnNv0gEZbNyv8mhOpx4Cr7
+n5thznc7G6lWCtTRh0ZLML/lYUEd+r5IDJOUEQpDXNSkjwf0Sp17tGWAY0W+vs43HuuVvNEiqT8h
+KctpcKoVGrL0SOvU4LkqOhFb8+ti7Dqo5ivPCg/bPfAr4/6kAXYNJX5usm0Gj5BEo+epgnytQ3Xt
+1b5t0OJXjUCy64lvpq7iEYd+ZVYRlRX9yop+NugoGA4Dsbkyr1bfug==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+z0rED8D/LBJ2jJ1JHabvehc6NcehlrnMFInvz4c9qCXTfgFizqN9npYwOpcwREBDI6w7aXohJiTT
+z7NtCmYAopm2bf2msMNvaWaudWQJ1zyHaJN/Tkq3sCgA+6CzwBIam9CoOxa2mrt+9M1693FAxa8q
+LQPI2TqyUKSERA7WPWCIA8QeXxDC11aMqmk7Ij2fz2KpwCCdI5+wgCOAP1bgBwb73DIpKuyuO1fD
+mIXFkXIa05vpKtjTfk4bTFFl0svrftf/5M38wxO2icOBMH0EgV1uqxijdVdR9IYsfR2EQoyjXOWh
++NSmTkbVbarF6ojwBm1j1LBpkHDISu4Yl6sbBw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature373822-Object769665"><etsi:QualifyingProperties Target="#Signature373822"><etsi:SignedProperties Id="Signature373822-SignedProperties266743"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-03T21:04:41-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>Xdxahi8br/7fyzKDH+zdxUPK4bA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,C=EC,L=AMBATO,ST=TUNGURAHUA,O=FIRMASEGURA S.A.S.,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>200268978974684450963335088137033012415</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

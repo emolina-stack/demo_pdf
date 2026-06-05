@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1703202601090490403400120010020000002251234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-03-17T17:15:21-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>MURILLO ACUÑA JORGE EDUARDO</razonSocial>
+    <ruc>0904904034001</ruc>
+    <claveAcceso>1703202601090490403400120010020000002251234567815</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000000225</secuencial>
+    <dirMatriz>Cdla. ALBORADA Calle: CROTOS y AV RODOLFO BAQUERIZO NAZUR (HOSPITAL CLINICA KENNEDY ALBORADA) Piso 5 • Ofic.: 501</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>17/03/2026</fechaEmision>
+    <dirEstablecimiento>Cdla. ALBORADA Calle: CROTOS y AV RODOLFO BAQUERIZO NAZUR (HOSPITAL CLINICA KENNEDY ALBORADA) Piso 5 • Ofic.: 501</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MARTHA GRANDA CASTILLO</razonSocialComprador>
+    <identificacionComprador>0924257751</identificacionComprador>
+    <totalSinImpuestos>80.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>80.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>80.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>80.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>003</codigoPrincipal>
+      <descripcion>CONSULTA MEDICA</descripcion>
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>80.000000</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>80.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección:">Floresta 1 Mz 97 villa 9</campoAdicional>
+    <campoAdicional nombre="Teléfono:">0958622784</campoAdicional>
+    <campoAdicional nombre="Email:">mcgrandac@gmail.com</campoAdicional>
+    <campoAdicional nombre="Observación:">SE REVISAN OCT Y SE CONFIRMA CORIORETINITIS SEROSA CENTRAL OD</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature233251">
+<ds:SignedInfo Id="Signature-SignedInfo351963">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID141864" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature233251-SignedProperties854681">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7JtZa4jGx0M9Xcrhs1QAO33S8CY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1401386">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Oa9/qFDTG8ACTapxA8ZUz7xA/T0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-125806" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3/Xo0CbtZlHRG4Sgmje4NtfG9n0=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue84678">
+RXtz5w4CJWyGmEiswoQiWtF8kUnz7wbvRZmA5/XKx+7zcm6qnMuZxkpUrxMFcjnDmHgzMH1+95Oq
+tNV03A32ovKoJTAPR+XVDSpcOat92HwJVY/qqrFwh8Xhon6b5X4ZKRtlnIDBasVr1iFLWh8/Oeuy
+ao4Ksr7no/fEuJpfWZ3myfPDspIsVcF9DgZ0K5Q6kbiKI7YKgwee4Xe343zKw813H9ab+9ZC3lnL
+j46Mfv2/TXGhUEJSzwmIm/R5/uaD30W7Cgv304kHybUsTNObKkj9w70s3IQCWIydVGX+qS/9I4AS
+2/jvtwG1moOCK+NAGoP1wQvnebOk9f3pQUShsg==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1401386">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJqjCCB5KgAwIBAgIEZeTU4zANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCRUMxIjAgBgNV
+BAoTGUJBTkNPIENFTlRSQUwgREVMIEVDVUFET1IxNzA1BgNVBAsTLkVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTi1FQ0lCQ0UxDjAMBgNVBAcTBVFVSVRPMSUwIwYDVQQDExxB
+QyBCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMB4XDTI0MTAxODIwMjQwNloXDTI2MTAxODIwNTQw
+NVowgbMxCzAJBgNVBAYTAkVDMSIwIAYDVQQKExlCQU5DTyBDRU5UUkFMIERFTCBFQ1VBRE9SMTcw
+NQYDVQQLEy5FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04tRUNJQkNFMQ4w
+DAYDVQQHEwVRVUlUTzE3MBEGA1UEBRMKMDAwMDc2NDY4OTAiBgNVBAMTG0pPUkdFIEVEVUFSRE8g
+TVVSSUxMTyBBQ1VOQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKdWgeFMRNXKCdpE
+fr60sYGN97VSRfSiriEJlp0da4Lg1LurPUc3MRrG/ausdjX8wUAG3HjVP8mjEiyARgNqReHbrrkM
+LI35lf+AJRQGhBiODKT5TSCXKX3ZHd/fNMTjGR3eeA775OO/L6+4m3mBUaMWMzfvCL/isyZqJpPO
+DjotjXk+8+xnQ3qRSLWO+MTafQw4hCyYYBz36PEV2+zLvyjG/siM5YTWyBzdDwDkSbxp6EqTGIoS
+6UMGn/QcWiL8levmlbPMFIFcqn5ngmmVNe9/4dzR4xlW4djKxGQTuNcP9FYEUwQuywQ2zapYHd0L
+wan7+1mOlEyuMbDPSibgL/ECAwEAAaOCBNQwggTQMAsGA1UdDwQEAwIHgDBmBgNVHSAEXzBdMFsG
+CysGAQQBgqg7AgEBMEwwSgYIKwYBBQUHAgEWPmh0dHA6Ly93d3cuZWNpLmJjZS5lYy9wb2xpdGlj
+YS1jZXJ0aWZpY2Fkby9wZXJzb25hLW5hdHVyYWwucGRmMIGRBggrBgEFBQcBAQSBhDCBgTA+Bggr
+BgEFBQcwAYYyaHR0cDovL29jc3AuZWNpLmJjZS5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29j
+c3AwPwYIKwYBBQUHMAGGM2h0dHA6Ly9vY3NwMS5lY2kuYmNlLmVjL2VqYmNhL3B1YmxpY3dlYi9z
+dGF0dXMvb2NzcDAaBgorBgEEAYKoOwMBBAwTCjA5MDQ5MDQwMzQwHQYKKwYBBAGCqDsDAgQPEw1K
+T1JHRSBFRFVBUkRPMBcGCisGAQQBgqg7AwMECRMHTVVSSUxMTzAVBgorBgEEAYKoOwMEBAcTBUFD
+VU5BMCwGCisGAQQBgqg7AwcEHhMcVVJCLiBQTEFaQSBSRUFMIE1aIFAgVklMTEEgODAZBgorBgEE
+AYKoOwMIBAsTCTA0MjgzNjc0OTAbBgorBgEEAYKoOwMJBA0TC1NBTUJPUk9ORE9OMBcGCisGAQQB
+gqg7AwwECRMHRUNVQURPUjAdBgorBgEEAYKoOwMLBA8TDTA5MDQ5MDQwMzQwMDEwIAYKKwYBBAGC
+qDsDMwQSExBTT0ZUV0FSRS1BUkNISVZPMCIGA1UdEQQbMBmBF2FhY3VtdXJpbGxvQGhvdG1haWwu
+Y29tMIIB4QYDVR0fBIIB2DCCAdQwggHQoIIBzKCCAciGgdZsZGFwOi8vYmNlcWxkYXBzdWJwMS5i
+Y2UuZWMvY249Q1JMMjA5OCxjbj1BQyUyMEJBTkNPJTIwQ0VOVFJBTCUyMERFTCUyMEVDVUFET1Is
+bD1RVUlUTyxvdT1FTlRJREFEJTIwREUlMjBDRVJUSUZJQ0FDSU9OJTIwREUlMjBJTkZPUk1BQ0lP
+Ti1FQ0lCQ0Usbz1CQU5DTyUyMENFTlRSQUwlMjBERUwlMjBFQ1VBRE9SLGM9RUM/Y2VydGlmaWNh
+dGVSZXZvY2F0aW9uTGlzdD9iYXNlhjRodHRwOi8vd3d3LmVjaS5iY2UuZWMvQ1JML2VjaV9iY2Vf
+ZWNfY3JsZmlsZWNvbWIuY3JspIG2MIGzMQswCQYDVQQGEwJFQzEiMCAGA1UEChMZQkFOQ08gQ0VO
+VFJBTCBERUwgRUNVQURPUjE3MDUGA1UECxMuRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLUVDSUJDRTEOMAwGA1UEBxMFUVVJVE8xJTAjBgNVBAMTHEFDIEJBTkNPIENFTlRS
+QUwgREVMIEVDVUFET1IxEDAOBgNVBAMTB0NSTDIwOTgwKwYDVR0QBCQwIoAPMjAyNDEwMTgyMDI0
+MDZagQ8yMDI2MTAxODIwNTQwNVowHwYDVR0jBBgwFoAUSKLfIx8d+CxReowDzUkypQnBlKswHQYD
+VR0OBBYEFJGgImIqkDFAnM4NIWBNz3ho6pQkMAkGA1UdEwQCMAAwGQYJKoZIhvZ9B0EABAwwChsE
+VjguMwMCBDAwDQYJKoZIhvcNAQELBQADggIBAIZ6WT+Bw59d1sH3aIMseeQqcOYEqtk0VsaExiYF
+NJjvG9wSKPpgJEnKGq0IwnyIMi9qqSgXpbWjFznPkOwffANf2dWDtdIz7qS5VMx6PRxMAeBV3DQY
+1+znMUXLS/ll/HMPcaqOACEDkKypKFO58CBr+TARkXodv9ZEJTcZs6pII3OLUhXplXyC27Qujw3Z
+av/D8r7MUxLJJ0SA+L1iRzOjT6sKazTo262FoikrIm4BrabeSzmctJZqTP+V8eZC9bWKMHJGS2qe
+J0Lp7BhnCiGPUuVLR+vTd+mUpHqri3V//3Z761PHucSqFPBRIErYg/LdBYT9ytTpxar3irHMiRcJ
+jTB3yZ1txzG+0JURFptqT1nx3RxaB1IvrANiJQEvjw5wMqm7mnl33+I6l5JgHJm7ppEg6EZVtTPR
+nz95ehucVK+lWPa3xTSCEbuffnxgrUy3QxvAJv78yCrLbxKoaA/2TLJdzsv+pOJ8hQcBnjxaL/Pc
+p2CnnXN92S2iVnv1VGupRsdbeaBM/qp4qxUNFNt40rPhD1Ux9gKtZFZU1gIZ+GsBjP4Q8hNiFb+1
+Y6P/vnamNHot/VmTONUQJkVMFsg1lAA5hmjk97UYO1w6bTEWsoTM/p6nOFGy4R+BEiW55t+16JKp
+/aHP5xvnvvFSTtGnmFC1uFIbAkkOQmPnR+sw
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+p1aB4UxE1coJ2kR+vrSxgY33tVJF9KKuIQmWnR1rguDUu6s9RzcxGsb9q6x2NfzBQAbceNU/yaMS
+LIBGA2pF4duuuQwsjfmV/4AlFAaEGI4MpPlNIJcpfdkd3980xOMZHd54Dvvk478vr7ibeYFRoxYz
+N+8Iv+KzJmomk84OOi2NeT7z7GdDepFItY74xNp9DDiELJhgHPfo8RXb7Mu/KMb+yIzlhNbIHN0P
+AORJvGnoSpMYihLpQwaf9BxaIvyV6+aVs8wUgVyqfmeCaZU173/h3NHjGVbh2MrEZBO41w/0VgRT
+BC7LBDbNqlgd3QvBqfv7WY6UTK4xsM9KJuAv8Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature233251-Object798417"><etsi:QualifyingProperties Target="#Signature233251"><etsi:SignedProperties Id="Signature233251-SignedProperties854681"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-17T17:15:20-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>JWLaelzar4UcdHYrZ8AMp4oyLSE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AC BANCO CENTRAL DEL ECUADOR,L=QUITO,OU=ENTIDAD DE CERTIFICACION DE INFORMACION-ECIBCE,O=BANCO CENTRAL DEL ECUADOR,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1709495523</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-125806"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

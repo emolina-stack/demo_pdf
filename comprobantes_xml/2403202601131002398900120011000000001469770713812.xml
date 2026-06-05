@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2403202601131002398900120011000000001469770713812</numeroAutorizacion>
+<fechaAutorizacion>2026-03-24T22:12:32-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>CHOEZ PLUA PATRICIA VANESA</razonSocial>
+        <ruc>1310023989001</ruc>
+        <claveAcceso>2403202601131002398900120011000000001469770713812</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000146</secuencial>
+        <dirMatriz>Barrio: EL SAGRARIO Calle: MOSQUERA NARVAEZ Numero: 1173 Interseccion: AV.JAIME ROLDOS </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>24/03/2026</fechaEmision>
+        <dirEstablecimiento>Barrio: EL SAGRARIO Calle: MOSQUERA NARVAEZ Numero: 1173 Interseccion: AV.JAIME ROLDOS </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>MUENALA ANRANGO CONSUELO DEL CARMEN</razonSocialComprador>
+        <identificacionComprador>1003521117</identificacionComprador>
+        <totalSinImpuestos>720.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>720.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>720.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>720.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>001</codigoPrincipal>
+            <descripcion>SESIONES DE TERAPIA OCUPACIONAL FUNCIONAL</descripcion>
+            <cantidad>24.00</cantidad>
+            <precioUnitario>30</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>720.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>720.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">090783205</campoAdicional>
+        <campoAdicional nombre="Email">conti192013@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Terapia Ocupacional Modo intensivo">Del 2 al 28 de Febrero 2026</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-14ec9a06-18fe-4bb7-9753-5a6da98b0381"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-14ec9a06-18fe-4bb7-9753-5a6da98b0381-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>rV51hqV1j72OcGzfn0HNWzfOpvEi9tvtUDNvw+4fq9U=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-14ec9a06-18fe-4bb7-9753-5a6da98b0381-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>uPQWxEDGr1oTOGGfWlyJY4EeKySI8/hJyhZf/X7xXso=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-14ec9a06-18fe-4bb7-9753-5a6da98b0381-sigvalue">kpXCVD+zafnFLnYHFyMYWyfhLbAN8E6qflrImRZ4HLr8drEWy6af2SI21lTJ4L3XpVO6kX0BTMTBT3HAIx3s1NGhbnmHDLMQtesT7LHQUq7E4WP+JtycJntIgQn42otDbFbc+o+0unY87hxKFWR5eH0x/QSFpbeChr1BkPM6ep4FcEWEjuvrnQpA4lBB2aqKyrmLOuKtN0balwIECd7XtA9X2BH8eoeVJkMa6QPW+hRQbYjI3DAsSdeQwv66/7OhGdy39VaejVNl1AvfyeHqg6o8xgrZ82hRGYOAY4wGMrZ+5AoLIpG6KuRckhBmgMDrgANLY6K4DTod23AZCTcRUQ==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-14ec9a06-18fe-4bb7-9753-5a6da98b0381"><xades:SignedProperties Id="xmldsig-14ec9a06-18fe-4bb7-9753-5a6da98b0381-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-24T22:12:31.856-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>3+p1sFiReGIEptKBc3ZRd7yxRiRosw9ME5qrr3FQOos=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>288717635612813905742091557001100556446</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-14ec9a06-18fe-4bb7-9753-5a6da98b0381-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

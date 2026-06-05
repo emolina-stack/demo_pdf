@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0203202601092001710000120020020000004782019323114</numeroAutorizacion>
+<fechaAutorizacion>2026-03-02T14:32:20-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>GEOVANNA MEDINA MERA</razonSocial>
+    <nombreComercial>psiconova</nombreComercial>
+    <ruc>0920017100001</ruc>
+    <claveAcceso>0203202601092001710000120020020000004782019323114</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>002</estab>
+    <ptoEmi>002</ptoEmi>
+    <secuencial>000000478</secuencial>
+    <dirMatriz>Alborada 4 etapa fs  villa 4</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>02/03/2026</fechaEmision>
+    <dirEstablecimiento>Alborada 4 etapa fs  villa 4</dirEstablecimiento>
+    <obligadoContabilidad>NO</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>Maria Cecilia Soto Decker</razonSocialComprador>
+    <identificacionComprador>0911329977</identificacionComprador>
+    <direccionComprador>Urb. Bosques de la costa mz 12 villa 6</direccionComprador>
+    <totalSinImpuestos>120.00</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>120.00</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>120.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>120.00</total>
+        <plazo>0</plazo>
+        <unidadTiempo>Dias</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>000076</codigoPrincipal>
+      <descripcion>Terapias  ocupacionales para Álvaro Cisneros correspondientes a los días 3, 5, 19 y 26 de febrero del 2026.</descripcion>
+      <cantidad>4.00</cantidad>
+      <precioUnitario>30.00</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>120.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0.00</tarifa>
+          <baseImponible>120.00</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">Urb. Bosques de la costa mz 12 villa 6</campoAdicional>
+    <campoAdicional nombre="Teléfonos">5128146</campoAdicional>
+    <campoAdicional nombre="Email">titisoto@hotmail.com</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature682786">
+<ds:SignedInfo Id="Signature-SignedInfo172155">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID825628" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature682786-SignedProperties930035">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>3DqmreEBA+4Tu7HcA9iiIi+3VJQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1196831">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>pevJyzDDAGQxgS3EJgIR90WDhlc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-955078" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kiHFnLY7xUBmai1ePO6NCumJ/7Q=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue492071">
+QICucNgiCC51BMX0z4JXGExIlUeqKIAb/N0NSUvycwptwrlctocSOzjZ4ufl8+1urbt5zae8dkOv
+howAzqop3v45481dBE061AsKh7xJiFqYQiTg35TYFF5+fBGsLLQnCHVvKPq41LwhG7prRJJs3k+8
+UWDaNrgv4fYiqr2h4y+++jDEP/M4Re5Fk/5HRv7yc4ZfuK2au4LOWgt3JFy8zieOC+5ICp8GE/lw
+GqiGbugf2KOJG3nX5s6yMdXmuEP/X3SAHvhZ80CX4qwZOb5cVQO2k4NF7QSVe533clgBEjcNZ4IA
+pccMyARFiKAzfIPlrjbDHarHFCIibwofQz27mA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1196831">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIHvzCCBaegAwIBAgIRANTRoEGpRwD7eBO60NrI/P4wDQYJKoZIhvcNAQELBQAwgcIxCzAJBgNV
+BAYTAkVDMRswGQYDVQQKDBJGSVJNQVNFR1VSQSBTLkEuUy4xMDAuBgNVBAsMJ0VOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjETMBEGA1UECAwKVFVOR1VSQUhVQTE+MDwGA1UE
+Aww1QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMSBGSVJNQVNFR1VSQSBTLkEuUy4x
+DzANBgNVBAcMBkFNQkFUTzAeFw0yNTA3MjExNTA0NDJaFw0yNjA3MjExNjA0NDJaMIHdMS0wKwYD
+VQQFEyQyZWZhMDRjNy1jZjZjLTRjODEtOTZjNC0zNjc1ODQwYmNiMDgxKDAmBgkqhkiG9w0BCQEW
+GWZpcm1hc0BmYWN0dXJlcm9tb3ZpbC5jb20xJjAkBgNVBAMTHUdFT1ZBTk5BIE1FUkNFREVTIE1F
+RElOQSBNRVJBMTAwLgYDVQQLEydFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04xGzAZBgNVBAoTEkZJUk1BU0VHVVJBIFMuQS5TLjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQCAXJYMTYuf8wnd0w/32J2yDb8oiAIwe9W8+THerjM0qZ8A40uy
+2bgzCFQsUPWYlfcTJTxVLxdr9boZhoitWpU0p7yMXvu0kL/B5LcqrgBRDbjXWB+KTbGfO/RGp5qH
+72Wqqpnu3z2H9AySNMqLpWSo/saqK9gxdoThxBajPKvy5xRgOyDjVSAjoLXu1hnxzlb+YG2pxZKG
+ccPbdYalrqu6RwsgJG23DcQ0dCQWOVNVPiDGFXTLKjerw5xdLuegJnXx6MxHPf9WsL3afpUjU8L8
+mxJXZ1shnzrMgtQje54eUjQ4zSiT60Q17DopANCis62gl7a3G4EbgZ21TWxd8lMzAgMBAAGjggKR
+MIICjTAJBgNVHRMEAjAAMB8GA1UdIwQYMBaAFBNGk2gJrtckhzNFYyZ336xeXopRMB0GA1UdDgQW
+BBQr8G9gkKLZpfHTjPtvceWSSVBXTDBaBgNVHR8EUzBRME+gTaBLhklodHRwOi8vY3JsLmZpcm1h
+c2VndXJhZWMuY29tL2NybC9jY2NlNWE0Zi02YjY4LTQ2ZmMtYTYyMC00YWJjYzRjNGE2OTAuY3Js
+MDkGCCsGAQUFBwEBBC0wKzApBggrBgEFBQcwAYYdaHR0cDovL29jc3AuZmlybWFzZWd1cmFlYy5j
+b20wGgYKKwYBBAGD3nkDAQQMFgowOTIwMDE3MTAwMCEGCisGAQQBg955AwIEExYRR0VPVkFOTkEg
+TUVSQ0VERVMwFgYKKwYBBAGD3nkDAwQIFgZNRURJTkEwFAYKKwYBBAGD3nkDBAQGFgRNRVJBMCAG
+CisGAQQBg955AwcEEhYQVEFSUVVJIC8gU09MQVIgNDAcBgorBgEEAYPeeQMIBA4WDDU5Mzk4MzA1
+NTI1OTAZBgorBgEEAYPeeQMJBAsWCUdVQVlBUVVJTDATBgorBgEEAYPeeQMMBAUWA0VDVTAdBgor
+BgEEAYPeeQMLBA8WDTA5MjAwMTcxMDAwMDEwgZwGA1UdIASBlDCBkTBQBgsrBgEEAYPeeQIBATBB
+MD8GCCsGAQUFBwIBFjNodHRwczovL2Zpcm1hc2VndXJhZWMuY29tL3BvbGl0aWNhc19wZXJzb25h
+X25hdHVyYWwwPQYLKwYBBAGD3nkCAgEwLjAsBggrBgEFBQcCAjAgDB5DZXJ0aWZpY2FkbyBkZSBQ
+ZXJzb25hIE5hdHVyYWwwDgYDVR0PAQH/BAQDAgXgMA0GCSqGSIb3DQEBCwUAA4ICAQCBPRcTkC2Q
+cTdQZlR8UH3tKNAYufnGqU/J7ecnftyHkGm7cyVBtKOT1ZnTXIGsB436z0Y/wwgGm3qA8T7ekLts
+jH4UzxQjUKU0mB1O+Dcx5vLT95JHhtpo44acNiQolKL+pXMqUnRj7ZSZd0f3hk+rARPha8M9HqTf
+sVbxWgGmoK4lkJRKWephsIoFWb+HiyqZgSageG47uGz7ms+unJrLOZajdjbx4kyMa39c1mIR1xl8
+8YQDWDbKv28rKhYQUM7Y+EKsVyDNqq+tK/CiP3tbSRnSfL1I/PMBZ+jzujZGloxj/+T1mnF4Y8Gr
+yr+cDVqPGrWqzd7YlWZbFDxFbCm4XSgtARkEDgoNT82LGDx6RaJwpLsqSd3ronRd6RCGGTrcLNy3
+pNRT32Nz1gh4sE+HzWotcDj6nJBzx5kPJp6iCriTGhjPf2btLzlhvXQV7OvGq1pYlzYPyZIomx7D
+OaRuRIaBgS9nhPixqiu9RyNu64SEO/JF826pC3t+K3d1/js7SJW6R2Z6U13wcyyc95zUGNEzjpG7
+e5e+B8aQRhDeJ2a/aNUOHl1QSpZslV0DMYpXagH9sN/t3EvXIKQ8gqLIM1RmQnlgXk+06AI0/Lk1
+a6lY+VmtndmwHX4qs2xdYe3ZWrBWWnnT3XDXD9ShlOObx+R+O0F/7lwpiB5vEJUSiQ==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gFyWDE2Ln/MJ3dMP99idsg2/KIgCMHvVvPkx3q4zNKmfAONLstm4MwhULFD1mJX3EyU8VS8Xa/W6
+GYaIrVqVNKe8jF77tJC/weS3Kq4AUQ2411gfik2xnzv0Rqeah+9lqqqZ7t89h/QMkjTKi6VkqP7G
+qivYMXaE4cQWozyr8ucUYDsg41UgI6C17tYZ8c5W/mBtqcWShnHD23WGpa6rukcLICRttw3ENHQk
+FjlTVT4gxhV0yyo3q8OcXS7noCZ18ejMRz3/VrC92n6VI1PC/JsSV2dbIZ86zILUI3ueHlI0OM0o
+k+tENew6KQDQorOtoJe2txuBG4GdtU1sXfJTMw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature682786-Object1008861"><etsi:QualifyingProperties Target="#Signature682786"><etsi:SignedProperties Id="Signature682786-SignedProperties930035"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-02T14:32:18-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>t8xDWD6dwwi04i6qg4N/6m0vPKI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>L=AMBATO,CN=AUTORIDAD DE CERTIFICACION SUBCA-1 FIRMASEGURA S.A.S.,ST=TUNGURAHUA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=FIRMASEGURA S.A.S.,C=EC</ds:X509IssuerName><ds:X509SerialNumber>282884775537591896756204928155087600894</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-955078"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

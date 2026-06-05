@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0603202601090520086100120020020000014847884251416</numeroAutorizacion>
+<fechaAutorizacion>2026-03-06T15:21:53-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>LARA TERAN JOFFRE JOSE</razonSocial>
+	    <nombreComercial>LARA TERAN JOFFRE JOSE</nombreComercial>
+	    <ruc>0905200861001</ruc>
+	    <claveAcceso>0603202601090520086100120020020000014847884251416</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>002</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000001484</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / CARBO CONCEPCION / PANAMA 616 Y ORELLANA</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>06/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / CARBO CONCEPCION / PANAMA 616 Y ORELLANA</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>Gustavo González Cabal</razonSocialComprador>
+	    <identificacionComprador>1302529431</identificacionComprador>
+		<direccionComprador>Urb. La Puntilla Av. Tercera N.- 303</direccionComprador>
+	    
+	    <totalSinImpuestos>120.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>120.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>120.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>120.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>002</codigoPrincipal>
+		<codigoAuxiliar>002</codigoAuxiliar>
+      	<descripcion>CONSULTA MEDICA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>80.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>80.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>006</codigoPrincipal>
+		<codigoAuxiliar>006</codigoAuxiliar>
+      	<descripcion>ELECTROCARDIOGRAMA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>40.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>40.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>40.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">Consulta cardiológica HCKS</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature546850">
+<ds:SignedInfo Id="Signature-SignedInfo282662">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID857807" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature546850-SignedProperties570541">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>dc5sywSauhIYdfW5s3wpcmCjWkA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate883522">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>XPgv735oRnPWEZTDrtDg1mzxxK4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-394500" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>nGjxyThApMbCq+brzWJN41TNzVk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue697195">
+U3k8r4gekP2C0uNu1mU/fnWLNWVHZza8mNDWwTW5g1H/lyhryrCHXw0mHlxhhC9IGrS3t/3hveS0
+6Gv3gt8ZU0egtkRqclbeO8a1Lm07WI/wT0UtVA/2RpRKF2xQdSdSNgDjoMDh/B9jycbG1QOs0dHk
+lvxOGVopJrdeh0r038UjIaUfFOAoBgyXyyzGALCnJPUxjI3E/17GslzCJmoQyp7ElKicg820ZpVS
+m3T7sHSm20FbEiJ4CchuxCEH5oL2U5oKEmkzcgW6+Xe2ZTJXE6Gx56dRiJdqWt6yhpQ7IhaEG/x9
+gs/D1KGJUXrg4X1JlsiXLcOvZidUds3kwC55xA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate883522">
+<ds:X509Data>
+<ds:X509Certificate>
+MIII0TCCBrmgAwIBAgIIDKQYPi+L2rMwDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIyMTAxMzA1MDAwMFoXDTI3MTAxMjA1MDAwMFowgZIxCzAJBgNVBAYTAkVDMRMwEQYDVQQEDApM
+QVJBIFRFUkFOMRQwEgYDVQQqDAtKT0ZGUkUgSk9TRTEZMBcGA1UEBRMQSURDRUMtMDkwNTIwMDg2
+MTEfMB0GA1UEAwwWSk9GRlJFIEpPU0UgTEFSQSBURVJBTjEcMBoGA1UEYQwTVElORUMtMDkwNTIw
+MDg2MTAwMTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAILREuIZyGV8L2PUzLiGRE+S
+ArwVoYk9uRpXGLWJY5uX+t6Pjmp2BUW/bvcxSDEkWRsGACs7bPafGvxUpZxz5QG2orwiryZn79jS
+AP/Jis1BTda8Kjbl+BNHgtIfz2tS/4n74RmzNwYueWKmxHN5QnrPLx79g/Q/y+UrkbbuNLQiVmuv
+R5ZRJdDI28HhObvOInDmQB4p5KNd9d3y5/EkM3Gw5rV/d5Xi2Sb2Ysc/fz1q+QHD+DpkKywquTd7
+oaBhgN2Kh2e9hBJ1qcxCOSav7DddkssnO0ei0MiqpOWUOofeCnxURnJu8x1A1jiOzDpA62zUy9my
+3NhzFhgm+yMMW8cCAwEAAaOCBAEwggP9MIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcwAoZJ
+aHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0ZXMv
+c3Vib3JkaW5hdGUxLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNvbS9w
+dWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29tL3B1
+YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFMDaTKxxEe6P/deMd7My/09ze38hMAwGA1UdEwEB/wQC
+MAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgZkGA1UdIASBkTCBjjCBiwYMKwYB
+BAGC8TZmAgEBMHswNwYIKwYBBQUHAgEWK2h0dHBzOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMv
+cGtpL2RwYy1lYy8wQAYIKwYBBQUHAgIwNAwyQ0VSVElGSUNBRE8gREUgUEVSU09OQSBOQVRVUkFM
+IE8gRklTSUNBIEVOIEFSQ0hJVk8wgY8GA1UdHwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFu
+YXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDov
+L2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNV
+HQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIIBdAYDVR0RBIIBazCC
+AWeBF2pjc2FudGFuZGVyQGhvdG1haWwuY29toBsGCysGAQQBgvE2ZgMBoAwMCjA5MDUyMDA4NjGg
+HAYLKwYBBAGC8TZmAwKgDQwLSk9GRlJFIEpPU0WgFQYLKwYBBAGC8TZmAwOgBgwETEFSQaAWBgsr
+BgEEAYLxNmYDBKAHDAVURVJBTqArBgsrBgEEAYLxNmYDB6AcDBpDT1NUQU5FUkEgNzQwIFkgR1VB
+WUFDQU5FU6AfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk4NjYxODI3NKAaBgsrBgEEAYLxNmYDCaAL
+DAlHVUFZQVFVSUygHgYLKwYBBAGC8TZmAwugDwwNMDkwNTIwMDg2MTAwMaATBgsrBgEEAYLxNmYD
+DKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAaDBhQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYB
+BAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAuyFeizHzkb3R06gwVDqY+ucw
+64/ipuu5kCPiB6KSJciucfXq1R9lnT6u2qtwPlWYTNvJCDME2/kiz2TYwUF0vWy9Fw34BVPZ6pC2
+VaT6yhygHAzkksL9WYm0uW1dmuwaTPdZiStcIpx607xK3GP+7aem/oAlnu+q2CWb8aBaucuvrN4X
+NP2jqGbtNGkEcMLLwleMTVEJgsXftdzbPtgP6DkE3cP6ze6a1zpUFV3ajJfnmMx2Mr4uUb0zRIwH
+v7F52JWj+l7wNsTthTFdAYPz4AzIdbg+peoNcTDxBF3l+dt3zlb7qAQD/6YTrxZF/+XTL+VOulmR
+uEl67OCQfJqdRr9X/0JoOVvXBJqqQgZ0whdZdWD3q7CA7hlb1HJ4eoLm83ZNSEt7d/X7Uwhn/E+H
+Lx6wy4HcbnDyydMbqDy8dwPTd9paYwMljgASfJjiLMLYt5mBK264QOGQDBBMiIZxRHFeylKB1Apf
+t+WAb85h0EJB+Vp5kjiD/ulzTrq8ZUSrKch1lDpA+vGaEGaiYAf596NgZ+JOe1u+fmePCCiE3MBe
+L2zNedV03Wnkwcq7Ig5GXE8LQcptYvIh2wy58Z13HqgO5TM+tt8GGGhs4sWST931GblT1FmkpYNB
+jMReJyalS/VC9Os8rn/4E+wHOkTZlqLEz4iLEXgIEfpTzPNy63M=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+gtES4hnIZXwvY9TMuIZET5ICvBWhiT25GlcYtYljm5f63o+OanYFRb9u9zFIMSRZGwYAKzts9p8a
+/FSlnHPlAbaivCKvJmfv2NIA/8mKzUFN1rwqNuX4E0eC0h/Pa1L/ifvhGbM3Bi55YqbEc3lCes8v
+Hv2D9D/L5SuRtu40tCJWa69HllEl0MjbweE5u84icOZAHinko1313fLn8SQzcbDmtX93leLZJvZi
+xz9/PWr5AcP4OmQrLCq5N3uhoGGA3YqHZ72EEnWpzEI5Jq/sN12Syyc7R6LQyKqk5ZQ6h94KfFRG
+cm7zHUDWOI7MOkDrbNTL2bLc2HMWGCb7Iwxbxw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature546850-Object353981"><etsi:QualifyingProperties Target="#Signature546850"><etsi:SignedProperties Id="Signature546850-SignedProperties570541"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-06T15:21:50-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>WYDZ0ow58KAjbxprId/4UM52W64=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=UANATACA CA2 2016,C=ES,L=Barcelona (see current address at www.uanataca.com/address),2.5.4.97=#0c0f56415445532d413636373231343939,O=UANATACA S.A.,OU=TSP-UANATACA</ds:X509IssuerName><ds:X509SerialNumber>910879680000416435</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

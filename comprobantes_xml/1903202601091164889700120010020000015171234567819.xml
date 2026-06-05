@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1903202601091164889700120010020000015171234567819</numeroAutorizacion>
+<fechaAutorizacion>2026-03-19T12:06:28-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>VARGAS ALVARADO RAFAEL EDUARDO</razonSocial>
+<nombreComercial>VARGAS ALVARADO RAFAEL EDUARDO</nombreComercial>
+<ruc>0911648897001</ruc>
+<claveAcceso>1903202601091164889700120010020000015171234567819</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000001517</secuencial>
+<dirMatriz>DECIMA ESTE SOLAR 3 Y AV. SAN JORGE</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>19/03/2026</fechaEmision>
+<dirEstablecimiento>DECIMA ESTE SOLAR 3 Y AV. SAN JORGE</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>REMIGIO JACINTO CARRASCO MENA</razonSocialComprador>
+<identificacionComprador>1801685734</identificacionComprador>
+<direccionComprador>ALBORADA 9NA ETAPA MZ 903 V-1</direccionComprador>
+<totalSinImpuestos>550.00</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>550.00</baseImponible>
+<tarifa>0</tarifa>
+<valor>0.00</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>550.00</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>550.00</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>7</codigoPrincipal>
+<descripcion>Viscosuplementación   Médica.</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>550.00</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>550.00</precioTotalSinImpuesto>
+<detallesAdicionales>
+<detAdicional nombre="-" valor="Honorarios Médicos"></detAdicional>
+</detallesAdicionales>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>550.00</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Beneficiario:">CARRASCO MENA REMIGIO JACINTO - ID: CONDROMALACIA ROTULIANA (M224)</campoAdicional>
+<campoAdicional nombre="Dirección">ALBORADA 9NA ETAPA MZ 903 V-1</campoAdicional>
+<campoAdicional nombre="Teléfono">- 0959119385</campoAdicional>
+<campoAdicional nombre="Email">rosarioromerovargas@icloud.com</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature1545566825">
+<ds:SignedInfo Id="Signature-SignedInfo1374221425">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID1155418379" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature1545566825-SignedProperties721071470">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>TrFVc7jiRFS0abMZ7Lxhq0MmnUM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate494365006">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>z2cVp5q+qPUYm63ywWOg5fbygkc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-293004770" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>nWtkY/+WZ+/udqAZdmAVuJaFY44=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1920972429">
+PW2c8elifbNCLCBH2GUr2EtPfV1xv6xsgk3ZpCPcUGWRx75dE64eP+ZNXMQTfYzL/kbUjCXlINib
+TlGaBLX0E4YAsmcfaAHsUxNxM2pxrUo7DetvK1/YFRBrwUDgBYR7qdQ8GvRa8l5qelmWGAaMxfm4
+ucE1xOMrcLrQnWXLC1lWtvnf8Uh2N0sR+a829AufQtAdlRBpcD63SmYjkXAZ6AcNoQIle4tXlmnq
+wnTYN9GnxXgMm08VPjdsk+3W5vL7ICPUiN9GlbxemU9yHw57RCPeMgwXoKHtrOshwhXo1o0q47l9
+RnMInpu1kCpv4zDjUODhQIZtBxFPTI914HZygA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate494365006">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL7zCCCdegAwIBAgIEdI7z1jANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA5MTMxODU0MzVaFw0yNzA5MTMxODU0MzVaMIGpMScw
+JQYDVQQDDB5SQUZBRUwgRURVQVJETyBWQVJHQVMgQUxWQVJBRE8xIDAeBgNVBAUTFzA5MTE2NDg4
+OTctMTMwOTI0MTQwNDI5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIw
+DQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAOe/7+8wkrUGsjLzikVI4aDXELybIwDKxH+iheUO
+Lgzq/yCenWiTX3yAfb2RDmcb8kkzOWxtx8Hio2KKQ+PggAgQpaHyw63TTn/oFs84qNP2480UV4di
+ni+YdIZTRmP8OIcUsFwDEycZgsBOcburxn/Htj8fKTrcFMKDGxJUlcA0Yy159J6x1Hej0U+fNALh
+STf8GB2/nWrhE/lmbFeFMb9M8JvFXCIuWK6U+JIfkaRTnJyv3WdS4Z+o04qcJkuMjkFpszLiJik0
+oPw1HiNNEsBoD7123gK1MHt9HucvkbKZPxgfrWly4GeKCX1Rrvxj4VDgVsF/CEG7VybX+04OEmcC
+AwEAAaOCByswggcnMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLd
+vY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6g
+gbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERF
+IENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFS
+ZXZvY2F0aW9uTGlzdD9iYXNlMB0GA1UdEQQWMBSBEnJldmEwN0Bob3RtYWlsLmNvbTCCAQYGA1Ud
+IASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBh
+AGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIB
+MIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250
+ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBD
+ZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1o
+dHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9v
+Y3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0y
+IFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZP
+Uk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHE
+oIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRp
+ZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJh
+ZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0
+P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VD
+VVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1T
+RUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBRyRc5c78/VULx9IUK4vm3Jca7cCjAr
+BgNVHRAEJDAigA8yMDI0MDkxMzE4NTQzNVqBDzIwMjcwOTEzMTg1NDM1WjALBgNVHQ8EBAMCBeAw
+GgYKKwYBBAGCpnIDAQQMDAowOTExNjQ4ODk3MBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEGCisG
+AQQBgqZyAyIEAwwBLjAyBgorBgEEAYKmcgMHBCQMIkRFQ0lNQSBFU1RFIFNPTEFSIDMgWSBBViBT
+QU4gSk9SR0UwHgYKKwYBBAGCpnIDAgQQDA5SQUZBRUwgRURVQVJETzAfBgorBgEEAYKmcgMgBBEM
+DzAwMTAwMjAwMDY0MjQ0NjARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgw
+FwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBYGCisGAQQBgqZyAwMECAwGVkFSR0FTMCQGCisGAQQB
+gqZyAx4EFgwURVNQIE9SVE9QRSBUUkFVTUFUT0wwHQYKKwYBBAGCpnIDCwQPDA0wOTExNjQ4ODk3
+MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAYBgorBgEEAYKmcgMEBAoMCEFMVkFSQURPMBoGCisGAQQB
+gqZyAwgEDAwKMDk5OTUwMzM4NzANBgkqhkiG9w0BAQsFAAOCAgEAlhWXN91n6EpeBhCWAj89oSI4
+ks+GaHcbQqzvU7IaRFRBr9/Uzy61knLT8Gdi/RXejtTusslt4x/XHIWRT0F/aLzu62oGdC5Glmue
+2P8W2jkqIe5hPzdNsR9DMWwCaGDjzlwE+60gCqXFTwRrLG8iFRdLgVyNuE+RV1v1KTm/YdYvMMA+
+mOlExYuRkfSoZt1utO2yOZUIyA6CQFXbH1bNcW7S/yvFOCcnI/ZwHFwOq+jP+hPJtxKgWaVOkVtF
+YsVBMOACkMBLlI/7WLHP0Vw1CMsZXEGhIC/RL2WzfPnd5XnHih/7IHNOqgyJOxT4UkY+XLlh77A8
+TDryTVSVJP8G9FYdciZVsub3bmaWw1ofyd4xft3OqzkEc1Ycs4+vMZuC0BN31zEXSHBAzb8VzoXA
+X4rTKZtdSE42Kr0YPlYEb01fI5zTnyYYpOwgu9uVnMoWVdZmO1Et1c/Y/bJEPT/r2TnpNBLCWezc
++1YWmaIET1rAzXQlTHVms7w177iqr+Vck0UENz+aS7pJZK2/HEmd8Jz0jVEhKO42R3+kvGyhyzpR
+U8xRjX5XdzdBUCTUkngDq/zYq3d0GhDnqQV80cbE2q5GZw2pL6ig9NYCifpb0XT/MaVXZouCRhdv
+q5xmRtOMsmcQiR3mk95TdIuV9awT71As1RfuLY8qs5VBM43A1Ck=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+57/v7zCStQayMvOKRUjhoNcQvJsjAMrEf6KF5Q4uDOr/IJ6daJNffIB9vZEOZxvySTM5bG3HweKj
+YopD4+CACBClofLDrdNOf+gWzzio0/bjzRRXh2KeL5h0hlNGY/w4hxSwXAMTJxmCwE5xu6vGf8e2
+Px8pOtwUwoMbElSVwDRjLXn0nrHUd6PRT580AuFJN/wYHb+dauET+WZsV4Uxv0zwm8VcIi5YrpT4
+kh+RpFOcnK/dZ1Lhn6jTipwmS4yOQWmzMuImKTSg/DUeI00SwGgPvXbeArUwe30e5y+Rspk/GB+t
+aXLgZ4oJfVGu/GPhUOBWwX8IQbtXJtf7Tg4SZw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature1545566825-Object878768247"><etsi:QualifyingProperties Target="#Signature1545566825"><etsi:SignedProperties Id="Signature1545566825-SignedProperties721071470"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-19T12:06:21-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>SdOpjZOCV6UvgWKKprgLFCB50q0=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1955525590</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-293004770"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2102202601139175319500126220030001852680000308518</numeroAutorizacion>
+<fechaAutorizacion>2026-02-21T16:25:55-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="2.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>FARMACIAS SANTA MARTHA SA</razonSocial>
+    <nombreComercial>FARMACIAS SANTA MARTHA</nombreComercial>
+    <ruc>1391753195001</ruc>
+    <claveAcceso>2102202601139175319500126220030001852680000308518</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>622</estab>
+    <ptoEmi>003</ptoEmi>
+    <secuencial>000185268</secuencial>
+    <dirMatriz>CALLE 16, AV 30 Y 35</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>21/02/2026</fechaEmision>
+    <dirEstablecimiento>C. SUCRE Y GALAPAGOS 40 1A MANZ40 SOL1A</dirEstablecimiento>
+    <contribuyenteEspecial>829</contribuyenteEspecial>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <paisOrigen>593</paisOrigen>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>CALDERON FRANCISCO</razonSocialComprador>
+    <identificacionComprador>0903207116</identificacionComprador>
+    <totalSinImpuestos>69.43</totalSinImpuestos>
+    <totalDescuento>32.81</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>69.43</baseImponible>
+        <tarifa>0</tarifa>
+        <valor>0</valor>
+        <valorDevolucionIva>0</valorDevolucionIva>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <descuentoAdicional>0</descuentoAdicional>
+        <baseImponible>0</baseImponible>
+        <tarifa>15</tarifa>
+        <valor>0</valor>
+        <valorDevolucionIva>0</valorDevolucionIva>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0</propina>
+    <importeTotal>69.43</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>69.43</total>
+        <plazo>30</plazo>
+        <unidadTiempo>dia</unidadTiempo>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>725008</codigoPrincipal>
+      <codigoAuxiliar>725008</codigoAuxiliar>
+      <descripcion>FUNDA MEDIANA MANIGUETA 9X18 PAQT X200</descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>042035</codigoPrincipal>
+      <codigoAuxiliar>042035</codigoAuxiliar>
+      <descripcion>ALERCET D CAPSULAS X10</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>1.5</precioUnitario>
+      <descuento>0.9</descuento>
+      <precioTotalSinImpuesto>14.1</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>14.1</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>036221</codigoPrincipal>
+      <codigoAuxiliar>036221</codigoAuxiliar>
+      <descripcion>NEOGAIVAL 3 MG X 20 COMP</descripcion>
+      <cantidad>58</cantidad>
+      <precioUnitario>0.48</precioUnitario>
+      <descuento>13.61</descuento>
+      <precioTotalSinImpuesto>14.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>14.23</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>014218</codigoPrincipal>
+      <codigoAuxiliar>014218</codigoAuxiliar>
+      <descripcion>ENTEROGERMINA PLUS AMP BEBIBLES X5</descripcion>
+      <cantidad>10</cantidad>
+      <precioUnitario>3.7</precioUnitario>
+      <descuento>6.3</descuento>
+      <precioTotalSinImpuesto>30.7</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>30.7</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>076246</codigoPrincipal>
+      <codigoAuxiliar>076246</codigoAuxiliar>
+      <descripcion>KUFER Q FORTE CAPSULAS X40</descripcion>
+      <cantidad>40</cantidad>
+      <precioUnitario>0.56</precioUnitario>
+      <descuento>12</descuento>
+      <precioTotalSinImpuesto>10.4</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>10.4</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="DIRECCION">PUNTA BLANCA</campoAdicional>
+    <campoAdicional nombre="TELEFONO">0999483303</campoAdicional>
+    <campoAdicional nombre="EMAIL">info@marclub.com</campoAdicional>
+    <campoAdicional nombre="GRAN CONTRIBUYENTE">OFICIO NAC-AGCOGEC22-00000848-M</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature386485">
+<ds:SignedInfo Id="Signature-SignedInfo659845">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID87728" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature386485-SignedProperties885462">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>0O2QqnXwRZrmOKoK3BbjNKZUVR4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate199340">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ZRcx9GJ2gT1FIfOXQ3PN/tw1pHE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-74050" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>haXi1DJtZNJyUnywu78i5VqMT2E=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue554116">
+QGa9X/9dkO1+NIbm6Qh0VPvRXLnoXgG68OlRP0b2bHxc3G/h6Qd8ylS9o5dvVTuExU72M0GUp4SD
+JuQxGXbAKeDp8QN0v61nUo+CUkxmOjxCw1EpcX2AkPCB10ZEKY08d/iM+/f18aqCzsQZ1QFmv5f8
+KlY1YSwFVEtvsfwpgtLDM024Wyf1Z/GEZ8Ak0gaCzLD/iawlpNSO0aJdnLWcGVRWiCGAbcMXQ4lD
+XjOUfYA5BAC/rqYhQjALgj9VXXDRiDzZzNqZYyWxYy1AbCbsqfWiL/u7+K4Fz7K+qvrZ1yt43wCt
+WN4DUB04sn6YONN1TwidlMlx+oFJv7Vq1YmBrA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate199340">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL8DCCCdigAwIBAgIENYW5jzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA3MTMyMDM5MTNaFw0yODA3MTIyMDM5MTNaMIGbMSQw
+IgYDVQQDDBtKT1JHRSBMVUlTIEFWRUxMQU4gWkFNQlJBTk8xFTATBgNVBAUTDDEzMDcyMzE1NDgw
+NTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYD
+VQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUA
+A4IBDwAwggEKAoIBAQDIr1/Nrq8ySdRmU6VGHjUuS7E1ZgWXw0iwFgkA9QACN39o9vtYFr7BILQX
+i2wxOJJR/Z6CG1EyYm+XJar3B564385minNI6+QhpPEGp0koogOMRjTRGdE0WHFdIozMvP5kjubI
+PR56OdbPnj5QJ7okkG+qW17citJi92yUkkgMHB+VLn4lMgZy3U5n7rdLM8jR1nCc9DI+uBraX1oO
+dYAl+nSVz7tmXHJfJmhX//rQ58nmTQmmRK2FUOGM9pfg9bqMD1hBpH4UaJHhP+GDWlz9ELxWC++m
+1LvU9egFomEtm0t9lNQWRiQQnH1mMhLczYzyJb4h5ul9/ayi4dMfW+1xAgMBAAGjggc6MIIHNjAM
+BgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEB
+BE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNh
+L3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xk
+YXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5G
+T1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/
+YmFzZTAkBgNVHREEHTAbgRlnZXJlbmNpYUBmc2FudGFtYXJ0aGEuY29tMIIBFQYDVR0gBIIBDDCC
+AQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMAYQBkAG8A
+IABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgorBgEEAYKm
+cgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3At
+Y29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMg
+ZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB
+5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0
+YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3Qv
+Y2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFFF6wM2MTM3wafkDhCbZ
+K6i6HzccMCsGA1UdEAQkMCKADzIwMjMwNzEzMjAzOTEzWoEPMjAyODA3MTIyMDM5MTNaMAsGA1Ud
+DwQEAwIF4DAXBgorBgEEAYKmcgMFBAkMB0dFUkVOVEUwGgYKKwYBBAGCpnIDAQQMDAoxMzA0OTIz
+MDM4MBUGCisGAQQBgqZyAwkEBwwFTUFOVEEwEQYKKwYBBAGCpnIDIgQDDAEuMCMGCisGAQQBgqZy
+AwcEFQwTMTYgUyBOIFkgQVYgMzAgWSAzNTAaBgorBgEEAYKmcgMCBAwMCkpPUkdFIExVSVMwHwYK
+KwYBBAGCpnIDIAQRDA8wMDQwMDEwMDAwNjQ2MTIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYB
+BAGCpnIDDAQJDAdFQ1VBRE9SMBcGCisGAQQBgqZyAwMECQwHQVZFTExBTjApBgorBgEEAYKmcgMK
+BBsMGUZBUk1BQ0lBUyBTQU5UQU1BUlRIQSBTIEEwHQYKKwYBBAGCpnIDCwQPDA0xMzkxNzUzMTk1
+MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wGAYKKwYBBAGCpnIDBAQKDAhaQU1CUkFOTzAaBgorBgEE
+AYKmcgMIBAwMCjA5ODcyMTU2MzQwDQYJKoZIhvcNAQELBQADggIBAL0CxLDAghxskihcXmHl8GdV
+xbUnDSIciMHVfUbpySomIPinpytorMB6TlpMkBHKu3EkjRhDZ5JR7nJaQC1vOPZbJDZ0WrE/Fly8
+NySDE9HvvjKx9BHC7eFUYchnaJoypjRbytR1fXcKUSYi0cVP//+hzAl3p5ZSOPUeMjTjILceiFvT
+WsLIib8zxDvssHixT2yiZEWkcslYVq+uT9uhlv0HAqS1+PeaxjJ3qg7ffo47vd91jsU6YLQpoqNB
+xcrIAypP3wf/anGR038CvaoC0uWkhvRAp6sc0yAtFrZwlm70ysIyAMQ8fbr7vBafcV9/3NwL9UOP
+3ZPsLwRGYvomt8Rr3zyDD6cOJG933e1vbMejRDlUxwfRiNwpUdQOETDJCwYn9LSqS+A2CB5Prh3i
+LfLeSKY24i9PLiAV81zqYdD5RbmlWqK2KGQ0l67HUazAvzRqJKZiBzxfOu2iSwr/K46I2fw/Ohly
+tWXWBDApYcBD5tHRKwQrJtpvEUghseW/IiE4P/wxdwEktDvpzG1pCvxWKG9k0KvbCo/8wZ9jCymK
+LokGG30elCOYBPSxMTASHx/puvcWi6gWam+2qPnaJtxcI1Mi9mLayBDU12ZTECUiF4T8NN8CWGQe
+f38YUAZJahwk/suEU9WQccY2ZxMVnFl7Y8pNKYNjHg0Ch2qyrejl
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+yK9fza6vMknUZlOlRh41LkuxNWYFl8NIsBYJAPUAAjd/aPb7WBa+wSC0F4tsMTiSUf2eghtRMmJv
+lyWq9weeuN/OZopzSOvkIaTxBqdJKKIDjEY00RnRNFhxXSKMzLz+ZI7myD0eejnWz54+UCe6JJBv
+qlte3IrSYvdslJJIDBwflS5+JTIGct1OZ+63SzPI0dZwnPQyPrga2l9aDnWAJfp0lc+7ZlxyXyZo
+V//60OfJ5k0JpkSthVDhjPaX4PW6jA9YQaR+FGiR4T/hg1pc/RC8VgvvptS71PXoBaJhLZtLfZTU
+FkYkEJx9ZjIS3M2M8iW+Iebpff2souHTH1vtcQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature386485-Object709013"><etsi:QualifyingProperties Target="#Signature386485"><etsi:SignedProperties Id="Signature386485-SignedProperties885462"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-21T16:25:54-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>HF3IKAKm5Y1pWRGmA2s/3jLAI7U=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>897956239</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-74050"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

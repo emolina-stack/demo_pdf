@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2403202601249000539300120010010001031510920492913</numeroAutorizacion>
+<fechaAutorizacion>2026-03-24T11:43:02-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>CLINICA GRANADOS S.A. CLIGRASA</razonSocial><nombreComercial>CLINICA GRANADOS S.A. CLIGRASA</nombreComercial><ruc>2490005393001</ruc><claveAcceso>2403202601249000539300120010010001031510920492913</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>001</ptoEmi><secuencial>000103151</secuencial><dirMatriz>SANTA ELENA / SALINAS / SALINAS / 5 S/N Y AV. 14 Y AV. 18</dirMatriz><agenteRetencion>1</agenteRetencion></infoTributaria><infoFactura><fechaEmision>24/03/2026</fechaEmision><dirEstablecimiento>SANTA ELENA / SALINAS / SALINAS / 5 S/N Y AV. 14 Y AV. 18</dirEstablecimiento><contribuyenteEspecial>623E</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>AROSEMAN ESCUDERO ROSENDO BENJAMIN</razonSocialComprador><identificacionComprador>0908923170</identificacionComprador><direccionComprador>SALINAS</direccionComprador><totalSinImpuestos>41.96</totalSinImpuestos><totalDescuento>0.0</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>40.65</baseImponible><valor>0</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>1.31</baseImponible><valor>0.2</valor></totalImpuesto></totalConImpuestos><propina>0.0</propina><importeTotal>42.16</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>42.16</total><plazo>30</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>MED-K-007</codigoPrincipal><descripcion>KETOROLACO LIQUIDO PARENTERAL 30MG/ML</descripcion><unidadMedida>UND</unidadMedida><cantidad>2.0</cantidad><precioUnitario>3.74</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>7.48</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>7.48</baseImponible><valor>0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>MED-D-004</codigoPrincipal><descripcion>DEXAMETASONA LÍQUIDO PARENTERAL 8MG/2ML</descripcion><unidadMedida>UND</unidadMedida><cantidad>1.0</cantidad><precioUnitario>2.21</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>2.21</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.21</baseImponible><valor>0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>MED-C-077</codigoPrincipal><descripcion>CONRELAX (TIOCOLCHICOSIDO) LIQUIDO PARENTERAL 4MG/2ML</descripcion><unidadMedida>UND</unidadMedida><cantidad>1.0</cantidad><precioUnitario>5.96</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>5.96</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>5.96</baseImponible><valor>0</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>INSMED-J-009</codigoPrincipal><descripcion>JERINGA DESCARTABLE DE 20ML</descripcion><unidadMedida>UND</unidadMedida><cantidad>1.0</cantidad><precioUnitario>0.6</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>0.6</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>0.6</baseImponible><valor>0.09</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>INSMED-G-008</codigoPrincipal><descripcion>GUANTES DE EXAMINACION SMALL</descripcion><unidadMedida>UND</unidadMedida><cantidad>4.0</cantidad><precioUnitario>0.07</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>0.28</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>0.28</baseImponible><valor>0.04</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>INSMED-J-004</codigoPrincipal><descripcion>JERINGA DESCARTABLE DE 5ML</descripcion><unidadMedida>UND</unidadMedida><cantidad>1.0</cantidad><precioUnitario>0.43</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>0.43</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>0.43</baseImponible><valor>0.06</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>CONEXT-004</codigoPrincipal><descripcion>CONSULTA MÉDICA - MEDICINA GENERAL</descripcion><unidadMedida>UND</unidadMedida><cantidad>1.0</cantidad><precioUnitario>25.0</precioUnitario><descuento>0.0</descuento><precioTotalSinImpuesto>25.0</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>25</baseImponible><valor>0</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="EMAIL">V;N;M;ROSENDOAROSEMENA@GMAIL.COM</campoAdicional><campoAdicional nombre="INFO03">SAM008-04-000031837</campoAdicional><campoAdicional nombre="INFO04">0042775576</campoAdicional><campoAdicional nombre="INFO05">0989254152</campoAdicional><campoAdicional nombre="INFO06">SALINAS</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature744925">
+<ds:SignedInfo Id="Signature-SignedInfo556854">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID764502" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature744925-SignedProperties128098">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kGVE/ZjFfB4YovhQJISMUXy4GFc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1359221">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>xMlgv6v+lYECuf/fkq2M+4UqZTI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-873269" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>B4BFGBh08lyi25hY88ymDchFH4E=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue420613">
+E3oZwTnPc9/5r8xoq7rgk/e1IvzZ949BSXOTuKp/jF+g/5eTHhJeO3oEYb2uvDfdoT0wAnx1Tsg2
+u+/gc1ZONugys024dJaFbx9Aa11GWU183lw8pvdUk8QN3XCMyz3XNfvlGSgn14rfUjoKZtzVYoe7
+RzEawfb048QsEiWVUiVrYYyWpoQBGhyJDuZDZSaOVG3qCWLFi/zXiZye393iMflW8VN1/BtZHFuh
++q5lGDjvmehdlIZb+K7fRsO+crwcrJdcTI5PGDkuCifsB0E/ALVMltMszWisvliUXh4gt5zdkqhh
+lYqhHSboUz+FoQqsqTGbW+dvPHVsc0RpKIvsnA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1359221">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMDzCCCfegAwIBAgIELNKkJjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA3MjAwMTU0MTNaFw0yODA3MTkwMTU0MTNaMIGgMSkw
+JwYDVQQDDCBGRVJOQU5ETyBBTlRPTklPIEdSQU5BRE9TIENFUkVaTzEVMBMGA1UEBRMMMTkwNzIz
+MjEwMzU3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAKogG4jS40OfFOT1gRqtt5LTWbwf+tPB8kiDWbzpAMP5glYePtZP
+W0rPmsfiiFKeWQIRsOUMFAMy3pW9t09ecrg4s1VV8axknSZ/trYYlQyzbDEdBdB61ph2A7608DhB
+2/VaYmiEZFI3LWiJW7+JhA00zrsSmkaskbQzyt1x16sqTCh2LfkO+kDUtwhY4EdoKNO4XLF1uXQU
+PT1/Oy+v/wcB4st3vG9NGaX6DCdxdMorIfEky+I4VMhSshGZibljyOg+FGMX3LxK/7/gZcd3opQO
+p8ZwF78yGS2uqSuonuwHOIk7tAtbE6+CtCCybKhzJBU/Kpt0fGFn7xm+/rG+7dUCAwEAAaOCB1Qw
+ggdQMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMCUGA1UdEQQeMByBGmNsaW5pY2EuZ3JhbmFkb3NAeWFob28uY29tMIIBFQYDVR0g
+BIIBDDCCAQgwYgYKKwYBBAGCpnICCTBUMFIGCCsGAQUFBwICMEYeRABDAGUAcgB0AGkAZgBpAGMA
+YQBkAG8AIABkAGUAIABSAGUAcAByAGUAcwBlAG4AdABhAG4AdABlACAATABlAGcAYQBsMIGhBgor
+BgEEAYKmcgIDMIGSMIGPBggrBgEFBQcCARaBgmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQu
+ZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xp
+dGljYXMgZGUgQ2VydGlmaWNhZG8gUmVwcmVzZW50YW50ZSBMZWdhbC5wZGYwggKiBgNVHR8EggKZ
+MIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJs
+aWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkG
+A1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVO
+VElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5B
+LiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6
+Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dl
+YmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFLkN9oAkRQk8
+VxwqiZRrA+dcDF01MCsGA1UdEAQkMCKADzIwMjMwNzIwMDE1NDEzWoEPMjAyODA3MTkwMTU0MTNa
+MAsGA1UdDwQEAwIF4DAfBgorBgEEAYKmcgMFBBEMD0dFUkVOVEUgR0VORVJBTDAaBgorBgEEAYKm
+cgMBBAwMCjEzMDIxNjgyODkwGwYKKwYBBAGCpnIDCQQNDAtTQU5UQSBFTEVOQTARBgorBgEEAYKm
+cgMiBAMMAS4wJQYKKwYBBAGCpnIDBwQXDBU1IFMgTiBZIEFWIDE0IFkgQVYgMTgwIAYKKwYBBAGC
+pnIDAgQSDBBGRVJOQU5ETyBBTlRPTklPMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwNDI4NzM0
+MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAYBgorBgEEAYKm
+cgMDBAoMCEdSQU5BRE9TMC0GCisGAQQBgqZyAwoEHwwdQ0xJTklDQSBHUkFOQURPUyBTIEEgQ0xJ
+R1JBU0EwHQYKKwYBBAGCpnIDCwQPDA0yNDkwMDA1MzkzMDAxMBIGCisGAQQBgqZyAx0EBAwCTm8w
+FgYKKwYBBAGCpnIDBAQIDAZDRVJFWk8wGgYKKwYBBAGCpnIDCAQMDAowOTkyMTE1NTk4MA0GCSqG
+SIb3DQEBCwUAA4ICAQBagptCCiy9BhTy8iG1bzwTIH5QQ81h+mKsZboBD4iyuJHNzxb7oK7+MMRl
+iDoW5o2+9vdnsElKCts9DYXHvKe6zv1ZTzdMn04amnUIihVmMa/+mILANhcEjNFlfKVeUgKOy6p8
+GBpa7mQ/Jh2rSRTuCt25DywlzPP6iL+VKK68UU6RCC/dEy+Rv9EnEZ+y7/ol5f7Hrk470XQIqZwn
+FJS+D1uJVg60XSIRi99t3ztmvLOey5Q0waqpDM8pRK8l7J48UdDblMEZ3M1FP1xh9KDJQpD3M1wk
+jesS9EozaYDKE2e0LzzStQ6NIkmcxffUqaSDzlx/dk3yFoYZl/pAJa9fD2emmV/xN/Z1WxKPPqjG
+7FvTXo3XHWqUEh19PQhFSuwiti6q1SOPAhP/5maGkYEUFmO9PjNBI4Q50HA0UZiYnxs7Qv/TgTxZ
+9QQiJBmZXJJqB+Pmw8SzVaOj1yFGSHSCpp9gmMyJMqn/a3TMQZW+7Mb6ECqwD7v19YZ9flxGCXKH
+IUkKI1KWyPMO7lEuVMFBic3gr15EHsw2mF5usCd1VnBgzw0eyAUz5GhCFSuuIGUFeidvF7hglTQ/
+4qtYVxo9Q+TktfqnM3nf2tUz+ocnhneWPckjXdX/Yh6sCBo3tmPCrtIfKVchYe2O4oTJmLMo1Kgi
+5JNyV/MJCl+YfzWakg==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+qiAbiNLjQ58U5PWBGq23ktNZvB/608HySINZvOkAw/mCVh4+1k9bSs+ax+KIUp5ZAhGw5QwUAzLe
+lb23T15yuDizVVXxrGSdJn+2thiVDLNsMR0F0HrWmHYDvrTwOEHb9VpiaIRkUjctaIlbv4mEDTTO
+uxKaRqyRtDPK3XHXqypMKHYt+Q76QNS3CFjgR2go07hcsXW5dBQ9PX87L6//BwHiy3e8b00ZpfoM
+J3F0yish8STL4jhUyFKyEZmJuWPI6D4UYxfcvEr/v+Blx3eilA6nxnAXvzIZLa6pK6ie7Ac4iTu0
+C1sTr4K0ILJsqHMkFT8qm3R8YWfvGb7+sb7t1Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature744925-Object393155"><etsi:QualifyingProperties Target="#Signature744925"><etsi:SignedProperties Id="Signature744925-SignedProperties128098"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-24T11:42:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>E1ijh5KKuuap3a3QIk9Dqq/y1UM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>752002086</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-873269"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

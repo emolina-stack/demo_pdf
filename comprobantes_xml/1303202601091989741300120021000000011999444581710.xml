@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1303202601091989741300120021000000011999444581710</numeroAutorizacion>
+<fechaAutorizacion>2026-03-13T13:52:51-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ALVARADO AGUILERA IRENE SOFIA</razonSocial>
+        <nombreComercial>NUTRIMET</nombreComercial>
+        <ruc>0919897413001</ruc>
+        <claveAcceso>1303202601091989741300120021000000011999444581710</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>002</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000001199</secuencial>
+        <dirMatriz>Calle: AV DEL BOMBERO Numero: 809 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>13/03/2026</fechaEmision>
+        <dirEstablecimiento>Calle: AV DEL BOMBERO Numero: 809 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>MEDINA BAILON AZUCENA MARIBEL</razonSocialComprador>
+        <identificacionComprador>0910612951</identificacionComprador>
+        <direccionComprador>LAS GARZAS</direccionComprador>
+        <totalSinImpuestos>80.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>80.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>80.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>80.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>1</codigoPrincipal>
+            <descripcion>HONORARIOS MEDICOS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>80</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="DX: K52 Colitis + E66.3 Sobrepeso + E88.81 Resistencia a la Insulina"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>80.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">0997473923</campoAdicional>
+        <campoAdicional nombre="Email">marazuba@hotmail.com</campoAdicional>
+        <campoAdicional nombre="FECHA DE CONSULTA:">10 DE MARZO 2026</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-9939a7a7-c177-46ba-88f2-27c626830afb"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-9939a7a7-c177-46ba-88f2-27c626830afb-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>br+G3ml1Az5bDWprOgDWl7sg7+0hbsMDpCWT8bqqOSA=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-9939a7a7-c177-46ba-88f2-27c626830afb-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>P05KGdwXKaavPGKdpiAlFCsigNGvftroeMm+IUzJTuo=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-9939a7a7-c177-46ba-88f2-27c626830afb-sigvalue">GvSRlJJyLLQ1JZYT+OqZXUbRbN4ioEUbuHufoeSKCSptE+rDZ2wNu247RoMTe2CY8Ofn7m+AGqJ/RCfWW2RDH8A4lgEE0buOfVfi5QkEoQzubZTVIEkwUszN1G+mJ5o6B9Byrr4zcHyPPCiclYB2iptdMvGSFff8dAzujzKOT9Vwimixjo6P1fs3wQt/aC33oVgHeP3YMQbSw4dz3X1q/x7v1WHCmG5q371wIaSemv8RVI6ySHoe8k+cS9ny8idcVAIXK0+q5O9Ko4650LLHpO1AQPYt2FbMiFQLt3p9eM2+CHFPSkPgKq/62repXDFVykDQGhw9YeWHfzOyNFPbvA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIKlTCCCH2gAwIBAgIIE/F1BX7W5ScwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMDI2MjMxNzQ1WhcNMjcxMDI2MjMxNzQ1WjCBqDEmMCQGA1UEAwwdSVJFTkUgU09GSUEgQUxWQVJBRE8gQUdVSUxFUkExIDAeBgNVBAUTFzA5MTk4OTc0MTMtMjYxMDI1MTgyNzM0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAN70QEglv4hfxeZcw/LwpFZcm+pkEvf4l8abPsTkkuUYLYTKJNXK6keNcj69z/8PITXBz5jRKhVYNfU/1n2QIvk8YFD7v4abEeR6qcC3oR014lR+iwyGRbG86u1XNeXvJmXLxl60eYJAn8k1JzBaPWRxcloZiUheGIdXeBnsA/SS8cnq1RXxgSOE8odGpc3H791FIKNiwxn7zy3WGGuWhNFsiN/HIsPGI7Pa5zVpSG2f9e/JbwmFye41LE9MKf/F2ZFlveODFjWjbF4/Id8WqdhlwOqk+p90lVDXz1+6nopPto2emcWZv0LkOzKtaKOiPodQhpiVf72YJ9ZsuuB+nhkCAwEAAaOCBc4wggXKMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCUGA1UdEQQeMByBGmlyZXNvLmFsdmFyYWRvQGhvdG1haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBQYfbYjMa6pX+sl4yu+8pZMg03pjTArBgNVHRAEJDAigA8yMDI1MTAyNjIzMTc0NVqBDzIwMjcxMDI2MjMxNzQ1WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTE5ODk3NDEzMBYGCisGAQQBgqZyAwkECAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjAiBgorBgEEAYKmcgMHBBQMEkFWIERFTCBCT01CRVJPIDgwOTAbBgorBgEEAYKmcgMCBA0MC0lSRU5FIFNPRklBMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAxMDYzNzczMBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYKKwYBBAGCpnIDAwQKDAhBTFZBUkFETzAWBgorBgEEAYKmcgMeBAgMBk1FRElDTzAdBgorBgEEAYKmcgMLBA8MDTA5MTk4OTc0MTMwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBgGCisGAQQBgqZyAwQECgwIQUdVSUxFUkEwGgYKKwYBBAGCpnIDCAQMDAowOTg2NjIxMTE2MA0GCSqGSIb3DQEBCwUAA4ICAQCDEwz1iOXeGCGzn0t0fgUCwIXYJUqtH771Tm0TGZTFnlYfaw8n0J1RKjOfOFKAhBR6OtoIzwrLWYAK8j4FR3t8ZHJkoLRZXn1P2mGdwtrtkV6ljzXqFr1xOYNHBCD1kN8TyXqn2SdCTWifEONMt+XrZ1k4bPu4RgmV/psX4dHiMP15/SzZ/2zuaM/Bxg9AjWlCXo/oTcmW3E0/3BookYVjjsNvVzNS/44DiLf+RYZa8bnrTCKCACu0vRhoEBjdCHRWcbHkytSRrkmXoBH5B5J3qRpPDOXOixPR52S5nC0cRp9vnPPOh0083RpMAQ6ycFkgGJh/B23BciPGKAFgPlL+TMsbu5de0JEZUlH1Z+SdPDzU4eSuURBQD+l4k6WVvy+5X4YnVtC4sl5fCoimqNCt9OTXofqwlWzmDNlvxUF0XFGZtpjHxMjqhtsORCbUpE5Il8j95ecCo29Q1MZA8BxxkQtfy17O0tmQ5n3kUohRKMMyu06r5GSWDBhMlDYiJjvEjPs8rswb7dkVchKbBGWtGwbniPtVUSubAxQXxOmYLtJp9MRV1yM6jDZDFl7+TkLctNIGLyIw9D7cq4WHje8fLymfgkQOXnZuc+9wSiTTFaI1QOvBc3gcH0owmOMAUwRiimwyEu2EPic2aWEga2JmoaO3R3kQw1K6sbID9A3xuw==</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-9939a7a7-c177-46ba-88f2-27c626830afb"><xades:SignedProperties Id="xmldsig-9939a7a7-c177-46ba-88f2-27c626830afb-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-13T13:52:51.106-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>qwO7KZcFTpaS75mV/mSAeuXkpeP3t+97PwtMLDWRUOs=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1437058422571197735</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-9939a7a7-c177-46ba-88f2-27c626830afb-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

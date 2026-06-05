@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2303202601099336671200120010010000015934343382812</numeroAutorizacion>
+<fechaAutorizacion>2026-03-23T15:34:29-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>INSTITUTO GUAYAQUILEÑO HEMATO-ONCOLOGICO IGHO S.A.</razonSocial>
+	    <nombreComercial>INSTITUTO GUAYAQUILEÑO HEMATO-ONCOLOGICO IGHO S.A.</nombreComercial>
+	    <ruc>0993366712001</ruc>
+	    <claveAcceso>2303202601099336671200120010010000015934343382812</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>001</ptoEmi>
+	    <secuencial>000001593</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / XIMENA / SOLAR 1</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>23/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / XIMENA / SOLAR 1</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>LEON NARANJO RAUL IVAN</razonSocialComprador>
+	    <identificacionComprador>0923140131</identificacionComprador>
+		
+	    
+	    <totalSinImpuestos>20526.97000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>209.03</baseImponible>
+				<valor>31.35000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>20317.94000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>20558.32000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>20558.32</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>SER004</codigoPrincipal>
+		<codigoAuxiliar>SER004</codigoAuxiliar>
+      	<descripcion>APLICACIÓN DE LA DROGA</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>80.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>240.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>240.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS180</codigoPrincipal>
+		<codigoAuxiliar>INS180</codigoAuxiliar>
+      	<descripcion>BATA DE MEDICO CELESTE DESECHABLES MANGA LARGA</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>2.020000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>6.06</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.06000</baseImponible>
+          <valor>0.91</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>MED185</codigoPrincipal>
+		<codigoAuxiliar>MED185</codigoAuxiliar>
+      	<descripcion>BLINCYTO (BLINATUMOMAB) 35MCG/VIAL CAJA X 1 AMPOLLA</descripcion>
+      
+      <cantidad>4.000000</cantidad>
+      <precioUnitario>4900.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>19600.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>19600.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>MED228</codigoPrincipal>
+		<codigoAuxiliar>MED228</codigoAuxiliar>
+      	<descripcion>CLORURO DE SODIO AL 0.9% x 100 ML ECOFLAC BRAUN</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>0.980000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.94</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>2.94000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS222</codigoPrincipal>
+		<codigoAuxiliar>INS222</codigoAuxiliar>
+      	<descripcion>CYTOCAN # 22 20 MM.</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>26.790000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>26.79</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>26.79000</baseImponible>
+          <valor>4.02</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SER001</codigoPrincipal>
+		<codigoAuxiliar>SER001</codigoAuxiliar>
+      	<descripcion>DERECHO DE SALA HASTA 3 HORAS, INLUYE CUIDADO DEL PACIENTE</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>100.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>300.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>300.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS241</codigoPrincipal>
+		<codigoAuxiliar>INS241</codigoAuxiliar>
+      	<descripcion>EQ. DE INFUSION (ESTÁNDAR) (BBRAUN) INCLUYE USO DE BOMBA INFUSOMAT SPACE LINE SAFESET PUR</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>50.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>150.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>150.00000</baseImponible>
+          <valor>22.50</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS043</codigoPrincipal>
+		<codigoAuxiliar>INS043</codigoAuxiliar>
+      	<descripcion>FILTRO PARA QT - FILTRO STERIL INFUFIL AIR 96H 0,2UM 10CM - FRESENIUS KABI</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>5.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>15.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>15.00000</baseImponible>
+          <valor>2.25</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS239</codigoPrincipal>
+		<codigoAuxiliar>INS239</codigoAuxiliar>
+      	<descripcion>GASA ANTIADHERENTE CURE BAND</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>0.360000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.08</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.08000</baseImponible>
+          <valor>0.16</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS025</codigoPrincipal>
+		<codigoAuxiliar>INS025</codigoAuxiliar>
+      	<descripcion>GORROS QUIRURGICOS CELESTES X 100</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.040000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.04</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.04000</baseImponible>
+          <valor>0.01</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS246</codigoPrincipal>
+		<codigoAuxiliar>INS246</codigoAuxiliar>
+      	<descripcion>GUANTE ESTERIL #7 DE LATEX - HERENCO</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>1.490000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>4.47</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.47000</baseImponible>
+          <valor>0.67</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS008</codigoPrincipal>
+		<codigoAuxiliar>INS008</codigoAuxiliar>
+      	<descripcion>GUANTES DE EXAMINACION DE LATEX TALLA L</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.040000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.04</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.04000</baseImponible>
+          <valor>0.01</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS243</codigoPrincipal>
+		<codigoAuxiliar>INS243</codigoAuxiliar>
+      	<descripcion>JERINGA DESC 20 ML x 21G VANJERIN</descripcion>
+      
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>0.310000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.55</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.55000</baseImponible>
+          <valor>0.23</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS271</codigoPrincipal>
+		<codigoAuxiliar>INS271</codigoAuxiliar>
+      	<descripcion>JERINGA DESC 5ML x 21G x 1 VANJERIN</descripcion>
+      
+      <cantidad>5.000000</cantidad>
+      <precioUnitario>0.120000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.60</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.60000</baseImponible>
+          <valor>0.09</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SER013</codigoPrincipal>
+		<codigoAuxiliar>SER013</codigoAuxiliar>
+      	<descripcion>LIMPIEZA IMPLANTOFIX</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>25.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>25.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>25.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS016</codigoPrincipal>
+		<codigoAuxiliar>INS016</codigoAuxiliar>
+      	<descripcion>MASCARILLA QUIRURGICA DESCARTABLE CELESTE</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>0.460000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>0.46</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.46000</baseImponible>
+          <valor>0.07</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>SER005</codigoPrincipal>
+		<codigoAuxiliar>SER005</codigoAuxiliar>
+      	<descripcion>PREPARACIÓN DE LA DROGA</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>50.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>150.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>150.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+    <detalle>
+      
+      	<codigoPrincipal>INS033</codigoPrincipal>
+		<codigoAuxiliar>INS033</codigoAuxiliar>
+      	<descripcion>Tegaderm 6 x 7 cm (IVA)</descripcion>
+      
+      <cantidad>3.000000</cantidad>
+      <precioUnitario>0.980000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>2.94</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.94000</baseImponible>
+          <valor>0.44</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+	
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">PCTE RAUL LEON NARANJO // FECHA DE INGRESO 17-18-19-20</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature886760">
+<ds:SignedInfo Id="Signature-SignedInfo615216">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID6585" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature886760-SignedProperties617597">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>aY1SpZ6ESgN1/YB3JLxORXwbssI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate157614">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>v0wsh5VYFGg3mYDzy0LAp91yg2A=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-779227" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>h6WANlRnuVm1r58d/kMwFSj4AzM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue434034">
+dj6QFn/hZMiPgTUiA+Z/zAq6dYJZzzbUfIAoWxBSMKznf4op4RV0dgbIdHyYJ+17p1sUdDkIlw7c
+eFfRturV9s8cK8GApD6KXbkQEy+PzOdCvcuLKWp0nHoZ0qpr7juRwFk1ag4zblVWWEYDtp8QHSDb
+43lsPA3s8h2+GZPNNjzZ14wMRdUxAWkck6mNyzaaGRg1XiKhB73Ocec6WTCx239eHVCSvcGLbZuf
+ugIsyP3pzFxB56jD51e7UyQIxTqZgYGq9EjtQbBJASwTtT+wHi8BIkJ9h9u2eTvTUP4goDJmt4T8
+CrB89xKdF5ztvsT8UPmcdz8wn2v/MBybVFoxVQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate157614">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIxjCCB66gAwIBAgIFAMIEEmUwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI2
+MDEyMTIwMTUyMloXDTI3MDEyMTIwMTUyMlowgZYxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEiMCAGA1UEAwwZ
+Q0FSTE9TIEpPU0UgUExBWkEgTUVORVNFUzEmMCQGCSqGSIb3DQEJARYXY3JleWVzQGZhY3R1cmFu
+ZG9zYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCFlU0DyvaLJSnJFDywOqPU
+x7+wdKR3Rtx/qJRBtZP4rffDKBfPgFt6U3PwngNKRp2jPtaG3qU7rUKFYbm4eTTyptMUbcnODNdx
+yZUMaKF0q9L/7iXfA4wMymHOq9m+DOGViEuRONrY/z/vDdmALOrC/pN9El2CYYn0rrCiMlktrKz7
+LDEzlNhfMWw+q2bI4DqSdRt58CCnhQsGhHJERksPC31+l0OBoqIqfihEYxr9BRk1zTvknBpItiWV
+VpQnqTvhOPgL6sLrJRtLVhd+T5dsWCjSKVO3N4zS1/7HrmiqF5vVK9n2ptzaF7bmkKqs4DGnGVo5
+fmuhbk/wrxYphFNDAgMBAAGjggVnMIIFYzAaBgorBgEEAYPPdgMBBAwMCjA5MTM2OTcxMjQwGwYK
+KwYBBAGDz3YDAgQNDAtDQVJMT1MgSk9TRTAVBgorBgEEAYPPdgMDBAcMBVBMQVpBMBcGCisGAQQB
+g892AwQECQwHTUVORVNFUzAfBgorBgEEAYPPdgMFBBEMD0dFUkVOVEUgR0VORVJBTDA4BgorBgEE
+AYPPdgMHBCoMKEVESUYgREVMIFBPUlRBTCAxMDEgSlVOVE8gQSBDQyBMT1MgQVJDT1MwGgYKKwYB
+BAGDz3YDCAQMDAowOTkxNzQzNDAyMBsGCisGAQQBg892AwkEDQwLU2FtYm9yb25kb24wFwYKKwYB
+BAGDz3YDDAQJDAdFQ1VBRE9SMB0GCisGAQQBg892AwsEDwwNMDk5MzM2NjcxMjAwMTBDBgorBgEE
+AYPPdgMKBDUMM0lOU1RJVFVUTyBHVUFZQVFVSUxFw4PCkU8gSEVNQVRPLU9OQ09MT0dJQ08gSUdI
+TyBTQTAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBTZh68HwI0WpMoxSLuZZZaJm33XsjAfBgNVHSME
+GDAWgBTtdkiwCvHJhoYMTEZk0gb4zNW9PjAOBgNVHQ8BAf8EBAMCBeAwOgYDVR0fBDMwMTAvoC2g
+K4YpaHR0cDovZW5leHQyLnh5ei9MYXp6YXRlQ0EyL2VtaXNvckNBMi5jcmwwggGEBgNVHSAEggF7
+MIIBdzB8BgorBgEEAYPPdgICMG4wbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2VydGlmaWNh
+ZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExh
+enphdGUgQ2lhLiBMdGRhLjCB9gYJKwYBBAGDz3YCMIHoMGwGCCsGAQUFBwICMGAaXkVsIHByZXNl
+bnRlIGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNl
+Z3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4weAYIKwYBBQUHAgIwbBpqRWwgcHJlc2VudGUg
+Y2VydGlmaWNhZG8gc3Vib3JkaW5hZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGlj
+YXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBMdGRhLjCCAYUGA1UdEQSCAXwwggF4oBoG
+CisGAQQBg892AwGgDAwKMDkxMzY5NzEyNKAbBgorBgEEAYPPdgMCoA0MC0NBUkxPUyBKT1NFoBUG
+CisGAQQBg892AwOgBwwFUExBWkGgFwYKKwYBBAGDz3YDBKAJDAdNRU5FU0VToB8GCisGAQQBg892
+AwWgEQwPR0VSRU5URSBHRU5FUkFMoDgGCisGAQQBg892AwegKgwoRURJRiBERUwgUE9SVEFMIDEw
+MSBKVU5UTyBBIENDIExPUyBBUkNPU6AaBgorBgEEAYPPdgMIoAwMCjA5OTE3NDM0MDKgGwYKKwYB
+BAGDz3YDCaANDAtTYW1ib3JvbmRvbqAXBgorBgEEAYPPdgMMoAkMB0VDVUFET1KgHQYKKwYBBAGD
+z3YDC6APDA0wOTkzMzY2NzEyMDAxoEEGCisGAQQBg892AwqgMwwxSU5TVElUVVRPIEdVQVlBUVVJ
+TEXDkU8gSEVNQVRPLU9OQ09MT0dJQ08gSUdITyBTQTA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUH
+MAGGIGh0dHA6Ly9lbmV4dDIueHl6Ojg3NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQAL
+XF2cY66evuFH4mPi0izc4OIgWQmU/eR5aMCbWyijSnGKxGqELHqeusggCFH6rAOByqFML9VIXZk9
++Qa8FhYJvf2syftw6ox/1E7p7HeWCs3HHf/NUBzBRssoNXihL4u2se2ny3lvB6Y3x6o1FAKKVUOe
+rVr1Kr0CYT5QFtF4OHEcpe2E9eWNMpkBXrs974NT8kKCKCAtHiAxd7yHYBrJOfUVn8ONlsSsXKi3
+7vlqNQ9j4VtOjibYtDgiXrpJMvjqH8d9uR340Mm6qvTgzDYtFeRHkcAEW6J2DQTc9PTlaIWp1qun
+nrWLb7LSIRhh3L2W+LoFM5SpUJG7nWjV49NI
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+hZVNA8r2iyUpyRQ8sDqj1Me/sHSkd0bcf6iUQbWT+K33wygXz4BbelNz8J4DSkadoz7Wht6lO61C
+hWG5uHk08qbTFG3JzgzXccmVDGihdKvS/+4l3wOMDMphzqvZvgzhlYhLkTja2P8/7w3ZgCzqwv6T
+fRJdgmGJ9K6wojJZLays+ywxM5TYXzFsPqtmyOA6knUbefAgp4ULBoRyREZLDwt9fpdDgaKiKn4o
+RGMa/QUZNc075JwaSLYllVaUJ6k74Tj4C+rC6yUbS1YXfk+XbFgo0ilTtzeM0tf+x65oqheb1SvZ
+9qbc2he25pCqrOAxpxlaOX5roW5P8K8WKYRTQw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature886760-Object150040"><etsi:QualifyingProperties Target="#Signature886760"><etsi:SignedProperties Id="Signature886760-SignedProperties617597"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-23T15:34:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>3omj83nVlftF8WYhO/2b+K+HIYM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,C=EC,O=Lazzate Cia. Ltda.</ds:X509IssuerName><ds:X509SerialNumber>3255046757</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

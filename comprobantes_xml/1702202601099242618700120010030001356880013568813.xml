@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1702202601099242618700120010030001356880013568813</numeroAutorizacion>
+<fechaAutorizacion>2026-02-17T10:01:59-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>FIDEICOMISO TITULARIZACION OMNIHOSPITAL</razonSocial><nombreComercial>FIDEICOMISO TITULARIZACION OMNIHOSPITAL</nombreComercial><ruc>0992426187001</ruc><claveAcceso>1702202601099242618700120010030001356880013568813</claveAcceso><codDoc>01</codDoc><estab>001</estab><ptoEmi>003</ptoEmi><secuencial>000135688</secuencial><dirMatriz>AV. ABEL CASTILLO S/N Y AV. JUAN TANCA MARENGO</dirMatriz></infoTributaria><infoFactura><fechaEmision>17/02/2026</fechaEmision><dirEstablecimiento>AV. ABEL CASTILLO S/N Y AV. JUAN TANCA MARENGO</dirEstablecimiento><contribuyenteEspecial>1305</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>VALERO BRANDO LUIS MANUEL</razonSocialComprador><identificacionComprador>0904903515</identificacionComprador><totalSinImpuestos>79</totalSinImpuestos><totalDescuento>5</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>79</baseImponible><tarifa>0</tarifa><valor>0</valor></totalImpuesto></totalConImpuestos><propina>0</propina><importeTotal>79</importeTotal><moneda>0</moneda><pagos><pago><formaPago>20</formaPago><total>79</total><plazo>15</plazo><unidadTiempo>DIAS</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>RAYOS X</codigoPrincipal><descripcion>RAYOS X</descripcion><cantidad>2</cantidad><precioUnitario>42</precioUnitario><descuento>5</descuento><precioTotalSinImpuesto>79</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>79</baseImponible><valor>0</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="HC">102217</campoAdicional><campoAdicional nombre="PACIENTE">VALERO BRANDO LUIS MANUEL</campoAdicional><campoAdicional nombre="CAJA">CJ7-108283</campoAdicional><campoAdicional nombre="PLAN">AMB - OMNI 20</campoAdicional><campoAdicional nombre="EMAIL">ee_montero@hotmail.com</campoAdicional><campoAdicional nombre="USUARIO">JCARRIEL</campoAdicional><campoAdicional nombre="FECHA_INGRESO">17/02/2026 09:54:51 a.m.</campoAdicional><campoAdicional nombre="DIRECCION_CLIENTE">URBANIZACION SAN ISIDRO MZ A SOLAR 45</campoAdicional><campoAdicional nombre="TELEF_CLIENTE">2554026</campoAdicional><campoAdicional nombre="FECHA_EGRESO">17/02/2026 10:00:31 a.m.</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature443763">
+<ds:SignedInfo Id="Signature-SignedInfo700041">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID712977" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature443763-SignedProperties507779">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>58gZp4m1+6xH/0G01pGxakFw/bg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1465929">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>1LzQG1p8eJonZqNG7LGO21Xn06I=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-74583" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>xuwMwfhGHnfobvMEOtVVAR8ipR4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue856347">
+O1MN6vVVX7ZNE0uTjCKRxQ4UMxEsfshzc0LfeAJfZQ9nTzaMB3RLNwFcjUbib48FF7zHIgud5bRe
+I4p9h4sRRadxZaaCsyPhww9bkGKA9uOuIXJogFS9p6UyjxoGEp1+F2xVQtaX9GNWRrYZI8U8y9Nl
+3Pz7NrBTNVTd4Gj0ZkGSLDK+mMD8YdN9kbUP3hnIOXMfJgRU0vhV111Sbk4heLLgBSUfUpAT10Yz
+XuOtNKn+/HEHkcyEwqvvfPI464tZZmXPkOF+oRrdrIK7+Hr8u2gAIHnG+mU+r+CXmzJho4TZtmYX
+euoNyN7MwQ7lB1QpiBTlHdbQFW6Ruho81VU68w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1465929">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK+jCCCOKgAwIBAgIESgGoLzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNTA0MzAxOTQxMzFaFw0yODA0MjkxOTQxMzFaMIGsMSow
+KAYDVQQDDCFDQVRIRVJJTkUgVkFORVNTQSBET01FTkVDSCBaQVBBVEExIDAeBgNVBAUTFzA5MjE4
+OTY3OTEtMzAwNDI1MTQ1MTI3MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUg
+SU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCC
+ASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANq6h0YaG9toc3tyQmA/Woi8VMmkVGenBsUi
+IDtd1pwRakUj6/mz4ce7KI+0gjrDGW8Z4W7R9kqYBZrJyEMgQScoTGqQzRiJWqY4RQw1TX7p2pQN
+Ppk4zKl3BZhjcPvB+0ecbq7HSKr3Izg7VNIxQjWNU8uBsD9jbdagmJkz8ayRkoZa4HhUWKrS747z
+F0wuGTeG2IDk4TOgMJ2iDjwe4p1PesouoMs99eMCpmdxQKCHH2xGmJ8yjOCzFqJzWDRQDpx58bqv
+pv8m0FKabh01NZrHRV7qFvAEI+zrMlr0KtHuOvaE4oVHNJNvmJ5WN1eUXLKW40rux094UHIr081w
+/CkCAwEAAaOCBjMwggYvMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+N
+rmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5
+ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCUGA1UdEQQeMByBGmZhbGJh
+bkBvbW5paG9zcGl0YWwuY29tLmVjMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAG
+CCsGAQUFBwICMEQeQgBDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBv
+ACAAZABlACAARQBtAHAAcgBlAHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFo
+dHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1h
+dGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8g
+ZGUgRW1wcmVzYS5wZGYwHQYDVR0lBBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIIC
+BjCCAgIwgd6gOqA4hjZodHRwOi8vY3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEv
+Y3JsZmlsZS5jcmyigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwPKA6oDiGNmh0dHA6Ly9jcmwyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxm
+aWxlLmNybDCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEu
+bmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNO
+PUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJ
+REFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4g
+MixDPUVDMB0GA1UdDgQWBBRU5fDEsLUt14crUmxYlHXVa8m8ljArBgNVHRAEJDAigA8yMDI1MDQz
+MDE5NDEzMVqBDzIwMjgwNDI5MTk0MTMxWjALBgNVHQ8EBAMCBeAwGQYKKwYBBAGCpnIDBQQLDAlD
+T05UQURPUkEwGgYKKwYBBAGCpnIDAQQMDAowOTIxODk2NzkxMBYGCisGAQQBgqZyAwkECAwGVEFS
+UVVJMBEGCisGAQQBgqZyAyIEAwwBLjA6BgorBgEEAYKmcgMHBCwMKkRSIEFCRUwgUk9NRVJPIDAw
+MSBZIEFWIEpVQU4gVEFOQ0EgTUFSRU5HTzAhBgorBgEEAYKmcgMCBBMMEUNBVEhFUklORSBWQU5F
+U1NBMB8GCisGAQQBgqZyAyAEEQwPMDAxMDAyMDAwOTg4NTgwMBMGCisGAQQBgqZyAyEEBQwDUEZY
+MBcGCisGAQQBgqZyAwwECQwHRUNVQURPUjAYBgorBgEEAYKmcgMDBAoMCERPTUVORUNIMBEGCisG
+AQQBgqZyAx4EAwwBLjA4BgorBgEEAYKmcgMKBCoMKEZJREVJQ09NSVNPIFRJVFVMQVJJWkFDSU9O
+IE9NTkkgSE9TUElUQUwwHQYKKwYBBAGCpnIDCwQPDA0wOTkyNDI2MTg3MDAxMBEGCisGAQQBgqZy
+Ax0EAwwBLjAWBgorBgEEAYKmcgMEBAgMBlpBUEFUQTAaBgorBgEEAYKmcgMIBAwMCjA5NTg4OTE0
+MTQwDQYJKoZIhvcNAQELBQADggIBAMNnAhivRxI1hZHkXFUEg7Fi+6slZd4UCKrqQyPjzlihZecx
+JsDVk95M8YABTMFsSgJPoMGjmSSAa9M6DxcV8QYjn2f9g1sz7IdgGHFAzFe1VjqAadcvudrIxuv8
+SmseTMI4iz/MIhPi2HbzARBSwaIR6LWc/VOM+bX37C+7mk0N89XyMGMjBbzrTGP6OYUNcto0Z8I3
+XrxuxfUcGJ2srbZ4FuLj7SdUCi7iOkVWSUgYX1E2TgIXu/RfeBfWdCIWqOZldRV5UdaXRNt1WsZv
+WsSZ1517w+2nKTCdY0rR4PXrZIcoy2lHF4INgXhxybolY4emEjS1KVb31ez8qIzBM5LfwoyWCFv1
+Gkq/R7Ra5k5JjgeSubE2scXRtFGBYPs9CiOoi+8T+LXHGqSpD9w2YBEHYuE2JEkVMJ+zRbzmj32j
+t2wZsmJD3lv/Cz1S5/ZIJegXVL1vOX4SiRzckJrwq2zXhd6l4NMhSrmabp7DX9OHeQE2Qe5FbiY0
+TQV+Wc05fmCiIjRH7tc2TqbottOCs2l8uOrI/m78bnl1bzmJ6kj4nu6aFRLPxg8sTv9hdI1DF3IH
+zUP0y/237Su4xsBoEttux8dTnULpuP3RClkonwEZ7kB9I20sEBSmhoixEaJf2a3MObP4x9x5fMZe
+Br618p7kuLfQYoIPAVDjPf+wc18D
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+2rqHRhob22hze3JCYD9aiLxUyaRUZ6cGxSIgO13WnBFqRSPr+bPhx7soj7SCOsMZbxnhbtH2SpgF
+msnIQyBBJyhMapDNGIlapjhFDDVNfunalA0+mTjMqXcFmGNw+8H7R5xursdIqvcjODtU0jFCNY1T
+y4GwP2Nt1qCYmTPxrJGShlrgeFRYqtLvjvMXTC4ZN4bYgOThM6AwnaIOPB7inU96yi6gyz314wKm
+Z3FAoIcfbEaYnzKM4LMWonNYNFAOnHnxuq+m/ybQUppuHTU1msdFXuoW8AQj7OsyWvQq0e469oTi
+hUc0k2+YnlY3V5RcspbjSu7HT3hQcivTzXD8KQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature443763-Object69007"><etsi:QualifyingProperties Target="#Signature443763"><etsi:SignedProperties Id="Signature443763-SignedProperties507779"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-17T10:01:58-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>eyIPEjCegemKImooJ43+zKxbuzI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1241622575</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-74583"><etsi:Description>CIMA IT, Johanna Orozco Tel. +593 (4) 2280217</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1302202601170376475100120011000000013354350322711</numeroAutorizacion>
+<fechaAutorizacion>2026-02-13T10:26:11-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>OCHOA VALDIVIEZO CARLOS PATRICIO</razonSocial>
+        <ruc>1703764751001</ruc>
+        <claveAcceso>1302202601170376475100120011000000013354350322711</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000001335</secuencial>
+        <dirMatriz>Ciudadela: KENNEDY OESTE Calle: NOVENA OESTE Numero: 107 Interseccion: SAN JORGE </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>13/02/2026</fechaEmision>
+        <dirEstablecimiento>Ciudadela: KENNEDY OESTE Calle: NOVENA OESTE Numero: 107 Interseccion: SAN JORGE </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>04</tipoIdentificacionComprador>
+        <razonSocialComprador>VALERO BRANDO LUIS MANUEL MARLON</razonSocialComprador>
+        <identificacionComprador>0904903515001</identificacionComprador>
+        <totalSinImpuestos>50.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>50.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>50.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>50.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>00001</codigoPrincipal>
+            <descripcion>HONORARIOS MEDICOS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>50</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>50.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>50.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">044607500</campoAdicional>
+        <campoAdicional nombre="Email">lvalero@construdipro.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-ed6bf47c-ae21-4736-854d-7d93dc8c4632"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-ed6bf47c-ae21-4736-854d-7d93dc8c4632-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ItnSNbqIARuJxhM6Aj614/sbYEy8kV+PIgehyjcPsdI=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-ed6bf47c-ae21-4736-854d-7d93dc8c4632-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>MTNtX4Y82gek5Q9P1EanuW3vpjXDVePdZQRdkq6R/iI=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-ed6bf47c-ae21-4736-854d-7d93dc8c4632-sigvalue">I9QhNLc3Nx2TKxRGgpIy23VWbkGv2agjb0/haL0zS777zN+L4ADvrzWx5tAuEKe9etxIm/SdwcfI6vd8zwvnH5wGGC4PjL9cTe4PvXHz0VQ7Uh0pPIwr/DbWA6HtKK3XKLRhAXgRvhBSCPWk5MCi7egOrwgYfypXb6XRp1vNiYwiyyokbv5FJSq6+LEYFXHxilhAEyJAhsIjkvPLKq9Aw0CeQHmXwy9kYYyUy4R8nQJkhRgb63iJfSJeKW1DAQT9OMBWJul+ieJixm58Ow3zWMdT+0WDFT12Bjptaim7d5dS8TkpnpGKcMAP9BWMQ+3xgfsU2gYHtaYkQQnIGauk0w==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIL6TCCCdGgAwIBAgIELsqtjzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDExMTUwMDQ4MTFaFw0yNjExMTUwMDQ4MTFaMIGrMSkwJwYDVQQDDCBDQVJMT1MgUEFUUklDSU8gT0NIT0EgVkFMRElWSUVTTzEgMB4GA1UEBRMXMTcwMzc2NDc1MS0xNDExMjQxOTU4MDQxMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuyLgmnY5Iyzw4CcTTkEK/uROuZXPGuIDjw9tuZdRsSJvODDWQzjirVGbpuWgHqmHHpSJiomAMYKZV+i2OoQmApAWzsaODk3sPnD+F6gqUaWWknb67pKHEzVTaL0HFyeqlfV6uoUHE2WKUSr0E6JptSi82xAnF0d/kAK8mNq47fB6Rkk7jQzsKQBBnV+70u7XfeySlohda27UA6e5bZgut0IrGmtBJIQDgJBtG4XNU4ClAui4Wcp5GjP5Op9R5JISzP6J8fPqk/Bl867g2aLtFX0pS28HWv/En7/nkB7xhWFsh2mQXADD9e06+2xZrVNVfFagIEK1hoB+Kquq+54ECwIDAQABo4IHIzCCBx8wDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBSMusoRV3glgB1rCktVv42uYt29jzBZBggrBgEFBQcBAQRNMEswSQYIKwYBBQUHMAGGPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3Awgc8GA1UdLgSBxzCBxDCBwaCBvqCBu4aBuGxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9kZWx0YVJldm9jYXRpb25MaXN0P2Jhc2UwIAYDVR0RBBkwF4EVcGF0b2Nob2F2YWxAZ21haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFMDk/hVumsw3TShQatbhJw4Q57bhMCsGA1UdEAQkMCKADzIwMjQxMTE1MDA0ODExWoEPMjAyNjExMTUwMDQ4MTFaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjE3MDM3NjQ3NTEwFgYKKwYBBAGCpnIDCQQIDAZUQVJRVUkwEQYKKwYBBAGCpnIDIgQDDAEuMCwGCisGAQQBgqZyAwcEHgwcTk9WRU5BIE9FU1RFIDEwNyBZIFNBTiBKT1JHRTAfBgorBgEEAYKmcgMCBBEMD0NBUkxPUyBQQVRSSUNJTzAfBgorBgEEAYKmcgMgBBEMDzAwMTAwMjAwMDY3MDQyNTARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwFT0NIT0EwHQYKKwYBBAGCpnIDHgQPDA1ET0NUT1IgTUVESUNPMB0GCisGAQQBgqZyAwsEDwwNMTcwMzc2NDc1MTAwMTARBgorBgEEAYKmcgMdBAMMAS4wGgYKKwYBBAGCpnIDBAQMDApWQUxESVZJRVNPMBoGCisGAQQBgqZyAwgEDAwKMDk5NzM5Mjc3NTANBgkqhkiG9w0BAQsFAAOCAgEAMYCWsigkZa8iwxo/KXvv5DELF2+CmbQrLdbmCfzftC+IZNRR+IJZb4zfeMbKh98BiQJGIV4Pwb+eic1FLyedpa3aZXi05qoXYR5labXiiAx8pKv5m4rwAzuHqTJyE3HMV85GOQwc7ceEflRLvqHpiRcmk7mjwP7m3KnO7gqcdcW2OIX7ihrIA9H93Y+l7Zv/Xlog79EMaidHW7ncLl9lSUbsy0YuDUx/cy+owwT0tjgE8LoMEE4nFz22+F2s/I+tEqAGM+iwZkm2FRFrTIfaE76FFvRbzIJhNLLHG7vEgpQYnKAAoD6nMHm7Amm+acMYPyL1MAWFbyRMX3FC/oF2PxAZgVH0AQD0ucOMq6d10sICZaaYsoudxMdg84dHdjgClV/70KxHzEO14UmHt/6vJA9+8GtJtDs8zCzPCgNR4Jxz/Z/IeDyOBgFe4p5N4vuJgFqMNCVlaYW5bK+TJjhh2hAhtYiXs2Dtdk+uub3sBVI9WpdmnRGTTcgv0HduUFJefbhu9wM26IT8wCv3jF7SprOI/MGYoEf6okJMfFsgze4kErqObqW23eQmlOVKK97qlGR61XsdDHz8Qg0pSbPipx7a9jTLLTlFc/y4qaRRtkKYdjucErmT7z65rI8wUdjdBYFLJ4DZScHTXbQB5kZdnQ0DK8+o/Ps5p66EoOjMnQ8=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-ed6bf47c-ae21-4736-854d-7d93dc8c4632"><xades:SignedProperties Id="xmldsig-ed6bf47c-ae21-4736-854d-7d93dc8c4632-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-02-13T10:26:10.911-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>OfmUqmPRPB8EDu4m0ujiXZVjovW5lwTURVIltA5p7Fc=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>785034639</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-ed6bf47c-ae21-4736-854d-7d93dc8c4632-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2503202601091044775400120011000000037755951017711</numeroAutorizacion>
+<fechaAutorizacion>2026-03-25T09:58:23-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>CARVAJAL AYALA MARIA FERNANDA</razonSocial>
+        <nombreComercial>MARIA FERNANDA CARVAJAL AYALA</nombreComercial>
+        <ruc>0910447754001</ruc>
+        <claveAcceso>2503202601091044775400120011000000037755951017711</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000003775</secuencial>
+        <dirMatriz>Calle: LA PUNTILLA Numero: S/N Interseccion: AV. SAMBORONDON </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>25/03/2026</fechaEmision>
+        <dirEstablecimiento>Calle: LA PUNTILLA Numero: S/N Interseccion: AV. SAMBORONDON </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>MORLA AVILES LUIS ENRIQUE</razonSocialComprador>
+        <identificacionComprador>0911411635</identificacionComprador>
+        <totalSinImpuestos>100.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>100.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>100.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>100.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>L50</codigoPrincipal>
+            <descripcion>URTICARIA (CIE10:L50)</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>100</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>100.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="informacionAdicional" valor="HONORARIOS MÉDICOS POR CONSULTA"/>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>100.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">2350716</campoAdicional>
+        <campoAdicional nombre="Email">enriquemorla@hotmail.com</campoAdicional>
+        <campoAdicional nombre="Consulta dermatológica ">Fecha de atención 23/03/2026</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-e1fefcf5-2b66-486e-b867-d24685ff9b42"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-e1fefcf5-2b66-486e-b867-d24685ff9b42-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>LbQaFD5D11fVOLDesFPvbGwFM+4m13IF/0l+jabC5Ds=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-e1fefcf5-2b66-486e-b867-d24685ff9b42-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>n93rWR9zTK2bXQzzV4g6RjmPcDwPjOEmRTe+NM4U3Zo=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-e1fefcf5-2b66-486e-b867-d24685ff9b42-sigvalue">OISkyvyow/4tSt7NffLuS/bgmuu1T5mGmGFxWwCDoOUp63vXdFWdBImXqKI14Ijj83nOsIEu1b//oQD6Bp9aRDgaxwv66oPr08KJt0r9kB796VF78GDk5kyPoK1cs55psyqKfAVhNZlzcEjIVz55UD+AW64sUIPMqja8ytGYd47CNqE2YGUI9CTHoUQ0rhlcrAbmX3XD3OL5bVaq6Y2bg4w+Sexrdh0wuBSjI8R1awhCfMTMfHyqiBidAr5rqi432jrbcx7dX0XaDqIxhcRb9544ujNSYmzJCqV7/i1XCSBNxvIqV+MQgVisyvZnQb2gCxIxRU59JAoU03A2za6sbA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIL3TCCCcWgAwIBAgIEQcZ8CTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEwMjgyMjAxMThaFw0yNzEwMjgyMjAxMThaMIGdMSYwJAYDVQQDDB1NQVJJQSBGRVJOQU5EQSBDQVJWQUpBTCBBWUFMQTEVMBMGA1UEBRMMMjgxMDIyMTcxMTAwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANhAl37Lk7g9oRo9mqkp4DJJUGfBi9bWITuOOwZV/YXnP26t4E9J07BUEjUs8IuNdaWEEM7a49VMYEBtzPPzkUQrYKRlom2YrxiLnGJKeMwGtDdovuSq3IYeog3uivsJdxMJmkcDaX1dPOzW7XHXkRpfg2uUVYZSo/sT5s3R45+WSD9+s5VMD70TcWynieMgPcQt47QfxDho5NSc2qUd0M69C2Ix2janxaaZDVfaBI1KjHuqwotmINgqNyW7AF5Fzt/K2Oamsv5/KmqEUVskxIs0F5YkXbjpBCvLFfe74qFNkks35nLm+C4ulAd+cuOq0HVD7kzrwt/RuGx3ian7TG8CAwEAAaOCByUwggchMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCkGA1UdEQQiMCCBHmRyYS5mZXJuYW5kYWNhcnZhamFsQGdtYWlsLmNvbTCCAQYGA1UdIASB/jCB+zBaBgorBgEEAYKmcgIHMEwwSgYIKwYBBQUHAgIwPh48AEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFAAZQByAHMAbwBuAGEAIABOAGEAdAB1AHIAYQBsMIGcBgorBgEEAYKmcgIBMIGNMIGKBggrBgEFBQcCARZ+aHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBQZXJzb25hIE5hdHVyYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSaIfuULD4ubzbFaTbmVZTa5bVgiDArBgNVHRAEJDAigA8yMDIyMTAyODIyMDExOFqBDzIwMjcxMDI4MjIwMTE4WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTEwNDQ3NzU0MBsGCisGAQQBgqZyAwkEDQwLU0FNQk9ST05ET04wEQYKKwYBBAGCpnIDIgQDDAEuMC8GCisGAQQBgqZyAwcEIQwfTEEgUFVOVElMTEEgU04gWSBBViBTQU1CT1JPTkRPTjAeBgorBgEEAYKmcgMCBBAMDk1BUklBIEZFUk5BTkRBMB8GCisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNDU5MzQ2MBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGAYKKwYBBAGCpnIDAwQKDAhDQVJWQUpBTDARBgorBgEEAYKmcgMeBAMMAS4wHQYKKwYBBAGCpnIDCwQPDA0wOTEwNDQ3NzU0MDAxMBEGCisGAQQBgqZyAx0EAwwBLjAVBgorBgEEAYKmcgMEBAcMBUFZQUxBMBoGCisGAQQBgqZyAwgEDAwKMDk5NTQ2NjA1ODANBgkqhkiG9w0BAQsFAAOCAgEAE3AWtMa8Axp5/otfciXnd5lR+vcS4E3SQuBkuAnW/8lYFbMMUuE1MAtS1LIGzUqod5XwJbuTc6Se75mDfeT/i55OKvsO8GkfNe4l2QJ/PmB9SHd+BcFlRvm1VrXzCi4LJ/YVc7jfNJaJcnp+sxtzbbubDwXResB3AFn5h+d7MOZL6qgsOKDNeA+uEjzF/N0+9BQcWGgpyzlEqxzNI4viSc4Gb2YAJDd/KaCBkMYlgVNjniOrhY06vrRKfQWQlUF8hu5VAxNBXFwglnZ7VB7sbJF4pWiznvY5UMpF1fhRfkNA/tZhbc3YZPWRGWrEnfsVCex5OePc9U4DHkVSl22jcLCqdnHmCSCJjSG7FDA972suyrOSYseWKmfUsSuU+5YLEUWBhFQ5DgN1UxkpRZ2mVWF8zETYR4pB30JkwqXJes13pSTL3cRr1QR3q0W9rfvLvcRaM7/QpbwzLaZSMbQtMxAB/3CL3ADNyHQCU1WRskVJYclE++SsQ4FK2pMTETa4i2fE5vIzTO6XoL1Mnci8hWK6WW8IKQn0LF2deU1Xw871jQZ2sKmUKSVfbucWf+RA4FaZKO0A8jENeDTltjnR92Eg5ipK0X0t3OqBmLbTjBrVVJtHBaMRwxoTsMcMgOKCwKWTlxwJjxs5r/NNe9EEO84wZcDTL78o0ZPri6iwMjY=</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-e1fefcf5-2b66-486e-b867-d24685ff9b42"><xades:SignedProperties Id="xmldsig-e1fefcf5-2b66-486e-b867-d24685ff9b42-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-25T09:58:23.108-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>sL/FG/9tfMdDlJlTRkrJprJAWj1DKlKcd3u9Et0AZHk=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1103526921</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-e1fefcf5-2b66-486e-b867-d24685ff9b42-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

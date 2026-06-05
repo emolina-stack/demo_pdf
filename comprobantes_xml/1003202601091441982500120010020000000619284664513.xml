@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1003202601091441982500120010020000000619284664513</numeroAutorizacion>
+<fechaAutorizacion>2026-03-11T11:51:34-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>VACA BURBANO LUIS GUILLERMO</razonSocial>
+	    <nombreComercial>VACA BURBANO LUIS GUILLERMO</nombreComercial>
+	    <ruc>0914419825001</ruc>
+	    <claveAcceso>1003202601091441982500120010020000000619284664513</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000000061</secuencial>
+	    <dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / AV. ABEL ROMEO CASTILLO S/N Y Y AV JUAN TANCA MARENGO</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>10/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / AV. ABEL ROMEO CASTILLO S/N Y Y AV JUAN TANCA MARENGO</dirEstablecimiento>
+		
+	    
+	    
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>MARIO LEON</razonSocialComprador>
+	    <identificacionComprador>0915364020</identificacionComprador>
+		
+	    
+	    <totalSinImpuestos>80.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+		
+	      
+	      <totalImpuesto>
+	        <codigo>2</codigo>
+	        <codigoPorcentaje>6</codigoPorcentaje>
+	        <descuentoAdicional>0</descuentoAdicional>
+	        <baseImponible>80.00000</baseImponible>
+	        <valor>0</valor>
+	      </totalImpuesto>
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>80.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>80.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>003</codigoPrincipal>
+		<codigoAuxiliar>003</codigoAuxiliar>
+      	<descripcion>honorarios medicos</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>80.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>6</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>80.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">honorarios medicos por atencion de la paciente  TANIA LEON ORTIZ CIE10 G448 OTROS  SINDROMES DE CEFALEA NO ESPECIFICADOS</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature238631">
+<ds:SignedInfo Id="Signature-SignedInfo993992">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID48266" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature238631-SignedProperties338828">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>7tYhzN9qT7Ls+e7hD9GMk4zMxMo=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate460136">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>ECb1kw2UPYSh89+F/S/e7bV/lmg=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-273715" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>RSS+ZdW0wEsJiWcpE4IeP4t+6f4=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue12985">
+Q/yhEfmcbnLe68TnsEB3UbF+x7vTzb8OqQTnGQuEGoZ4yWaYiQrTKY99F2vnRA3TI+of2fez7CBa
+mfIEqc7wLGSer1LqTesfUAx4yBq6Zgm2eVRo+SA8BTPSgmhcAI3FnpGUHMpgF1zeh8djEbEjmMmN
+aFAS6kzSdEqkpH2VFKcDtRpH6rT6JcqVfTypreU0pERad+sUkkqJAwH6ifnEqAd3JVlDPLD90n+D
+rftpope4kKNnxITWCy9jetVMno8X0vMtU7+JR77pXagad52326Sm8udeQqLDgcsFJ5aDep3Y7f59
+t+9IQ2+JHDIS1SZnu6Hlev52sgH2nMk3fjqgzA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate460136">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKnTCCCIWgAwIBAgIIWZ0RTeLoGXcwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUxMTI4MjIzMTQ2WhcNMjcxMTI4MjIzMTQ2WjCB
+pjEkMCIGA1UEAwwbTFVJUyBHVUlMTEVSTU8gVkFDQSBCVVJCQU5PMSAwHgYDVQQFExcwOTE0NDE5
+ODI1LTI4MTEyNTE3NDEzNzEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDbABHXQTg/39/btxyblBHXKAeGgsGgvHOLTyVk
+JOA9v4yq9BlTYMveb0+znvseERgC5P+DBMjvcjgohRfGndQfvwFfwzWBi7TrCaTIsMRRQgzGJDxV
+yaLq08QyEHi2IcEYDrt7R0OsWyAYP60HbRMTS2E8NLPyRTSxowu2wpPDWo7y2kxiPWy1ew9750JF
+argKKqqwH3KO+jV+Jazwdcv7x5FfhbtnXUi//ui9sFInmgTFVNBmjOjnGU8eo7GijvoigZmGNaSb
+41E0NliXOSnj4G9u7L3jLKHxrR41xEP78fJFvZL5KI7r0JNwf7uuZnp2HBDeyozLPlQc2Y5DyV/x
+AgMBAAGjggXYMIIF1DAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAeBgNVHREEFzAVgRNmYWN0b2x1
+aXNAZ21haWwuY29tMIIBBgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+
+HjwAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUA
+cgBhAGwwgZwGCisGAQQBgqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0
+eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZp
+Y2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwHQYDVR0l
+BBYwFAYIKwYBBQUHAwIGCCsGAQUFBwMEMIICDwYDVR0fBIICBjCCAgIwgd6gOqA4hjZodHRwOi8v
+Y3JsMS5zZWN1cml0eWRhdGEubmV0LmVjL3N1YmNhMmNybDEvY3JsZmlsZS5jcmyigZ+kgZwwgZkx
+OTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFU
+QTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYD
+VQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwPKA6oDiGNmh0dHA6Ly9jcmwy
+LnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMi9jcmxmaWxlLmNybDCB4KCB3aCB2oaB12h0
+dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dl
+Yi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBT0U/nF
+j144GGZqBwhlM527z1p+nzArBgNVHRAEJDAigA8yMDI1MTEyODIyMzE0NlqBDzIwMjcxMTI4MjIz
+MTQ2WjALBgNVHQ8EBAMCBeAwGgYKKwYBBAGCpnIDAQQMDAowOTE0NDE5ODI1MBYGCisGAQQBgqZy
+AwkECAwGVEFSUVVJMBEGCisGAQQBgqZyAyIEAwwBLjBEBgorBgEEAYKmcgMHBDYMNEFWIEFCRUwg
+Uk9NRU8gQ0FTVElMTE8gUyBOIFkgWSBBViBKVUFOIFRBTkNBIE1BUkVOR08wHgYKKwYBBAGCpnID
+AgQQDA5MVUlTIEdVSUxMRVJNTzAQBgorBgEEAYKmcgMgBAIMADARBgorBgEEAYKmcgMjBAMMAS4w
+EwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBQGCisGAQQBgqZy
+AwMEBgwEVkFDQTAWBgorBgEEAYKmcgMeBAgMBk1FRElDTzAdBgorBgEEAYKmcgMLBA8MDTA5MTQ0
+MTk4MjUwMDEwEQYKKwYBBAGCpnIDHQQDDAEuMBcGCisGAQQBgqZyAwQECQwHQlVSQkFOTzAaBgor
+BgEEAYKmcgMIBAwMCjA5ODMxODU4OTYwDQYJKoZIhvcNAQELBQADggIBAKHwc0kY2C/f3FTF7OcP
+AcXYrN/EIMBG/TnUkjxHEKmF/ZdsvLabP/OXbhWH3wYahgY6zwFqYscd1rWOLv52n2kp+rOR3V4s
+pvpG+YAx9R6CdKRoPEJoGQLr/YIcfT2Vc3Ea9ldBQKJ+0OmNKqfOl0sPSu9Mga2s25gqqq+FZZwG
+Z/RM3oyLChK5O7AaTk+3A8VCVy4CgVBqhUOHGDiYQy33a67iI6NP6vlqctNzJhIOYJ7nyUtYZPZo
+6gf9OcMNPPpPJ/erNRTRQv5X89f1Dnt9n5fgOAhQIX32bslOAR+q4SdqGc2Uz6KQ+7SVsZ8BFLCZ
+XRwSii0F6bSEq1TEcn6WSL8tDTfKLU/y3k3qd7gv13lLVqOSv68bUm5BEKQjXrKcj/8zos+V3Zcd
+YxLC0Cq174yp2RpapnHKO40vHBzBuspj0P/uVwvm9jMv3DxklbcE/7HWy8yejYqJdIYo3Q7bctDD
+XNHAaFmnuVRIHFu/dTyJ2cZHHRne7fJEVlkIaEsSFueC9nVfSR9fBnSUIagxrlKB5kwxr7N7+Osp
+7Iogp8MHwX/46A0G9oobxBmNoLacNgQRdUt5O4nGZNwetzDhQwMfPwVaxXWEG/RCWFyD/McxUqDa
+XwDCiGk/o6624iLBQMtJemwHrqUnv/lnZifW/rcZWTDOXrf/kZnUkhuw
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+2wAR10E4P9/f27ccm5QR1ygHhoLBoLxzi08lZCTgPb+MqvQZU2DL3m9Ps577HhEYAuT/gwTI73I4
+KIUXxp3UH78BX8M1gYu06wmkyLDEUUIMxiQ8Vcmi6tPEMhB4tiHBGA67e0dDrFsgGD+tB20TE0th
+PDSz8kU0saMLtsKTw1qO8tpMYj1stXsPe+dCRWq4CiqqsB9yjvo1fiWs8HXL+8eRX4W7Z11Iv/7o
+vbBSJ5oExVTQZozo5xlPHqOxoo76IoGZhjWkm+NRNDZYlzkp4+Bvbuy94yyh8a0eNcRD+/HyRb2S
++SiO69CTcH+7rmZ6dhwQ3sqMyz5UHNmOQ8lf8Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature238631-Object613844"><etsi:QualifyingProperties Target="#Signature238631"><etsi:SignedProperties Id="Signature238631-SignedProperties338828"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-11T11:51:32-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>449ROM/EA9tBr3oHzspQbdv/Bu4=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,C=EC,O=SECURITY DATA S.A. 2,OU=ENTIDAD DE CERTIFICACION DE INFORMACION</ds:X509IssuerName><ds:X509SerialNumber>6457336466936174967</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

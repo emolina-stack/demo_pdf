@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>3001202601179204053100120141000014617551234567812</numeroAutorizacion>
+<fechaAutorizacion>2026-01-30T17:01:54-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>VERIS S.A.</razonSocial>
+        <nombreComercial>VERIS</nombreComercial>
+        <ruc>1792040531001</ruc>
+        <claveAcceso>3001202601179204053100120141000014617551234567812</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>014</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>001461755</secuencial>
+        <dirMatriz>Calle : ITALIA Numero: N30-146 Interseccion : VANCOUVER QUITO-ECUADOR</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>30/01/2026</fechaEmision>
+        <dirEstablecimiento>AV. RODOLFO BAQUERIZO NAZUR Y JOSE MARIA EGAS,   GUAYAQUIL-ECUADOR</dirEstablecimiento>
+        <contribuyenteEspecial>263</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>VITERI PALMA HARRY CLEMENTE</razonSocialComprador>
+        <identificacionComprador>0911829356</identificacionComprador>
+        <totalSinImpuestos>71.16</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>71.16</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>71.16</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>19</formaPago>
+                <total>71.16</total>
+                <plazo>0</plazo>
+                <unidadTiempo>Meses</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>2768</codigoPrincipal>
+            <codigoAuxiliar>234</codigoAuxiliar>
+            <descripcion>MONITOREO DE PRESIÓN ARTERIAL DE 24 HORAS, REVISIÓN POR EL MÉDICO, CON INTERPRETACIÓN Y REPORTE.</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>71.16</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>71.16</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>71.16</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Gran Contribuyente">OFICIO N° NAC-AGCOGEC22-00000732-M</campoAdicional>
+        <campoAdicional nombre="a) PACIENTE">VITERI PALMA HARRY CLEMENTE</campoAdicional>
+        <campoAdicional nombre="b) NUMERO PACIENTE">0911829356</campoAdicional>
+        <campoAdicional nombre="c) CONTRATO">IN20G05170</campoAdicional>
+        <campoAdicional nombre="d) CONVENIO">BMI IGUALAS MEDICAS DEL ECUADOR S.A. - BMI IGUALAS MÉDICAS DEL ECUADOR S.A - BMI PLAN NACIONAL 2024 FEE$12</campoAdicional>
+        <campoAdicional nombre="e) CUBRE EMPRESA">0</campoAdicional>
+        <campoAdicional nombre="f) SERVICIO">PROCEDIMIENTOS MEDICOS</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature200610">
+<ds:SignedInfo Id="Signature-SignedInfo514166">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID363656" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature200610-SignedProperties50222">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>j2d7lJVhOQD/Hk2cuRUbzRA2sMQ=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1731651">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>P/TNzZJUlTfhTC15lVTes+DXHD0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-4835" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>ul8QxI5YxGl2t6gPfs+Dmvo6lMM=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue315459">
+j1xqJAjM415Ql3Qu4jIYFHR0b2zvTD/pvqHBs6PakBFRIusCqbN+Y51dee1xrniB4cg5A1avzfiZ
+TtS9uh83x+PwzpH+7rnXu0mQQA6mzjbsED7wU423oBh/STKlJCgksOS72o70MZM7j+OTkR72MCTh
+JgLOuVT3EKngMPhe0RQ0u9HdWQ/bM61rvY0Fo3QOKzwBtAxrSsD1pkW9T8gI6K6m4Dng62wBP4VD
+HbeCmVK0zR+zPLDTNJwha0uLCiui9ibBb80TT3EWdas0NXXqWA9HoEsQ7MnxcLazIrxU3fFY6iHx
+vova9ZianJQsusMdOeu+pEHtAbK7bjauqFul2A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1731651">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMbTCCClWgAwIBAgIEeAyqvzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA4MjkxNzM1MDBaFw0yNjA4MjkxNzM1MDBaMIGqMSgw
+JgYDVQQDDB9JUkVORSBNQVJJQ1JVWiBBVklMRVMgU09UT01BWU9SMSAwHgYDVQQFExcwOTI2MTAy
+NTY3LTI5MDgyNDEyNDQ0MTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCsRZD8hEkyC++KeF+3zy8WLFluNtoajg0/PPMX
+vqQn3gB8rISiuKtZhRxQEdza17pZR9gEzazA+wXv8Tjwma8UPURPU2zp9gP82Tdg3+3RpTlIYwgI
+Wu0vXKOQg/wUYYIMCL5nZ36Hc0vH0+hzRyJxlabsARxnGm2Vf4QQoc/+WKIk8pDxLZFltgEJ8ZhO
+LHWuCOB9KnffJee7g7k/QlEn8OGvU0wcwEYX74MIQ1ZBgHcgMUtK4mGOOxc/B7Pu1P8Ap8uzmi+w
+P3R0oxx+hPkvizMqmU7AWSb5d6svNKiYkbjyf+gr08m7W0/Bw2Xk4oxwlmYQLuMeANQdubgVHDzB
+AgMBAAGjggeoMIIHpDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+
+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRh
+UmV2b2NhdGlvbkxpc3Q/YmFzZTAnBgNVHREEIDAegRxtYXJpY3J1ei5hdmlsZXNAdmVyaXMuY29t
+LmVjMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUA
+cgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBl
+AHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0
+eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZp
+Y2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKi
+BgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMu
+QS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE
+QVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZ
+IERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHa
+hoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVi
+bGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYE
+FL0fsQrI2DTqJ9YU0KLtWk2Ri2oaMCsGA1UdEAQkMCKADzIwMjQwODI5MTczNTAwWoEPMjAyNjA4
+MjkxNzM1MDBaMAsGA1UdDwQEAwIF4DAwBgorBgEEAYKmcgMFBCIMIEdFUkVOVEUgREUgVEVTT1JF
+UklBIFkgQ09CUkFOWkFTMBoGCisGAQQBgqZyAwEEDAwKMDkyNjEwMjU2NzBvBgorBgEEAYKmcgMJ
+BGEMX1FVSVRPIERJU1RSSVRPIE1FVFJPUE9MSVRBTk8gQ0FCRUNFUkEgQ0FOVE9OQUwgQ0FQSVRB
+TCBQUk9WSU5DSUFMIFkgREUgTEEgUkVQVUJMSUNBIERFTCBFQ1VBRE9SMBEGCisGAQQBgqZyAyIE
+AwwBLjA1BgorBgEEAYKmcgMHBCcMJUVMT1kgQUxGQVJPIE4zMyA0MDAgWSBGRVJOQU5ETyBBWUFS
+WkEwHgYKKwYBBAGCpnIDAgQQDA5JUkVORSBNQVJJQ1JVWjAfBgorBgEEAYKmcgMgBBEMDzAwMjAw
+MTAwMDg2MDI3MDATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1Iw
+FgYKKwYBBAGCpnIDAwQIDAZBVklMRVMwGQYKKwYBBAGCpnIDCgQLDAlWRVJJUyBTIEEwHQYKKwYB
+BAGCpnIDCwQPDA0xNzkyMDQwNTMxMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgME
+BAsMCVNPVE9NQVlPUjAQBgorBgEEAYKmcgMIBAIMADANBgkqhkiG9w0BAQsFAAOCAgEAM/gfj+zs
+jiQj+xrOPFsbn47Uw8pX0DIILKOX6bw1MpKZKijqlIAF09Zz1s0lHo9H2xvkVAZH0ojq1ctSMoFH
+ylHBOu3K0kfftvL7sQ2prxe/oJQuqD5mydMo1hy6NPLp1THLX3HZs4xOjgeoTWwpxfzweulQcW21
+e5M4FH7ONAdW4OSpQ2M4lmundBHlsliVFvxpCeJsM7ARAzMdjAXZRaLrFmGXgh3Wwp9Y9WDcj60z
+oP1Wg5ix45IEQgs5STsY5G02BmMFUi4kpHywlexosLAMLxW4OwySVQ4h1+tMjDQHDio2OpeDZqo1
+JutP77N3NrH0lqoliMJ2DcZ9ubnVUEof8W22maW0BbNZr0dQrwkZ08YAJ4mlh1olniONdq9ESRrC
+cEdSf7YWQa8fu6ecX+cUeYK9FTpO2GTTCNWslzZZrSSlaK476p5Pk0yOna7gZEwdYmoPmxcBCQdE
+3pJYG5aoGhpBlit16ZnheG1nlKh6zj3nUwPbA1f9W3l6tJrHJaG3io5686m14byr7mz9p+wwetG2
+/NChkREI3Q7PObs76RXc31llgrLXsvl/aMQnsqmPq/aCAPq//664VFOAKpisIAid4ikkUKFwt9q2
+Nm7L+w+F2iR2uiNNp3JbNytc7yb2yHv7hgwys85kr9kUQ8q9xulP1vssxcbCIkA8BvE=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rEWQ/IRJMgvvinhft88vFixZbjbaGo4NPzzzF76kJ94AfKyEorirWYUcUBHc2te6WUfYBM2swPsF
+7/E48JmvFD1ET1Ns6fYD/Nk3YN/t0aU5SGMICFrtL1yjkIP8FGGCDAi+Z2d+h3NLx9Poc0cicZWm
+7AEcZxptlX+EEKHP/liiJPKQ8S2RZbYBCfGYTix1rgjgfSp33yXnu4O5P0JRJ/Dhr1NMHMBGF++D
+CENWQYB3IDFLSuJhjjsXPwez7tT/AKfLs5ovsD90dKMcfoT5L4szKplOwFkm+XerLzSomJG48n/o
+K9PJu1tPwcNl5OKMcJZmEC7jHgDUHbm4FRw8wQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature200610-Object501139"><etsi:QualifyingProperties Target="#Signature200610"><etsi:SignedProperties Id="Signature200610-SignedProperties50222"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-01-30T17:01:53-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>COLy21OU+uhl1FYKAFJVy8IO98o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2014096063</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-4835"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

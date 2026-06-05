@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1003202601099284023400122301100000768411234567816</numeroAutorizacion>
+<fechaAutorizacion>2026-03-10T17:47:41-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura xmlns:ns2="http://www.w3.org/2000/09/xmldsig#" id="comprobante" version="2.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>GETTAREQ S.A.</razonSocial><nombreComercial>Farmacias 911</nombreComercial><ruc>0992840234001</ruc><claveAcceso>1003202601099284023400122301100000768411234567816</claveAcceso><codDoc>01</codDoc><estab>230</estab><ptoEmi>110</ptoEmi><secuencial>000076841</secuencial><dirMatriz>Urd.Central 3era 509 y monjas</dirMatriz></infoTributaria><infoFactura><fechaEmision>10/03/2026</fechaEmision><dirEstablecimiento>CALLE ABEL ROMEO CASTILLO Y AV JUAN TANCA MARENGO</dirEstablecimiento><contribuyenteEspecial>0382</contribuyenteEspecial><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>LEON MORA MARIO ERNESTO</razonSocialComprador><identificacionComprador>0915364020</identificacionComprador><direccionComprador>FUENTES DEL RIO MZ 10 N N</direccionComprador><totalSinImpuestos>17.51</totalSinImpuestos><totalDescuento>4.38</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>13.48</baseImponible><tarifa>0</tarifa><valor>0.00</valor></totalImpuesto><totalImpuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><baseImponible>4.03</baseImponible><tarifa>15</tarifa><valor>0.60</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>18.11</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>19</formaPago><total>18.11</total><plazo>0.00</plazo><unidadTiempo>dias</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>152206</codigoPrincipal><codigoAuxiliar>152206</codigoAuxiliar><descripcion>NOMADOL RAPID 20MG SUBLX10</descripcion><cantidad>2.00</cantidad><precioUnitario>1.000000</precioUnitario><descuento>0.40</descuento><precioTotalSinImpuesto>1.60</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>1.60</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>151292</codigoPrincipal><codigoAuxiliar>151292</codigoAuxiliar><descripcion>PRESTAT COMX75MGX40</descripcion><cantidad>5.00</cantidad><precioUnitario>0.890000</precioUnitario><descuento>0.89</descuento><precioTotalSinImpuesto>3.56</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>3.56</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>19816</codigoPrincipal><codigoAuxiliar>19816</codigoAuxiliar><descripcion>CEREBROL TABX800MGX30</descripcion><cantidad>20.00</cantidad><precioUnitario>0.520000</precioUnitario><descuento>2.08</descuento><precioTotalSinImpuesto>8.32</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>8.32</baseImponible><valor>0.00</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>200508</codigoPrincipal><codigoAuxiliar>200508</codigoAuxiliar><descripcion>SUEROX FRESA MORA AZUL HB FCOX630ML</descripcion><cantidad>2.00</cantidad><precioUnitario>2.521700</precioUnitario><descuento>1.01</descuento><precioTotalSinImpuesto>4.03</precioTotalSinImpuesto><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>4</codigoPorcentaje><tarifa>15</tarifa><baseImponible>4.03</baseImponible><valor>0.60</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="Observación"> </campoAdicional><campoAdicional nombre="Comentario"> (SMS, IVR u otros que se soporten en las redes de telecomunicaciones de telefonía fija, servicio móvil avanzado a través de un operador virtual)</campoAdicional><campoAdicional nombre="Email">tata_tania2009@hotmail.com</campoAdicional><campoAdicional nombre="Información">CAMBIO DE PRODUCTOS HASTA 3 DÍAS DE LA FECHA DE COMPRA, PRESENTANDO ESTE DOCUMENTO EN EL LOCAL QUE LO ADQUIRIÓ.</campoAdicional><campoAdicional nombre="Teléfono Cliente">0981146405</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature523791">
+<ds:SignedInfo Id="Signature-SignedInfo393502">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID144565" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature523791-SignedProperties389965">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>MDmhOqdu+jUclRufmyadl17qR+4=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1853101">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>DlrQVdmUilVpatLnRnxRv2Nqc/Q=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-328324" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qmJ2zP+1MJBPcu04DsEMLKHTzsE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue719341">
+EjU2xPs9xdWdnojnpGqApPi84GYSuPAa+1QCrtmI8zH9tyFkQO4h9y1lG3n4SS++k9aHTiPF52DQ
+mEk3WfzmLp4sr+tHYyacqX9vXYrWxetup+CoRP3EDkSxvrXW+xqzrE30sMxId6uWI7ejVlu9y2Xk
+1YffjU7Hhv2ab2lKqEblLIJGLR43ihSC11j/TQup86xoUeeOwAICSi7FotXKvzjuAmCy7a2D2E8Z
+FW2Go5jd1xRB6QW7WFyVtrq0KkduNYARHb628c89IlnNSp66Gi/65BcOXNoImPnQwqzqXL1cmsRY
+ZFrQ/PUcR9UlT+Wx0RDLp0q+DIz6DWwG+wMqlQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1853101">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ0zCCB7ugAwIBAgIICuWfEOgkCt8wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MTAzMTEzNDUwMFoXDTI3MTAzMTEzNDUwMFowgcoxCzAJBgNVBAYTAkVDMRYwFAYDVQQKDA1H
+RVRUQVJFUSBTLkEuMRIwEAYDVQQMDAlDT05UQURPUkExFTATBgNVBAQMDFJBTUlSRVogUFVOTzEY
+MBYGA1UEKgwPS0FSSU5BIEtBVFlVU0tBMRkwFwYDVQQFExBJRENFQy0wOTE2NDgwMDgwMSUwIwYD
+VQQDDBxLQVJJTkEgS0FUWVVTS0EgUkFNSVJFWiBQVU5PMRwwGgYDVQRhDBNWQVRFQy0wOTkyODQw
+MjM0MDAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkkiqBEt97GE54EyM75gNPS87
+RWtqOfgpdGWOKErz9shM5HD1MpwaH/VrOjMeo7TtoF2p4Tef0SE9KRUoQVVpcLpjqNOgQKB7RVbc
+aYn5O9FIQjvf3Kkp63VYVyNwXniHQBuwd9yTRVtklT2/WRw1sGsD2V3wZOf5ZqJbvQWP0NIjlunH
+gX6iMMFn32PMuMp33KLVWid2SK4VPSYqA7SVG7MZHmZsFnusrtH0cALILj30mRjgGI/ZdXYaEmOy
+JyKnY7aq8XzSxrUXdMqE2N3PjqivDpuPSxfjMHoIBzfRggLYzUjHw9sAN5nlkJPna0ae3EnfP+pM
+YrgAfG482H8NtQIDAQABo4IEyzCCBMcwGwYLKwYBBAGC8TZmAwEEDAwKMDkxNjQ4MDA4MDAeBgsr
+BgEEAYLxNmYDCwQPDA0wOTkyODQwMjM0MDAxMIHXBggrBgEFBQcBAQSByjCBxzBVBggrBgEFBQcw
+AoZJaHR0cDovL3d3dy51YW5hdGFjYS5jb20vcHVibGljL2Rvd25sb2FkL3RzcF9jZXJ0aWZpY2F0
+ZXMvc3Vib3JkaW5hdGUyLmNydDA2BggrBgEFBQcwAYYqaHR0cDovL29jc3AxLnVhbmF0YWNhLmNv
+bS9wdWJsaWMvcGtpL29jc3AvMDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDIudWFuYXRhY2EuY29t
+L3B1YmxpYy9wa2kvb2NzcC8wHQYDVR0OBBYEFCD2oJKr0lfi9PNsFMS5TqfHlAfdMAwGA1UdEwEB
+/wQCMAAwHwYDVR0jBBgwFoAUfVfnYHPOB0ap4qNo8OERsnSSc/0wgbEGA1UdIASBqTCBpjCBowYM
+KwYBBAGC8TZmAgIBMIGSMDcGCCsGAQUFBwIBFitodHRwczovL3d3dy51YW5hdGFjYS5jb20vcHVi
+bGljL3BraS9kcGMtZWMvMFcGCCsGAQUFBwICMEsMSUNFUlRJRklDQURPIERFIE1JRU1CUk8gREUg
+RU1QUkVTQSBPIEVOIFJFTEFDSU9OIERFIERFUEVOREVOQ0lBIEVOIEFSQ0hJVk8wgY8GA1UdHwSB
+hzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NBMnN1
+Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kv
+Y3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYBBQUH
+AwIGCCsGAQUFBwMEMIIB6QYDVR0RBIIB4DCCAdyBFWtyYW1pcmV6QGdydXBvZWN1LmNvbaAbBgsr
+BgEEAYLxNmYDAaAMDAowOTE2NDgwMDgwoCAGCysGAQQBgvE2ZgMCoBEMD0tBUklOQSBLQVRZVVNL
+QaAYBgsrBgEEAYLxNmYDA6AJDAdSQU1JUkVaoBUGCysGAQQBgvE2ZgMEoAYMBFBVTk+gGgYLKwYB
+BAGC8TZmAwWgCwwJQ09OVEFET1JBoEkGCysGAQQBgvE2ZgMHoDoMOEdVQVlBUyAgIEdVQVlBUVVJ
+TCAgIFRBUlFVSSAgIENBTExFIExBUyBNT05KQVMgU09MQVIgNTA5oB8GCysGAQQBgvE2ZgMIoBAM
+DjAwNTkzOTg5MTAyNjc4oBoGCysGAQQBgvE2ZgMJoAsMCUdVQVlBUVVJTKAeBgsrBgEEAYLxNmYD
+CqAPDA1HRVRUQVJFUSBTLkEuoB4GCysGAQQBgvE2ZgMLoA8MDTA5OTI4NDAyMzQwMDGgEwYLKwYB
+BAGC8TZmAwygBAwCRUOgQAYLKwYBBAGC8TZmAzKgMQwvTUlFTUJSTyBERSBFTVBSRVNBIE8gRU4g
+UkVMQUNJT04gREUgREVQRU5ERU5DSUGgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG
+9w0BAQsFAAOCAgEAyLaXku0UXqf5Rd7Kb/t+cutMpcYiW2KdGgj09zAhjapzeR870IdQ4nwmPyou
+wvTUnQEDwoEj4tMqZKNqsI+z/m/J0RDAbGRPwBzFb1d5hjcfH0DR/vEzUY9ufStITE0skIMYh5tY
+QwPOoNh3m8L6F+/Z6rUdRTtrKDi4PpErsJLoJcsxCcJW/3pQ1pCu6trz0Gc3MYtTSYsQTIpkt/ND
+pcRxfkz9QgSnNEKI/O5Kwi5Z7pRjassL4tuBi7rm3mWHleJopeXYMzBZBIQ4l0KlcHVARKgdASHR
+Ov4BOgufSSBNm37vDAZxXRKtYmcEM5i0pisMH1LVV3qz1NNyQUQVIwKB42lz4hvo/SirnaEm2XXv
+pEzRuP3wxNHGEsikNiX+048JEcEgHzJ5evSWAXtqsLAauuaVc8xaRDTjbDKU65QwpkBF0MH0loF+
+LVzO6f9flaytlJcE5B3xTCMM5YRaW1L2RFD69nPL9934dGL6ynHjjOMZ9dVMGh26K8Qc0kcdQu0p
+F7s3waSgLZy+R8hJCMz6th7612HP7ZDiKHC1XpDdbqOYrcZfVgJIhJTl2MQe+vBQUcI5H3uWNzjR
+RWUv4HlmVe8LZOC4DoiH6s/6V1jnV1Inl3lQLlZCBuXkHUZyH6hu/MHL9KZ4ubavz8MJkngJJ0NN
+7CS8Zd4Rz+V/hB8=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+kkiqBEt97GE54EyM75gNPS87RWtqOfgpdGWOKErz9shM5HD1MpwaH/VrOjMeo7TtoF2p4Tef0SE9
+KRUoQVVpcLpjqNOgQKB7RVbcaYn5O9FIQjvf3Kkp63VYVyNwXniHQBuwd9yTRVtklT2/WRw1sGsD
+2V3wZOf5ZqJbvQWP0NIjlunHgX6iMMFn32PMuMp33KLVWid2SK4VPSYqA7SVG7MZHmZsFnusrtH0
+cALILj30mRjgGI/ZdXYaEmOyJyKnY7aq8XzSxrUXdMqE2N3PjqivDpuPSxfjMHoIBzfRggLYzUjH
+w9sAN5nlkJPna0ae3EnfP+pMYrgAfG482H8NtQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature523791-Object135974"><etsi:QualifyingProperties Target="#Signature523791"><etsi:SignedProperties Id="Signature523791-SignedProperties389965"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-10T17:47:04-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>dj0YW1TjmeNgRoNA6z0yA+dAAHQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>785208605008988895</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-328324"><etsi:Description>comprobateFirma</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

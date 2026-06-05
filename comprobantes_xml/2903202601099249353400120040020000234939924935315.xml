@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2903202601099249353400120040020000234939924935315</numeroAutorizacion>
+<fechaAutorizacion>2026-03-29T14:27:27-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MACROSALUD S.A.</razonSocial>
+        <nombreComercial>CERID</nombreComercial>
+        <ruc>0992493534001</ruc>
+        <claveAcceso>2903202601099249353400120040020000234939924935315</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>004</estab>
+        <ptoEmi>002</ptoEmi>
+        <secuencial>000023493</secuencial>
+        <dirMatriz>CDLA. ALAMOS 1 MZ.B SOLAR 3</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>29/03/2026</fechaEmision>
+        <dirEstablecimiento>CDLA. ALAMOS 1 MZ.B SOLAR 3</dirEstablecimiento>
+        <contribuyenteEspecial>00011</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>LEON NARANJO RAUL IVAN</razonSocialComprador>
+        <identificacionComprador>0923140131</identificacionComprador>
+        <direccionComprador>SAMANES 4</direccionComprador>
+        <totalSinImpuestos>30.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>30.00</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>30.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>16</formaPago>
+                <total>30.00</total>
+                <plazo>0</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>20</codigoPrincipal>
+            <codigoAuxiliar>22</codigoAuxiliar>
+            <descripcion>ECOGRAFIA DE PARTES BLANDAS</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>30.000000</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>30.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>30.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="PACIENTE">LEON NARANJO RAUL IVAN</campoAdicional>
+        <campoAdicional nombre="Correo Electrónico:">ivanleonrl9@icloud.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature610210"><ds:SignedInfo Id="Signature-SignedInfo276125"><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod><ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod><ds:Reference Id="SignedPropertiesID908052" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature610210-SignedProperties399639"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>yF3B8unwy1P0ZbCHJAPN1IzH2VA=</ds:DigestValue></ds:Reference><ds:Reference URI="#Certificate1928549"><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>X6gHkaavfA+P4vgVO88n5phUc8Y=</ds:DigestValue></ds:Reference><ds:Reference Id="Reference-ID-1038828" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>mmNJIUvOenfkYR8zGE9tJWdSkzQ=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="SignatureValue888342">dE24ddvy01ssnKSElCC4AURUUNr+j0w+OIn5DHkSgVgk1tIgEX+m1osTpegr/qhALikmOSOKHGSPcgxssx1VTvraQrHZ+rQCqFGqzjg4qaWWRFouZLJqhHLEnT6tbDWC+NQgd0lLQ51rcjy2OyiGxwmdgSu+q2xwpIIVwOaouS/P53VtJrLoneBVEJztCvHeuJszpSnaruUZ4BQ/F9DsO+HR06EnPzYJ8KgwGsHhXuC89p6295f0p5sgnUKn6Xw9VmOayAR8jIMb4oHC8WQB+r2qxAPB14ZDT6DXKU/T3n4byFA41hFJPQbYLR4oDzEF4MMdJBbPpC80nvaZvkWkxQ==</ds:SignatureValue><ds:KeyInfo Id="Certificate1928549"><ds:X509Data><ds:X509Certificate>MIIMCjCCCfKgAwIBAgIEGTVFbzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzAxMTIxNjA4MjlaFw0yNzAxMTIxNjA4MjlaMIGdMSYwJAYDVQQDDB1KVUFOIENBUkxPUyBST0RSSUdVRVogREVMR0FETzEVMBMGA1UEBRMMMTIwMTIzMTExODE0MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJANhFYPmV/jwjL5aSYGIpjw6jIJ6dHndsxki/7Xm8GdJcR5U3wVIOtEV42ArAcMjF8WsV3AFpb6Nrs4UzrjdUyUcRDrTQpruQDitGGNulHBPKucEqQ3nktAY919cdw1GkY2uHgAR/63IRKE2hvSqAmeofZVMdiqe8z4zeyvLG+REr7gF4mvtzXnZ8oGIo/9PDuTTQmxO6N9sisOG8k4F71RqcIpiOKsY5gdl0ph8NqswlyGKcnLYrcJBVp/M/ZnU2phpRz4wCMcsSFLZ3VSj25SR0EY2yR7Vl6nNaAAytNC/kop/GKlCXw2thsy7n6ZHA8gtZ4xI4UKt1CJpVQGUD8CAwEAAaOCB1IwggdOMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMCYGA1UdEQQfMB2BG2p1YW4ucm9kcmlndWV6QGNlcmlkLmNvbS5lYzCCARUGA1UdIASCAQwwggEIMGIGCisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABlACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCBkjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMIICogYDVR0fBIICmTCCApUwgeWgQaA/hj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFUQSBTLkEuIDIxCzAJBgNVBAYTAkVDMIHHoIHEoIHBhoG+bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2NlcnRpZmljYXRlUmV2b2NhdGlvbkxpc3Q/YmFzZTCB4KCB3aCB2oaB12h0dHBzOi8vcG9ydGFsLW9wZXJhZG9yMi5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi93ZWJkaXN0L2NlcnRkaXN0P2NtZD1jcmwmaXNzdWVyPUNOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDMB0GA1UdDgQWBBSvck2aChzXAi3gRTVJb4LMrv/Z0jArBgNVHRAEJDAigA8yMDIzMDExMjE2MDgyOVqBDzIwMjcwMTEyMTYwODI5WjALBgNVHQ8EBAMCBeAwHwYKKwYBBAGCpnIDBQQRDA9HRVJFTlRFIEdFTkVSQUwwGgYKKwYBBAGCpnIDAQQMDAoxMzA1OTc4MTcxMBkGCisGAQQBgqZyAwkECwwJR1VBWUFRVUlMMBEGCisGAQQBgqZyAyIEAwwBLjA2BgorBgEEAYKmcgMHBCgMJkFWIERFTU9DUkFDSUEgU09MQVIgMyBZIFNVRlJBR0lPIExJQlJFMBsGCisGAQQBgqZyAwIEDQwLSlVBTiBDQVJMT1MwHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDAzMzk4NTIwEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBkGCisGAQQBgqZyAwMECwwJUk9EUklHVUVaMB4GCisGAQQBgqZyAwoEEAwOTUFDUk9TQUxVRCBTIEEwHQYKKwYBBAGCpnIDCwQPDA0wOTkyNDkzNTM0MDAxMBIGCisGAQQBgqZyAx0EBAwCTm8wFwYKKwYBBAGCpnIDBAQJDAdERUxHQURPMBoGCisGAQQBgqZyAwgEDAwKMDk4MDkyODYyNDANBgkqhkiG9w0BAQsFAAOCAgEADXA2bNXTw02nh3hJB7nH+M3ncSQ3/bpCmSwdYidmQReI+k2QK3bjEpOIGwPB2jtkNBP4nc6sZzkMUIUbMz/i7llPBPMiesL6e1t8bmqL0uANqc7Y6XLn3WuAoZdxH5iD0yw2l8VbG2mblCq/sd2lWwuSqGt4pfyvreKI8xNqm9iQwssQ4tSXv1QFtmFV/zgycmDabbOYyncqNJe2XHVZBv9DENd8VfK4Rq7snTmvdxpQdFzr1Dkdno32lcvc7uDLk3iyapc3/Id6njanOZ5QiCsaj88V5lm0R/jGVwmkwHum8EdqXO+NkR+nHEZY9IbT71SeNII9n0BWPQONEBlCDKgiCuyX6CIcxjgtqVsBY+qfY/5wIDB06ejAAxLV0g+kwh+bCjOeOVNCEg+SoIFdwKKhL933yvfY6deQANehrK37mmW8uV98XKdMfdn4J26CYz9SvWmIRwiheVbThg1aBhXcWE23I2/lasl3ozQcVopBQ4N4MQ6uRDVwcrSm1qrRnjWZPSS2lxhqTJXnyNt2sRVi55x6WRAlyLr/ZYustBeAdsk0V1Zy3uy/apH4jo+Crx360uzf+lW9itFI3ySxEfP7yiBYvCGNh/EtQc2DZ5c5Rv2OttKjOSgLiXBRkAbE2+ef2aXGPnVJPKVhoMsXs7cL3py4xpZylw2hwEFLlmA=</ds:X509Certificate></ds:X509Data><ds:KeyValue><ds:RSAKeyValue><ds:Modulus>
+kA2EVg+ZX+PCMvlpJgYimPDqMgnp0ed2zGSL/tebwZ0lxHlTfBUg60RXjYCsBwyMXxaxXcAWlvo2uzhTOuN1TJRxEOtNCmu5AOK0YY26UcE8q5wSpDeeS0Bj3X1x3DUaRja4eABH/rchEoTaG9KoCZ6h9lUx2Kp7zPjN7K8sb5ESvuAXia+3NednygYij/08O5NNCbE7o32yKw4byTgXvVGpwimI4qxjmB2XSmHw2qzCXIYpyctitwkFWn8z9mdTamGlHPjAIxyxIUtndVKPblJHQRjbJHtWXqc1oADK00L+Sin8YqUJfDa2GzLufpkcDyC1njEjhQq3UImlVAZQPw==
+</ds:Modulus><ds:Exponent>AQAB</ds:Exponent></ds:RSAKeyValue></ds:KeyValue></ds:KeyInfo><ds:Object Id="Signature610210-Object500292"><etsi:QualifyingProperties Target="#Signature610210"><etsi:SignedProperties Id="Signature610210-SignedProperties399639"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-29T15:27:26-04:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/ljM4vVzI0ieIsDD/iR25KceoLI=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>422921583</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1038828"><etsi:Description>Documento electrónico para SRI</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

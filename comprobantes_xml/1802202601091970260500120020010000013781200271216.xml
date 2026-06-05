@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1802202601091970260500120020010000013781200271216</numeroAutorizacion>
+<fechaAutorizacion>2026-02-18T11:53:04-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>JAIME DAVID UQUILLAS ITURRALDE</razonSocial>
+<nombreComercial>JAIME DAVID UQUILLAS ITURRALDE</nombreComercial>
+<ruc>0919702605001</ruc>
+<claveAcceso>1802202601091970260500120020010000013781200271216</claveAcceso>
+<codDoc>01</codDoc>
+<estab>002</estab>
+<ptoEmi>001</ptoEmi>
+<secuencial>000001378</secuencial>
+<dirMatriz>INTERHOSPITAL KM6.5 VIA A LA COSTA</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>18/02/2026</fechaEmision>
+<dirEstablecimiento>GUAYAQUIL</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>CARLOS ESPINOSA</razonSocialComprador>
+<identificacionComprador>0951097161</identificacionComprador>
+<totalSinImpuestos>80.00</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>80.00</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>80.00</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>80.00</total>
+<plazo>0</plazo>
+<unidadTiempo>dias</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>1</codigoPrincipal>
+<descripcion>CONSULTA MEDICA TRAUMATOLOGICA</descripcion>
+<cantidad>1.00</cantidad>
+<precioUnitario>80.000000</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>80.00</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Direccion">CDL EL PORTON</campoAdicional>
+<campoAdicional nombre="Email">cespinosamena@gmail.com</campoAdicional>
+<campoAdicional nombre="Telefono">988531488</campoAdicional>
+<campoAdicional nombre="Concepto">DX: LUMBALGIA CIE-10: M54.5</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature134964">
+<ds:SignedInfo Id="Signature-SignedInfo367928">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID121140" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature134964-SignedProperties661322">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>iCMc3igxFxGjUgWw7Pk80PRpv3w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate166326">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>XqOpRTOMHlscPAguL3CyDxlSJoI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-195170" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>C1qB3RLy1HDgxPgFWZrvCkei/mg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue991673">
+if+0XbOd/fzmRGIUytlDYJUd0K5UocMUhcTT4j8ao0zqQN5cXwHOR5QhxP3/RAz9+Rr2VYBpHtuz
+Bv0B+GG28uKbP4Rk76L/hRNWZ359XIp1SfFHeqpbgYayXWLlxSJyx7pCL//eBBgra94d72PwTNT5
+R2zyz5zmWrvNiLajfN+ctc23j0X6YzBDfrYZPjPQeRlh/VQxgP6jS34rpnztOe7dAuBNyph6Bn5C
+ZcxNfAo35PoO8XzDneJMugZA3mQCiRIPrgYP1+CF/JQChYM4rEGAx8PwQaMBLfkPH9Oq6mVTNzGB
+f1CJTeXFk+ARVU7BMO48mk1T+JokZ3EDYz2ZYw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate166326">
+<ds:X509Data>
+<ds:X509Certificate>
+MIILozCCCYugAwIBAgIEBcL0hTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMjEwMzEyMjQ4MzdaFw0yNjEwMzEyMjQ4MzdaMIGeMScw
+JQYDVQQDDB5KQUlNRSBEQVZJRCBVUVVJTExBUyBJVFVSUkFMREUxFTATBgNVBAUTDDMxMTAyMjE3
+NTgyMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEB
+AQUAA4IBDwAwggEKAoIBAQC9aN7444atGztEq7Q1O07qaBFewyQ8lP2MlPvBxFvT1okQDC3/atqk
+CugmYmReIFOHhffAOotZj390wbr7LeZixbwAd1phqJRwFdvhfmiR0OWmhf7exo2tYo8mVkVKNARs
+otrdrBzFemP25HoBbOVzF/pSVlwd4rdnEwKfstK5K0jDp2YSw8wtmyABR5Z29eXAKLkr1SBENu8V
+jCRafu+kqga+SnVp/NhVDbsBr2lEzLycmRUTDc8/85tCSwOiu937VSK7qaYFJQ5cNwX2HkP0jrhQ
+Ig2klyxf1fZyI6Gjxoto/Liq+zwy4yicn088ifJxEGpGfPrihFRWbZnmJEMvAgMBAAGjggbqMIIG
+5jAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMIHYBggrBgEF
+BQcBAQSByzCByDCBxQYIKwYBBQUHMAGGgbhsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRB
+LE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERB
+VEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlzdD9iYXNlMIHOBgNVHS4EgcYwgcMwgcCg
+gb2ggbqGgbdsZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFE
+IERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VS
+VElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVs
+dGFSZXZvY2F0aW9uTGlzdD9iYXMwIAYDVR0RBBkwF4EVZGF2aWR1aTE5ODhAZ21haWwuY29tMGUG
+A1UdIAReMFwwWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMA
+YQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCCAqIGA1UdHwSCApkw
+ggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczov
+L3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2Vi
+ZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUlB0sjAXvbWrv
+Kov2OCndn3g6dcQwKwYDVR0QBCQwIoAPMjAyMjEwMzEyMjQ4MzdagQ8yMDI2MTAzMTIyNDgzN1ow
+CwYDVR0PBAQDAgXgMBoGCisGAQQBgqZyAwEEDAwKMDkxOTcwMjYwNTAZBgorBgEEAYKmcgMJBAsM
+CUdVQVlBUVVJTDARBgorBgEEAYKmcgMiBAMMAS4wIgYKKwYBBAGCpnIDBwQUDBJBViBERUwgQk9N
+QkVSTyBTIE4wGwYKKwYBBAGCpnIDAgQNDAtKQUlNRSBEQVZJRDAfBgorBgEEAYKmcgMgBBEMDzAw
+MTAwMjAwMDI3OTA2NDARBgorBgEEAYKmcgMjBAMMAS4wEwYKKwYBBAGCpnIDIQQFDANQRlgwFwYK
+KwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBgGCisGAQQBgqZyAwMECgwIVVFVSUxMQVMwEQYKKwYBBAGC
+pnIDHgQDDAEuMB0GCisGAQQBgqZyAwsEDwwNMDkxOTcwMjYwNTAwMTARBgorBgEEAYKmcgMdBAMM
+AS4wGQYKKwYBBAGCpnIDBAQLDAlJVFVSUkFMREUwGgYKKwYBBAGCpnIDCAQMDAowOTk3MTMyMDMx
+MA0GCSqGSIb3DQEBCwUAA4ICAQC2q6nnBuqsw7LYpluLnpz9yA6MKxw5z5Wi45b7k3Jmzsl8+Rz/
+uGoc1Dm7lMDQDjl80CLykw0btYlolxIlSUgL8nE/guz5NMtxJSv0gjElvot9NT8GzWF0TiL2SNQF
+5DCT4koTWvhbb5oJmB6c1ILSDxozjmvWZauiK81VeRjoCFnpisBnsgiH+zWQUlg3IlpCHRokd2Bs
+6GIm+LoO3WJ9rfFAiJyO2H5Fv96f0NTG752LwGMkIHKafxHY0O9G78p9EBgnHiawtipuMmEYByNx
+cPd7Pu//dOkCLFNvrT7/B08MouEomGBUw7TDixDUX892rcSzRsil231VgvapR9/1ONrD4Xsl3ap9
+g/s6kVYEkCUZLJQwaciTvpwqzs63jNfL8mLklCmYp7QBs36KMk96ddudjQUtsmSF/BzuNjKkOvkp
+iucKpbgi5jlE1Ni8xQ2y/HVtwgl7vtKbBsa03dxtZ5KhTVIQI69BiJK1V/fuw2O2pXTLviCpHozI
+1xMgm5wswsXdeCPmup4jf9zOHULsruBu+qcN7mDOVLp3+VQ0ywRB3RL2VflmjotWYFe7BxG/SMUh
+h75jLZyWbTcR7PVeglAZ6lIq559gzcQgPqWuFBfpc69VZfK9TRdCAXHhVW0nqIjvt7e9EVv6XQoQ
+9UsA2PU37Op4NJKoCI3EMvYuKw==
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+vWje+OOGrRs7RKu0NTtO6mgRXsMkPJT9jJT7wcRb09aJEAwt/2rapAroJmJkXiBTh4X3wDqLWY9/
+dMG6+y3mYsW8AHdaYaiUcBXb4X5okdDlpoX+3saNrWKPJlZFSjQEbKLa3awcxXpj9uR6AWzlcxf6
+UlZcHeK3ZxMCn7LSuStIw6dmEsPMLZsgAUeWdvXlwCi5K9UgRDbvFYwkWn7vpKoGvkp1afzYVQ27
+Aa9pRMy8nJkVEw3PP/ObQksDorvd+1Uiu6mmBSUOXDcF9h5D9I64UCINpJcsX9X2ciOho8aLaPy4
+qvs8MuMonJ9PPInycRBqRnz64oRUVm2Z5iRDLw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature134964-Object687325"><etsi:QualifyingProperties Target="#Signature134964"><etsi:SignedProperties Id="Signature134964-SignedProperties661322"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-18T11:52:58-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>w0jNAGFGqsQ/7aFiA8lX5Ln64Vg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>96662661</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-195170"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

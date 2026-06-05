@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0403202601091758738800120011000000000133512445418</numeroAutorizacion>
+<fechaAutorizacion>2026-03-04T11:16:03-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>SIGUENCIA CHAVEZ LUIS ALBERTO</razonSocial>
+        <ruc>0917587388001</ruc>
+        <claveAcceso>0403202601091758738800120011000000000133512445418</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000013</secuencial>
+        <dirMatriz>Ciudadela: SAUCES OCHO Numero: SOLAR 7 Manzana: 454-F-50 </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>04/03/2026</fechaEmision>
+        <dirEstablecimiento>Ciudadela: SAUCES OCHO Numero: SOLAR 7 Manzana: 454-F-50 </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>NUÑEZ MONTOYA KRYSTEL GYSSEL</razonSocialComprador>
+        <identificacionComprador>0952469765</identificacionComprador>
+        <direccionComprador>Pájaro Azul Mz c7 villa 2 Placa</direccionComprador>
+        <totalSinImpuestos>900.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>900.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>900.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>900.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>002</codigoPrincipal>
+            <descripcion>TERAPIA COGNITIVO CONDUCTUAL MES DE MARZO 2026</descripcion>
+            <cantidad>20.00</cantidad>
+            <precioUnitario>45.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>900.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>900.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">0981431700</campoAdicional>
+        <campoAdicional nombre="Email">berthita2006@yahoo.es</campoAdicional>
+        <campoAdicional nombre="DIAS">2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 24</campoAdicional>
+        <campoAdicional nombre="NIÑA">Greysi Nuñez</campoAdicional>
+        <campoAdicional nombre="MES">MARZO 2026</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-db8eeb37-920f-446f-83f7-98a891036dbd"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-db8eeb37-920f-446f-83f7-98a891036dbd-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>kqfT0YDjTQGhvtDxzRKkkMr7N/K2nSoHhZbUs1RjrYk=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-db8eeb37-920f-446f-83f7-98a891036dbd-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>8CAnjd6gOAC6WUpEjz4u7mgsA+KmW3BEE10m2Ip3QnM=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-db8eeb37-920f-446f-83f7-98a891036dbd-sigvalue">ewcV7Z4S4KTdd04UIRHKQJesGD+0xod58XWKQ5QdPzrDVbR/fhRncHdd6/aPB3xdspGley//V1H0VGfvpLHRS+yAUQbrhuxBlG/nViWauSqTYADG9a9MCIIMXALsMGOVY67gmW7hZLxIXc2kr7wszhSyDMapxaNKfzjPHlXhqichjIF690gNExgiyR4981Rm2ovsIyCuGS7C8jCPUeCSwnaWD1QuZWVHv7fvU9zgsfThphYTNnvA2jWZn6o0DQLJBLJej+xUMmUOCmAPypd50eFdn9A5CbDk5Xa+sCmd9fUBRyulAq2AY26JcqscZyTaQeICPXhjdsdka0NVjA40fA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>MIIKsDCCCJigAwIBAgIIJhzZg0En16AwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwODE5MTgwNjM5WhcNMjYwODE5MTgwNjM5WjCBqDEmMCQGA1UEAwwdTFVJUyBBTEJFUlRPIFNJR1VFTkNJQSBDSEFWRVoxIDAeBgNVBAUTFzA5MTc1ODczODgtMTkwODI1MTMxNjMwMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMCnbZ/3s+y+lhEc1F/zb9hls6YSfpWB3RCbgoXMrCezQk7hYQnQDu8Z4ciS+rBVEzte9JBOsm9eYMqgt4suq3KzjPpJ4/K+zzsoGt7Z2mSBXFwGm5cUhhy2MS7m8xZMBfpRPKgy3WdaEoZKgXWhlx45BvFnNeyRclanDay0Wk7IXOVFjkxihmt4tXeLY4utOf9u5C+qtEjANKMGs9ojoqmdb+rnqxYu+muWLo68V0ya+/L5a4pJ9YezeQiy+zYHR4KkY0QPH+QMZqmt3AGJ9h7vds/pZ/pXQWfRCcGi0Hc7tK185VvXq+hUBfhAu9JF4WJAtYGljcSzN7bjHN84RAUCAwEAAaOCBekwggXlMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMCcGA1UdEQQgMB6BHGx1aXNwc2ljc2lndWVuY2lhQGhvdG1haWwuZXMwggEGBgNVHSAEgf4wgfswWgYKKwYBBAGCpnICBzBMMEoGCCsGAQUFBwICMD4ePABDAGUAcgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABQAGUAcgBzAG8AbgBhACAATgBhAHQAdQByAGEAbDCBnAYKKwYBBAGCpnICATCBjTCBigYIKwYBBQUHAgEWfmh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9hZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8gUGVyc29uYSBOYXR1cmFsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIGMIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9jcmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZpbGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFI4StCIWHo+evKiDjvrJAtIAsh+eMCsGA1UdEAQkMCKADzIwMjUwODE5MTgwNjM5WoEPMjAyNjA4MTkxODA2MzlaMAsGA1UdDwQEAwIF4DAaBgorBgEEAYKmcgMBBAwMCjA5MTc1ODczODgwQAYKKwYBBAGCpnIDCQQyDDBHVUFZQVFVSUwgQ0FCRUNFUkEgQ0FOVE9OQUwgWSBDQVBJVEFMIFBST1ZJTkNJQUwwEQYKKwYBBAGCpnIDIgQDDAEuMDQGCisGAQQBgqZyAwcEJgwkTEEgUklPSkEgRVRBUEEgQ0FOQVJJQSBNWiA2IFZJTExBIDIyMBwGCisGAQQBgqZyAwIEDgwMTFVJUyBBTEJFUlRPMBAGCisGAQQBgqZyAyAEAgwAMBEGCisGAQQBgqZyAyMEAwwBLjATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1IwGQYKKwYBBAGCpnIDAwQLDAlTSUdVRU5DSUEwIQYKKwYBBAGCpnIDHgQTDBFQU0lDT0xPR08gQ0xJTklDTzARBgorBgEEAYKmcgMdBAMMAS4wFgYKKwYBBAGCpnIDBAQIDAZDSEFWRVowGgYKKwYBBAGCpnIDCAQMDAowOTk4MzgwNTE4MA0GCSqGSIb3DQEBCwUAA4ICAQCOdwdZZhvoMlLEo3giak9EI9khlTz92qs1Rt80grKqihE7FPZ9ga5X+hU5A/2O9Evl1tlsUTpwAK/TLGI769ilPYombqkO1crtl/EDco7P2aOO+XvE470wkEWRCRFQ4MPM1CkyxDKl0+mQsT/85QkqOi47uHa04TkCMyj/MN1O0VIQKuCxA69w9WooH3oM6LzYY9zlpRlgO5hFfkCo4X/8ztILXWyJ9At4mLVsJDCz3Oa9RhRyBtnwa0DeAs8fdZY9FwLYoIYFgWm6j4Wg/+Z5DPaXVsKen5SEelqY3j34by7cOi1nHD9Uvs8eXNSVH7KL7UDsYA5NlCJgUpCM5jUvF1YIoeHDkorfiSihZ2/lmco0ZUBVy/8AiXM6C2BIuiSI5EHsJkyLyXA3mhMyxkzolX5vu+1nDPSWAUmvekMmU0jGE3CBvE0Arm3uOMLaztk0UkCZBRUzwR8UV3WsH5HgeV70/KgICjZSuJDQeaDdlF5sIAoCc6az4vdwVKPpAicUS5tTUgTDPaY0NPnJ2xlUQoG00kdOhbY6ZzKGxwmfEqkIT8J639mqTtDdm2DCch5s98qyZ+11P5LO7ktq/7fWc1ZSH3xstVAfiknFrm+S1cEd7R/8Mvlcuv9k04ul5TuKmsNYizdi8q7c3p2JOu1dLBUjAjmmvMTbNLd0Mwg6Hg==</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-db8eeb37-920f-446f-83f7-98a891036dbd"><xades:SignedProperties Id="xmldsig-db8eeb37-920f-446f-83f7-98a891036dbd-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-04T11:16:02.781-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>YvgOsNl45neaRjwBa9vpcKBEc3v3GSAR1goVQhuwfT0=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2746309030546233248</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-db8eeb37-920f-446f-83f7-98a891036dbd-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

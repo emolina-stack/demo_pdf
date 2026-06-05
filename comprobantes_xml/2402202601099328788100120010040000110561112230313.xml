@@ -1,0 +1,945 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2402202601099328788100120010040000110561112230313</numeroAutorizacion>
+<fechaAutorizacion>2026-02-24T16:19:49-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="utf-8" standalone="no"?><factura xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="comprobante" version="1.0.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>SERVIUEES</razonSocial>
+    <nombreComercial>SERVIUEES</nombreComercial>
+    <ruc>0993287881001</ruc>
+    <claveAcceso>2402202601099328788100120010040000110561112230313</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>004</ptoEmi>
+    <secuencial>000011056</secuencial>
+    <dirMatriz>KM 2.5 VIA SAMBORONDON</dirMatriz>
+    <agenteRetencion>10</agenteRetencion>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>24/02/2026</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>EGUEZ GUERRERO ORNELLA THALIA</razonSocialComprador>
+    <identificacionComprador>0916483191</identificacionComprador>
+    <direccionComprador>URDESA CENTRAL AV LAS AGUAS 1100 Y IGUAS</direccionComprador>
+    <totalSinImpuestos>520.90</totalSinImpuestos>
+    <totalDescuento>131.49</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <descuentoAdicional>131.49</descuentoAdicional>
+        <baseImponible>450.31</baseImponible>
+        <valor>0</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>70.59</baseImponible>
+        <valor>10.59</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <importeTotal>400.00</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>01</formaPago>
+        <total>0.00</total>
+      </pago>
+      <pago>
+        <formaPago>19</formaPago>
+        <total>0.00</total>
+      </pago>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>0.00</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>5</codigoPrincipal>
+      <codigoAuxiliar>5</codigoAuxiliar>
+      <descripcion>AGUJA HIPODERMICA - 18G X 1 1/2 </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.03</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.03</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.03</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>8</codigoPrincipal>
+      <codigoAuxiliar>8</codigoAuxiliar>
+      <descripcion>ALCOHOL PREP PAD </descripcion>
+      <cantidad>6</cantidad>
+      <precioUnitario>0.02</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.11</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.11</baseImponible>
+          <valor>0.02</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>25</codigoPrincipal>
+      <codigoAuxiliar>25</codigoAuxiliar>
+      <descripcion>CLORURO DE SODIO </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.28</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.28</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.28</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>28</codigoPrincipal>
+      <codigoAuxiliar>28</codigoAuxiliar>
+      <descripcion>CANULA NASAL DE OXIGENO - ADULTO - REF: C0205 </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.63</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.63</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.63</baseImponible>
+          <valor>0.09</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>44</codigoPrincipal>
+      <codigoAuxiliar>44</codigoAuxiliar>
+      <descripcion>CURITAS (VENDITAS PARA NIÑOS) </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.05</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.05</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.05</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>49</codigoPrincipal>
+      <codigoAuxiliar>49</codigoAuxiliar>
+      <descripcion>ELECTRODOS ADULTOS  </descripcion>
+      <cantidad>3</cantidad>
+      <precioUnitario>0.13</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.39</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.39</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>17196</codigoPrincipal>
+      <codigoAuxiliar>17196</codigoAuxiliar>
+      <descripcion>ENDOSCOPIA ALTA </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>150.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>150.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>150.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7698</codigoPrincipal>
+      <codigoAuxiliar>7698</codigoAuxiliar>
+      <descripcion>USO DE COLONOSCOPIO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7731</codigoPrincipal>
+      <codigoAuxiliar>7731</codigoAuxiliar>
+      <descripcion>USO DE ENDOSCOPIO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7983</codigoPrincipal>
+      <codigoAuxiliar>7983</codigoAuxiliar>
+      <descripcion>USO TORRE ENDOSCOPIA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7983</codigoPrincipal>
+      <codigoAuxiliar>7983</codigoAuxiliar>
+      <descripcion>USO TORRE ENDOSCOPIA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7984</codigoPrincipal>
+      <codigoAuxiliar>7984</codigoAuxiliar>
+      <descripcion>USO SALA DE PROCEDIMIENTO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>7984</codigoPrincipal>
+      <codigoAuxiliar>7984</codigoAuxiliar>
+      <descripcion>USO SALA DE PROCEDIMIENTO</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1912</codigoPrincipal>
+      <codigoAuxiliar>1912</codigoAuxiliar>
+      <descripcion>CEPILLO PARA LIMPIEZA ENDOSCOPIA DESECHABLE.  -  AF-D1810WB - CB18-T5050/23-B </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>9.67</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>9.67</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>9.67</baseImponible>
+          <valor>1.45</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2382</codigoPrincipal>
+      <codigoAuxiliar>2382</codigoAuxiliar>
+      <descripcion>OXIGENO</descripcion>
+      <cantidad>160</cantidad>
+      <precioUnitario>0.02</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>3.20</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>2573</codigoPrincipal>
+      <codigoAuxiliar>2573</codigoAuxiliar>
+      <descripcion>COLONOSCOPIA</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>250.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>250.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>250.00</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>4198</codigoPrincipal>
+      <codigoAuxiliar>4198</codigoAuxiliar>
+      <descripcion>ENVASE PARA MUESTRAS DE ANÁLISIS </descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.23</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.46</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.46</baseImponible>
+          <valor>0.07</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>5756</codigoPrincipal>
+      <codigoAuxiliar>5756</codigoAuxiliar>
+      <descripcion>PINZA DE BIOPSIA DENTADA DE 180CM REF: EBF43-11023180 </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>25.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>25.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>25.00</baseImponible>
+          <valor>3.75</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>6453</codigoPrincipal>
+      <codigoAuxiliar>6453</codigoAuxiliar>
+      <descripcion>TERNO CIRUJANO CUELLO EN V DOS PIEZAS, SMALL </descripcion>
+      <cantidad>4</cantidad>
+      <precioUnitario>1.63</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>6.53</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>6.53</baseImponible>
+          <valor>0.98</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1265</codigoPrincipal>
+      <codigoAuxiliar>1265</codigoAuxiliar>
+      <descripcion>LLAVE DE 3 VIAS CON EXTENSION </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.42</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.42</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.42</baseImponible>
+          <valor>0.06</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1292</codigoPrincipal>
+      <codigoAuxiliar>1292</codigoAuxiliar>
+      <descripcion>BATA PACIENTE DESCARTABLE, NO ESTERIL </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.85</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.85</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.85</baseImponible>
+          <valor>0.13</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1304</codigoPrincipal>
+      <codigoAuxiliar>1304</codigoAuxiliar>
+      <descripcion>COMPRESA QUIRURGICA ESTERIL 45X45  </descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>2.55</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>5.10</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>5.10</baseImponible>
+          <valor>0.76</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1345</codigoPrincipal>
+      <codigoAuxiliar>1345</codigoAuxiliar>
+      <descripcion>BATA QUIRURGICA, ESTERIL MANGA LARGA CON PUÑO DESCARTABLE </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.98</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.98</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.98</baseImponible>
+          <valor>0.30</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1402</codigoPrincipal>
+      <codigoAuxiliar>1402</codigoAuxiliar>
+      <descripcion>PROPOFOL 1% </descripcion>
+      <cantidad>3</cantidad>
+      <precioUnitario>13.77</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>41.31</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>41.31</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1554</codigoPrincipal>
+      <codigoAuxiliar>1554</codigoAuxiliar>
+      <descripcion>PROTECTOR BUCAL CON ELASTICO PARA ENDOSCOPIA </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.92</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>4.92</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>4.92</baseImponible>
+          <valor>0.74</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>136</codigoPrincipal>
+      <codigoAuxiliar>136</codigoAuxiliar>
+      <descripcion>ZAPATON - POR UNIDAD  </descripcion>
+      <cantidad>8</cantidad>
+      <precioUnitario>0.09</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.72</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.72</baseImponible>
+          <valor>0.11</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>136</codigoPrincipal>
+      <codigoAuxiliar>136</codigoAuxiliar>
+      <descripcion>ZAPATON - POR UNIDAD  </descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.09</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.18</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.18</baseImponible>
+          <valor>0.03</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>539</codigoPrincipal>
+      <codigoAuxiliar>539</codigoAuxiliar>
+      <descripcion>GASA QUIRURGICA SIN HILACHAS 10X10CM </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.08</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.08</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.08</baseImponible>
+          <valor>0.01</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>570</codigoPrincipal>
+      <codigoAuxiliar>570</codigoAuxiliar>
+      <descripcion>MANGUERA PARA SUCCIÓN 1/4 X 3M </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.00</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.00</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.00</baseImponible>
+          <valor>0.30</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>871</codigoPrincipal>
+      <codigoAuxiliar>871</codigoAuxiliar>
+      <descripcion>GEL LUBRICANTE INTIMO - KY - 15G </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>3.03</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>3.03</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.03</baseImponible>
+          <valor>0.45</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>1221</codigoPrincipal>
+      <codigoAuxiliar>1221</codigoAuxiliar>
+      <descripcion>CATETER INTRAVENOSO #22G - REF: </descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.58</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.16</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.16</baseImponible>
+          <valor>0.17</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>97</codigoPrincipal>
+      <codigoAuxiliar>97</codigoAuxiliar>
+      <descripcion>MASCARILLAS QUIRURGICAS </descripcion>
+      <cantidad>4</cantidad>
+      <precioUnitario>0.05</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.18</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.18</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>97</codigoPrincipal>
+      <codigoAuxiliar>97</codigoAuxiliar>
+      <descripcion>MASCARILLAS QUIRURGICAS </descripcion>
+      <cantidad>4</cantidad>
+      <precioUnitario>0.05</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.18</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>0.18</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>102</codigoPrincipal>
+      <codigoAuxiliar>102</codigoAuxiliar>
+      <descripcion>PROTECTOR DE CAMA </descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.51</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.02</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.02</baseImponible>
+          <valor>0.15</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>106</codigoPrincipal>
+      <codigoAuxiliar>106</codigoAuxiliar>
+      <descripcion>SABANA DESC. CON ELSTICO 150 X 230CM </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.50</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.50</baseImponible>
+          <valor>0.22</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>106</codigoPrincipal>
+      <codigoAuxiliar>106</codigoAuxiliar>
+      <descripcion>SABANA DESC. CON ELSTICO 150 X 230CM </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>1.50</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>1.50</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.50</baseImponible>
+          <valor>0.22</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>117</codigoPrincipal>
+      <codigoAuxiliar>117</codigoAuxiliar>
+      <descripcion>APOSITO TEGADERM IV - 6.5CM X 7CM - REF: 1683 </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>2.30</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>2.30</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>2.30</baseImponible>
+          <valor>0.34</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>53</codigoPrincipal>
+      <codigoAuxiliar>53</codigoAuxiliar>
+      <descripcion>EQUIPO DE VENOCLISIS </descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>0.33</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.33</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.33</baseImponible>
+          <valor>0.05</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>63</codigoPrincipal>
+      <codigoAuxiliar>63</codigoAuxiliar>
+      <descripcion>GORROS DESECHABLES PAQUET X 100U  </descripcion>
+      <cantidad>4</cantidad>
+      <precioUnitario>0.04</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.16</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.16</baseImponible>
+          <valor>0.02</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>63</codigoPrincipal>
+      <codigoAuxiliar>63</codigoAuxiliar>
+      <descripcion>GORROS DESECHABLES PAQUET X 100U  </descripcion>
+      <cantidad>5</cantidad>
+      <precioUnitario>0.04</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.20</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.20</baseImponible>
+          <valor>0.03</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>67</codigoPrincipal>
+      <codigoAuxiliar>67</codigoAuxiliar>
+      <descripcion>GUANTES DE LATEX T - S </descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.04</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.08</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.08</baseImponible>
+          <valor>0.01</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>85</codigoPrincipal>
+      <codigoAuxiliar>85</codigoAuxiliar>
+      <descripcion>JERINGA 20 ML, 21G X 1 1/2 " </descripcion>
+      <cantidad>2</cantidad>
+      <precioUnitario>0.12</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>0.23</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>0.23</baseImponible>
+          <valor>0.03</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>86</codigoPrincipal>
+      <codigoAuxiliar>86</codigoAuxiliar>
+      <descripcion>LIDOCAINA ROXICAINA JALEA 2%</descripcion>
+      <cantidad>1</cantidad>
+      <precioUnitario>4.11</precioUnitario>
+      <descuento>0</descuento>
+      <precioTotalSinImpuesto>4.11</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>4.11</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Dirección">URDESA CENTRAL AV LAS AGUAS 1100 Y IGUAS</campoAdicional>
+    <campoAdicional nombre="Email">LORIEGUEZ2@GMAIL.COM</campoAdicional>
+    <campoAdicional nombre="HCU">141212</campoAdicional>
+    <campoAdicional nombre="Paciente">EGUEZ GUERRERO ORNELLA THALIA</campoAdicional>
+    <campoAdicional nombre="Medico">MEDICO</campoAdicional>
+    <campoAdicional nombre="Observacion">PAQUETE VEDA+ COLONOSCOPIA</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature51691">
+<ds:SignedInfo Id="Signature-SignedInfo480737">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID34086" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature51691-SignedProperties884992">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Px99diRgcpGOqRAaL7g4lMFsn+s=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1748696">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>6R6+jVKoc9aeJxja8jbzXKLGRNY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-945448" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>qJsBTdqyUyAMLbhsJ3X2AliGxZ8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue341467">
+g73JqDS58qXExcKoV5k33f3GlP+jHULNWMBYmpJLyzk7a6twVYpvWzWghaE81KIgGL5R/sBfXRLi
+dFPZjadMnygTHFDLzECTefm5yyU0KF+oXUmYEK9/6Olo8JS+815tI0iTjR4ksQy1Rb72HyCvYddY
+qYHC2zuYBYzYKB259VCbT/g2P8d1a/QxoV7E34wSSKl483xWpxFYDjKg128le5cAvx18K7ftNNNN
+fG17RUE8EJxBG5w10fz/mrxhPH+zWiAmqJlhaf9z2wxdYGgOfpafOPkHfXj7MFRHUuPLB1oauW5B
+LLs5F513wdYmAJFh0qxVKlvF9jogvUbvhZMZkA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1748696">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIK7TCCCNWgAwIBAgIIev//+minKvQwDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwNjE4MTMxODA5WhcNMjcwNjE4MTMxODA5WjCB
+rDEqMCgGA1UEAwwhUEFOQ0hPIEFHVVNUSU4gSEFOU0VOIFZJSyBKSU1FTkVaMSAwHgYDVQQFExcw
+OTA4OTkwNjU4LTE4MDYyNTA4MjgwMTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDTW/zWjTn2gxpOr86NjiZW7tx2mifm
+su7qIuBEsV7N7htyxPtaad6o15fwJW7S9mVBNU2X7Vc6sFg/PeVez3w1+7ohbohUSFL7qnj9hUBI
+IMpb7gneaoRbCptfB6fdcMtL6gDPZr3TVplml47suDyWuYUpCVEFrPdb8yvRUqjoR/a3LTLcMCM7
+czmIo1DbCh3/frEVVrviviJz0HQReM33XTyr6Q9vDgIJX+0dUhkpxEZFvT1jrFrtgc95YJ0mAKeO
+bGSOprOOMb28LyzU9ecaiYN490YZEyvnF7c9Z9Yc4j2QCynQqX/flVtbzmRR/6Y4t+5UNk85zsmv
+JaUJfyrnAgMBAAGjggYiMIIGHjAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsK
+S1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAxBgNVHREEKjAogSZw
+LmhhbnNlbnZpa0Bib21iZXJvc3NhbWJvcm9uZG9uLmdvYi5lYzCCARUGA1UdIASCAQwwggEIMGIG
+CisGAQQBgqZyAgkwVDBSBggrBgEFBQcCAjBGHkQAQwBlAHIAdABpAGYAaQBjAGEAZABvACAAZABl
+ACAAUgBlAHAAcgBlAHMAZQBuAHQAYQBuAHQAZQAgAEwAZQBnAGEAbDCBoQYKKwYBBAGCpnICAzCB
+kjCBjwYIKwYBBQUHAgEWgYJodHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dwLWNvbnRl
+bnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2FzIGRlIENl
+cnRpZmljYWRvIFJlcHJlc2VudGFudGUgTGVnYWwucGRmMB0GA1UdJQQWMBQGCCsGAQUFBwMCBggr
+BgEFBQcDBDCCAg8GA1UdHwSCAgYwggICMIHeoDqgOIY2aHR0cDovL2NybDEuc2VjdXJpdHlkYXRh
+Lm5ldC5lYy9zdWJjYTJjcmwxL2NybGZpbGUuY3JsooGfpIGcMIGZMTkwNwYDVQQDDDBBVVRPUklE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEExMDAuBgNVBAsMJ0VOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTjEdMBsGA1UECgwUU0VDVVJJVFkgREFU
+QSBTLkEuIDIxCzAJBgNVBAYTAkVDMDygOqA4hjZodHRwOi8vY3JsMi5zZWN1cml0eWRhdGEubmV0
+LmVjL3N1YmNhMmNybDIvY3JsZmlsZS5jcmwwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVy
+YWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlz
+dD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNF
+Q1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89
+U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUINRk4PFBfZ3evLBKTqJhp7bA1L0w
+KwYDVR0QBCQwIoAPMjAyNTA2MTgxMzE4MDlagQ8yMDI3MDYxODEzMTgwOVowCwYDVR0PBAQDAgXg
+MB0GCisGAQQBgqZyAwUEDwwNQURNSU5JU1RSQURPUjAaBgorBgEEAYKmcgMBBAwMCjA5MDg5OTA2
+NTgwLQYKKwYBBAGCpnIDCQQfDB1TQU1CT1JPTkRPTiBDQUJFQ0VSQSBDQU5UT05BTDARBgorBgEE
+AYKmcgMiBAMMAS4wMQYKKwYBBAGCpnIDBwQjDCFUT1JORVJPIDMgU09MQVIgMTUgMTYgMTcgWSBL
+TSAyIDUwHgYKKwYBBAGCpnIDAgQQDA5QQU5DSE8gQUdVU1RJTjAfBgorBgEEAYKmcgMgBBEMDzAw
+MTAwMjAwMTAwNTgzNTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFE
+T1IwGgYKKwYBBAGCpnIDAwQMDApIQU5TRU4gVklLMBkGCisGAQQBgqZyAwoECwwJU0VSVklVRUVT
+MB0GCisGAQQBgqZyAwsEDwwNMDk5MzI4Nzg4MTAwMTARBgorBgEEAYKmcgMdBAMMAS4wFwYKKwYB
+BAGCpnIDBAQJDAdKSU1FTkVaMBoGCisGAQQBgqZyAwgEDAwKMDk2MjcyMDc3NjANBgkqhkiG9w0B
+AQsFAAOCAgEAmAcU2FMdtWLmDFOJZmtF0n9JwlIwEgl/vivcA9Rr2On3uK2Nf0Eu/NigJXQM5er/
+wAq/1KI9DXfYukKX2A1InLJGo9DTPxPjdaa0w0HPqT9O3Eo3oFYj4xKhBd6Zn03Sg5NLlrG8FEGS
+8hohRVfINt+z8NuUxsRPx09c91J4+6PC9nAL/l5lWtlYe2CCNH2w20HUdDBf9XSKUJKHpesp3QEC
+JBgI36CvHiKEVCY5uune0wGtGU8fRK4kxjTD344h90kszoRnv5SdFYJNxfSj6xX25usME7WBplWM
+vDufsY1HfHLC3bc3GMYMNgqB+2qj2dBj7OfEbqqvdYnyyK9X6a08ePlZSmVDksi2sWO0oBbrpfUv
+sny6LdOMzIU3km4pfMKmMEa3Zw3wk3nCmp3zhpdw9L8zKNGtaS0pfAv660t5QUYQ5uCvr9uhBv//
+RmCLaQzZytAyXJ/is374hySb9baw+IDdup44sWn6FGVrMvGRZ6s4/Z5ADiAcusAp2rCtekBmnQwD
+DsMg+bT8T+yWTxgJQC8QSFVcsjG4R5tuzev/qVYBRAX4HTPag4kDqZpjAzoUq8wpwc6TUSWaBG/Y
+a6TnQz9n4WFnltreQvQVX0/VcLZCFud+mHT6wBDmzA4Hzf+r6Qs1LiRi6gOPD6BEiujFQHwBPkwY
+3bJe6pyP4uU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+01v81o059oMaTq/OjY4mVu7cdpon5rLu6iLgRLFeze4bcsT7WmneqNeX8CVu0vZlQTVNl+1XOrBY
+Pz3lXs98Nfu6IW6IVEhS+6p4/YVASCDKW+4J3mqEWwqbXwen3XDLS+oAz2a901aZZpeO7Lg8lrmF
+KQlRBaz3W/Mr0VKo6Ef2ty0y3DAjO3M5iKNQ2wod/36xFVa74r4ic9B0EXjN9108q+kPbw4CCV/t
+HVIZKcRGRb09Y6xa7YHPeWCdJgCnjmxkjqazjjG9vC8s1PXnGomDePdGGRMr5xe3PWfWHOI9kAsp
+0Kl/35VbW85kUf+mOLfuVDZPOc7JryWlCX8q5w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature51691-Object655643"><etsi:QualifyingProperties Target="#Signature51691"><etsi:SignedProperties Id="Signature51691-SignedProperties884992"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-24T16:19:38-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>BpzbQE45Wrmt3ztyiu7Qg7Wl1zw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>8863084042651118324</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-945448"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

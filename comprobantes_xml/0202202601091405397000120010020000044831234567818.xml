@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0202202601091405397000120010020000044831234567818</numeroAutorizacion>
+<fechaAutorizacion>2026-02-02T17:54:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial>WAGNER FRANCISCO MORENO SANCHONG</razonSocial>
+<nombreComercial>WAGNER FRANCISCO MORENO SANCHONG</nombreComercial>
+<ruc>0914053970001</ruc>
+<claveAcceso>0202202601091405397000120010020000044831234567818</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000004483</secuencial>
+<dirMatriz>Abel Romeo Castillo y av Juan Tanca Marengo Omni Hospital Torre Medica 2 PISO 6 oficina 605</dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>02/02/2026</fechaEmision>
+<dirEstablecimiento>Abel Romeo Castillo y av Juan Tanca Marengo Omni Hospital Torre Medica 2 PISO 6 oficina 605</dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>DIXIE MARISOL LOPEZDOMINGUEZ RIVAS</razonSocialComprador>
+<identificacionComprador>0921198339</identificacionComprador>
+<direccionComprador>URB VILLA ITALIA ETAPABARI MZ 8 V 13</direccionComprador>
+<totalSinImpuestos>80.00</totalSinImpuestos>
+<totalDescuento>0.00</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<baseImponible>80.00</baseImponible>
+<tarifa>0</tarifa>
+<valor>0.00</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0.00</propina>
+<importeTotal>80.00</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>80.00</total>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>1</codigoPrincipal>
+<descripcion>Consulta</descripcion>
+<cantidad>1</cantidad>
+<precioUnitario>80.00</precioUnitario>
+<descuento>0.00</descuento>
+<precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>80.00</baseImponible>
+<valor>0.00</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Beneficiario:">LOPEZDOMINGUEZ RIVAS DIXIE MARISOL - I.D: R102 Dolor pélvico y perineal</campoAdicional>
+<campoAdicional nombre="Dirección">URB VILLA ITALIA ETAPABARI MZ 8 V 13</campoAdicional>
+<campoAdicional nombre="Teléfono">0988845526</campoAdicional>
+<campoAdicional nombre="Email">dixie_marisol@hotmail.com</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature817357470">
+<ds:SignedInfo Id="Signature-SignedInfo1721888483">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID1473920067" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature817357470-SignedProperties1560989659">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>7gD7vfC0JTMntwA2SD2Rgcw4iUc=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1527086282">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>J1tor7LGmx5hsgZ1a54HfK/b4zE=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-399501104" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>H6agm2dvXoulj9ByDnZGNoK51f8=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue1221013651">
+Oq/XUxqqlY7VMGsvnFKCf/mHtlqdYGOFNSp/fsXR4EC96LYtyYNQtS46TjSW1d+DcjrisQze0DHP
+69lioY/KiwokNMK4sdN/m8G1U/LpXoq4eUdwGwlWHw2OQjfh5ZboB4BSlwwopivNiBuw88eK/sK4
+aVyPMtfYsxOGeMHcFsOA24GCbFVBYMxqYri5+iFKUZQsDgXX+wzjGDXKewvGr/s7lT/BDQW8I8U9
+LGRa0Gh8tZHre/9FvAF50P2w7EPNimuMArhJ1L+Jacfwunt1DEAc17aQXzL5nORK7IVETbCvHvNf
+NCGQZE2l6b5Kt3nJE6OumAcW7Jz2PbHYmR37fw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1527086282">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMATCCCemgAwIBAgIEcyWenTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMTExMTIyMjA4MjdaFw0yNjExMTIyMjA4MjdaMIGgMSkw
+JwYDVQQDDCBXQUdORVIgRlJBTkNJU0NPIE1PUkVOTyBTQU5DSE9ORzEVMBMGA1UEBRMMMTIxMTIx
+MTcxODE5MTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcN
+AQEBBQADggEPADCCAQoCggEBAJslPNXJ9L4mga1QHQbBy1XNIofJKxiESMj4vmoFbSWwV+BtGgSP
+emyjHyll5DTPswmUlwBHBoQpvVuXIyRfE4j9uwJCxuHJVz7Z8LWF8ZDNa6eQvvraeQrOYjIx6oVa
+sEs+wDkJmTw0aox52iokL76ggdCXZNFJzn4MpKeiA5fj/lHLmw9jk0fh47FdFvS4+RR5rj+75dRp
+fNfIm9uVPyHzxp8HUJbKYZnPKzZi+x2uMGnmOK1w9du2EaNSwTQidZilWn9dAgfQ6pFhrSUnL+uD
+TWXv0pp4p4zj9Rf8PVN/4DtBNKEYWhn/esM+9uWU7y3rcBVyrR9B0+c0RUlOTAkCAwEAAaOCB0Yw
+ggdCMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYB
+BQUHAQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMv
+ZWpiY2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFw
+Oi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBE
+RSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9u
+TGlzdD9iYXNlMCsGA1UdEQQkMCKBIGNvbnN1bHRvcmlvX2RybW9yZW5vQG91dGxvb2suY29tMIIB
+BgYDVR0gBIH+MIH7MFoGCisGAQQBgqZyAgcwTDBKBggrBgEFBQcCAjA+HjwAQwBlAHIAdABpAGYA
+aQBjAGEAZABvACAAZABlACAAUABlAHIAcwBvAG4AYQAgAE4AYQB0AHUAcgBhAGwwgZwGCisGAQQB
+gqZyAgEwgY0wgYoGCCsGAQUFBwIBFn5odHRwczovL3d3dy5zZWN1cml0eWRhdGEubmV0LmVjL3dw
+LWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZpY2Fkb3MvUG9saXRpY2Fz
+IGRlIENlcnRpZmljYWRvIFBlcnNvbmEgTmF0dXJhbC5wZGYwggKiBgNVHR8EggKZMIIClTCB5aBB
+oD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvc3Rh
+dHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERF
+IElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMw
+gceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJ
+REFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUg
+Q0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/
+Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwt
+b3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2Vy
+dGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0Et
+MiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lP
+TixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFJqOwkI+yM+DiuDNanE+sG9E
+mKitMCsGA1UdEAQkMCKADzIwMjExMTEyMjIwODI3WoEPMjAyNjExMTIyMjA4MjdaMAsGA1UdDwQE
+AwIF4DAaBgorBgEEAYKmcgMBBAwMCjA5MTQwNTM5NzAwGQYKKwYBBAGCpnIDCQQLDAlHVUFZQVFV
+SUwwEQYKKwYBBAGCpnIDIgQDDAEuME0GCisGAQQBgqZyAwcEPww9IEFWRU5JREEgQUJFTCBST01F
+TyBDQVNUSUxMTyBTIE4gWSBBVkVOSURBIEpVQU4gVEFOQ0EgTUFSRU5HTzAgBgorBgEEAYKmcgMC
+BBIMEFdBR05FUiBGUkFOQ0lTQ08wHwYKKwYBBAGCpnIDIAQRDA8wMDEwMDIwMDAxNjMyNTAwEQYK
+KwYBBAGCpnIDIwQDDAEuMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisGAQQBgqZyAwwECQwHRUNV
+QURPUjAWBgorBgEEAYKmcgMDBAgMBk1PUkVOTzARBgorBgEEAYKmcgMeBAMMAS4wHQYKKwYBBAGC
+pnIDCwQPDA0wOTE0MDUzOTcwMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAYBgorBgEEAYKmcgMEBAoM
+CFNBTkNIT05HMBoGCisGAQQBgqZyAwgEDAwKMDk4Mjc1NTA0NzANBgkqhkiG9w0BAQsFAAOCAgEA
+Ic0XO5894pYWqElG8QAn0+C1gkYdTJsRQLf2PNDsEO+iE1l/BBL6B7Br4KmtVysw8Q77Vwhib/8n
+rZydOVnnB+LSJRTK2xmHcR74qTAg/W/QaxknKQu9bSYEergWU/m0EwyAGc7yQFRQ1lR/v8YFrvQx
+eNshlvfwYld3c0rGxYahvuL8O2n08koZbBXUTsDkWsyMiVrVNruq5MVU+fHnaadY5b/AeLQ4o+tU
+Q7ZFQFvxO/xQRLyQUugmZsqDC0fIZfTdut76fGcVOFkSJlsqiRK1Q4Rb4a5DU3SVzj2RaK5mS/rD
++kRBbGnkSCDtKuux1KWIvIjtGHd5TxMl9N+xAlybgwhT2iYYMfj0kZU86Z5GJtKGBFw9SWfgn/hv
+QHPB55jkNpB4VePlPDYiRgNa6C5moK/4nJHATirBJJaV1RX30izjGdW+IK/CMMXeoEBlcVPL20ed
+Xr4iVnEo+WWRNqt6Z4jbWj75uhnGgP5CEqPS3NOUWcBC0lyzi7hr/JBQtyeA+ptOalw8biKm7HjS
+u1kYjFQw2PSGBHQ3WQFwb1/OlY1HjpUk0uVXjxSm3OchjTTQ9Jr37ED673G+1t6HmJAlxkyGkEg2
+EeMqW4uHEQvOM4DQOJn6rFQ7TCCB+KujgRzrEnlvhLH2Pl7ZjfxAg/IhPO9XJCHWdBB7BugbhbU=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+myU81cn0viaBrVAdBsHLVc0ih8krGIRIyPi+agVtJbBX4G0aBI96bKMfKWXkNM+zCZSXAEcGhCm9
+W5cjJF8TiP27AkLG4clXPtnwtYXxkM1rp5C++tp5Cs5iMjHqhVqwSz7AOQmZPDRqjHnaKiQvvqCB
+0Jdk0UnOfgykp6IDl+P+UcubD2OTR+HjsV0W9Lj5FHmuP7vl1Gl818ib25U/IfPGnwdQlsphmc8r
+NmL7Ha4waeY4rXD127YRo1LBNCJ1mKVaf10CB9DqkWGtJScv64NNZe/SmninjOP1F/w9U3/gO0E0
+oRhaGf96wz725ZTvLetwFXKtH0HT5zRFSU5MCQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature817357470-Object1005556115"><etsi:QualifyingProperties Target="#Signature817357470"><etsi:SignedProperties Id="Signature817357470-SignedProperties1560989659"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-02T17:54:30-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>/yQUL9aLChQHcHzzhH1s5yy9ZOw=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1931845277</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-399501104"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1002202601096005952500120011000000006964446587716</numeroAutorizacion>
+<fechaAutorizacion>2026-02-10T17:52:35-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>CHIARAMELLO CAROLINA ANA</razonSocial>
+	    <nombreComercial>CHIARAMELLO CAROLINA ANA</nombreComercial>
+	    <ruc>0960059525001</ruc>
+	    <claveAcceso>1002202601096005952500120011000000006964446587716</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>100</ptoEmi>
+	    <secuencial>000000696</secuencial>
+	    <dirMatriz>SAMBORONDON / S/N</dirMatriz>
+		
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>10/02/2026</fechaEmision>
+		
+			<dirEstablecimiento>SAMBORONDON / S/N</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>NO</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>DIXIE LOPEZ DOMINGUEZ</razonSocialComprador>
+	    <identificacionComprador>0921198339</identificacionComprador>
+		<direccionComprador>GYE</direccionComprador>
+	    
+	    <totalSinImpuestos>80.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>80.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>80.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>80.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>SERV05</codigoPrincipal>
+		<codigoAuxiliar>SERV05</codigoAuxiliar>
+      	<descripcion>CONSULTA DE RADIOTERAPIA</descripcion>
+      
+      <cantidad>1.000000</cantidad>
+      <precioUnitario>80.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>80.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>80.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">DIXIE LOPEZDOMINGUEZ RIVAS  CA DE CERVIX   CIE 10 C53  VALORACION POR ONCOLOGIA RADIOTERAPICA</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature481870">
+<ds:SignedInfo Id="Signature-SignedInfo562975">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID922618" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature481870-SignedProperties133067">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>GeJl0cED9H1zTLRIVZNCfJX/mR8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate724086">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>aXN6LzB1ODjaSM/o1y84IhoLQ+g=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-807893" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Xzf/CeBd0CptINiUo0Z9KAmxeuI=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue105377">
+hi4APhLuKCgU8/0WiiR/i72IT2hyMPUBfA/7qBB96z6eBzgH4t1b0W0/ntTyainSskUDwHrQnNew
+ShTaXRTXPWAM/qWaJ7jTKABgbXbO63ozWdXgYI5uhjNBosuef/BSc+okuaiya5pe3EbNvocddlP3
+PZ0obROaETL46dL80i9jhk8r9yq4y9022dkyy4YuBQlzLrnyJzWIjhG+0LDcL1+R7v89bfmD+xyM
+39QnE/DM3FvWcoVd4bWwuR6KqxJbYKwys0KnzL42FucqtVFK040WDg77jxoKBEtKmMOUs9H4Anal
+pioPFL6+T9dmByVIPX1/ZFYxxzgNNOPeiSB+bw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate724086">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIH0DCCBrigAwIBAgIFAMIBLE4wDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI1
+MDUxNDE2MzMyMVoXDTI2MDUxNDE2MzMyMVowgZkxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjEkMCIGA1UEAwwb
+Q0FST0xJTkEgQU5BICBDSElBUkFNRUxMTyAuMScwJQYJKoZIhvcNAQkBFhhmaXJtYXNAbmFyYW5q
+by1yZXllcy5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCnA2ayi53ytqaZumrh
+IB1qzgf4e6zrwxZ4cUzMVdf2mEYuPH+Hx3hxQPiaOoeKSZmKlV8WEdriGJFYLAFXNs5jS/3PF/+a
+L4vPcne9JnG5NEMaHKgAyS6A21T8OOuFFr01OCBjqyZgI9D/fRQmh9q9sAN4NgitgcoMPDhXMpz6
+vsh8JRemDwcmquDFcDbOLoPOidJOTWc9lUf03AP2/yX/w5TXIjfjhuZaa2koAOSuOYJ2qf0KnnYr
+4VrvMHewmqxx27eYtyH/XabijH7v9A9n8UVPk7RKqfARfVlw4VMwY53Gd1urQqeIY2MU7g5duKPX
+mgv31iMU55rryblFhJV5AgMBAAGjggRuMIIEajAaBgorBgEEAYPPdgMBBAwMCjA5NjAwNTk1MjUw
+HAYKKwYBBAGDz3YDAgQODAxDQVJPTElOQSBBTkEwGwYKKwYBBAGDz3YDAwQNDAtDSElBUkFNRUxM
+TzARBgorBgEEAYPPdgMEBAMMAS4wIgYKKwYBBAGDz3YDBwQUDBJTQU1CT1JPTkRPTiBLTSAxLjUw
+GgYKKwYBBAGDz3YDCAQMDAowOTYxNTA1ODg4MBkGCisGAQQBg892AwkECwwJR3VheWFxdWlsMBcG
+CisGAQQBg892AwwECQwHRUNVQURPUjAdBgorBgEEAYPPdgMLBA8MDTA5NjAwNTk1MjUwMDEwDAYD
+VR0TAQH/BAIwADAdBgNVHQ4EFgQUWW9JX0WHS5SPg62GqZPhy4cw54YwHwYDVR0jBBgwFoAU7XZI
+sArxyYaGDExGZNIG+MzVvT4wDgYDVR0PAQH/BAQDAgXgMDoGA1UdHwQzMDEwL6AtoCuGKWh0dHA6
+L2VuZXh0Mi54eXovTGF6emF0ZUNBMi9lbWlzb3JDQTIuY3JsMIIBhAYDVR0gBIIBezCCAXcwfAYK
+KwYBBAGDz3YCATBuMGwGCCsGAQUFBwICMGAaXkVsIHByZXNlbnRlIGNlcnRpZmljYWRvIGVzIGVt
+aXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENp
+YS4gTHRkYS4wgfYGCSsGAQQBg892AjCB6DBsBggrBgEFBQcCAjBgGl5FbCBwcmVzZW50ZSBjZXJ0
+aWZpY2FkbyBlcyBlbWl0aWRvIGVuIGJhc2UgYSBsYXMgcG9sw610aWNhcyBkZSBzZWd1cmlkYWQg
+ZGUgTGF6emF0ZSBDaWEuIEx0ZGEuMHgGCCsGAQUFBwICMGwaakVsIHByZXNlbnRlIGNlcnRpZmlj
+YWRvIHN1Ym9yZGluYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2FzIGRlIHNl
+Z3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4wggEJBgNVHREEggEAMIH9oBoGCisGAQQBg892
+AwGgDAwKMDk2MDA1OTUyNaAcBgorBgEEAYPPdgMCoA4MDENBUk9MSU5BIEFOQaAbBgorBgEEAYPP
+dgMDoA0MC0NISUFSQU1FTExPoBEGCisGAQQBg892AwSgAwwBLqAiBgorBgEEAYPPdgMHoBQMElNB
+TUJPUk9ORE9OIEtNIDEuNaAaBgorBgEEAYPPdgMIoAwMCjA5NjE1MDU4ODigGQYKKwYBBAGDz3YD
+CaALDAlHdWF5YXF1aWygFwYKKwYBBAGDz3YDDKAJDAdFQ1VBRE9SoB0GCisGAQQBg892AwugDwwN
+MDk2MDA1OTUyNTAwMTA8BggrBgEFBQcBAQQwMC4wLAYIKwYBBQUHMAGGIGh0dHA6Ly9lbmV4dDIu
+eHl6Ojg3NzcvYWRzcy9vY3NwMA0GCSqGSIb3DQEBCwUAA4IBAQCJNkYGTH4gTzGsHZl04dTTaFju
+9wJCmAw+9JS8fnMMwvMuxnQModHMmtPBQWHabpHAgZi+K876PzzBt2V9gdLs2GsbalRF8NArG+pq
+YZQRYBGNb0OepGnWxyTyhPhxfJ6CtqSBm+pJDfVXy8KK/th5rPhogh5AkQXkjyv3Y9f4ue1wgTME
+/0XC2h3IonBqaa6NYY+7ir8610ArmPQ4mxSItwV4l4Kls4VUm7MuoKWH2pLEBq2uJJNqywYGcXp8
+MQaQKzX8Wc8qx1mbG7m1ZTVa3FqbtVZgnTuS+nTOAPoL4NoYkenvQBkEOBrq07i4GZzC+lpyGklM
+8eIv89b3qg/8
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+pwNmsoud8rammbpq4SAdas4H+Hus68MWeHFMzFXX9phGLjx/h8d4cUD4mjqHikmZipVfFhHa4hiR
+WCwBVzbOY0v9zxf/mi+Lz3J3vSZxuTRDGhyoAMkugNtU/DjrhRa9NTggY6smYCPQ/30UJofavbAD
+eDYIrYHKDDw4VzKc+r7IfCUXpg8HJqrgxXA2zi6DzonSTk1nPZVH9NwD9v8l/8OU1yI344bmWmtp
+KADkrjmCdqn9Cp52K+Fa7zB3sJqscdu3mLch/12m4ox+7/QPZ/FFT5O0SqnwEX1ZcOFTMGOdxndb
+q0KniGNjFO4OXbij15oL99YjFOea68m5RYSVeQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature481870-Object914380"><etsi:QualifyingProperties Target="#Signature481870"><etsi:SignedProperties Id="Signature481870-SignedProperties133067"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-10T17:52:33-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>/pFItTPU+BUnWIvE1wJ+8iPKinQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,C=EC,O=Lazzate Cia. Ltda.</ds:X509IssuerName><ds:X509SerialNumber>3254856782</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

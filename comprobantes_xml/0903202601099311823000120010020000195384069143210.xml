@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>0903202601099311823000120010020000195384069143210</numeroAutorizacion>
+<fechaAutorizacion>2026-03-09T13:45:46-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="2.1.0">
+	<infoTributaria>
+		<ambiente>2</ambiente>
+	    <tipoEmision>1</tipoEmision>
+	    <razonSocial>INMOTIONSA S.A.</razonSocial>
+	    <nombreComercial>INMOTIONSA S.A.</nombreComercial>
+	    <ruc>0993118230001</ruc>
+	    <claveAcceso>0903202601099311823000120010020000195384069143210</claveAcceso>
+	    <codDoc>01</codDoc>
+	    <estab>001</estab>
+	    <ptoEmi>002</ptoEmi>
+	    <secuencial>000019538</secuencial>
+	    <dirMatriz>LA PUNTILLA SATELITE / S/N</dirMatriz>
+		
+		
+			<agenteRetencion>1</agenteRetencion>
+		
+		
+  	</infoTributaria>
+	<infoFactura>
+	    <fechaEmision>09/03/2026</fechaEmision>
+		
+			<dirEstablecimiento>LA PUNTILLA SATELITE / S/N</dirEstablecimiento>
+		
+	    
+	    
+			<obligadoContabilidad>SI</obligadoContabilidad>
+		
+		
+	    
+	    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+		
+		<razonSocialComprador>ALHELI BURGOS COBO</razonSocialComprador>
+	    <identificacionComprador>0918832908</identificacionComprador>
+		<direccionComprador>Jardines de Parque Magno</direccionComprador>
+	    
+	    <totalSinImpuestos>320.00000</totalSinImpuestos>
+		
+	  	
+	    <totalDescuento>0.00</totalDescuento>
+	    
+	    <totalConImpuestos>
+		
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>4</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0.00</baseImponible>
+				<valor>0.00000</valor>
+			</totalImpuesto>
+			
+			
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>5</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>0</baseImponible>
+				<valor>0.00</valor>
+			</totalImpuesto>
+			
+		
+			      
+			<totalImpuesto>
+				<codigo>2</codigo>
+				<codigoPorcentaje>0</codigoPorcentaje>
+				<descuentoAdicional>0</descuentoAdicional>
+				<baseImponible>320.00000</baseImponible>
+				<valor>0</valor>
+			</totalImpuesto>
+		
+	      
+		  
+		  
+	    </totalConImpuestos>
+	    <propina>0</propina>
+	    <importeTotal>320.00000</importeTotal>
+	    <moneda>DOLAR</moneda>
+		
+	    
+	    <pagos>
+	    	
+	    	<pago>
+	    		<formaPago>20</formaPago>
+	    		<total>320.00</total>
+	    		<plazo>0</plazo>
+	    		<unidadTiempo>días</unidadTiempo>
+	    	</pago>
+	    	
+	    </pagos>
+	    
+  	</infoFactura>
+  	<detalles>
+  	
+    <detalle>
+      
+      	<codigoPrincipal>F004</codigoPrincipal>
+		<codigoAuxiliar>F004</codigoAuxiliar>
+      	<descripcion>Fisioterapia Pediátrica</descripcion>
+      
+      <cantidad>8.000000</cantidad>
+      <precioUnitario>40.000000</precioUnitario>
+	  
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>320.00</precioTotalSinImpuesto>
+	  
+	  
+            
+      
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>320.00000</baseImponible>
+          <valor>0.00</valor>
+        </impuesto>
+        
+		
+		
+      </impuestos>
+	  
+	</detalle>
+    
+	
+    </detalles>
+    
+	
+    
+    <infoAdicional>
+    	
+    		
+    			<campoAdicional nombre="Descripción">PX: ALEJANDRO PESANTES BURGOS. FECHAS: 02-03-06-10-11-23-24 Y 27/02/2026.</campoAdicional>
+    		
+    	
+		
+    </infoAdicional>
+	
+	
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature216187">
+<ds:SignedInfo Id="Signature-SignedInfo522493">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID371125" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature216187-SignedProperties283402">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>QS3n0LQjfOh9U3TWQJNyJh1KoeY=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate595333">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>i+jWqSitKiTAcIKiZQqTVbzPc4M=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-448205" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>/CzO5mcEWVZk9KbqtNq3tVbZ/cg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue777714">
+YmY4WYPG2mxWgEwVNP6UswTjRfu3KxXUcpd7B1LAVQlPpD3/D1Rul14Qtl7YF5l1pBzLENT+eJ+3
+B+Yk0g0C4M3aBV3w8S7p3HiLHFEO/k1Pw27SJ05OHOIS8s8xDUOHRYx7TTRGwvxIM7EmywwERTfw
+zYw50crVvcZu3pmdYAw/ncq1nKa8YN/PQl9pfVLg/eV5Nn7W10gb8jhQg1fHhzxlIqCBu6Va4rII
+UFj0+a8jYZQlKZfOJc5LjtWr12pLzk0Efv8vL2hSrG1U9hWpgmol6lkiJYkdhmSK4vU11BH8JTW1
+zBdxOk0laLb7k1S6+q0TPB1e8wlJ4i+exFDHPQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate595333">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIIXzCCB0egAwIBAgIFAMID/0YwDQYJKoZIhvcNAQELBQAwRzELMAkGA1UEBhMCRUMxGzAZBgNV
+BAoMEkxhenphdGUgQ2lhLiBMdGRhLjEbMBkGA1UEAwwSTGF6emF0ZSBFbWlzb3IgQ0EyMB4XDTI2
+MDExNjIxNTcwM1oXDTI3MDExNjIxNTcwM1owgZkxCzAJBgNVBAYTAkVDMRswGQYDVQQKDBJMYXp6
+YXRlIENpYS4gTHRkYS4xHjAcBgNVBAsMFUVudGUgZGUgQ2VydGlmaWNhY2lvbjElMCMGA1UEAwwc
+TUFSS1VTIENIUklTVE9QSCBGUkVZIEtFTExFUjEmMCQGCSqGSIb3DQEJARYXY3JleWVzQGZhY3R1
+cmFuZG9zYS5jb20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDPDbCrjoTItZbheGbu
+UiWQ5nw9sIz5P9uX8nXuv+akTalGUWHKVgkDCaj25tzNOkXRzn2NF1C3C7whU8lkRIDr37uiK6Sw
+tfgn6l70KPgAkY28r+JeIUlJMbN5v4k/9MF826mrl807b773OVACll6JC5ah4PV9rihYJXaChFbd
+MTtoSa0Zpy+OgD8/EtTEy0s1eAL1XUmpzqfvqOitNfmdMumoRSePN2wOYx23ZRU/18gOS14i/Gdc
+bSAtKcZzGf+vqVqxe3pg9KDFO7LVTME95tkN1y/MY9RXox3iY0BkeCg5Rqy8jI/Aeq8RfHXdqJq2
+gpbaq6qX2Ji6bJhS3CuZAgMBAAGjggT9MIIE+TAaBgorBgEEAYPPdgMBBAwMCjA5MDUwNTYxMzEw
+IAYKKwYBBAGDz3YDAgQSDBBNQVJLVVMgQ0hSSVNUT1BIMBQGCisGAQQBg892AwMEBgwERlJFWTAW
+BgorBgEEAYPPdgMEBAgMBktFTExFUjAfBgorBgEEAYPPdgMFBBEMD0dFUkVOVEUgR0VORVJBTDAj
+BgorBgEEAYPPdgMHBBUME1VSQiBFTlRSRSBSSU9TIFNMMjEwGgYKKwYBBAGDz3YDCAQMDAowOTkx
+NzQzNDAyMBsGCisGAQQBg892AwkEDQwLU2FtYm9yb25kb24wFwYKKwYBBAGDz3YDDAQJDAdFQ1VB
+RE9SMB0GCisGAQQBg892AwsEDwwNMDk5MzExODIzMDAwMTAfBgorBgEEAYPPdgMKBBEMD0lOTU9U
+SU9OU0EgUy5BLjAMBgNVHRMBAf8EAjAAMB0GA1UdDgQWBBSaaywDa5c0JDqlRXfr7CMILuq9sDAf
+BgNVHSMEGDAWgBTtdkiwCvHJhoYMTEZk0gb4zNW9PjAOBgNVHQ8BAf8EBAMCBeAwOgYDVR0fBDMw
+MTAvoC2gK4YpaHR0cDovZW5leHQyLnh5ei9MYXp6YXRlQ0EyL2VtaXNvckNBMi5jcmwwggGEBgNV
+HSAEggF7MIIBdzB8BgorBgEEAYPPdgICMG4wbAYIKwYBBQUHAgIwYBpeRWwgcHJlc2VudGUgY2Vy
+dGlmaWNhZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBvbMOtdGljYXMgZGUgc2VndXJpZGFk
+IGRlIExhenphdGUgQ2lhLiBMdGRhLjCB9gYJKwYBBAGDz3YCMIHoMGwGCCsGAQUFBwICMGAaXkVs
+IHByZXNlbnRlIGNlcnRpZmljYWRvIGVzIGVtaXRpZG8gZW4gYmFzZSBhIGxhcyBwb2zDrXRpY2Fz
+IGRlIHNlZ3VyaWRhZCBkZSBMYXp6YXRlIENpYS4gTHRkYS4weAYIKwYBBQUHAgIwbBpqRWwgcHJl
+c2VudGUgY2VydGlmaWNhZG8gc3Vib3JkaW5hZG8gZXMgZW1pdGlkbyBlbiBiYXNlIGEgbGFzIHBv
+bMOtdGljYXMgZGUgc2VndXJpZGFkIGRlIExhenphdGUgQ2lhLiBMdGRhLjCCAVEGA1UdEQSCAUgw
+ggFEoBoGCisGAQQBg892AwGgDAwKMDkwNTA1NjEzMaAgBgorBgEEAYPPdgMCoBIMEE1BUktVUyBD
+SFJJU1RPUEigFAYKKwYBBAGDz3YDA6AGDARGUkVZoBYGCisGAQQBg892AwSgCAwGS0VMTEVSoB8G
+CisGAQQBg892AwWgEQwPR0VSRU5URSBHRU5FUkFMoCMGCisGAQQBg892AwegFQwTVVJCIEVOVFJF
+IFJJT1MgU0wyMaAaBgorBgEEAYPPdgMIoAwMCjA5OTE3NDM0MDKgGwYKKwYBBAGDz3YDCaANDAtT
+YW1ib3JvbmRvbqAXBgorBgEEAYPPdgMMoAkMB0VDVUFET1KgHQYKKwYBBAGDz3YDC6APDA0wOTkz
+MTE4MjMwMDAxoB8GCisGAQQBg892AwqgEQwPSU5NT1RJT05TQSBTLkEuMDwGCCsGAQUFBwEBBDAw
+LjAsBggrBgEFBQcwAYYgaHR0cDovL2VuZXh0Mi54eXo6ODc3Ny9hZHNzL29jc3AwDQYJKoZIhvcN
+AQELBQADggEBAEVbGzrkgEMin0v1wB8O+BAvHdf5KZhJr29yWVjaKdgtOWFA76BeH4ulfvOf1Jsr
+xMw6pt4q4jzyNQDGpyvFIrAiQYPw8WbB6vptDMps5mZcqvRw1LKVEm3GxZxcJDIkMWamkab3JjX8
+qxllSzbWQKb95OdJGYSmPr3CoZ9WIFwlPOWRy8kUEK8HYuAOb8UiGxBEkoIkwVefeLV+qHvvLUX3
+emDxdEhqlCPhRyM6B+7P1RYEOY8k8QLzvZHCV39CZkyN061jm9q6sshw/82oAcMw6kCWk860cXGC
+FObWvlFIXav110n8I9GKxbQBIpuJt3Kbr+NVw16CrYiP2xoYBKc=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+zw2wq46EyLWW4Xhm7lIlkOZ8PbCM+T/bl/J17r/mpE2pRlFhylYJAwmo9ubczTpF0c59jRdQtwu8
+IVPJZESA69+7oiuksLX4J+pe9Cj4AJGNvK/iXiFJSTGzeb+JP/TBfNupq5fNO2++9zlQApZeiQuW
+oeD1fa4oWCV2goRW3TE7aEmtGacvjoA/PxLUxMtLNXgC9V1Jqc6n76jorTX5nTLpqEUnjzdsDmMd
+t2UVP9fIDkteIvxnXG0gLSnGcxn/r6lasXt6YPSgxTuy1UzBPebZDdcvzGPUV6Md4mNAZHgoOUas
+vIyPwHqvEXx13aiatoKW2quql9iYumyYUtwrmQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature216187-Object420770"><etsi:QualifyingProperties Target="#Signature216187"><etsi:SignedProperties Id="Signature216187-SignedProperties283402"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-09T13:45:44-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>l0VtoOwt46mGv0z38FrMcCvVJhA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=Lazzate Emisor CA2,C=EC,O=Lazzate Cia. Ltda.</ds:X509IssuerName><ds:X509SerialNumber>3255041862</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

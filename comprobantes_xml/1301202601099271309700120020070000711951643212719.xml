@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1301202601099271309700120020070000711951643212719</numeroAutorizacion>
+<fechaAutorizacion>2026-01-13T10:01:03-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0"><infoTributaria><ambiente>2</ambiente><tipoEmision>1</tipoEmision><razonSocial>INTERMACHALA S.A</razonSocial><nombreComercial>INTERMACHALA S.A</nombreComercial><ruc>0992713097001</ruc><claveAcceso>1301202601099271309700120020070000711951643212719</claveAcceso><codDoc>01</codDoc><estab>002</estab><ptoEmi>007</ptoEmi><secuencial>000071195</secuencial><dirMatriz>URBANIZACIÓN LA CAROLINA LOTE 5 MZ LC4</dirMatriz></infoTributaria><infoFactura><fechaEmision>13/01/2026</fechaEmision><dirEstablecimiento>URBANIZACION LA CAROLINA LOTE 5 MZ LC4</dirEstablecimiento><obligadoContabilidad>SI</obligadoContabilidad><tipoIdentificacionComprador>05</tipoIdentificacionComprador><razonSocialComprador>ALVARADO VASQUEZ MARIA PIEDAD</razonSocialComprador><identificacionComprador>0702409814</identificacionComprador><direccionComprador>CALLEJON 5TA NORTE Y AV. LAS PALMERAS</direccionComprador><totalSinImpuestos>5.7800</totalSinImpuestos><totalDescuento>1.0200</totalDescuento><totalConImpuestos><totalImpuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><baseImponible>5.7800</baseImponible><valor>0.0000</valor></totalImpuesto></totalConImpuestos><propina>0.00</propina><importeTotal>5.7800</importeTotal><moneda>DOLAR</moneda><pagos><pago><formaPago>01</formaPago><total>5.7800</total><plazo>0</plazo><unidadTiempo>Días</unidadTiempo></pago></pagos></infoFactura><detalles><detalle><codigoPrincipal>ORDEN</codigoPrincipal><descripcion>ORDEN DE EXAMEN</descripcion><cantidad>1</cantidad><precioUnitario>0</precioUnitario><descuento>0.0000</descuento><precioTotalSinImpuesto>0.0000</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>0.0000</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>COL</codigoPrincipal><descripcion>COLESTEROL</descripcion><cantidad>1</cantidad><precioUnitario>3.4</precioUnitario><descuento>0.5100</descuento><precioTotalSinImpuesto>2.8900</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.8900</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle><detalle><codigoPrincipal>TRI</codigoPrincipal><descripcion>TRIGLICERIDOS</descripcion><cantidad>1</cantidad><precioUnitario>3.4</precioUnitario><descuento>0.5100</descuento><precioTotalSinImpuesto>2.8900</precioTotalSinImpuesto><detallesAdicionales><detAdicional nombre="OBSERVACION" valor="Ninguna"/></detallesAdicionales><impuestos><impuesto><codigo>2</codigo><codigoPorcentaje>0</codigoPorcentaje><tarifa>0</tarifa><baseImponible>2.8900</baseImponible><valor>0.0000</valor></impuesto></impuestos></detalle></detalles><infoAdicional><campoAdicional nombre="ORDEN">487285</campoAdicional><campoAdicional nombre="CLAVE">316899</campoAdicional><campoAdicional nombre="PACIENTE">MARIA PIEDAD ALVARADO VASQUEZ</campoAdicional><campoAdicional nombre="CAJERO">351</campoAdicional><campoAdicional nombre="EMAIL">mapialvarado@hotmail.com</campoAdicional><campoAdicional nombre="REFERENCIA">002007000071195</campoAdicional><campoAdicional nombre="DIRECCION">CALLEJON 5TA NORTE Y AV. LAS PALMERAS</campoAdicional><campoAdicional nombre="SUSTENTO_LEGAL">Agente de Retención Resolución NAC-DNCRASC20-0000001</campoAdicional></infoAdicional><ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature64720">
+<ds:SignedInfo Id="Signature-SignedInfo584896">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID593533" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature64720-SignedProperties122352">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>+Yg61tWb+rPkFvFwaohxskPHLas=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate179330">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>PCRvOWxU78hJKbg6xtSUMIbI3/E=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-135004" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Y15twA4JZufJAsgMIthL4u3CHtg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue382824">
+T54a+asn2WgxYHT+KLnfEgW14vbs/LhqjkbVnHPoLtTXrIc51zvhapDFy4ybFOF1vUlg8luyoFPd
+ntAmu1sVlveKFkfYfKqvXKgV9/GwOss0ipxEtXjL9znXXl9f+Ldh24B7ojPAqCvFHwY6GmnTNGgB
+I1T+07pcXMOP3xm1Mk+q7/paDmH9GyOZEOxGoh1mUTLvpQzQpoAVg9pp6FsIOioxhP/pN5gjUUt9
+3fMYyFlR52oNZ81VnxJ09qIyjW7DQtkLvVvM+AsfzssyPxL8tuf8aWF8lAirlYQHJihFIGvU0jVt
+R6FWC8NRWuzvPBiBjmbmvokvgazcfkXzii8uPQ==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate179330">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMaDCCClCgAwIBAgIMA0aWkG9Gbn3Hml4NMA0GCSqGSIb3DQEBCwUAMIG5MRYwFAYDVQQFEw0x
+NzkyNjAxMjE1MDAxMQswCQYDVQQGEwJFQzE2MDQGA1UEChMtQU5GQUMgQVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gRUNVQURPUiBDLkEuMSUwIwYDVQQLExxBTkYgQXV0b3JpZGFkIGludGVybWVk
+aWEgIEVDMTMwMQYDVQQDEypBTkYgSGlnaCBBc3N1cmFuY2UgRWN1YWRvciBJbnRlcm1lZGlhdGUg
+Q0EwHhcNMjQwNzI1MjExMDQxWhcNMjYwNzI1MjExMDQxWjCCAnIxGTAXBgNVBAoMEElOVEVSTUFD
+SEFMQSBTIEExGjAYBgorBgEEAYKkQgoEDAowOTIwMjE0NzQ5MSgwJgYDVQQLDB9DZXJ0aWZpY2Fk
+byBQZXJzb25hIEp1cmlkaWNhIEVDMRcwFQYDVQQqDA5NQVJJQSBWRVJPTklDQTEWMBQGA1UEYRMN
+MDk5MjcxMzA5NzAwMTELMAkGA1UEBhMCRUMxEzARBgNVBAUTCjA5MjAyMTQ3NDkxGjAYBgNVBAQM
+EUJBUVVFUklaTyBHVUVWQVJBMTQwMgYDVQQDDCswOTIwMjE0NzQ5IE1BUklBIFZFUk9OSUNBIEJB
+UVVFUklaTyBHVUVWQVJBMR0wGwYDVQQMDBRBZG1pbmlzdHJhZG9yIMO6bmljbzEuMCwGCSqGSIb3
+DQEJARYfbWJhcXVlcml6b0BpbnRlcmhvc3BpdGFsLmNvbS5lYzGB9zCB9AYDVQQNDIHsUmVnLiBQ
+dWIuOkxJQlJPIERFIFNVSkVUT1MgTUVSQ0FOVElMRVMgSW5zY3JpcGNpw7NuOiAyLjY5NiwgVG9t
+byAwLCBMaWJybyAwLCBGb2xpbyAwLCBIb2phIDE2LjE2MiBBIDE2LjE2NSBDYXJnbzpBZG1pbmlz
+dHJhZG9yIMO6bmljbyBOb3RhcmlvOlJFR0lTVFJPIE1FUkNBTlRJTCBERUwgQ0FOVE9OIEdVQVlB
+UVVJTCBOw7ptLiBQcm90b2NvbG86Ni40NTggRmVjaGEgZGUgT3RvcmdhbWllbnRvOjIwMjMtMDIt
+MjIxDzANBgNVBAgMBkVMIE9STzEQMA4GA1UEBwwHTUFDSEFMQTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAKfpZkncwEijLV0K8M7B4AcAWuC9wPOKRpWkXshGFRQxktznijgTwYYWS88r
+LqYMiA8VJXvKb6VzCWiXRS50fWINJyQYXsLStMnrbWIMQSZjD+/8hrlqCbtDCxFM6qk83T6d7M0j
+k8apHLei9efhw7G9DgfnLhgvIqkNBBeCgGuEDns3XR+krnIN9BlUobSBbalPY1x1NVdawK6mb7G8
+HbNFw3SNovpnD+xUExgGrhkLeoWPGVJcTYAKAGYxH9wN0gg+zAUb2teGl7UKlFd/OtiPzv6Xds0o
+v4+IeHNshUDyeL0wotSaXE6HU0s2igbcqUm4bIdSuk5G8/kqHB32Kq8CAwEAAaOCBbIwggWuMB8G
+A1UdIwQYMBaAFJKu1MuCtJnG0XsRbGXqxU1oIfmsMB0GA1UdDgQWBBTn3108OqNbjORtXnjnhKHo
+8ER9UDCCAQkGA1UdEQSCAQAwgf2BH21iYXF1ZXJpem9AaW50ZXJob3NwaXRhbC5jb20uZWOkgdkw
+gdYxHjAcBgorBgEEAYKkQgoBDA5NQVJJQSBWRVJPTklDQTEZMBcGCisGAQQBgqRCCgIMCUJBUVVF
+UklaTzEXMBUGCisGAQQBgqRCCgMMB0dVRVZBUkExGjAYBgorBgEEAYKkQgoEDAowOTIwMjE0NzQ5
+MRkwFwYJKwYBBAGBjxwBDApBLTI1MDcyMDI0MTQwMgYDVQQDDCswOTIwMjE0NzQ5IE1BUklBIFZF
+Uk9OSUNBIEJBUVVFUklaTyBHVUVWQVJBMRMwEQYDVQQFDAowOTIwMjE0NzQ5MA4GA1UdDwEB/wQE
+AwIGwDAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwUAYDVR0fBEkwRzBFoEOgQYY/aHR0
+cDovL2NybC5hbmYuZXMvY3JsL0FORkhpZ2hBc3N1cmFuY2VFY3VhZG9ySW50ZXJtZWRpYXRlQ0Eu
+Y3JsMIIBAwYDVR0gBIH7MIH4MIHfBgwrBgEEAYKkQgIFAQMwgc4wKAYIKwYBBQUHAgEWHGh0dHA6
+Ly93d3cuYW5mLmVzL2RvY3VtZW50b3MwgaEGCCsGAQUFBwICMIGUDIGRQ2VydGlmaWNhZG8gY29u
+Zm9ybWUgYSBsYSBsZWdpc2xhY2nDs24gZGUgZmlybWEgZWxlY3Ryw7NuaWNhLiBBbnRlcyBkZSBh
+Y2VwdGFybG8gY29tcHJ1ZWJlIGludGVncmlkYWQsIGxpbWl0YWNpb25lcywgdmlnZW5jaWEgeSB1
+c29zIGF1dG9yaXphZG9zLjAJBgcEAIvsQAEBMAkGB2CFVAEDBQgwgZsGCCsGAQUFBwEBBIGOMIGL
+MCcGCCsGAQUFBzABhhtodHRwOi8vb2NzcC5hbmYuZXMvc3BhaW4vQVYwYAYIKwYBBQUHMAKGVGh0
+dHA6Ly93d3cuYW5mLmVzL2VzL2NlcnRpZmljYXRlcy1kb3dubG9hZC9BTkZIaWdoQXNzdXJhbmNl
+RWN1YWRvckludGVybWVkaWF0ZUNBLmNlcjAMBgNVHRMBAf8EAjAAMCgGCSsGAQQBgY8cEwQbDBk2
+MTQ3MTg2ODYwNjctNTMyMTk4NTYxODI0MB0GCisGAQQBgY8cEwIEDwwNMDk5MjcxMzA5NzAwMTAp
+BgorBgEEAYKkQhMBBBsMGTUzMjE5ODU2MTgyNC01Mjg3MTI3ODUyMDUwGgYKKwYBBAGCpEIDAQQM
+DAowOTIwMjE0NzQ5MCAGCisGAQQBgqRCAwoEEgwQSU5URVJNQUNIQUxBIFMgQTAdBgorBgEEAYKk
+QgMLBA8MDTA5OTI3MTMwOTcwMDEwEgYKKwYBBAGCpEIDDAQEDAJFQzAeBgorBgEEAYKkQgMCBBAM
+Dk1BUklBIFZFUk9OSUNBMCEGCisGAQQBgqRCAwMEEwwRQkFRVUVSSVpPIEdVRVZBUkEwJAYKKwYB
+BAGCpEIDBQQWDBRBZG1pbmlzdHJhZG9yIMO6bmljbzAXBgorBgEEAYKkQgMJBAkMB01BQ0hBTEEw
+FwYKKwYBBAGCpEIqAQQJDAdVSU8tMDMwMBMGCisGAQQBgqRCLgEEBQwDNzMwMFAGCisGAQQBgqRC
+LwEEQgxAMTcyMGJlOTNkNjEwNjJmMmFiMTNmMTg4MTU4YjU1YWI3OTI2MzZmN2YwYjZhNGQ4ZTU2
+YmJhZjQzYzM2ZTcyMjBEBggrBgEFBQcBAwQ4MDYwCAYGBACORgEBMBMGBgQAjkYBBjAJBgcEAI5G
+AQYBMAkGBwQAi+xJAQEwCgYIKwYBBQUHCwIwDQYJKoZIhvcNAQELBQADggIBABOGTepceDjH/ZWo
+CptCbyYwAUXrBfDoLPCuAMHWQUht+Fp7HKS5KDKzBeKkOxWrZODXPwG2MMYxzZb8mdCWAIdUeW2J
+Z5XyQPRpMF0YP1c4HKqSqr0BfZKfvWaKKQG80lHsUNFmAE/VIeLWMBK2T6/p4RRjocHnj70fU58k
+BS9UFSgDpipbOb2gfnEwUpcCBzGBK+l6KVVbLCvv+G9fDKIP+UB4exmgC76cEvtPeg8WwLWe7Gin
+jeUkHcskKsXwgsPpNLNvJKqCAL8QWVuqn4Aku7h3BfD39tZaFEOzOUWT1KyFbQE5dpCHpg8/02DF
+OEp6P7t8rZgPmeQsR5Tr9XXKvaeO+hAU+WxkWq5/SirtL/FXoVhkB8Upa4J6qaNMh+gRo/svesWN
+QolqK7jpERUz1oETsoHhhzseOya+8pm6/xhBon7UwspIcK0hcu8fhhUlKG7i8wWsj+nCTR/h7gqu
+r5DF8ztjuOMGBLQw0brLrBpZ3rPA4wmXuui/qvtBp2l/8g66ozhKQYRcbQ2W1geYF2VOix0aiuFd
+KjPOPMetXhw3fVHMcs8/vI3Ivw4pWps/ABoNyAn289+e8BHcDN0be7HKRePYgLXnwQNg6flAaUQJ
+X9OwIjwiWADs3FA9YR5MCp54/Rh6Cu3zjCxWW38BnH3PDFXn4NQ7ys3XEyop
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+p+lmSdzASKMtXQrwzsHgBwBa4L3A84pGlaReyEYVFDGS3OeKOBPBhhZLzysupgyIDxUle8pvpXMJ
+aJdFLnR9Yg0nJBhewtK0yettYgxBJmMP7/yGuWoJu0MLEUzqqTzdPp3szSOTxqkct6L15+HDsb0O
+B+cuGC8iqQ0EF4KAa4QOezddH6Sucg30GVShtIFtqU9jXHU1V1rArqZvsbwds0XDdI2i+mcP7FQT
+GAauGQt6hY8ZUlxNgAoAZjEf3A3SCD7MBRva14aXtQqUV3862I/O/pd2zSi/j4h4c2yFQPJ4vTCi
+1JpcTodTSzaKBtypSbhsh1K6Tkbz+SocHfYqrw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature64720-Object466842"><etsi:QualifyingProperties Target="#Signature64720"><etsi:SignedProperties Id="Signature64720-SignedProperties122352"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-01-13T10:00:32-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>sRoQzJSTDz9KC4kRM9oyROv1kHc=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>1013790856158853982439759373</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-135004"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

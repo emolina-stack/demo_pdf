@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1403202601109170893700120010110001591471234567811</numeroAutorizacion>
+<fechaAutorizacion>2026-03-14T09:46:18-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+  <infoTributaria>
+    <ambiente>2</ambiente>
+    <tipoEmision>1</tipoEmision>
+    <razonSocial>CLIMODER S.A.</razonSocial>
+    <nombreComercial>NOVA CLINICA</nombreComercial>
+    <ruc>1091708937001</ruc>
+    <claveAcceso>1403202601109170893700120010110001591471234567811</claveAcceso>
+    <codDoc>01</codDoc>
+    <estab>001</estab>
+    <ptoEmi>011</ptoEmi>
+    <secuencial>000159147</secuencial>
+    <dirMatriz>VíCTOR GOMEZ JURADO, IBARRA 100101</dirMatriz>
+  </infoTributaria>
+  <infoFactura>
+    <fechaEmision>14/03/2026</fechaEmision>
+    <obligadoContabilidad>SI</obligadoContabilidad>
+    <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+    <razonSocialComprador>MUENALA ANRANGO CONSUELO DEL CARMEN</razonSocialComprador>
+    <identificacionComprador>1003521117</identificacionComprador>
+    <direccionComprador>URCUQUI</direccionComprador>
+    <totalSinImpuestos>81.40</totalSinImpuestos>
+    <totalDescuento>0.00</totalDescuento>
+    <totalConImpuestos>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>4</codigoPorcentaje>
+        <baseImponible>4.55</baseImponible>
+        <valor>0.68</valor>
+      </totalImpuesto>
+      <totalImpuesto>
+        <codigo>2</codigo>
+        <codigoPorcentaje>0</codigoPorcentaje>
+        <baseImponible>76.85</baseImponible>
+        <valor>0.00</valor>
+      </totalImpuesto>
+    </totalConImpuestos>
+    <propina>0.00</propina>
+    <importeTotal>82.08</importeTotal>
+    <moneda>DOLAR</moneda>
+    <pagos>
+      <pago>
+        <formaPago>20</formaPago>
+        <total>82.08</total>
+      </pago>
+    </pagos>
+  </infoFactura>
+  <detalles>
+    <detalle>
+      <codigoPrincipal>012003</codigoPrincipal>
+      <descripcion>INS. - EQUIPO  DE VENOCLISIS .</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1.30</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.3</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>1.3</baseImponible>
+          <valor>0.2</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>009018</codigoPrincipal>
+      <descripcion>INF. - CLORURO SODIO SOLUCION 0.9% BAXTER X100ML .</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>1.37</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.37</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.37</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>072021</codigoPrincipal>
+      <descripcion>INS. - MASCARILLA DE OXIGENO, ADULTO .</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>3.25</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>3.25</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>4</codigoPorcentaje>
+          <tarifa>15</tarifa>
+          <baseImponible>3.25</baseImponible>
+          <valor>0.49</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>SC0101207</codigoPrincipal>
+      <descripcion>SERVICIOS - HONORARIOS MEDICOS .</descripcion>
+      <cantidad>1.00</cantidad>
+      <precioUnitario>73.68</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>73.68</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>73.68</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+    <detalle>
+      <codigoPrincipal>007931</codigoPrincipal>
+      <descripcion>DERECHO DE QUIROFANO - OXIGENO .</descripcion>
+      <cantidad>180.00</cantidad>
+      <precioUnitario>0.01</precioUnitario>
+      <descuento>0.00</descuento>
+      <precioTotalSinImpuesto>1.8</precioTotalSinImpuesto>
+      <impuestos>
+        <impuesto>
+          <codigo>2</codigo>
+          <codigoPorcentaje>0</codigoPorcentaje>
+          <tarifa>0</tarifa>
+          <baseImponible>1.8</baseImponible>
+          <valor>0</valor>
+        </impuesto>
+      </impuestos>
+    </detalle>
+  </detalles>
+  <infoAdicional>
+    <campoAdicional nombre="Email">conti192013@hotmail.com</campoAdicional>
+    <campoAdicional nombre="Dirección">URCUQUI</campoAdicional>
+    <campoAdicional nombre="Teléfono Celular">0959268358</campoAdicional>
+    <campoAdicional nombre="Teléfono Fijo">N/A</campoAdicional>
+    <campoAdicional nombre="Crédito">N/A</campoAdicional>
+    <campoAdicional nombre="Nombre">MUENALA ANRANGO CONSUELO DEL CARMEN</campoAdicional>
+    <campoAdicional nombre="WEB">https://www.climoder.com/</campoAdicional>
+    <campoAdicional nombre="TELEFONO">065004040</campoAdicional>
+    <campoAdicional nombre="regimenSri">CONTIBUYENTE ESPECIAL NO: 00000011 - 2025</campoAdicional>
+  </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature522599">
+<ds:SignedInfo Id="Signature-SignedInfo472956">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID1026014" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature522599-SignedProperties517459">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>tGbWmmxflqi91tS977ZAxEFMf9Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1108157">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>vMra124etYNVw1U9z8CoExqB4DI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-843911" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>Apzn/hOmsdmefOJRsZa/NHZabaU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue405193">
+orgvX1HovHKW4VV+WsX9N+ZRrJJaF3IHO93V8WzwK6PXr5hq1JyGze9WUZfoId0ppXyBLuOMyZq8
+ahkafQjfqJiqn5lfSoOZS7Xd9gg8spSyVjgcm1k05Dmo5IcWK2afmGEk5JM6ovCNFNAeU41EXO+1
+Sb4NbgLif6Ki94vNSuP0WJ5wnJZqgA06fRR8QsIca6m8q52hbPlfz2j9zPcLn844uPCeGnhqM++n
+fbqN5xcsaMYkoUuRaj8pGbXAwxSPnp+6rTjn70m4J7XTIjYIXafetCUOrT+jmB7KuLS06VQDVt4E
+jpdYQeZar9njdbQeYjW+VhLXBJSZHdBZ3Kq15w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1108157">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIKzDCCCLSgAwIBAgIIN3NdhEX5740wDQYJKoZIhvcNAQELBQAwgZkxCzAJBgNVBAYTAkVDMR0w
+GwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJ
+Q0FDSU9OIERFIElORk9STUFDSU9OMTkwNwYDVQQDDDBBVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEwHhcNMjUwODI4MTgxMzIzWhcNMjcwODI4MTgxMzIzWjCB
+rDEqMCgGA1UEAwwhQ0FSTUVOIFhJTUVOQSBBTkRSQURFIExJWkFSWkFCVVJVMSAwHgYDVQQFExcx
+MDAxNDA3MzAxLTI4MDgyNTEzMjMxNDEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCmxdLmvtuxlhfuRxWmvXwkXZVHdJB9
+MoRRIJtzSAnZNicGGUn8BwFW/qE+pvXO4iXsfQxsnVtt5XYmCPnxKg08M5Gn6EPfzBcSZ3Pn75gt
+5NWC9634Mwa4JwCMdztl13MVLz+rY2uMgnqqXz8IdSDDyIFmtueWUMgL6mKKAW80kL4R7WOSJRi6
+8J5+Llse+lm1IseI1lzKezj3+iU+sTbTTFOY8jlcExKAVEmh8hSjN5y15piFjPeusHckR5zrlzMP
+dNVrofgi6bVSrR2nJ+fMDeCx5d9x0JyHZ+p2PIxl3HemtQBvkcKxmvbtgg33b+QvpRK8a6s9KmPK
+xeBZrdNrAgMBAAGjggYBMIIF/TAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsK
+S1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1
+cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDAdBgNVHREEFjAUgRJj
+eGFsMjAxOEBnbWFpbC5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYB
+BQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0
+AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0
+cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRp
+dmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRh
+bnRlIExlZ2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggIPBgNVHR8EggIG
+MIICAjCB3qA6oDiGNmh0dHA6Ly9jcmwxLnNlY3VyaXR5ZGF0YS5uZXQuZWMvc3ViY2EyY3JsMS9j
+cmxmaWxlLmNybKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04g
+U1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04g
+REUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJF
+QzA8oDqgOIY2aHR0cDovL2NybDIuc2VjdXJpdHlkYXRhLm5ldC5lYy9zdWJjYTJjcmwyL2NybGZp
+bGUuY3JsMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5u
+ZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049
+QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElE
+QUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAy
+LEM9RUMwHQYDVR0OBBYEFJw6+mVctV8GyAyGIXPLo4paJUx2MCsGA1UdEAQkMCKADzIwMjUwODI4
+MTgxMzIzWoEPMjAyNzA4MjgxODEzMjNaMAsGA1UdDwQEAwIF4DAXBgorBgEEAYKmcgMFBAkMB0dF
+UkVOVEUwGgYKKwYBBAGCpnIDAQQMDAoxMDAxNDA3MzAxMB0GCisGAQQBgqZyAwkEDwwNU0FOIEZS
+QU5DSVNDTzARBgorBgEEAYKmcgMiBAMMAS4wNwYKKwYBBAGCpnIDBwQpDCdWSUNUT1IgR09NRVog
+SlVSQURPIFkgQVYgTUFSSUFOTyBBQ09TVEEwHQYKKwYBBAGCpnIDAgQPDA1DQVJNRU4gWElNRU5B
+MB8GCisGAQQBgqZyAyAEEQwPMDEzMDAxMDAwMDEzNzEyMBMGCisGAQQBgqZyAyEEBQwDUEZYMBcG
+CisGAQQBgqZyAwwECQwHRUNVQURPUjAXBgorBgEEAYKmcgMDBAkMB0FORFJBREUwHAYKKwYBBAGC
+pnIDCgQODAxDTElNT0RFUiBTIEEwHQYKKwYBBAGCpnIDCwQPDA0xMDkxNzA4OTM3MDAxMBEGCisG
+AQQBgqZyAx0EAwwBLjAbBgorBgEEAYKmcgMEBA0MC0xJWkFSWkFCVVJVMBoGCisGAQQBgqZyAwgE
+DAwKMDk4NDIwNzEzMTANBgkqhkiG9w0BAQsFAAOCAgEAES4x7u1X8zKEWA9zj24/El+W5/eZ2D+O
+chM4H+zf20VtDqUOGoUjVMbacN8RsB85/h21LcIxJ2zXHDVi0f2TJoU7jb1DKWn0eZPqw7WYmbCL
+9KybxOIN1u74XRLZjTuhEfEUbhCvebAcqGwzT+o7QJtAhPODB20pHLv7EZH71ufhdLEW06e9Yssj
+LxCEP3LyfwpaGkDSo6mPVUBCNl9kUwtwd4rjZJRaFgVwqi/BBRRDtwdqihbgokkoY5YUAwDvZk9q
+4hNnUopQCT26ayMlnGQR8BqMfz43WyV51anBVEtqo7K/VGywdmVjqj83zY13RHh9AH/xPJGJWeva
+VvqZr3/33qwKiUHAqoRqN6JQLwdY/LZdOsRlBDE1NA20iJPMBZqojWAzQyh/79JzWGT7tjEuRRVQ
+fDVYI7LBUbMPpj90fM3jNyg0un3bzprwaAsoIRMdNqvR/TSX9rBVWJxVCx8qmKksBeONDuv+sWpf
+2VVo6iHqLPaptUt3Nng6uVZBmn7TL4DmU3qX4HUvJoGOlSWxj8Hyd29aEJJ2mI3awEUyqjoxIX07
+talGeCTsOGxMdYlMKOZJjdM873bJKhaWkDV4x9gxo7hHPA18u8L2ge/SlgxY/Mtp/sD+UG/Mjg7D
+RBta/c/jgKTu62P0OQjyntCkcnT5/vrEz5Sp5ytE620=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+psXS5r7bsZYX7kcVpr18JF2VR3SQfTKEUSCbc0gJ2TYnBhlJ/AcBVv6hPqb1zuIl7H0MbJ1bbeV2
+Jgj58SoNPDORp+hD38wXEmdz5++YLeTVgvet+DMGuCcAjHc7ZddzFS8/q2NrjIJ6ql8/CHUgw8iB
+ZrbnllDIC+piigFvNJC+Ee1jkiUYuvCefi5bHvpZtSLHiNZcyns49/olPrE200xTmPI5XBMSgFRJ
+ofIUozecteaYhYz3rrB3JEec65czD3TVa6H4Ium1Uq0dpyfnzA3gseXfcdCch2fqdjyMZdx3prUA
+b5HCsZr27YIN92/kL6USvGurPSpjysXgWa3Taw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature522599-Object621332"><etsi:QualifyingProperties Target="#Signature522599"><etsi:SignedProperties Id="Signature522599-SignedProperties517459"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-14T09:46:17-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>TWEACQcTAkLJ9Y9mNDCXZKNY5aQ=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>3995640117098835853</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-843911"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

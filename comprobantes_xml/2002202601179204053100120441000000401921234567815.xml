@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2002202601179204053100120441000000401921234567815</numeroAutorizacion>
+<fechaAutorizacion>2026-02-20T19:51:53-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>VERIS S.A.</razonSocial>
+        <nombreComercial>VERIS</nombreComercial>
+        <ruc>1792040531001</ruc>
+        <claveAcceso>2002202601179204053100120441000000401921234567815</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>044</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000040192</secuencial>
+        <dirMatriz>Calle : ITALIA Numero: N30-146 Interseccion : VANCOUVER QUITO-ECUADOR</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>20/02/2026</fechaEmision>
+        <dirEstablecimiento>AV. JUAN TANCA MARENGO KM 2.5</dirEstablecimiento>
+        <contribuyenteEspecial>263</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>CENTURION ZAMBRANO MARIA FERNANDA</razonSocialComprador>
+        <identificacionComprador>0915408264</identificacionComprador>
+        <totalSinImpuestos>161.84</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>147.11</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>14.73</baseImponible>
+                <valor>2.21</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>164.05</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>19</formaPago>
+                <total>164.05</total>
+                <plazo>0</plazo>
+                <unidadTiempo>Meses</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>23544</codigoPrincipal>
+            <codigoAuxiliar>12</codigoAuxiliar>
+            <descripcion>VISITA EN EMERGENCIA PARA EVALUACIÓN Y MANEJO DE UN USUARIO/PACIENTE, QUE REQUIERE DE ESTOS TRES COMPONENTES: 1.- HISTORIA FOCALIZADA EXTENDIDA AL PROBLEMA 2.- EXAMEN FÍSICO FOCALIZADO EXTENDIDO DEL PROBLEMA 3.- DECISIÓN MÉDICA DE BAJA COMPLEJIDAD. EL PROBLEMA ES DE BAJA A MODERADA SEVERIDAD</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>17.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>17.00</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="9.34"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>17.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>2073</codigoPrincipal>
+            <codigoAuxiliar>77</codigoAuxiliar>
+            <descripcion>BIOMETRIA HEMATICA+VSG</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>2.13</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.13</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="8.54"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>2.13</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>818</codigoPrincipal>
+            <codigoAuxiliar>79</codigoAuxiliar>
+            <descripcion>PCR CUANTITATIVO</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>1.59</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1.59</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="6.34"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>1.59</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1073</codigoPrincipal>
+            <codigoAuxiliar>82</codigoAuxiliar>
+            <descripcion>UREA</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.60</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.60</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="2.42"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>0.60</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1006</codigoPrincipal>
+            <codigoAuxiliar>82</codigoAuxiliar>
+            <descripcion>CREATININA</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.66</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.66</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="2.66"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>0.66</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1018</codigoPrincipal>
+            <codigoAuxiliar>82</codigoAuxiliar>
+            <descripcion>SGOT (AST)</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.66</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.66</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="2.66"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>0.66</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1019</codigoPrincipal>
+            <codigoAuxiliar>82</codigoAuxiliar>
+            <descripcion>SGPT (ALT)</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.66</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.66</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="2.66"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>0.66</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>2170</codigoPrincipal>
+            <codigoAuxiliar>147</codigoAuxiliar>
+            <descripcion>ELECTROLITOS NA-K -CL</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>2.22</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.22</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="8.87"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>2.22</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1008</codigoPrincipal>
+            <codigoAuxiliar>82</codigoAuxiliar>
+            <descripcion>CALCIO IONICO</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>6.27</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>6.27</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>6.27</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1747</codigoPrincipal>
+            <codigoAuxiliar>77</codigoAuxiliar>
+            <descripcion>TROPONINA I</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>17.45</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>17.45</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>17.45</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1021</codigoPrincipal>
+            <codigoAuxiliar>82</codigoAuxiliar>
+            <descripcion>CPK</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.88</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.88</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="3.54"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>0.88</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>869</codigoPrincipal>
+            <codigoAuxiliar>85</codigoAuxiliar>
+            <descripcion>CPK-MB (ENZIMA CARDÍACA)</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>2.44</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.44</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="9.74"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>2.44</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>1337</codigoPrincipal>
+            <codigoAuxiliar>234</codigoAuxiliar>
+            <descripcion>ELECTROCARDIOGRAMA, 12 DERIVACIONES, DE RUTINA, TRAZO ÚNICAMENTE, INTERPRETACIÓN Y REPORTE ÚNICAMENTE.</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>23.84</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>23.84</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>23.84</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>23546</codigoPrincipal>
+            <codigoAuxiliar>1079</codigoAuxiliar>
+            <descripcion>SALA (CUBÍCULO) DE URGENCIAS / EMERGENCIAS. INSTITUCIONES DE PRIMER NIVEL (MENOS DE 6 HORAS)</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>39.38</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>39.38</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>39.38</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>23733</codigoPrincipal>
+            <codigoAuxiliar>312</codigoAuxiliar>
+            <descripcion>PARACETAMOL AMP. 10MG/100ML</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>2.20</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>2.20</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="8.82"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>2.20</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>19944</codigoPrincipal>
+            <codigoAuxiliar>323</codigoAuxiliar>
+            <descripcion>OMEPRAZOL SOLINYX40MGX10</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.56</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.56</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="2.25"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>0.56</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>3458</codigoPrincipal>
+            <codigoAuxiliar>346</codigoAuxiliar>
+            <descripcion>CREON CAP 25000UI CA*20</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.32</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.32</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="1.29"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>0.32</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>19442</codigoPrincipal>
+            <codigoAuxiliar>426</codigoAuxiliar>
+            <descripcion>CLORURO SOD SOLESTX0.9%X1000M BAXT</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>1.43</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1.43</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>1.43</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>20034</codigoPrincipal>
+            <codigoAuxiliar>426</codigoAuxiliar>
+            <descripcion>EQUIPO VENOCLISIS HERENCO MACROG X 1</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.51</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.51</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>0.51</baseImponible>
+                    <valor>0.08</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>23702</codigoPrincipal>
+            <codigoAuxiliar>426</codigoAuxiliar>
+            <descripcion>JERINGUILLAS 10 CC - ENFERMERIA</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.15</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.15</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>0.15</baseImponible>
+                    <valor>0.02</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>23966</codigoPrincipal>
+            <codigoAuxiliar>426</codigoAuxiliar>
+            <descripcion>DISCOFIX C-3 CON EXTENSION 10CM</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>3.89</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>3.89</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>3.89</baseImponible>
+                    <valor>0.58</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>23736</codigoPrincipal>
+            <codigoAuxiliar>426</codigoAuxiliar>
+            <descripcion>CATETER INTRAVENOSO # 22 - ENFERMERIA</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>0.59</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>0.59</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>0.59</baseImponible>
+                    <valor>0.09</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>23765</codigoPrincipal>
+            <codigoAuxiliar>426</codigoAuxiliar>
+            <descripcion>EQ. DE INFUSION INFUSOMAT</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>9.58</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>9.58</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15.0</tarifa>
+                    <baseImponible>9.58</baseImponible>
+                    <valor>1.44</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>20155</codigoPrincipal>
+            <codigoAuxiliar>375</codigoAuxiliar>
+            <descripcion>BUENOX FORTE SOL 200ML</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>1.81</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>1.81</precioTotalSinImpuesto>
+            <detallesAdicionales>
+                <detAdicional nombre="Cubre Empresa" valor="7.22"></detAdicional>
+            </detallesAdicionales>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>1.81</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>27095</codigoPrincipal>
+            <codigoAuxiliar>1079</codigoAuxiliar>
+            <descripcion>ATENCIÓN MÉDICA POR URGENCIA</descripcion>
+            <cantidad>1.0</cantidad>
+            <precioUnitario>25.00</precioUnitario>
+            <descuento>0.00</descuento>
+            <precioTotalSinImpuesto>25.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>25.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Gran Contribuyente">OFICIO N° NAC-AGCOGEC22-00000732-M</campoAdicional>
+        <campoAdicional nombre="a) PACIENTE">CENTURION ZAMBRANO MARIA FERNANDA</campoAdicional>
+        <campoAdicional nombre="b) NUMERO PACIENTE">0915408264</campoAdicional>
+        <campoAdicional nombre="c) CONTRATO">SI18G13221</campoAdicional>
+        <campoAdicional nombre="d) CONVENIO">BMI IGUALAS MEDICAS DEL ECUADOR S.A. - BMI IGUALAS MÉDICAS DEL ECUADOR S.A - BMI PLAN NACIONAL 2024 FEE$12</campoAdicional>
+        <campoAdicional nombre="e) CUBRE EMPRESA">76.33</campoAdicional>
+        <campoAdicional nombre="f) SERVICIO">CONSULTAS, LABORATORIO, PROCEDIMIENTOS MEDICOS, FARMACIA</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature900945">
+<ds:SignedInfo Id="Signature-SignedInfo668878">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID943453" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature900945-SignedProperties674386">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>iXdmsHBVDWPXvgAuMDhnWHVldiA=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1584463">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>K0QfRys36/dgePHty4Raw3Ip5C0=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-431048" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>mY/4KFCj7u1AdT/AGVvxEOheNSk=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue783932">
+HDZiePQUPzXND/djAjXJCSeKGvJya78sJLr9Hti0VnrZngITdYIbSlcnATN6rDkGdV2wr4eTksN4
+bx3gRA/m+QltfN8JYRMtvB33gE5TUHjaQEXqHMH30KLlEHVUlp0bJOY9MZpjdQeInG3CIAGrOhKj
+4ffbNg9N9OErYyugJCct7YE0e904/Z+LkJezqSJAqJefC6ku92tZ/m/TP/yD2g6Um/gl1hpaRDgU
+BTY7garq9D7ENA7J+Fbeg3lvlQ3dc6c82XvxgqnNBrDMQuuUrPG3SJTbiMYN0IlPoPSHf4h6bM6U
+g6gDWp/nq7q9NjRH34b04WLAO3MZqBp99vl8Gw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1584463">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMbTCCClWgAwIBAgIEeAyqvzANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDA4MjkxNzM1MDBaFw0yNjA4MjkxNzM1MDBaMIGqMSgw
+JgYDVQQDDB9JUkVORSBNQVJJQ1JVWiBBVklMRVMgU09UT01BWU9SMSAwHgYDVQQFExcwOTI2MTAy
+NTY3LTI5MDgyNDEyNDQ0MTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCsRZD8hEkyC++KeF+3zy8WLFluNtoajg0/PPMX
+vqQn3gB8rISiuKtZhRxQEdza17pZR9gEzazA+wXv8Tjwma8UPURPU2zp9gP82Tdg3+3RpTlIYwgI
+Wu0vXKOQg/wUYYIMCL5nZ36Hc0vH0+hzRyJxlabsARxnGm2Vf4QQoc/+WKIk8pDxLZFltgEJ8ZhO
+LHWuCOB9KnffJee7g7k/QlEn8OGvU0wcwEYX74MIQ1ZBgHcgMUtK4mGOOxc/B7Pu1P8Ap8uzmi+w
+P3R0oxx+hPkvizMqmU7AWSb5d6svNKiYkbjyf+gr08m7W0/Bw2Xk4oxwlmYQLuMeANQdubgVHDzB
+AgMBAAGjggeoMIIHpDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+
+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRh
+UmV2b2NhdGlvbkxpc3Q/YmFzZTAnBgNVHREEIDAegRxtYXJpY3J1ei5hdmlsZXNAdmVyaXMuY29t
+LmVjMIIBEgYDVR0gBIIBCTCCAQUwYAYKKwYBBAGCpnICCjBSMFAGCCsGAQUFBwICMEQeQgBDAGUA
+cgB0AGkAZgBpAGMAYQBkAG8AIABkAGUAIABNAGkAZQBtAGIAcgBvACAAZABlACAARQBtAHAAcgBl
+AHMAYTCBoAYKKwYBBAGCpnICBDCBkTCBjgYIKwYBBQUHAgEWgYFodHRwczovL3d3dy5zZWN1cml0
+eWRhdGEubmV0LmVjL3dwLWNvbnRlbnQvZG93bmxvYWRzL05vcm1hdGl2YXMvUF9kZV9DZXJ0aWZp
+Y2Fkb3MvUG9saXRpY2FzIGRlIENlcnRpZmljYWRvIE1pZW1icm8gZGUgRW1wcmVzYS5wZGYwggKi
+BgNVHR8EggKZMIIClTCB5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9l
+amJjYS9wdWJsaWN3ZWIvc3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMu
+QS4gMjELMAkGA1UEBhMCRUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0
+YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBE
+QVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZ
+IERBVEEgUy5BLiAyLEM9RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHa
+hoHXaHR0cHM6Ly9wb3J0YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVi
+bGljd2ViL3dlYmRpc3QvY2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENF
+UlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNB
+Q0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYE
+FL0fsQrI2DTqJ9YU0KLtWk2Ri2oaMCsGA1UdEAQkMCKADzIwMjQwODI5MTczNTAwWoEPMjAyNjA4
+MjkxNzM1MDBaMAsGA1UdDwQEAwIF4DAwBgorBgEEAYKmcgMFBCIMIEdFUkVOVEUgREUgVEVTT1JF
+UklBIFkgQ09CUkFOWkFTMBoGCisGAQQBgqZyAwEEDAwKMDkyNjEwMjU2NzBvBgorBgEEAYKmcgMJ
+BGEMX1FVSVRPIERJU1RSSVRPIE1FVFJPUE9MSVRBTk8gQ0FCRUNFUkEgQ0FOVE9OQUwgQ0FQSVRB
+TCBQUk9WSU5DSUFMIFkgREUgTEEgUkVQVUJMSUNBIERFTCBFQ1VBRE9SMBEGCisGAQQBgqZyAyIE
+AwwBLjA1BgorBgEEAYKmcgMHBCcMJUVMT1kgQUxGQVJPIE4zMyA0MDAgWSBGRVJOQU5ETyBBWUFS
+WkEwHgYKKwYBBAGCpnIDAgQQDA5JUkVORSBNQVJJQ1JVWjAfBgorBgEEAYKmcgMgBBEMDzAwMjAw
+MTAwMDg2MDI3MDATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMMBAkMB0VDVUFET1Iw
+FgYKKwYBBAGCpnIDAwQIDAZBVklMRVMwGQYKKwYBBAGCpnIDCgQLDAlWRVJJUyBTIEEwHQYKKwYB
+BAGCpnIDCwQPDA0xNzkyMDQwNTMxMDAxMBEGCisGAQQBgqZyAx0EAwwBLjAZBgorBgEEAYKmcgME
+BAsMCVNPVE9NQVlPUjAQBgorBgEEAYKmcgMIBAIMADANBgkqhkiG9w0BAQsFAAOCAgEAM/gfj+zs
+jiQj+xrOPFsbn47Uw8pX0DIILKOX6bw1MpKZKijqlIAF09Zz1s0lHo9H2xvkVAZH0ojq1ctSMoFH
+ylHBOu3K0kfftvL7sQ2prxe/oJQuqD5mydMo1hy6NPLp1THLX3HZs4xOjgeoTWwpxfzweulQcW21
+e5M4FH7ONAdW4OSpQ2M4lmundBHlsliVFvxpCeJsM7ARAzMdjAXZRaLrFmGXgh3Wwp9Y9WDcj60z
+oP1Wg5ix45IEQgs5STsY5G02BmMFUi4kpHywlexosLAMLxW4OwySVQ4h1+tMjDQHDio2OpeDZqo1
+JutP77N3NrH0lqoliMJ2DcZ9ubnVUEof8W22maW0BbNZr0dQrwkZ08YAJ4mlh1olniONdq9ESRrC
+cEdSf7YWQa8fu6ecX+cUeYK9FTpO2GTTCNWslzZZrSSlaK476p5Pk0yOna7gZEwdYmoPmxcBCQdE
+3pJYG5aoGhpBlit16ZnheG1nlKh6zj3nUwPbA1f9W3l6tJrHJaG3io5686m14byr7mz9p+wwetG2
+/NChkREI3Q7PObs76RXc31llgrLXsvl/aMQnsqmPq/aCAPq//664VFOAKpisIAid4ikkUKFwt9q2
+Nm7L+w+F2iR2uiNNp3JbNytc7yb2yHv7hgwys85kr9kUQ8q9xulP1vssxcbCIkA8BvE=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+rEWQ/IRJMgvvinhft88vFixZbjbaGo4NPzzzF76kJ94AfKyEorirWYUcUBHc2te6WUfYBM2swPsF
+7/E48JmvFD1ET1Ns6fYD/Nk3YN/t0aU5SGMICFrtL1yjkIP8FGGCDAi+Z2d+h3NLx9Poc0cicZWm
+7AEcZxptlX+EEKHP/liiJPKQ8S2RZbYBCfGYTix1rgjgfSp33yXnu4O5P0JRJ/Dhr1NMHMBGF++D
+CENWQYB3IDFLSuJhjjsXPwez7tT/AKfLs5ovsD90dKMcfoT5L4szKplOwFkm+XerLzSomJG48n/o
+K9PJu1tPwcNl5OKMcJZmEC7jHgDUHbm4FRw8wQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature900945-Object718044"><etsi:QualifyingProperties Target="#Signature900945"><etsi:SignedProperties Id="Signature900945-SignedProperties674386"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-20T19:51:51-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>COLy21OU+uhl1FYKAFJVy8IO98o=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>2014096063</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-431048"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2503202601099233002300120010210000027490000274914</numeroAutorizacion>
+<fechaAutorizacion>2026-03-25T20:00:28-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>MILYK SA</razonSocial>
+        <ruc>0992330023001</ruc>
+        <claveAcceso>2503202601099233002300120010210000027490000274914</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>021</ptoEmi>
+        <secuencial>000002749</secuencial>
+        <dirMatriz>Av Francisco de Orellana y Benjamin Carrion Alborada 6ta etapa Maz 470 villa 15</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>25/03/2026</fechaEmision>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>LEIMGRUBER  KURT</razonSocialComprador>
+        <identificacionComprador>0905977146</identificacionComprador>
+        <totalSinImpuestos>199.57</totalSinImpuestos>
+        <totalDescuento>0</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>93.85</baseImponible>
+                <valor>0</valor>
+            </totalImpuesto>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>4</codigoPorcentaje>
+                <baseImponible>105.72</baseImponible>
+                <valor>15.86</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>215.43</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>215.43</total>
+                <plazo>30</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>S999999981</codigoPrincipal>
+            <descripcion>INSUMOS MEDICOS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>89.93</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>89.93</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>89.93</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>S999999983</codigoPrincipal>
+            <descripcion>MEDICAMENTOS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>3.92</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>3.92</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>3.92</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>S999999981</codigoPrincipal>
+            <descripcion>INSUMOS MEDICOS</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>105.72</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>105.72</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>4</codigoPorcentaje>
+                    <tarifa>15</tarifa>
+                    <baseImponible>105.72</baseImponible>
+                    <valor>15.86</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Observaciones: ">BCO. BOLIVARIANO//$215.43//COMPRO:70823543</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature752782">
+<ds:SignedInfo Id="Signature-SignedInfo677617">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID1011014" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature752782-SignedProperties91285">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>swECpnpyPAF09nRv2RFa6Ehja8I=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1874218">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>J1s1j3zqPIojhgvmpBJ7YUNxJ/Y=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-822584" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>jHbEjCHK8eyG80B6rXQqZrBDeKw=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue334513">
+ByGrZLeQezVNGlLOsKqC5YVt3+aLl+Avl3p+U89VOq7MW2kiIDQJM369GKNZavCqxzCv8srHTBzB
+CSX37G8gv8utyfe9xa35u/5191JFeQrQOkDHeXDz5QiNdISnWlWTzv1Kf64ryMBxSW1CwUxhNl9Q
+Z9is2JjTRcNcQMfJO89mOsED8jGsoDz3M6njU9QjhnCtSrmZd7ztIMzsl6DJgIDdoHM7sW2YdLkF
+dQVxqvkE7duPSL5E66TY69zTV2HvKBGRXbbFlxt8EfmlkdFFvtgIcfCzgF9+VZDmieiDPJHJdDaR
+5wDfitmVDBOaezEzeEanQhp8MMP9x43AuTlhAw==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1874218">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMETCCCfmgAwIBAgIEa3KfGTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA4MDcyMDM5MzNaFw0yNjA4MDYyMDM5MzNaMIGdMSYw
+JAYDVQQDDB1SQU1PTiBIT05PUklPIEJBWlVSVE8gVklOVUVaQTEVMBMGA1UEBRMMMDcwODIzMTU0
+OTEzMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04xHTAb
+BgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCCASIwDQYJKoZIhvcNAQEB
+BQADggEPADCCAQoCggEBALSguuNYcjvVHph4Dquklzhw2naGtZ2cARjpz+6F1o0Z/I/VC3RXYkSE
+4Fd+6NhRE/GRqGCPoV/GOKWcR3AyoXBa8ccDo5EBVJTD8+cKgGsoEQlS+QYtrvsNG8y92tiNj3Qk
+VlVF7sSWdmmbmw5SEiO2pbsJoAd7I3t/ohRQpvkWLpBUcICOjnUCtB8llDehLfmDTua+L6bNAyv0
+hI9hR3yrXgbZ4Nai665Z4jWB6kPMWlaie2cBaq5NU7mZF1JUSo3X8ipTA+pQAmyS3VN4BATLekH2
+U9s/iqQSveQDiVaaXL8HqLzXP8JFaaMjdPwVVSm9ieYiD6U8eG/22BxONu0CAwEAAaOCB1kwggdV
+MAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUjLrKEVd4JYAdawpLVb+NrmLdvY8wWQYIKwYBBQUH
+AQEETTBLMEkGCCsGAQUFBzABhj1odHRwOi8vb2NzcGd3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpi
+Y2EvcHVibGljd2ViL3N0YXR1cy9vY3NwMIHPBgNVHS4EgccwgcQwgcGggb6ggbuGgbhsZGFwOi8v
+bGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVUT1JJREFEIERFIENFUlRJRklDQUNJ
+T04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJ
+TkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUM/ZGVsdGFSZXZvY2F0aW9uTGlz
+dD9iYXNlMCcGA1UdEQQgMB6BHGNvbnRhYmlsaWRhZEBjbGluaWNhdW5pb24uZWMwggEVBgNVHSAE
+ggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIwRh5EAEMAZQByAHQAaQBmAGkAYwBh
+AGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0AGUAIABMAGUAZwBhAGwwgaEGCisG
+AQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93d3cuc2VjdXJpdHlkYXRhLm5ldC5l
+Yy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1BfZGVfQ2VydGlmaWNhZG9zL1BvbGl0
+aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExlZ2FsLnBkZjCCAqIGA1UdHwSCApkw
+ggKVMIHloEGgP4Y9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcKKBn6SBnDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklD
+QUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklD
+QUNJT04gREUgSU5GT1JNQUNJT04xHTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYD
+VQQGEwJFQzCBx6CBxKCBwYaBvmxkYXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9D
+Tj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5U
+SURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEu
+IDIsQz1FQz9jZXJ0aWZpY2F0ZVJldm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczov
+L3BvcnRhbC1vcGVyYWRvcjIuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2Vi
+ZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3JsJmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lP
+TiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUVDA9yU0ybRqs
+DV33lrRqUVrcfv8wKwYDVR0QBCQwIoAPMjAyMzA4MDcyMDM5MzNagQ8yMDI2MDgwNjIwMzkzM1ow
+CwYDVR0PBAQDAgXgMB8GCisGAQQBgqZyAwUEEQwPR0VSRU5URSBHRU5FUkFMMBoGCisGAQQBgqZy
+AwEEDAwKMTMwNzMxMjA4MDAZBgorBgEEAYKmcgMJBAsMCUdVQVlBUVVJTDARBgorBgEEAYKmcgMi
+BAMMAS4wQQYKKwYBBAGCpnIDBwQzDDFBViBGUkFOQ0lTQ08gREUgT1JFTExBTkEgMTUgWSBBViBC
+RU5KQU1JTiBDQVJSSU9OMB0GCisGAQQBgqZyAwIEDwwNUkFNT04gSE9OT1JJTzAfBgorBgEEAYKm
+cgMgBBEMDzAwMTAwMjAwMDQzMjEyOTATBgorBgEEAYKmcgMhBAUMA1BGWDAXBgorBgEEAYKmcgMM
+BAkMB0VDVUFET1IwFwYKKwYBBAGCpnIDAwQJDAdCQVpVUlRPMBkGCisGAQQBgqZyAwoECwwJTUlM
+WUsgUyBBMB0GCisGAQQBgqZyAwsEDwwNMDk5MjMzMDAyMzAwMTASBgorBgEEAYKmcgMdBAQMAk5v
+MBcGCisGAQQBgqZyAwQECQwHVklOVUVaQTAaBgorBgEEAYKmcgMIBAwMCjA5OTc4NjkwMzAwDQYJ
+KoZIhvcNAQELBQADggIBAJl5b4wCRT3jf4Hf++DFf0haStPbzq8+Fg/+IKFw3BeIiHqRahKKgbLd
+C+jhefU6u6u4nhD019DkH0YMeFywfLJuLoxYV9JhfLHoRaRw+qZRlQCWUvDPd6qujCrvM3f6gtaA
+T+pphTXcCk7q7Di8APlxBjU4JydtyHalWCgyGfz9iwTuEjEpr42ss+y1ieBPJcD+BKdFbGfGHKoQ
+MW+k/L+CFEgXSpHQAWdp1Ry1w7OZZxzg8M+CvnSLARxQ7VGPP+oGTukg4n8MXRHy9WH307fIVa/b
+55L4da4xy+F+1K8/McR6kW39cgF5NglkAj5GQn9bwlPMo3jNu/+t2A+xmQXShPKQxkIsL/ywIJNS
+hJZEAes//3GmvtlIDvQR5PXkdi0y2/SI+3UI7pgR9hjvnJEodQjO970yj6w6Yv70UEG7kXgTW69P
+oVGhA2dahM61ccMrWOytqmn7tF7YDxR3g9+Bt/m1QVi4L02PCKNpO5aE55ZDi+ncHO9UhIa+Sk9Q
+DnK1Dzz/nuV02d1bsJtjwElR0sYDXlASG3WP4W/CRCadsrwopqsBsWojhVYCQ9kTgk1pH4/TH9Sl
+jmSJE0skRi2Y5qtyJhxeakziJK6PzLFCGfLe0+FxpF6c3oJw/OOFEIBKjgoY/qUNaUdt1ZliWRTD
+oDznHfc6H0P3myYEOcFW
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+tKC641hyO9UemHgOq6SXOHDadoa1nZwBGOnP7oXWjRn8j9ULdFdiRITgV37o2FET8ZGoYI+hX8Y4
+pZxHcDKhcFrxxwOjkQFUlMPz5wqAaygRCVL5Bi2u+w0bzL3a2I2PdCRWVUXuxJZ2aZubDlISI7al
+uwmgB3sje3+iFFCm+RYukFRwgI6OdQK0HyWUN6Et+YNO5r4vps0DK/SEj2FHfKteBtng1qLrrlni
+NYHqQ8xaVqJ7ZwFqrk1TuZkXUlRKjdfyKlMD6lACbJLdU3gEBMt6QfZT2z+KpBK95AOJVppcvweo
+vNc/wkVpoyN0/BVVKb2J5iIPpTx4b/bYHE427Q==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature752782-Object312153"><etsi:QualifyingProperties Target="#Signature752782"><etsi:SignedProperties Id="Signature752782-SignedProperties91285"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-25T20:00:28-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>VfOPPBSiVgu5umLzXYhJjewWYQM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1802673945</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-822584"><etsi:Description>Documento de ejemplo</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

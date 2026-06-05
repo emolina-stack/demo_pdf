@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1202202601099299798200120031020001440121234567819</numeroAutorizacion>
+<fechaAutorizacion>2026-02-12T18:00:28-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ESPECIALIDADES FARMACEUTICAS FARMACIALIDADES S.A.</razonSocial>
+        <nombreComercial>FARMACIALIDADES SA</nombreComercial>
+        <ruc>0992997982001</ruc>
+        <claveAcceso>1202202601099299798200120031020001440121234567819</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>003</estab>
+        <ptoEmi>102</ptoEmi>
+        <secuencial>000144012</secuencial>
+        <dirMatriz>AV. PLAZA DAÑIN, CC PLAZAQUIL LOCAL 65</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>12/02/2026</fechaEmision>
+        <dirEstablecimiento>AV. ABDON CALDERON MUÑOZ, KM. 6 CENTRO COMERCIAL PIAZZA CEIBOS, LOCAL A3</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>CASTRO MOSQUERA KAREN</razonSocialComprador>
+        <identificacionComprador>0926320813</identificacionComprador>
+        <direccionComprador>GYQ</direccionComprador>
+        <totalSinImpuestos>109.96</totalSinImpuestos>
+        <totalDescuento>19.64</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>109.96</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>109.96</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>19</formaPago>
+                <total>109.96</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>004105</codigoPrincipal>
+            <codigoAuxiliar>004105</codigoAuxiliar>
+            <descripcion>MICOFLAVIN 500mg x 50 COMP (MI</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>120.000000</precioUnitario>
+            <descuento>18.15</descuento>
+            <precioTotalSinImpuesto>101.85</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>101.85</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>004040</codigoPrincipal>
+            <codigoAuxiliar>004040</codigoAuxiliar>
+            <descripcion>NEOGAIVAL 3mg x 20 COMP (ESZOP</descripcion>
+            <cantidad>20.000000</cantidad>
+            <precioUnitario>0.480000</precioUnitario>
+            <descuento>1.49</descuento>
+            <precioTotalSinImpuesto>8.11</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>8.11</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature184064">
+<ds:SignedInfo Id="Signature-SignedInfo108268">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID847692" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature184064-SignedProperties156122">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>59fexaVqGiYEVT6qlU6+cs/U1L8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate192855">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>wkDIhVaYfl535H0vABVT1mEDmD8=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-338871" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>oKNfnggbkhfEV52jmNmAzBpOSIg=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue278859">
+W/iX8W9l8xVL8TROdsExRGM0hT3huIT412IQuqrZBJrszzth/g+kW/e/oLIdhN+O8LAEdtZ2SzOD
+XwkZi5EtcjbAKuXIqhz4ZrQh6zsW17CSWH7l2co6xOBvwu8nh1hqceL9i7U7iYnitiLXjyHtzP9J
+YIx3qrjf6fal068/wuYygi2Adm5tgzfe0sKk8DvdNumO0mx1c7BRkW7CEoxVc3lZDumaGQUxftnB
+lohDXffhArCNuvwEpCOgKKOUdvgOF5R5xcud5wPAj+ePnmGIk38U6OrAqDjTAhy5iIw6myEw5Xow
+uiH/dx0mWADP94PnK5W17gzu0Ay4Py+MihpbcA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate192855">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ9zCCB9+gAwIBAgIIaWqHNYTAuNowDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MTAwMTE2MDgwMFoXDTI2MTAwMTE2MDgwMFowgfAxCzAJBgNVBAYTAkVDMTowOAYDVQQKDDFF
+U1BFQ0lBTElEQURFUyBGQVJNQUNFVVRJQ0FTIEZBUk1BQ0lBTElEQURFUyBTLkEuMRAwDgYDVQQM
+DAdHRVJFTlRFMRYwFAYDVQQEDA1USU5PQ08gUk9NRVJPMRkwFwYDVQQqDBBNSUxBRFkgS0FUSEVS
+SU5FMRkwFwYDVQQFExBJRENFQy0wOTMxMDg0MTgwMScwJQYDVQQDDB5NSUxBRFkgS0FUSEVSSU5F
+IFRJTk9DTyBST01FUk8xHDAaBgNVBGEME1ZBVEVDLTA5OTI5OTc5ODIwMDEwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC5WrZjn/bomPauFPrABoTUAnwniqTyvQg8iIl+5bbvWll5AW/n
+A/Jf57zlnib33SR2kQdPQ5yn2CzRQFVS0idmUC7PBcxcnrQHGdFXEwCEEfZi++fXxtkoXgqiwULi
+zYdtfSuT7pXap3o0iEg6NrSoNI9U4XUv63Bic78WTZm2JDNSrfsOMdhsJz1qw9k4qcIsIBZUrBBa
+QPW0kYXu7By9pKdwhbt7shBtVHADWb9PTni6ptvIgF84lzWL8hcwGBddP/QnG3q4Aw9bh8NzxXRJ
+meCWKojPCtVh9dw3SS3u7+wXCAduIgNDd6HOKPPvuBseVWkNW27+jZ7RT2GkV6LTAgMBAAGjggTJ
+MIIExTAbBgsrBgEEAYLxNmYDAQQMDAowOTMxMDg0MTgwMB4GCysGAQQBgvE2ZgMLBA8MDTA5OTI5
+OTc5ODIwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0
+YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0
+MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8w
+NgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAd
+BgNVHQ4EFgQUKk+881kd/vDHTjfTaiqSLkGde2AwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9
+V+dgc84HRqnio2jw4RGydJJz/TCBjgYDVR0gBIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3Bggr
+BgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1Bggr
+BgEFBQcCAjApDCdDRVJUSUZJQ0FETyBERSBSRVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1Ud
+HwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NB
+MnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9w
+a2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwIGCCsGAQUFBwMEMIICCgYDVR0RBIICATCCAf2BGW1pbGFkeXRpbm9jb3IxMEBnbWFpbC5j
+b22gGwYLKwYBBAGC8TZmAwGgDAwKMDkzMTA4NDE4MKAhBgsrBgEEAYLxNmYDAqASDBBNSUxBRFkg
+S0FUSEVSSU5FoBcGCysGAQQBgvE2ZgMDoAgMBlRJTk9DT6AXBgsrBgEEAYLxNmYDBKAIDAZST01F
+Uk+gGAYLKwYBBAGC8TZmAwWgCQwHR0VSRU5URaBeBgsrBgEEAYLxNmYDB6BPDE1BVi4gQ0FSTE9T
+IExVSVMgUExBWkEgREFJTiBOTUVSTzogMzAwIElOVEVSU0VDQ0lOOiBGUkFOQ0lTQ08gREUgT1JF
+TExBTkEgRURJRqAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk1OTUzNjI0M6AaBgsrBgEEAYLxNmYD
+CaALDAlHVUFZQVFVSUygQgYLKwYBBAGC8TZmAwqgMwwxRVNQRUNJQUxJREFERVMgRkFSTUFDRVVU
+SUNBUyBGQVJNQUNJQUxJREFERVMgUy5BLqAeBgsrBgEEAYLxNmYDC6APDA0wOTkyOTk3OTgyMDAx
+oBMGCysGAQQBgvE2ZgMMoAQMAkVDoCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVH
+QUygGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAHY+pIzJmbRU0
+MUNouNTueFOd9DomNPgJyIuHGRUEWc+J4wLIOCd1MfIl1QTfsgOxTnluX2HB4mFt3gqeG0MbQEkM
+q1PpTCVMyFoUotf1eq+znHvJWZOGIw/bymE7kngEkql51OyGJmfQ657/u435Cc3jnLmcPoXS6gqC
+pOQlFpDFnFAyAQaOyTnGxkWtsZ2fRZ4NbP88IIYTjsu2zWj1q1tlwXWQoxcj9ipVfHz5D9oVPcKu
+ou1RYK7LhfLaTNufyZhb0Pjw//LZtlW/ZeB7HjeW0Aqq1uu3333USoqUsO5aUu1OI4X4y6UF4XkI
+NuYXhTOgQp+8La6HcY/g3rcX0JsrH1y9h1tCocL230aWcB97+mRV2V2oBCa2Fs/zYw5F/9K6p7ZA
+XxkXcY8232vOQUNSYz8DCSPTMSz+MO89F+YfY/d/chadbIki2FOw1Uf7oJlX3FTVNbyfbmlJatKy
+gbzIBgv498+u+c5zV0m4UYOFUiqquIj5DsaZf0suqGtIsyZerMm+qMLwzG/cd+jlvL4sinZvB171
+/AR+hSZT2mkgtrf6GufeDwS+lhi0kMDubsvGRea6Va9gUngV8xg4+PWC6RuHhFASZ4COIN+NX2Hm
+BQRvd69oLnUF8BUSBc7E1faddM5fj0WV674cWhlgyGmJ5S/kX9kddwP/Yy8ethQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uVq2Y5/26Jj2rhT6wAaE1AJ8J4qk8r0IPIiJfuW271pZeQFv5wPyX+e85Z4m990kdpEHT0Ocp9gs
+0UBVUtInZlAuzwXMXJ60BxnRVxMAhBH2Yvvn18bZKF4KosFC4s2HbX0rk+6V2qd6NIhIOja0qDSP
+VOF1L+twYnO/Fk2ZtiQzUq37DjHYbCc9asPZOKnCLCAWVKwQWkD1tJGF7uwcvaSncIW7e7IQbVRw
+A1m/T054uqbbyIBfOJc1i/IXMBgXXT/0Jxt6uAMPW4fDc8V0SZngliqIzwrVYfXcN0kt7u/sFwgH
+biIDQ3ehzijz77gbHlVpDVtu/o2e0U9hpFei0w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature184064-Object298905"><etsi:QualifyingProperties Target="#Signature184064"><etsi:SignedProperties Id="Signature184064-SignedProperties156122"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-12T18:00:27-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>B1BVCmPTiBxiRJPMoSF5eQspiiA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7596032385444002010</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-338871"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

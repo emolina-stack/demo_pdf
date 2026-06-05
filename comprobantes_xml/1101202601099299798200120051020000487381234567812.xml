@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1101202601099299798200120051020000487381234567812</numeroAutorizacion>
+<fechaAutorizacion>2026-01-11T12:15:23-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>ESPECIALIDADES FARMACEUTICAS FARMACIALIDADES S.A.</razonSocial>
+        <nombreComercial>FARMACIALIDADES SA</nombreComercial>
+        <ruc>0992997982001</ruc>
+        <claveAcceso>1101202601099299798200120051020000487381234567812</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>005</estab>
+        <ptoEmi>102</ptoEmi>
+        <secuencial>000048738</secuencial>
+        <dirMatriz>AV. PLAZA DAÑIN, CC PLAZAQUIL LOCAL 65</dirMatriz>
+        <agenteRetencion>1</agenteRetencion>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>11/01/2026</fechaEmision>
+        <dirEstablecimiento>C.C. BLUE COAST LOCAL 15, PLANTA BAJA</dirEstablecimiento>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>CASTRO  KAREN</razonSocialComprador>
+        <identificacionComprador>0926320813</identificacionComprador>
+        <direccionComprador>GYQ</direccionComprador>
+        <totalSinImpuestos>260.01</totalSinImpuestos>
+        <totalDescuento>56.52</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>260.01</baseImponible>
+                <tarifa>0</tarifa>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0.00</propina>
+        <importeTotal>260.01</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>16</formaPago>
+                <total>260.01</total>
+                <plazo>0</plazo>
+                <unidadTiempo>dias</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>001814</codigoPrincipal>
+            <codigoAuxiliar>001814</codigoAuxiliar>
+            <descripcion>KEPPRA 500mg x 30 TAB (LEVETIR</descripcion>
+            <cantidad>60.000000</cantidad>
+            <precioUnitario>1.125000</precioUnitario>
+            <descuento>8.13</descuento>
+            <precioTotalSinImpuesto>59.37</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>59.37</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>003005</codigoPrincipal>
+            <codigoAuxiliar>003005</codigoAuxiliar>
+            <descripcion>QUETIAPINA 300mg x 30 TAB (MK)</descripcion>
+            <cantidad>30.000000</cantidad>
+            <precioUnitario>2.369300</precioUnitario>
+            <descuento>19.83</descuento>
+            <precioTotalSinImpuesto>51.25</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>51.25</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>003025</codigoPrincipal>
+            <codigoAuxiliar>003025</codigoAuxiliar>
+            <descripcion>PREGABALINA 300mg x 30 CAP (MK</descripcion>
+            <cantidad>30.000000</cantidad>
+            <precioUnitario>1.572700</precioUnitario>
+            <descuento>13.16</descuento>
+            <precioTotalSinImpuesto>34.02</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>34.02</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>006259</codigoPrincipal>
+            <codigoAuxiliar>006259</codigoAuxiliar>
+            <descripcion>ZALEPLA 7.5mg x 30 COMP (ZOPIC</descripcion>
+            <cantidad>30.000000</cantidad>
+            <precioUnitario>0.392300</precioUnitario>
+            <descuento>1.80</descuento>
+            <precioTotalSinImpuesto>9.97</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>9.97</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>000991</codigoPrincipal>
+            <codigoAuxiliar>000991</codigoAuxiliar>
+            <descripcion>GLUCOFAGE XR 1000mg x 30 COMP (METF</descripcion>
+            <cantidad>60.000000</cantidad>
+            <precioUnitario>0.833300</precioUnitario>
+            <descuento>6.41</descuento>
+            <precioTotalSinImpuesto>43.59</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>43.59</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>003188</codigoPrincipal>
+            <codigoAuxiliar>003188</codigoAuxiliar>
+            <descripcion>CONCOR 5mg x 30 TAB (BISOPROLO</descripcion>
+            <cantidad>1.000000</cantidad>
+            <precioUnitario>18.600000</precioUnitario>
+            <descuento>2.01</descuento>
+            <precioTotalSinImpuesto>16.59</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>16.59</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>004086</codigoPrincipal>
+            <codigoAuxiliar>004086</codigoAuxiliar>
+            <descripcion>FAPRIS 100mg x 30 COMP (DESVEN</descripcion>
+            <cantidad>30.000000</cantidad>
+            <precioUnitario>1.680000</precioUnitario>
+            <descuento>5.18</descuento>
+            <precioTotalSinImpuesto>45.22</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>45.22</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature401768">
+<ds:SignedInfo Id="Signature-SignedInfo647890">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+<ds:Reference Id="SignedPropertiesID322740" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature401768-SignedProperties497803">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kqIh5gHxKLoHz2jMWT+eR6yo2sw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1888291">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>2cqOS532XhQJyuFsdCNpmQO8lAw=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-151068" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+<ds:DigestValue>kTz8RCQWt9GrLU4LvRO2/E6f4/I=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue390493">
+GdzGHrIWtIhu9Ga08dACAHVmEBkpf6YopAao6a15YiiDBx1XK5be2CR0uvGwZeE66EpQtyWS5Zda
+uXqOQJVEOo5S77Gn2RTI19VA0zr0WKNlVBVmTG4B/JoA+Te2uBLq2UuG1xyqoZZVXab6vlOW5KmX
+ZTNcm+qPhMGSAFvV1RCYyzUDqD9e7wReqUU+/mWiM9UKQ4oiZFHXGwU/1NTdcpbWKxQ+VjIqwqHc
+y4Z06BzttezZtFKePC92uw3GBJwfk9qUS1Xf+hjgOGvF5ijq8l16QAjfd+FVXhJqKdAtT2qks4xn
+YbpnTMnXYXEs8kcrXEwElTXPbj4b8cMtWbLu7w==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1888291">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJ9zCCB9+gAwIBAgIIaWqHNYTAuNowDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTI1MTAwMTE2MDgwMFoXDTI2MTAwMTE2MDgwMFowgfAxCzAJBgNVBAYTAkVDMTowOAYDVQQKDDFF
+U1BFQ0lBTElEQURFUyBGQVJNQUNFVVRJQ0FTIEZBUk1BQ0lBTElEQURFUyBTLkEuMRAwDgYDVQQM
+DAdHRVJFTlRFMRYwFAYDVQQEDA1USU5PQ08gUk9NRVJPMRkwFwYDVQQqDBBNSUxBRFkgS0FUSEVS
+SU5FMRkwFwYDVQQFExBJRENFQy0wOTMxMDg0MTgwMScwJQYDVQQDDB5NSUxBRFkgS0FUSEVSSU5F
+IFRJTk9DTyBST01FUk8xHDAaBgNVBGEME1ZBVEVDLTA5OTI5OTc5ODIwMDEwggEiMA0GCSqGSIb3
+DQEBAQUAA4IBDwAwggEKAoIBAQC5WrZjn/bomPauFPrABoTUAnwniqTyvQg8iIl+5bbvWll5AW/n
+A/Jf57zlnib33SR2kQdPQ5yn2CzRQFVS0idmUC7PBcxcnrQHGdFXEwCEEfZi++fXxtkoXgqiwULi
+zYdtfSuT7pXap3o0iEg6NrSoNI9U4XUv63Bic78WTZm2JDNSrfsOMdhsJz1qw9k4qcIsIBZUrBBa
+QPW0kYXu7By9pKdwhbt7shBtVHADWb9PTni6ptvIgF84lzWL8hcwGBddP/QnG3q4Aw9bh8NzxXRJ
+meCWKojPCtVh9dw3SS3u7+wXCAduIgNDd6HOKPPvuBseVWkNW27+jZ7RT2GkV6LTAgMBAAGjggTJ
+MIIExTAbBgsrBgEEAYLxNmYDAQQMDAowOTMxMDg0MTgwMB4GCysGAQQBgvE2ZgMLBA8MDTA5OTI5
+OTc5ODIwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsGAQUFBzAChklodHRwOi8vd3d3LnVhbmF0
+YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRpZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0
+MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvb2NzcC8w
+NgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9vY3NwLzAd
+BgNVHQ4EFgQUKk+881kd/vDHTjfTaiqSLkGde2AwDAYDVR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9
+V+dgc84HRqnio2jw4RGydJJz/TCBjgYDVR0gBIGGMIGDMIGABgwrBgEEAYLxNmYCAwEwcDA3Bggr
+BgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvZHBjLWVjLzA1Bggr
+BgEFBQcCAjApDCdDRVJUSUZJQ0FETyBERSBSRVBSRVNFTlRBTlRFIEVOIEFSQ0hJVk8wgY8GA1Ud
+HwSBhzCBhDBAoD6gPIY6aHR0cDovL2NybDEudWFuYXRhY2EuY29tL3B1YmxpYy9wa2kvY3JsL0NB
+MnN1Ym9yZGluYWRhLmNybDBAoD6gPIY6aHR0cDovL2NybDIudWFuYXRhY2EuY29tL3B1YmxpYy9w
+a2kvY3JsL0NBMnN1Ym9yZGluYWRhLmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYB
+BQUHAwIGCCsGAQUFBwMEMIICCgYDVR0RBIICATCCAf2BGW1pbGFkeXRpbm9jb3IxMEBnbWFpbC5j
+b22gGwYLKwYBBAGC8TZmAwGgDAwKMDkzMTA4NDE4MKAhBgsrBgEEAYLxNmYDAqASDBBNSUxBRFkg
+S0FUSEVSSU5FoBcGCysGAQQBgvE2ZgMDoAgMBlRJTk9DT6AXBgsrBgEEAYLxNmYDBKAIDAZST01F
+Uk+gGAYLKwYBBAGC8TZmAwWgCQwHR0VSRU5URaBeBgsrBgEEAYLxNmYDB6BPDE1BVi4gQ0FSTE9T
+IExVSVMgUExBWkEgREFJTiBOTUVSTzogMzAwIElOVEVSU0VDQ0lOOiBGUkFOQ0lTQ08gREUgT1JF
+TExBTkEgRURJRqAfBgsrBgEEAYLxNmYDCKAQDA4wMDU5Mzk1OTUzNjI0M6AaBgsrBgEEAYLxNmYD
+CaALDAlHVUFZQVFVSUygQgYLKwYBBAGC8TZmAwqgMwwxRVNQRUNJQUxJREFERVMgRkFSTUFDRVVU
+SUNBUyBGQVJNQUNJQUxJREFERVMgUy5BLqAeBgsrBgEEAYLxNmYDC6APDA0wOTkyOTk3OTgyMDAx
+oBMGCysGAQQBgvE2ZgMMoAQMAkVDoCQGCysGAQQBgvE2ZgMyoBUME1JFUFJFU0VOVEFOVEUgTEVH
+QUygGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkqhkiG9w0BAQsFAAOCAgEAHY+pIzJmbRU0
+MUNouNTueFOd9DomNPgJyIuHGRUEWc+J4wLIOCd1MfIl1QTfsgOxTnluX2HB4mFt3gqeG0MbQEkM
+q1PpTCVMyFoUotf1eq+znHvJWZOGIw/bymE7kngEkql51OyGJmfQ657/u435Cc3jnLmcPoXS6gqC
+pOQlFpDFnFAyAQaOyTnGxkWtsZ2fRZ4NbP88IIYTjsu2zWj1q1tlwXWQoxcj9ipVfHz5D9oVPcKu
+ou1RYK7LhfLaTNufyZhb0Pjw//LZtlW/ZeB7HjeW0Aqq1uu3333USoqUsO5aUu1OI4X4y6UF4XkI
+NuYXhTOgQp+8La6HcY/g3rcX0JsrH1y9h1tCocL230aWcB97+mRV2V2oBCa2Fs/zYw5F/9K6p7ZA
+XxkXcY8232vOQUNSYz8DCSPTMSz+MO89F+YfY/d/chadbIki2FOw1Uf7oJlX3FTVNbyfbmlJatKy
+gbzIBgv498+u+c5zV0m4UYOFUiqquIj5DsaZf0suqGtIsyZerMm+qMLwzG/cd+jlvL4sinZvB171
+/AR+hSZT2mkgtrf6GufeDwS+lhi0kMDubsvGRea6Va9gUngV8xg4+PWC6RuHhFASZ4COIN+NX2Hm
+BQRvd69oLnUF8BUSBc7E1faddM5fj0WV674cWhlgyGmJ5S/kX9kddwP/Yy8ethQ=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uVq2Y5/26Jj2rhT6wAaE1AJ8J4qk8r0IPIiJfuW271pZeQFv5wPyX+e85Z4m990kdpEHT0Ocp9gs
+0UBVUtInZlAuzwXMXJ60BxnRVxMAhBH2Yvvn18bZKF4KosFC4s2HbX0rk+6V2qd6NIhIOja0qDSP
+VOF1L+twYnO/Fk2ZtiQzUq37DjHYbCc9asPZOKnCLCAWVKwQWkD1tJGF7uwcvaSncIW7e7IQbVRw
+A1m/T054uqbbyIBfOJc1i/IXMBgXXT/0Jxt6uAMPW4fDc8V0SZngliqIzwrVYfXcN0kt7u/sFwgH
+biIDQ3ehzijz77gbHlVpDVtu/o2e0U9hpFei0w==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature401768-Object379065"><etsi:QualifyingProperties Target="#Signature401768"><etsi:SignedProperties Id="Signature401768-SignedProperties497803"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-01-11T12:15:22-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><ds:DigestValue>B1BVCmPTiBxiRJPMoSF5eQspiiA=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>7596032385444002010</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-151068"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

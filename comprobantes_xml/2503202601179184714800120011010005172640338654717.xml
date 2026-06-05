@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2503202601179184714800120011010005172640338654717</numeroAutorizacion>
+<fechaAutorizacion>2026-03-25T12:38:44-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>LABORATORIO CLINICO ECUA AMERICAN LAB.E.A. CIA. LTDA.</razonSocial>
+        <nombreComercial>LABORATORIO CLINICO ECUA AMERICAN</nombreComercial>
+        <ruc>1791847148001</ruc>
+        <claveAcceso>2503202601179184714800120011010005172640338654717</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>101</ptoEmi>
+        <secuencial>000517264</secuencial>
+        <dirMatriz>AV. AMERICA N33-42 Y RUMIPAMBA</dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>25/03/2026</fechaEmision>
+        <dirEstablecimiento>AV. AMERICA N33-42 Y RUMIPAMBA</dirEstablecimiento>
+        <contribuyenteEspecial>826</contribuyenteEspecial>
+        <obligadoContabilidad>SI</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>KARINA ALEXANDRA AGUILAR VARELA</razonSocialComprador>
+        <identificacionComprador>1712265360</identificacionComprador>
+        <direccionComprador>QUITO TENNIS</direccionComprador>
+        <totalSinImpuestos>67.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <descuentoAdicional>0</descuentoAdicional>
+                <baseImponible>67.00</baseImponible>
+                <valor>0</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>67.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>01</formaPago>
+                <total>67.00</total>
+                <plazo>0</plazo>
+                <unidadTiempo>DIAS</unidadTiempo>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>40648499-01266</codigoPrincipal>
+            <descripcion>PANEL VIRUS RESPIRATORIO 4</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>62.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>62.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>62.00</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+        <detalle>
+            <codigoPrincipal>40648499-1542</codigoPrincipal>
+            <descripcion>Recargo Domicilios</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>5.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>5.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0</tarifa>
+                    <baseImponible>5.00</baseImponible>
+                    <valor>0</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Paciente">SR  RICARDO JOSE CARVAJAL AGUILAR</campoAdicional>
+        <campoAdicional nombre="Orden">40648499</campoAdicional>
+        <campoAdicional nombre="Fecha de atención">25/03/2026</campoAdicional>
+        <campoAdicional nombre="Atendido por">JOANA CAMPAÑA</campoAdicional>
+        <campoAdicional nombre="Email">karina.aguilar@proyectoscya.com</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature805061">
+<ds:SignedInfo Id="Signature-SignedInfo32087">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID110747" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature805061-SignedProperties922254">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>tH5v/lOPRNn/aEbcrK/YxFDfHrM=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1154172">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>P0NGxo7tp0V9Pr9VtUsRg8Leh2o=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-323766" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>gOV0U50TbTSzHXGjtzVwyM94qHU=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue242558">
+FK1+alS3U6wCtDMRzatYCQX21+UBqb91IJeWrCX3ZFNL7Mg6LzOZMfWcv9r/0kh6UloZpTt1fhRz
+97AE2F5LEWJVdPe7NECySJjpb9EW2MwLPbczh/cE1aMns7f53XCkwLrHmaAl7H/xl4HkPp4S1Kvs
+723bw6j2oy3hN8pSEonON5wL3rcd2NSvj2WarWpFcBkw4GVLmdIjm6Jx2ecHBMFaEOaqBhYbmusE
+8OoMQmkAu5G934VoD29zL3zE5Y+WSBHib27M7i7vNk+79XoTTVbjD6+Kk1Ep/1+msd28ayV0BqNM
+/TG6QoaFcLuVKRqN+62sahaRyRKLx53+MjTA+A==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1154172">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIMSTCCCjGgAwIBAgIEEHjdnjANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yNDEyMTExNzA1MjNaFw0yNjEyMTExNzA1MjNaMIGqMSgw
+JgYDVQQDDB9NQVJJQSBERUwgTE9VUkRFUyBBVklMQSBKSU1FTkVaMSAwHgYDVQQFExcxNzE3NTg3
+NzI3LTExMTIyNDEyMTUxMTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElO
+Rk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEi
+MA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC4A2mco0zid6+FuVQuhyxKPS3SIE7XGltwDflD
+sX0L1Ib6v1qfxOBb0TP4KrvvQHlkE6mK7O6pMf2qPeiPx8+UR6+g7hiTWta9M5dDHhRWwoVgBEXH
+Vvworr7lKa4vzFYTwCvPwPzUQ6SAuN5fI+HDU4aW+b7xSiiIURKyJr9d1QbQYY8CSavOoyMxq8pC
+8tpvcC1aPghvTaIa740NFdBg0zUcqgL+1+VoKAD3uU1EELTdXzt8HsGf2SBd4P55IXEe6pSWXapW
+8zeHQGXeehAXVWL/9SC1oAXDPipKA0h7PwDgAXENof/MGJKVvMUBm8ZtlucQbslm6Soe7QYwp1d5
+AgMBAAGjggeEMIIHgDAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i
+3b2PMFkGCCsGAQUFBwEBBE0wSzBJBggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRh
+dGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+
+oIG7hoG4bGRhcDovL2xkYXBzZGNhMi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBE
+RSBDRVJUSUZJQ0FDSU9OIFNVQkNBLTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJ
+RklDQUNJT04gREUgSU5GT1JNQUNJT04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRh
+UmV2b2NhdGlvbkxpc3Q/YmFzZTAvBgNVHREEKDAmgSRsYWJvcmF0b3Jpb2NsaW5pY29AZWN1YS1h
+bWVyaWNhbi5jb20wggEVBgNVHSAEggEMMIIBCDBiBgorBgEEAYKmcgIJMFQwUgYIKwYBBQUHAgIw
+Rh5EAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAFIAZQBwAHIAZQBzAGUAbgB0AGEAbgB0
+AGUAIABMAGUAZwBhAGwwgaEGCisGAQQBgqZyAgMwgZIwgY8GCCsGAQUFBwIBFoGCaHR0cHM6Ly93
+d3cuc2VjdXJpdHlkYXRhLm5ldC5lYy93cC1jb250ZW50L2Rvd25sb2Fkcy9Ob3JtYXRpdmFzL1Bf
+ZGVfQ2VydGlmaWNhZG9zL1BvbGl0aWNhcyBkZSBDZXJ0aWZpY2FkbyBSZXByZXNlbnRhbnRlIExl
+Z2FsLnBkZjAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggKiBgNVHR8EggKZMIIClTCB
+5aBBoD+GPWh0dHA6Ly9vY3NwZ3cuc2VjdXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIv
+c3RhdHVzL29jc3CigZ+kgZwwgZkxOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9O
+IFNVQkNBLTIgU0VDVVJJVFkgREFUQTEwMC4GA1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRTRUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMC
+RUMwgceggcSggcGGgb5sZGFwOi8vbGRhcHNkY2EyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvQ049QVVU
+T1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQg
+REUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1BQ0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9
+RUM/Y2VydGlmaWNhdGVSZXZvY2F0aW9uTGlzdD9iYXNlMIHgoIHdoIHahoHXaHR0cHM6Ly9wb3J0
+YWwtb3BlcmFkb3IyLnNlY3VyaXR5ZGF0YS5uZXQuZWMvZWpiY2EvcHVibGljd2ViL3dlYmRpc3Qv
+Y2VydGRpc3Q/Y21kPWNybCZpc3N1ZXI9Q049QVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VC
+Q0EtMiBTRUNVUklUWSBEQVRBLE9VPUVOVElEQUQgREUgQ0VSVElGSUNBQ0lPTiBERSBJTkZPUk1B
+Q0lPTixPPVNFQ1VSSVRZIERBVEEgUy5BLiAyLEM9RUMwHQYDVR0OBBYEFH6frGDqMp+B3/Z8iEx/
+/GjjKpG8MCsGA1UdEAQkMCKADzIwMjQxMjExMTcwNTIzWoEPMjAyNjEyMTExNzA1MjNaMAsGA1Ud
+DwQEAwIF4DAXBgorBgEEAYKmcgMFBAkMB0dFUkVOVEUwGgYKKwYBBAGCpnIDAQQMDAoxNzE3NTg3
+NzI3MBkGCisGAQQBgqZyAwkECwwJUlVNSVBBTUJBMBEGCisGAQQBgqZyAyIEAwwBLjAtBgorBgEE
+AYKmcgMHBB8MHUFWIEFNRVJJQ0EgTjMzIDQyIFkgUlVNSVBBTUJBMCEGCisGAQQBgqZyAwIEEwwR
+TUFSSUEgREVMIExPVVJERVMwHwYKKwYBBAGCpnIDIAQRDA8wMDMwMDEwMDAwNTAxMzEwEwYKKwYB
+BAGCpnIDIQQFDANQRlgwFwYKKwYBBAGCpnIDDAQJDAdFQ1VBRE9SMBUGCisGAQQBgqZyAwMEBwwF
+QVZJTEEwQgYKKwYBBAGCpnIDCgQ0DDJMQUJPUkFUT1JJTyBDTElOSUNPIEVDVUEgQU1FUklDQU4g
+TEFCIEUgQSBDSUEgTFREQTAdBgorBgEEAYKmcgMLBA8MDTE3OTE4NDcxNDgwMDEwEQYKKwYBBAGC
+pnIDHQQDDAEuMBcGCisGAQQBgqZyAwQECQwHSklNRU5FWjAQBgorBgEEAYKmcgMIBAIMADANBgkq
+hkiG9w0BAQsFAAOCAgEAQUz8r79QxBG+1AwQJdM9YvgYf2BQBMAMGj1UCn98UPS7Lrr2iZnbEgCA
+GfK75MAbxR3j/KGNdGMslBzV4Br9YehdMB4iYgFXQWn1dhYYeNV10v/6rWRo1Dnuf53ivRTVCwvD
+eO/q2T/qn0vxfwdSUMdi9QDv3LCYIiNF/Ml9nx7Ky0O6MExznS5/vLOQn8OCUqTNHDKtkoguglU5
+RKGfx9y9J3jaVDITCTghHBwkqLh7LWJwx+iEypR+2dAW9CT9N3LCf8JtP/0vguxaqMnOM5ahIi3N
+YBwvFVBu2+Gv4L7h9MZiy1cpbne/amg2n+O+EyGWmKqI26Q/GYhIyOABc3XFGs6nQlR2MDkhc5fm
+nvgEtxQ+glRDvbUk8JczIv3IxlMN6aJ8xRovVy+hXm8PoXcy8mORh/CN//DGL97t/MzF35QSEv3i
+cxSg7uPrVCMi2Fq+qFEcok4BIffQX8jJjAVEjwaazhV7Ywv0pg5wBih9IL1V4zJ34IJE2/xHh3pO
+tFz/QsT/VwchM7iRAqZ6S9q5yAC1O7gJtQqfIaaSXkRX+wN59ves82EjmQbg8z7nHTABfEFl1rDu
+LSXsbV3ZxRrfZkGgjD+jRMrpafX30VYqG16+CxWVVy+W1vYPvxiWVHVQ64+DCPimcQ2K84PUQU6e
+hkWQwF3P1kqNHusNOog=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+uANpnKNM4nevhblULocsSj0t0iBO1xpbcA35Q7F9C9SG+r9an8TgW9Ez+Cq770B5ZBOpiuzuqTH9
+qj3oj8fPlEevoO4Yk1rWvTOXQx4UVsKFYARFx1b8KK6+5SmuL8xWE8Arz8D81EOkgLjeXyPhw1OG
+lvm+8UooiFESsia/XdUG0GGPAkmrzqMjMavKQvLab3AtWj4Ib02iGu+NDRXQYNM1HKoC/tflaCgA
+97lNRBC03V87fB7Bn9kgXeD+eSFxHuqUll2qVvM3h0Bl3noQF1Vi//UgtaAFwz4qSgNIez8A4AFx
+DaH/zBiSlbzFAZvGbZbnEG7JZukqHu0GMKdXeQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature805061-Object542416"><etsi:QualifyingProperties Target="#Signature805061"><etsi:SignedProperties Id="Signature805061-SignedProperties922254"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-25T12:38:35-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>MNRT2rVrtYzbbp7RCj7Lq0nWkeM=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>276356510</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-323766"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

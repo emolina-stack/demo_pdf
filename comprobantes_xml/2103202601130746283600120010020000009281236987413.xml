@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2103202601130746283600120010020000009281236987413</numeroAutorizacion>
+<fechaAutorizacion>2026-03-21T13:42:16-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+<infoTributaria>
+<ambiente>2</ambiente>
+<tipoEmision>1</tipoEmision>
+<razonSocial> CRUZ LOOR SORAYA MARIUXI </razonSocial>
+<ruc>1307462836001</ruc>
+<claveAcceso>2103202601130746283600120010020000009281236987413</claveAcceso>
+<codDoc>01</codDoc>
+<estab>001</estab>
+<ptoEmi>002</ptoEmi>
+<secuencial>000000928</secuencial>
+<dirMatriz>GUAYAS / GUAYAQUIL / TARQUI / URDESA CENTRAL BALSAMOS NORTE 309 Y CALLE PRIMERA </dirMatriz>
+</infoTributaria>
+<infoFactura>
+<fechaEmision>21/03/2026</fechaEmision>
+<dirEstablecimiento>GUAYAS / GUAYAQUIL / TARQUI / URDESA CENTRAL BALSAMOS NORTE 309 Y CALLE PRIMERA </dirEstablecimiento>
+<obligadoContabilidad>NO</obligadoContabilidad>
+<tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+<razonSocialComprador>ARMENDARIZ MARISCAL LUIS ANIBAL</razonSocialComprador>
+<identificacionComprador>0906606249</identificacionComprador>
+<totalSinImpuestos>909.08</totalSinImpuestos>
+<totalDescuento>0.0000</totalDescuento>
+<totalConImpuestos>
+<totalImpuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<descuentoAdicional>0</descuentoAdicional>
+<baseImponible>909.08</baseImponible>
+<valor>0.00</valor>
+</totalImpuesto>
+</totalConImpuestos>
+<propina>0</propina>
+<importeTotal>909.08</importeTotal>
+<moneda>DOLAR</moneda>
+<pagos>
+<pago>
+<formaPago>20</formaPago>
+<total>909.08</total>
+<plazo>0</plazo>
+<unidadTiempo>DIAS</unidadTiempo>
+</pago>
+</pagos>
+</infoFactura>
+<detalles>
+<detalle>
+<codigoPrincipal>4849418100</codigoPrincipal>
+<codigoAuxiliar>5804436235</codigoAuxiliar>
+<descripcion>HONORARIOS POR PROCEDIMIENTOS INTERVENCIONISTAS EN DOLOR </descripcion>
+<cantidad>1.0000</cantidad>
+<precioUnitario>909.080000</precioUnitario>
+<descuento>0</descuento>
+<precioTotalSinImpuesto>909.08</precioTotalSinImpuesto>
+<impuestos>
+<impuesto>
+<codigo>2</codigo>
+<codigoPorcentaje>0</codigoPorcentaje>
+<tarifa>0</tarifa>
+<baseImponible>909.08</baseImponible>
+<valor>0</valor>
+</impuesto>
+</impuestos>
+</detalle>
+</detalles>
+<infoAdicional>
+<campoAdicional nombre="Email">laarmend@gmail.com</campoAdicional>
+<campoAdicional nombre="Direccion">CDLA. ISLA DEL RÍO 51 A2</campoAdicional>
+<campoAdicional nombre="Telefono">0988193279</campoAdicional>
+<campoAdicional nombre="CLÍNICA ">KENNEDY SAMBORONDÓN </campoAdicional>
+<campoAdicional nombre="PROCEDIMIENTO ">ADHESIOLISIS EPIDURAL+ RADIOFRECUENCIA PULSADA INTRACANAL CON NEURONAVEGADOR</campoAdicional>
+<campoAdicional nombre="FECHA DE PROCEDIMIENTO ">21 DE MARZO 2026</campoAdicional>
+</infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature943727">
+<ds:SignedInfo Id="Signature-SignedInfo550827">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID651140" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature943727-SignedProperties679851">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></ds:DigestMethod>
+<ds:DigestValue>RnbDA0XWblbOpmBBLmvfSjz028myOVHop5zAheFxM08=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1198996">
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></ds:DigestMethod>
+<ds:DigestValue>abfi92TTxt+9L6LvygBQKdpSZO/2PGvBzjUHCyrJbGI=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-1019912" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></ds:DigestMethod>
+<ds:DigestValue>VFbDhEo+CBbzmf9V3x1aEjFuh5LcxZ6u+hcxsmKSffE=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue11375">
+fzetI3uOMOLXYcZ3OTGif9YRqZvbPu0QAL1SOE/h0/CPf+VngJ91uR3uukZrg+VY6Xvcn7peJl3z
+tkylogFZK1IXHLb0bTQ5OTKniim+vN/ABHbf/M4z8oiZ8kkon+Cbn2A8KLsRFCM3xub7yXE/qUb7
+sfi6ZFi2c81liHXvMFvkfIQYDxlqus1CXgMzumvlnyrg2lo/aunKlSY4ZkRubN3Cia/c2byyX8tN
+9Oo4lvVDcO9VGoZ/NOEh9i8oFoOWegY5ZubtmRYp5Pu/Seu1N5q7Cns7sBfmPTSXXg6hCHhoqcNA
+bQ/r7pAbvY7ZnQmGZPiBDg9DXueNOxbW9T01WA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1198996">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIJKzCCBxOgAwIBAgIIJXqy2r1yqs4wDQYJKoZIhvcNAQELBQAwgbgxCzAJBgNVBAYTAkVTMUQw
+QgYDVQQHDDtCYXJjZWxvbmEgKHNlZSBjdXJyZW50IGFkZHJlc3MgYXQgd3d3LnVhbmF0YWNhLmNv
+bS9hZGRyZXNzKTEWMBQGA1UECgwNVUFOQVRBQ0EgUy5BLjEVMBMGA1UECwwMVFNQLVVBTkFUQUNB
+MRowGAYDVQQDDBFVQU5BVEFDQSBDQTIgMjAxNjEYMBYGA1UEYQwPVkFURVMtQTY2NzIxNDk5MB4X
+DTIzMDEyNzIxNDAwMFoXDTI3MDEyNjIxNDAwMFowgZYxCzAJBgNVBAYTAkVDMRIwEAYDVQQEDAlD
+UlVaIExPT1IxFzAVBgNVBCoMDlNPUkFZQSBNQVJJVVhJMRkwFwYDVQQFExBJRENFQy0xMzA3NDYy
+ODM2MSEwHwYDVQQDDBhTT1JBWUEgTUFSSVVYSSBDUlVaIExPT1IxHDAaBgNVBGEME1RJTkVDLTEz
+MDc0NjI4MzYwMDEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCXSXLJhE0QfXiBFXcv
+t72HqVLgA2V8fcWexF1Ia76h6WAH9v3AIEB4hVK6UOwT3YPKYbE0v3SxE1p+Z6ePjFolTcm6WN3u
+nDBLcvecBhWInrKZZUMVuRsK2YK8PlsCdJJauyx+1N6CXkWcmAQUwnh4e/A3zXdlqxRrYk0fb6/h
+diaiU4gTs/9JUeHoSC+BBKV3POSCwMBGS65/FGCXczdkQX6xHmd25+bezlkmB5tdLROk/cGUJBOH
+cjra053TMTy3DjthCMCzHBmX5+3a2iN1TJE9sfYDcbfHeR5SHVL/yOff1CTD9jw3LLUXOI1Ad4zv
+MAfTLm6p7RBrmBL8Ch4RAgMBAAGjggRXMIIEUzAbBgsrBgEEAYLxNmYDAQQMDAoxMzA3NDYyODM2
+MB4GCysGAQQBgvE2ZgMLBA8MDTEzMDc0NjI4MzYwMDEwgdcGCCsGAQUFBwEBBIHKMIHHMFUGCCsG
+AQUFBzAChklodHRwOi8vd3d3LnVhbmF0YWNhLmNvbS9wdWJsaWMvZG93bmxvYWQvdHNwX2NlcnRp
+ZmljYXRlcy9zdWJvcmRpbmF0ZTEuY3J0MDYGCCsGAQUFBzABhipodHRwOi8vb2NzcDEudWFuYXRh
+Y2EuY29tL3B1YmxpYy9wa2kvb2NzcC8wNgYIKwYBBQUHMAGGKmh0dHA6Ly9vY3NwMi51YW5hdGFj
+YS5jb20vcHVibGljL3BraS9vY3NwLzAdBgNVHQ4EFgQUi4SXqmWkDbei/A7989RA1CtWE/owDAYD
+VR0TAQH/BAIwADAfBgNVHSMEGDAWgBR9V+dgc84HRqnio2jw4RGydJJz/TCBmQYDVR0gBIGRMIGO
+MIGLBgwrBgEEAYLxNmYCAQEwezA3BggrBgEFBQcCARYraHR0cHM6Ly93d3cudWFuYXRhY2EuY29t
+L3B1YmxpYy9wa2kvZHBjLWVjLzBABggrBgEFBQcCAjA0DDJDRVJUSUZJQ0FETyBERSBQRVJTT05B
+IE5BVFVSQUwgTyBGSVNJQ0EgRU4gQVJDSElWTzCBjwYDVR0fBIGHMIGEMECgPqA8hjpodHRwOi8v
+Y3JsMS51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEuY3JsMECgPqA8
+hjpodHRwOi8vY3JsMi51YW5hdGFjYS5jb20vcHVibGljL3BraS9jcmwvQ0Eyc3Vib3JkaW5hZGEu
+Y3JsMA4GA1UdDwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwggGNBgNV
+HREEggGEMIIBgIEXZmlybWFzLmRpbmFtaUBnbWFpbC5jb22gGwYLKwYBBAGC8TZmAwGgDAwKMTMw
+NzQ2MjgzNqAfBgsrBgEEAYLxNmYDAqAQDA5TT1JBWUEgTUFSSVVYSaAVBgsrBgEEAYLxNmYDA6AG
+DARDUlVaoBUGCysGAQQBgvE2ZgMEoAYMBExPT1KgQgYLKwYBBAGC8TZmAwegMwwxVVJERVNBIENF
+TlRSQUwgQkFMU0FNT1MgTk9SVEUgMzA5IFkgQ0FMTEUgUFJJTUVSQaAfBgsrBgEEAYLxNmYDCKAQ
+DA4wMDU5Mzk2OTM4NDEzN6AaBgsrBgEEAYLxNmYDCaALDAlHVUFZQVFVSUygHgYLKwYBBAGC8TZm
+AwugDwwNMTMwNzQ2MjgzNjAwMaATBgsrBgEEAYLxNmYDDKAEDAJFQ6ApBgsrBgEEAYLxNmYDMqAa
+DBhQRVJTT05BIE5BVFVSQUwgTyBGSVNJQ0GgGAYLKwYBBAGC8TZmAzOgCQwHQVJDSElWTzANBgkq
+hkiG9w0BAQsFAAOCAgEAsctKse5CC+SDeMJml/Jdkn841LqGn+8tEh+48SD6xn/s3nZl0Tbx7z6z
+UNWUJmfEtuU7DEkes6q0PCFf6VkfElYlWAAvQEF/jjSXVXRNzC4qJQMkU/nzrrZbuyGqQftMxHOQ
+opLJ6h8hdAKBNAS6I5i1KxG3PDwCHe0TnIOKsYjprfn/wcfzCB0iC0I0cgY8vxRTF73GTX2ywaer
+G6Kxzl/FbxCVWIF595pN97VoNnwYvMuCwsLFkpt7kIp9DOVhxdTPhe/1eKJvinMX5ogMhkJKpP3s
+fOkl5joHrrizFXJ4DmPcrlNtZhnneIV98+UubbgoDoPn/mffEl+y6Mm32OAtoY7NbOLFT1dbn7iq
+x6bKnaTbvRD8rgzR5XDCD9hO1nQcsRqG+0Y0nQLi2s7dt0LzFBcpSTNrjV7DbevVBMmEoG63+Vb/
+cWwbgvJ76uO4cNsBLJyFDEUc8iNBRm4MvAk1GFGt0RiihPb5kzHKyiovQLEFOaVGgTtMweEmo2Et
+UAj/6LEp4jmP5z6gaNwWqV0K6x6LCA4Ddw9C0LBv/pa4qezqFyetec7ri+Lqc1jDpROKvJipqzBr
+rzpNagxKHGwbtjUkXeZ95bIARLHF05w8JFW6u0GU2boddA1r+Cl4oCJVcVc4bwWc0sL0u5C2Glos
+ri4pHjLMij70SYteWIk=
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+l0lyyYRNEH14gRV3L7e9h6lS4ANlfH3FnsRdSGu+oelgB/b9wCBAeIVSulDsE92DymGxNL90sRNa
+fmenj4xaJU3Juljd7pwwS3L3nAYViJ6ymWVDFbkbCtmCvD5bAnSSWrssftTegl5FnJgEFMJ4eHvw
+N813ZasUa2JNH2+v4XYmolOIE7P/SVHh6EgvgQSldzzkgsDARkuufxRgl3M3ZEF+sR5ndufm3s5Z
+JgebXS0TpP3BlCQTh3I62tOd0zE8tw47YQjAsxwZl+ft2tojdUyRPbH2A3G3x3keUh1S/8jn39Qk
+w/Y8Nyy1FziNQHeM7zAH0y5uqe0Qa5gS/AoeEQ==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature943727-Object723199"><etsi:QualifyingProperties Target="#Signature943727"><etsi:SignedProperties Id="Signature943727-SignedProperties679851"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-03-21T13:42:15-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"></ds:DigestMethod><ds:DigestValue>FfnDfYJ4Au07UqVa+yw867wkGAKy840rMyjKw2AKmBE=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>2.5.4.97=#0c0f56415445532d413636373231343939,CN=UANATACA CA2 2016,OU=TSP-UANATACA,O=UANATACA S.A.,L=Barcelona (see current address at www.uanataca.com/address),C=ES</ds:X509IssuerName><ds:X509SerialNumber>2700667579113056974</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-1019912"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

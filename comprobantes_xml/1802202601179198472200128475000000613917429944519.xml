@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>1802202601179198472200128475000000613917429944519</numeroAutorizacion>
+<fechaAutorizacion>2026-02-18T12:38:31-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<factura id="comprobante" version="1.1.0">
+   <infoTributaria>
+      <ambiente>2</ambiente>
+      <tipoEmision>1</tipoEmision>
+      <razonSocial>FARMAENLACE CIA. LTDA</razonSocial>
+      <nombreComercial>FARMAENLACE CIA. LTDA|MEDI SAMBORONDON ENTRE RIOS</nombreComercial>
+      <ruc>1791984722001</ruc>
+      <claveAcceso>1802202601179198472200128475000000613917429944519</claveAcceso>
+      <codDoc>01</codDoc>
+      <estab>847</estab>
+      <ptoEmi>500</ptoEmi>
+      <secuencial>000061391</secuencial>
+      <dirMatriz>PORTUGAL E12-72 Y ELOY ALFARO</dirMatriz>
+   </infoTributaria>
+   <infoFactura>
+      <fechaEmision>18/02/2026</fechaEmision>
+      <dirEstablecimiento>AV. PRINCIPAL DE ENTRE RIOS S/N</dirEstablecimiento>
+      <contribuyenteEspecial>0677</contribuyenteEspecial>
+      <obligadoContabilidad>SI</obligadoContabilidad>
+      <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+      <razonSocialComprador>SUAREZ TAMAYO MANUEL ANTONIO</razonSocialComprador>
+      <identificacionComprador>0900212994</identificacionComprador>
+      <direccionComprador>LOS PARQUES COLIBRIES Y BEGONIA </direccionComprador>
+      <totalSinImpuestos>46.86</totalSinImpuestos>
+      <totalDescuento>0.00</totalDescuento>
+      <totalConImpuestos>
+         <totalImpuesto>
+            <codigo>2</codigo>
+            <codigoPorcentaje>0</codigoPorcentaje>
+            <baseImponible>46.86</baseImponible>
+            <valor>0.00</valor>
+         </totalImpuesto>
+      </totalConImpuestos>
+      <propina>0</propina>
+      <importeTotal>46.86</importeTotal>
+      <moneda>USD</moneda>
+      <pagos>
+         <pago>
+            <formaPago>01</formaPago>
+            <total>46.86</total>
+         </pago>
+      </pagos>
+   </infoFactura>
+   <detalles>
+      <detalle>
+         <codigoPrincipal>0000149224</codigoPrincipal>
+         <descripcion>LIPARON COMP REC 10MG CAJ*30</descripcion>
+         <cantidad>30.00</cantidad>
+         <precioUnitario>1.1232</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>33.70</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>33.70</baseImponible>
+               <valor>0.00</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+      <detalle>
+         <codigoPrincipal>02007</codigoPrincipal>
+         <descripcion>LIPIDIL 200M CAP 200MG CAJ*20</descripcion>
+         <cantidad>20.00</cantidad>
+         <precioUnitario>0.6580</precioUnitario>
+         <descuento>0.00</descuento>
+         <precioTotalSinImpuesto>13.16</precioTotalSinImpuesto>
+         <impuestos>
+            <impuesto>
+               <codigo>2</codigo>
+               <codigoPorcentaje>0</codigoPorcentaje>
+               <tarifa>0</tarifa>
+               <baseImponible>13.16</baseImponible>
+               <valor>0.00</valor>
+            </impuesto>
+         </impuestos>
+      </detalle>
+   </detalles>
+   <infoAdicional><campoAdicional nombre="IdReferencia">002F847500000061391</campoAdicional><campoAdicional nombre="CodigoSucursal">002</campoAdicional><campoAdicional nombre="Deducible Salud">46.86</campoAdicional><campoAdicional nombre="InfoSRI">Punto de emisión 500 referente al establecimiento 1540</campoAdicional><campoAdicional nombre="SystemID">PV-CAR</campoAdicional><campoAdicional nombre="OficinaSAP">3208</campoAdicional><campoAdicional nombre="Gran Contribuyente">Resolución NAC-GCFOIOC21-00000953-E</campoAdicional><campoAdicional nombre="Información">Los datos personales son tratados de manera legítima segun el documento adjunto a la factura electrónica. Para mas información sobre el tratamiento de datos y nuestra política de privacidad, click aqui:https: http://cx.farmaenlace.com/87ecbf</campoAdicional></infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" xmlns:etsi="http://uri.etsi.org/01903/v1.3.2#" Id="Signature904580">
+<ds:SignedInfo Id="Signature-SignedInfo695356">
+<ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"></ds:CanonicalizationMethod>
+<ds:SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"></ds:SignatureMethod>
+<ds:Reference Id="SignedPropertiesID184894" Type="http://uri.etsi.org/01903#SignedProperties" URI="#Signature904580-SignedProperties851637">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>+TePI1HuzN8ZX3BMBxU4Y3P6Aao=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference URI="#Certificate1159621">
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>HnCkQX8JPmN0TpVOCp9JrJ2UY/w=</ds:DigestValue>
+</ds:Reference>
+<ds:Reference Id="Reference-ID-264581" URI="#comprobante">
+<ds:Transforms>
+<ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"></ds:Transform>
+</ds:Transforms>
+<ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod>
+<ds:DigestValue>2CVNSlrC/GLCNilN9qa4tVuBQIY=</ds:DigestValue>
+</ds:Reference>
+</ds:SignedInfo>
+<ds:SignatureValue Id="SignatureValue929085">
+CkJ3TqZHEiqLn+Nd/DNU13dy+AHYwGrjquV4PNYg/0+c9PL1RvwYc1ji6wu5ReA/iMtoHqgk+KZl
+pWXLhWQulc2H3khJW+SZ9ALKSD1JcfwdzUHdiIkXT7hwXTgfQXwKykN7fOzwo3AD9LunhLpI2/kt
+38lgLYx/nZ6j4Vdt5kZM/MfAdIMtrXJpdDcCzjg6HunWNvpzBEGso/cg2ruCtxXlXWPBQj/7WEUL
+wP4q50f51xEmpBoowJIgk66HoBv9+58uDK4H62C+PQkjnVnjVw6gT1fgh66NG3hhHCr+MeRw3WUG
+3nQCEK9Kw27qQpgyRTIl/6rSUtWSGHUCxltMwA==
+</ds:SignatureValue>
+<ds:KeyInfo Id="Certificate1159621">
+<ds:X509Data>
+<ds:X509Certificate>
+MIIL5zCCCc+gAwIBAgIESj15WTANBgkqhkiG9w0BAQsFADCBmTELMAkGA1UEBhMCRUMxHTAbBgNV
+BAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJ
+T04gREUgSU5GT1JNQUNJT04xOTA3BgNVBAMMMEFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNV
+QkNBLTIgU0VDVVJJVFkgREFUQTAeFw0yMzA1MjQxNzQzNDhaFw0yNzA1MjQxNzQzNDhaMIGVMR4w
+HAYDVQQDDBVKT1NFIExVSVMgUEFMQSBPTlRVTkExFTATBgNVBAUTDDI0MDUyMzEyNTMyNTEwMC4G
+A1UECwwnRU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OMR0wGwYDVQQKDBRT
+RUNVUklUWSBEQVRBIFMuQS4gMjELMAkGA1UEBhMCRUMwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAw
+ggEKAoIBAQDhB+ZGHhSy6QsiUeq6oM+sbyZxd7E5jyeBOTEUm2jne3HhGV9oNakpdN1I1g8+xFL2
+INlJZxCE+iEJcQXN9QLTBJ0uiXgRgv6GxA0Qtxqlk/NhkOaEsJBLEyfF1/pi3BDR+4CpgiK/6VTw
+XQbmkvRB5E07268nmxg8g6vMx3nUCQbEePw72JbrLQPVtg4oa9VsAKB8g+t1N9rmSpNfJd1YnUh1
+TfT1/hphZ43P21siDSdk2AL/3M3x0SJ5/YW6FzeaJljXwNquB6VMhUM/S/MzEtUfW/z6ksPWVPnm
+AIQGuC3vLqDzwH5uQfGcs13VpB9c7rmvOj7qsKKHcHwRxFlbAgMBAAGjggc3MIIHMzAMBgNVHRMB
+Af8EAjAAMB8GA1UdIwQYMBaAFIy6yhFXeCWAHWsKS1W/ja5i3b2PMFkGCCsGAQUFBwEBBE0wSzBJ
+BggrBgEFBQcwAYY9aHR0cDovL29jc3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1Ymxp
+Y3dlYi9zdGF0dXMvb2NzcDCBzwYDVR0uBIHHMIHEMIHBoIG+oIG7hoG4bGRhcDovL2xkYXBzZGNh
+Mi5zZWN1cml0eWRhdGEubmV0LmVjL0NOPUFVVE9SSURBRCBERSBDRVJUSUZJQ0FDSU9OIFNVQkNB
+LTIgU0VDVVJJVFkgREFUQSxPVT1FTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJ
+T04sTz1TRUNVUklUWSBEQVRBIFMuQS4gMixDPUVDP2RlbHRhUmV2b2NhdGlvbkxpc3Q/YmFzZTAd
+BgNVHREEFjAUgRJqbHBvMTYwMkBnbWFpbC5jb20wggESBgNVHSAEggEJMIIBBTBgBgorBgEEAYKm
+cgIKMFIwUAYIKwYBBQUHAgIwRB5CAEMAZQByAHQAaQBmAGkAYwBhAGQAbwAgAGQAZQAgAE0AaQBl
+AG0AYgByAG8AIABkAGUAIABFAG0AcAByAGUAcwBhMIGgBgorBgEEAYKmcgIEMIGRMIGOBggrBgEF
+BQcCARaBgWh0dHBzOi8vd3d3LnNlY3VyaXR5ZGF0YS5uZXQuZWMvd3AtY29udGVudC9kb3dubG9h
+ZHMvTm9ybWF0aXZhcy9QX2RlX0NlcnRpZmljYWRvcy9Qb2xpdGljYXMgZGUgQ2VydGlmaWNhZG8g
+TWllbWJybyBkZSBFbXByZXNhLnBkZjCCAqIGA1UdHwSCApkwggKVMIHloEGgP4Y9aHR0cDovL29j
+c3Bndy5zZWN1cml0eWRhdGEubmV0LmVjL2VqYmNhL3B1YmxpY3dlYi9zdGF0dXMvb2NzcKKBn6SB
+nDCBmTE5MDcGA1UEAwwwQVVUT1JJREFEIERFIENFUlRJRklDQUNJT04gU1VCQ0EtMiBTRUNVUklU
+WSBEQVRBMTAwLgYDVQQLDCdFTlRJREFEIERFIENFUlRJRklDQUNJT04gREUgSU5GT1JNQUNJT04x
+HTAbBgNVBAoMFFNFQ1VSSVRZIERBVEEgUy5BLiAyMQswCQYDVQQGEwJFQzCBx6CBxKCBwYaBvmxk
+YXA6Ly9sZGFwc2RjYTIuc2VjdXJpdHlkYXRhLm5ldC5lYy9DTj1BVVRPUklEQUQgREUgQ0VSVElG
+SUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERBVEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9O
+IERFIElORk9STUFDSU9OLE89U0VDVVJJVFkgREFUQSBTLkEuIDIsQz1FQz9jZXJ0aWZpY2F0ZVJl
+dm9jYXRpb25MaXN0P2Jhc2UwgeCggd2ggdqGgddodHRwczovL3BvcnRhbC1vcGVyYWRvcjIuc2Vj
+dXJpdHlkYXRhLm5ldC5lYy9lamJjYS9wdWJsaWN3ZWIvd2ViZGlzdC9jZXJ0ZGlzdD9jbWQ9Y3Js
+Jmlzc3Vlcj1DTj1BVVRPUklEQUQgREUgQ0VSVElGSUNBQ0lPTiBTVUJDQS0yIFNFQ1VSSVRZIERB
+VEEsT1U9RU5USURBRCBERSBDRVJUSUZJQ0FDSU9OIERFIElORk9STUFDSU9OLE89U0VDVVJJVFkg
+REFUQSBTLkEuIDIsQz1FQzAdBgNVHQ4EFgQUnNIoOQO8pjUW6Q2vP5igwPLNcwQwKwYDVR0QBCQw
+IoAPMjAyMzA1MjQxNzQzNDhagQ8yMDI3MDUyNDE3NDM0OFowCwYDVR0PBAQDAgXgMCAGCisGAQQB
+gqZyAwUEEgwQQ09OVEFET1IgR0VORVJBTDAaBgorBgEEAYKmcgMBBAwMCjE3MjExMjM2NzUwFQYK
+KwYBBAGCpnIDCQQHDAVRVUlUTzARBgorBgEEAYKmcgMiBAMMAS4wLAYKKwYBBAGCpnIDBwQeDBxQ
+T1JUVUdBTCBFMTI3MiBZIEVMT1kgQUxGQVJPMBkGCisGAQQBgqZyAwIECwwJSk9TRSBMVUlTMB8G
+CisGAQQBgqZyAyAEEQwPMDAyMDAxMDAwNjI3NTU1MBMGCisGAQQBgqZyAyEEBQwDUEZYMBcGCisG
+AQQBgqZyAwwECQwHRUNVQURPUjAUBgorBgEEAYKmcgMDBAYMBFBBTEEwJAYKKwYBBAGCpnIDCgQW
+DBRGQVJNQUVOTEFDRSBDSUEgTFREQTAdBgorBgEEAYKmcgMLBA8MDTE3OTE5ODQ3MjIwMDEwEgYK
+KwYBBAGCpnIDHQQEDAJObzAWBgorBgEEAYKmcgMEBAgMBk9OVFVOQTAaBgorBgEEAYKmcgMIBAwM
+CjA5OTA0Mjg4MTYwDQYJKoZIhvcNAQELBQADggIBACBumFDcqiby9BsSQLR3kKqoMhVhmkGuJGvD
+6S+dzQXqSd20XSL1rIquNid3x1AR0kNaEZDFYS2vCdzaHjYc/S4JlWRk0YvGoJ/nbTA+DGK4xVUn
+Rp1DVBc9j3PhkqCBswaI5urcbbn9wX64WeZ2C/iVcIFBoNSnWwQ47fS1ptsc/ZEaReMIUJKmzIMV
+Ti/9SOrAO/RGbgUp+DQh9dnRHOg02MaRro4f2DEWn5V96kek2eMD8yS7KFgzgsbePCFghwdzfyKl
+b0hdgPsmBlkmC6QLYwRBORfeTq3kwPu/aHp7HJR7S5Nm4pHyDLpzz7Mpg63HB0gyH92WX33yNFlK
+J7o2wGsr06EW+tJQRdndPGOZYBeC7d6ZsPXbdOxtTlUUiJwxFb0wru2n3Gr2xGEcI20dPBxrLdgF
+6hz8HxLNNNxG6WY3h0OeArQpRC2h1NdrztCDdlSTVcE9ljKPYzfxVlTRBQQDjBkfA5UjiOEc/8j5
+Kq9YYcEbeWZc+mKJu1h2qv4RZIhDgaEhFL8i/lVFwky5BdIofDn+64eUcf1u8oKl+O1b/tVAPtcP
+nLE7AKORGB9HidCK7tSMUzPTq1u0VQPOWrBgtPrf0hmM5RJ6T6AKVyj9fLojUpvmSNsc1dSvdIbP
+pSWYCt1qgvXW7y+LkZ/JpRnYTrvW6eGjuspb0Fhl
+</ds:X509Certificate>
+</ds:X509Data>
+<ds:KeyValue>
+<ds:RSAKeyValue>
+<ds:Modulus>
+4QfmRh4UsukLIlHquqDPrG8mcXexOY8ngTkxFJto53tx4RlfaDWpKXTdSNYPPsRS9iDZSWcQhPoh
+CXEFzfUC0wSdLol4EYL+hsQNELcapZPzYZDmhLCQSxMnxdf6YtwQ0fuAqYIiv+lU8F0G5pL0QeRN
+O9uvJ5sYPIOrzMd51AkGxHj8O9iW6y0D1bYOKGvVbACgfIPrdTfa5kqTXyXdWJ1IdU309f4aYWeN
+z9tbIg0nZNgC/9zN8dEief2Fuhc3miZY18DargelTIVDP0vzMxLVH1v8+pLD1lT55gCEBrgt7y6g
+88B+bkHxnLNd1aQfXO65rzo+6rCih3B8EcRZWw==
+</ds:Modulus>
+<ds:Exponent>AQAB</ds:Exponent>
+</ds:RSAKeyValue>
+</ds:KeyValue>
+</ds:KeyInfo>
+<ds:Object Id="Signature904580-Object210997"><etsi:QualifyingProperties Target="#Signature904580"><etsi:SignedProperties Id="Signature904580-SignedProperties851637"><etsi:SignedSignatureProperties><etsi:SigningTime>2026-02-18T12:38:29-05:00</etsi:SigningTime><etsi:SigningCertificate><etsi:Cert><etsi:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"></ds:DigestMethod><ds:DigestValue>EOpWeWKl2kMyG9NWKy5C+h1Rsfg=</ds:DigestValue></etsi:CertDigest><etsi:IssuerSerial><ds:X509IssuerName>CN=AUTORIDAD DE CERTIFICACION SUBCA-2 SECURITY DATA,OU=ENTIDAD DE CERTIFICACION DE INFORMACION,O=SECURITY DATA S.A. 2,C=EC</ds:X509IssuerName><ds:X509SerialNumber>1245542745</ds:X509SerialNumber></etsi:IssuerSerial></etsi:Cert></etsi:SigningCertificate></etsi:SignedSignatureProperties><etsi:SignedDataObjectProperties><etsi:DataObjectFormat ObjectReference="#Reference-ID-264581"><etsi:Description>contenido comprobante</etsi:Description><etsi:MimeType>text/xml</etsi:MimeType></etsi:DataObjectFormat></etsi:SignedDataObjectProperties></etsi:SignedProperties></etsi:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+

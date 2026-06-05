@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<autorizacion>
+<estado>AUTORIZADO</estado>
+<numeroAutorizacion>2503202601091442909700120011000000000365930867118</numeroAutorizacion>
+<fechaAutorizacion>2026-03-25T13:10:15-05:00</fechaAutorizacion>
+<ambiente>PRODUCCIÓN</ambiente>
+<comprobante><![CDATA[<?xml version="1.0" encoding="UTF-8"?><factura id="comprobante" version="1.1.0">
+    <infoTributaria>
+        <ambiente>2</ambiente>
+        <tipoEmision>1</tipoEmision>
+        <razonSocial>FLORES MARIDUEÑA JESSICA DE LOURDES</razonSocial>
+        <nombreComercial>DERMATOLOGÍA Y ESTÉTICA DRA. JESSICA FLORES</nombreComercial>
+        <ruc>0914429097001</ruc>
+        <claveAcceso>2503202601091442909700120011000000000365930867118</claveAcceso>
+        <codDoc>01</codDoc>
+        <estab>001</estab>
+        <ptoEmi>100</ptoEmi>
+        <secuencial>000000036</secuencial>
+        <dirMatriz>Ciudadela: KENNEDY ESTE Calle: TERCERA Numero: 124 Interseccion: CALLE C </dirMatriz>
+    </infoTributaria>
+    <infoFactura>
+        <fechaEmision>25/03/2026</fechaEmision>
+        <dirEstablecimiento>Ciudadela: KENNEDY ESTE Calle: TERCERA Numero: 124 Interseccion: CALLE C </dirEstablecimiento>
+        <obligadoContabilidad>NO</obligadoContabilidad>
+        <tipoIdentificacionComprador>05</tipoIdentificacionComprador>
+        <razonSocialComprador>ZAVALA TUMBACO CECILIA SUSANA</razonSocialComprador>
+        <identificacionComprador>0918350612</identificacionComprador>
+        <totalSinImpuestos>60.00</totalSinImpuestos>
+        <totalDescuento>0.00</totalDescuento>
+        <totalConImpuestos>
+            <totalImpuesto>
+                <codigo>2</codigo>
+                <codigoPorcentaje>0</codigoPorcentaje>
+                <baseImponible>60.00</baseImponible>
+                <valor>0.00</valor>
+            </totalImpuesto>
+        </totalConImpuestos>
+        <propina>0</propina>
+        <importeTotal>60.00</importeTotal>
+        <moneda>DOLAR</moneda>
+        <pagos>
+            <pago>
+                <formaPago>20</formaPago>
+                <total>60.00</total>
+            </pago>
+        </pagos>
+    </infoFactura>
+    <detalles>
+        <detalle>
+            <codigoPrincipal>S00001</codigoPrincipal>
+            <descripcion>CONSULTA</descripcion>
+            <cantidad>1</cantidad>
+            <precioUnitario>60.00</precioUnitario>
+            <descuento>0</descuento>
+            <precioTotalSinImpuesto>60.00</precioTotalSinImpuesto>
+            <impuestos>
+                <impuesto>
+                    <codigo>2</codigo>
+                    <codigoPorcentaje>0</codigoPorcentaje>
+                    <tarifa>0.0</tarifa>
+                    <baseImponible>60.00</baseImponible>
+                    <valor>0.00</valor>
+                </impuesto>
+            </impuestos>
+        </detalle>
+    </detalles>
+    <infoAdicional>
+        <campoAdicional nombre="Telefono">042464056</campoAdicional>
+        <campoAdicional nombre="Email">ceciliazavalat@hotmail.com</campoAdicional>
+        <campoAdicional nombre="DX ACNE ROSACEA CIE10 L71">DX ACNE ROSACEA CIE10 L71</campoAdicional>
+    </infoAdicional>
+<ds:Signature xmlns:ds="http://www.w3.org/2000/09/xmldsig#" Id="xmldsig-89de4948-05a0-4367-ae64-8f2832b89d3f"><ds:SignedInfo><ds:CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><ds:SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha256"/><ds:Reference Id="xmldsig-89de4948-05a0-4367-ae64-8f2832b89d3f-ref0" URI="#comprobante"><ds:Transforms><ds:Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></ds:Transforms><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>GCwYYB0NFYLQ2IsTP6FYa3O1BvBeEUcd1KmvH7AdMvo=</ds:DigestValue></ds:Reference><ds:Reference Type="http://uri.etsi.org/01903#SignedProperties" URI="#xmldsig-89de4948-05a0-4367-ae64-8f2832b89d3f-signedprops"><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>ftROsmzOYyYgTEm8fgvW4n53GG7MfKfMcRy+HKeXpFE=</ds:DigestValue></ds:Reference></ds:SignedInfo><ds:SignatureValue Id="xmldsig-89de4948-05a0-4367-ae64-8f2832b89d3f-sigvalue">GQ+B0caiauM0684IH1n/I9Hx/q/a5/rJYjbQH2SIA+HzDBlsQD12oc8sn9XcMpyiOtwISN/5T9Oz/3ZA//8LtmRWNwhVPQTGpHlvD7wWn5ybimMREaH8NorWHhbi3b6bI/ZY8qjyEbJiiX9szb6nhALTDwhNNznB8jQG5U7mhrDS6zm2eJclhL4s80y5ThSmn6GiEyC9YD+TlT81y4K6E7Ve8pLuXLVdOjcVJdL5rE7Yb74y1+2yI5LqEkSQmCAeRq1fV06jBH1OGT/8TunpZAJ2WnG6yWzcp6IdelMZ9UC16OdxC64Qm5qyZ9DR9c3wnzpHOmcUHvTA8R30vIH4kA==</ds:SignatureValue><ds:KeyInfo><ds:X509Data><ds:X509Certificate>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</ds:X509Certificate></ds:X509Data></ds:KeyInfo><ds:Object><xades:QualifyingProperties xmlns:xades="http://uri.etsi.org/01903/v1.3.2#" xmlns:xades141="http://uri.etsi.org/01903/v1.4.1#" Target="#xmldsig-89de4948-05a0-4367-ae64-8f2832b89d3f"><xades:SignedProperties Id="xmldsig-89de4948-05a0-4367-ae64-8f2832b89d3f-signedprops"><xades:SignedSignatureProperties><xades:SigningTime>2026-03-25T13:10:15.613-05:00</xades:SigningTime><xades:SigningCertificate><xades:Cert><xades:CertDigest><ds:DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha256"/><ds:DigestValue>vZgwuV5wqxAGG1dBpP5dMRDeNDxd5roPCjAN+vY9kVQ=</ds:DigestValue></xades:CertDigest><xades:IssuerSerial><ds:X509IssuerName>CN=ANF High Assurance Ecuador Intermediate CA,OU=ANF Autoridad intermedia  EC,O=ANFAC AUTORIDAD DE CERTIFICACION ECUADOR C.A.,C=EC,2.5.4.5=#130d31373932363031323135303031</ds:X509IssuerName><ds:X509SerialNumber>1019704941076125526687687363</ds:X509SerialNumber></xades:IssuerSerial></xades:Cert></xades:SigningCertificate></xades:SignedSignatureProperties><xades:SignedDataObjectProperties><xades:DataObjectFormat ObjectReference="#xmldsig-89de4948-05a0-4367-ae64-8f2832b89d3f-ref0"><xades:Description>FIRMA DIGITAL SRI</xades:Description><xades:MimeType>text/xml</xades:MimeType><xades:Encoding>UTF-8</xades:Encoding></xades:DataObjectFormat></xades:SignedDataObjectProperties></xades:SignedProperties></xades:QualifyingProperties></ds:Object></ds:Signature></factura>]]></comprobante>
+<mensajes/>
+</autorizacion>
+
