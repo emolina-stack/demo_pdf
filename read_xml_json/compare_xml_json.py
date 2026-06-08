@@ -126,7 +126,7 @@ def enriquecer_json_con_xml(ruta_json_ocr: str, ruta_xml: str = None):
         # === COMPARACIONES ===
         if clave_ocr == clave_xml:
             print("   ✅ Clave coincide")
-            pdf_nombre = ruta_json_ocr.replace("json_files/", "").replace(".json", ".pdf").replace("_comparativo", "").replace("clave_", "")
+            pdf_nombre = ruta_json_ocr.replace("json_files/procesados/OK/", "").replace(".json", ".pdf").replace("_comparativo", "").replace("clave_", "")
             resultado_desglosado.append({
                 "pdf_nombre": pdf_nombre,
             })

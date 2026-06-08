@@ -10,6 +10,7 @@ from tqdm import tqdm
 from proccess_easy_ocr import ProcesadorFacturas
 from read_xml_json.compare_xml_json import enriquecer_json_con_xml
 from main import procesar_json_y_enviar_a_api
+from bot.actividad_economica import procesar_todos_los_json
 
 sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
@@ -132,3 +133,5 @@ def procesar_lote_pdfs(carpeta_pdfs: str):
 
 if __name__ == "__main__":
     procesar_lote_pdfs(pdf_folder)
+    print("*" * 80)
+    procesar_todos_los_json()   

@@ -1,0 +1,29 @@
+{
+    "archivo": "TERAPIAS.pdf",
+    "total_paginas": 4,
+    "facturas_encontradas": 2,
+    "facturas": [
+        {
+            "pagina": 1,
+            "autorizacion_json": null,
+            "identificacion_comprador_json": null,
+            "razon_social": null,
+            "fecha": null,
+            "ruc": null,
+            "valor_total": null,
+            "sri_error": "Message: \n",
+            "intentos_realizados": 3
+        },
+        {
+            "pagina": 2,
+            "autorizacion_json": "2703202601090759700900120040020000082747961434511",
+            "identificacion_comprador_json": "0100998970",
+            "razon_social": "VINTIMILLA COELLO ANA MARIETA",
+            "fecha": "27/03/2026 10:15:46",
+            "ruc": "0907597009001",
+            "valor_total": "180.00",
+            "sri_error": "Message: \nStacktrace:\n\tundetected_chromedriver!GetHandleVerifier [0xd5b593+105d3]\n\tundetected_chromedriver!GetHandleVerifier [0xd5b6c4+10704]\n\tundetected_chromedriver!(No symbol) [0xb61ea0]\n\tundetected_chromedriver!(No symbol) [0xbab28a]\n\tundetected_chromedriver!(No symbol) [0xbab52b]\n\tundetected_chromedriver!(No symbol) [0xbed052]\n\tundetected_chromedriver!(No symbol) [0xbcd7c4]\n\tundetected_chromedriver!(No symbol) [0xbea936]\n\tundetected_chromedriver!(No symbol) [0xbcd516]\n\tundetected_chromedriver!(No symbol) [0xba08e9]\n\tundetected_chromedriver!(No symbol) [0xba16a4]\n\tundetected_chromedriver!GetHandleVerifier [0xfe3014+298054]\n\tundetected_chromedriver!GetHandleVerifier [0xfde603+293643]\n\tundetected_chromedriver!GetHandleVerifier [0xffea05+2b3a45]\n\tundetected_chromedriver!GetHandleVerifier [0xd754e8+2a528]\n\tundetected_chromedriver!GetHandleVerifier [0xd7cd1d+31d5d]\n\tundetected_chromedriver!GetHandleVerifier [0xd63e68+18ea8]\n\tundetected_chromedriver!GetHandleVerifier [0xd64015+19055]\n\tundetected_chromedriver!GetHandleVerifier [0xd4d65f+269f]\n\tKERNEL32!BaseThreadInitThunk [0x76f07ba9+19]\n\tntdll!RtlInitializeExceptionChain [0x7783c0cb+6b]\n\tntdll!RtlClearBits [0x7783c04f+bf]\n",
+            "intentos_realizados": 3
+        }
+    ]
+}

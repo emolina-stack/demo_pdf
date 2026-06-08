@@ -270,17 +270,24 @@ class ProcesadorFacturas:
             valor_total = self._buscar_valor_total_fuzzy(lines)
             identificacion_comprador=self._buscar_identificacion_comprador_fuzzy(lines)
 
+        clave_accesso = self._regex_search(r'\d{49}', texto_sin_espacios)
+        print(f"CLAVE DE ACCESR: {clave_accesso}")
+
+        ruc_extraido = None
+        if clave_accesso and len(clave_accesso) == 49:
+            ruc_extraido = clave_accesso[10:23]  # Posiciones 11-23
+            print(f"RUC extraído de clave: {ruc_extraido}")
+        else:
+            print("Clave de acceso no válida o no encontrada")
+
         return {
-            'autorizacion_json': self._regex_search(r'\d{49}', texto_sin_espacios),
+            'autorizacion_json': clave_accesso,
             
             'identificacion_json': identificacion_comprador,
                         
             'fecha': self._regex_search(r'\d{2}/\d{2}/\d{4}\s+\d{2}:\d{2}:\d{2}', texto),
             
-            'ruc': self._regex_search(r'(?:RUC|R\.?U\.?C\.?)[:.\s]*(\d{13})(?!\d)', 
-                    texto, 
-                    group=1
-            ),
+            'ruc': ruc_extraido,  # RUC suele estar en esos dígitos de la clave
             
             # Valor Total Híbrido
             'valor_total': self._regex_search(
