@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 # ================== IMPORTS ==================
 from proccess_easy_ocr import ProcesadorFacturas
-from read_xml_json.compare_xml_json import enriquecer_json_con_xml
+from read_xml_json.compare_xml_json import procesar_todos_los_comparativos
 from main import procesar_json_y_enviar_a_api
 from bot.actividad_economica import procesar_todos_los_json
 
@@ -53,13 +53,7 @@ def procesar_un_pdf(ruta_pdf: str):
             
             # Descargar XMLs APIIIS
             # procesar_json_y_enviar_a_api(ruta_json)  #  API
-            
-            # Enriquecer JSON
-            xml_files = list(Path("comprobantes_xml").glob("*.xml"))
-            if xml_files:
-                ruta_xml = str(xml_files[-1])
-                enriquecer_json_con_xml(ruta_json, ruta_xml)
-            
+
             resultado["estado"] = "éxito"
             resultado["ruta_json"] = ruta_json
             print(f"✅ {pdf_path.name} → Procesado correctamente")
@@ -132,6 +126,16 @@ def procesar_lote_pdfs(carpeta_pdfs: str):
 
 
 if __name__ == "__main__":
+    inicio_total = time.time()
     procesar_lote_pdfs(pdf_folder)
     print("*" * 80)
-    procesar_todos_los_json()   
+    procesar_todos_los_json()
+    print("*" * 80)
+    procesar_todos_los_comparativos()
+    fin_total = time.time()
+    duracion_segundos = fin_total - inicio_total
+    horas = int(duracion_segundos // 3600)
+    minutos = int((duracion_segundos % 3600) // 60)
+    segundos = int(duracion_segundos % 60)
+
+    print(f"\n🎉 Lote completado en {horas}h {minutos:02d}m {segundos:02d}s")

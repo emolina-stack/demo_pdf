@@ -10,6 +10,23 @@ sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from .read_xml import leer_xml_con_xmltodict
 
 
+def _nombre_pdf_desde_ruta_json(ruta_json_ocr: str) -> str:
+    stem = Path(ruta_json_ocr).stem
+    for sufijo in ("_enriquecido", "_comparativo", "_error"):
+        if stem.endswith(sufijo):
+            stem = stem[: -len(sufijo)]
+    if stem.startswith("clave_"):
+        stem = stem[6:]
+    return f"{stem}.pdf"
+
+
+def _stem_comparativo(ruta_json_ocr: str) -> str:
+    stem = Path(ruta_json_ocr).stem
+    if stem.endswith("_enriquecido"):
+        stem = stem[: -len("_enriquecido")]
+    return stem
+
+
 def normalizar_estructura_json(datos_ocr):
     """
     Normaliza cualquier estructura JSON a una lista de diccionarios
@@ -81,17 +98,22 @@ def enriquecer_json_con_xml(ruta_json_ocr: str, ruta_xml: str = None):
 
         if not clave_ocr:
             continue
-            # print(f"   ⚠️ Factura sin clave de acceso")
-            # resultado_desglosado.append({"estado": "sin_clave_ocr", "item": item})
-            # continue
 
         # === BUSCAR XML CORRESPONDIENTE ===
         ruta_xml_actual = None
-        carpeta_xml = Path("comprobantes_xml")
+        carpetas_xml = [
+            Path("comprobantes_xml"),
+            Path("comprobantes_xml/xml_procesados"),
+        ]
 
-        for xml_file in carpeta_xml.glob("*.xml"):
-            if clave_ocr in xml_file.name or clave_ocr in xml_file.read_text(encoding='utf-8', errors='ignore'):
-                ruta_xml_actual = str(xml_file)
+        for carpeta_xml in carpetas_xml:
+            if not carpeta_xml.exists():
+                continue
+            for xml_file in carpeta_xml.glob("*.xml"):
+                if clave_ocr in xml_file.name or clave_ocr in xml_file.read_text(encoding='utf-8', errors='ignore'):
+                    ruta_xml_actual = str(xml_file)
+                    break
+            if ruta_xml_actual:
                 break
 
         if not ruta_xml_actual:
@@ -126,9 +148,8 @@ def enriquecer_json_con_xml(ruta_json_ocr: str, ruta_xml: str = None):
         # === COMPARACIONES ===
         if clave_ocr == clave_xml:
             print("   ✅ Clave coincide")
-            pdf_nombre = ruta_json_ocr.replace("json_files/procesados/OK/", "").replace(".json", ".pdf").replace("_comparativo", "").replace("clave_", "")
             resultado_desglosado.append({
-                "pdf_nombre": pdf_nombre,
+                "pdf_nombre": _nombre_pdf_desde_ruta_json(ruta_json_ocr),
             })
 
             # Autorización
@@ -191,6 +212,24 @@ def enriquecer_json_con_xml(ruta_json_ocr: str, ruta_xml: str = None):
                 "estado": "coincide" if str(importe_total_json) == str(importe_total_xml) else "no_coincide"
             })
 
+            # DATOS SRI (consulta en línea por RUC emisor)
+            sri_razon = item.get("sri_razon_social")
+            sri_actividad = item.get("sri_actividad")
+            sri_error = item.get("sri_error")
+            entrada_sri = {
+                "ruc_emisor": item.get("ruc"),
+                "sri_razon_social": sri_razon,
+                "sri_actividad": sri_actividad,
+            }
+            if sri_error:
+                entrada_sri["sri_error"] = sri_error
+                entrada_sri["estado"] = "error"
+            elif sri_razon:
+                entrada_sri["estado"] = "consultado"
+            else:
+                entrada_sri["estado"] = "no_consultado"
+            resultado_desglosado.append(entrada_sri)
+
         else:
             print(f"   ❌ Clave no coincide")
             resultado_desglosado.append({
@@ -216,7 +255,7 @@ def enriquecer_json_con_xml(ruta_json_ocr: str, ruta_xml: str = None):
     carpeta_salida = Path("files_comparativo")
     carpeta_salida.mkdir(parents=True, exist_ok=True)
     
-    nombre_archivo = Path(ruta_json_ocr).stem + "_comparativo.json"
+    nombre_archivo = _stem_comparativo(ruta_json_ocr) + "_comparativo.json"
     ruta_salida = carpeta_salida / nombre_archivo
     
     with open(ruta_salida, "w", encoding="utf-8") as f:
@@ -261,3 +300,47 @@ def enriquecer_json_con_xml(ruta_json_ocr: str, ruta_xml: str = None):
         print("⚠️ No se movió el JSON porque no se envió correctamente al webhook")
     
     return resultado_desglosado
+
+
+def procesar_todos_los_comparativos(
+    carpetas_json=None,
+):
+    """
+    Genera JSONs comparativos a partir de JSONs ya enriquecidos con datos del SRI.
+    """
+    if carpetas_json is None:
+        carpetas_json = [
+            Path("json_files/procesados/OK"),
+            Path("json_files/procesados/ERROR"),
+        ]
+
+    archivos = []
+    for carpeta in carpetas_json:
+        carpeta = Path(carpeta)
+        if not carpeta.exists():
+            continue
+        archivos.extend(sorted(carpeta.glob("*.json")))
+
+    if not archivos:
+        print("⚠️  No hay JSONs enriquecidos para generar comparativos.")
+        return []
+
+    print(f"\n📊 Generando {len(archivos)} JSON(s) comparativo(s)...")
+    resultados = []
+    for ruta_json in archivos:
+        print(f"\n{'='*60}")
+        print(f"📂 Comparando: {ruta_json.name}")
+        print(f"{'='*60}")
+        try:
+            resultado = enriquecer_json_con_xml(str(ruta_json))
+            if resultado is not None:
+                resultados.append({"archivo": ruta_json.name, "estado": "ok"})
+            else:
+                resultados.append({"archivo": ruta_json.name, "estado": "sin_datos"})
+        except Exception as e:
+            print(f"❌ Error generando comparativo para {ruta_json.name}: {e}")
+            resultados.append({"archivo": ruta_json.name, "estado": "error", "error": str(e)})
+
+    exitos = sum(1 for r in resultados if r["estado"] == "ok")
+    print(f"\n✅ Comparativos generados: {exitos}/{len(archivos)}")
+    return resultados

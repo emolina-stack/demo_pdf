@@ -108,12 +108,19 @@ def consultar_sri_y_enriquecer(ruc: str, driver, wait, max_click_intentos: int =
                 time.sleep(random.uniform(2, 3))
 
                 razon_social_sri = wait.until(
-                    EC.visibility_of_element_located((By.XPATH, "//*[@id='sribody']/sri-root/div/div[2]/div/div/sri-consulta-ruc-web-app/div/sri-ruta-ruc/div[2]/div[1]/sri-mostrar-contribuyente/div[1]/div[2]/div[2]/div"))
+                    #//*[@id="sribody"]/sri-root/div/div[2]/div/div/sri-consulta-ruc-web-app/div/sri-ruta-ruc/div[2]/div[1]/sri-mostrar-contribuyente/div[1]/div[2]/div[2]/div/span
+                    EC.visibility_of_element_located((By.XPATH, "//*[@id='sribody']/sri-root/div/div[2]/div/div/sri-consulta-ruc-web-app/div/sri-ruta-ruc/div[2]/div[1]/sri-mostrar-contribuyente/div[1]/div[2]/div[2]/div/span"))
+                    # EC.visibility_of_element_located((By.XPATH, "//*[@id='sribody']/sri-root/div/div[2]/div/div/sri-consulta-ruc-web-app/div/sri-ruta-ruc/div[2]/div[1]/sri-mostrar-contribuyente/div[1]/div[2]/div[2]/div"))
                 ).text.strip()
 
                 actividad_sri = wait.until(
                     EC.visibility_of_element_located((By.XPATH, "//*[@id='sribody']/sri-root/div/div[2]/div/div/sri-consulta-ruc-web-app/div/sri-ruta-ruc/div[2]/div[1]/sri-mostrar-contribuyente/div[4]/div/div[1]/div[2]/table/tbody/tr/td"))
                 ).text.strip()
+
+                #//*[@id="sribody"]/sri-root/div/div[2]/div/div/sri-consulta-ruc-web-app/div/sri-ruta-ruc/div[2]/div[1]/sri-mostrar-contribuyente/div[1]/div[4]/div/div[2]/span/div/div/table/thead/tr[2]/td
+                # actividad_sri1 = wait.until(
+                #     EC.visibility_of_element_located((By.XPATH, "//*[@id='sribody']/sri-root/div/div[2]/div/div/sri-consulta-ruc-web-app/div/sri-ruta-ruc/div[2]/div[1]/sri-mostrar-contribuyente/div[1]/div[4]/div/div[2]/span/div/div/table/thead/tr[2]/td"))
+                # ).text.strip()
 
                 ruc_sri = wait.until(
                     EC.visibility_of_element_located((By.XPATH, "//*[@id='sribody']/sri-root/div/div[2]/div/div/sri-consulta-ruc-web-app/div/sri-ruta-ruc/div[2]/div[1]/sri-mostrar-contribuyente/div[1]/div[1]/div[2]/div/span"))
@@ -124,6 +131,7 @@ def consultar_sri_y_enriquecer(ruc: str, driver, wait, max_click_intentos: int =
                     "ruc": ruc_sri,
                     "sri_razon_social": razon_social_sri,
                     "sri_actividad": actividad_sri,
+                    # "sri_actividad":actividad_sri1,
                 }
 
             except Exception as e:
@@ -171,15 +179,6 @@ def procesar_json(ruta_json: str, driver, wait) -> tuple[dict, bool]:
     # Determinar éxito
     facturas_con_error = [f for f in facturas if "sri_error" in f]
     exitoso = len(facturas_con_error) == 0
-
-    # Agregar metadata
-    # data["proceso"] = {
-    #     "fecha_ejecucion": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-    #     "estado": "OK" if exitoso else "ERROR",
-    #     "facturas_procesadas": len(facturas),
-    #     "facturas_con_error": len(facturas_con_error),
-    #     "rucs_consultados": rucs_unicos
-    # }
 
     return data, exitoso
 
